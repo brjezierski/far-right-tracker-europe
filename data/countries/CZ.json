@@ -1,0 +1,243 @@
+{
+  "country": "Czech Republic",
+  "parties": [
+    "ANO_2011",
+    "Freedom_and_Direct_Democracy",
+    "Motorists_for_Themselves",
+    "Stačilo!"
+  ],
+  "latestSupport": 36.5,
+  "seriesByParty": {
+    "ANO_2011": [
+      {
+        "date": "2025-08-03",
+        "value": 31.9
+      },
+      {
+        "date": "2025-08-03",
+        "value": 31.9
+      },
+      {
+        "date": "2025-08-12",
+        "value": 32.0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 32.0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 31.9
+      },
+      {
+        "date": "2025-08-18",
+        "value": 31.9
+      }
+    ],
+    "Freedom_and_Direct_Democracy": [
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      }
+    ],
+    "Motorists_for_Themselves": [
+      {
+        "date": "2025-08-03",
+        "value": 4.4
+      },
+      {
+        "date": "2025-08-03",
+        "value": 4.4
+      },
+      {
+        "date": "2025-08-12",
+        "value": 5.0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 5.0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 4.6
+      },
+      {
+        "date": "2025-08-18",
+        "value": 4.6
+      }
+    ],
+    "Stačilo!": [
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-03",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-12",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      },
+      {
+        "date": "2025-08-18",
+        "value": 0
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-09-04T11:19:36Z"
+}

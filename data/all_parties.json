@@ -1,0 +1,2897 @@
+{
+  "countries": {
+    "Albania": {
+      "Socialist_Party_of_Albania": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Socialist_Party_of_Albania"
+      },
+      "Alliance_for_a_Great_Albania": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Pro-Europeanism Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania"
+      },
+      "Social_Democratic_Party_of_Albania": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania"
+      },
+      "Opportunity_Party_(Albania)": {
+        "political_position": "Centre-right",
+        "ideology": "Economic liberalism Conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)"
+      },
+      "Lëvizja_Bashkë": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Progressivism Left-wing populism Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Lëvizja_Bashkë"
+      },
+      "Euroatlantic_Democrats": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism Atlanticism",
+        "url": "https://en.wikipedia.org/wiki/Euroatlantic_Democrats"
+      },
+      "Djathtas_për_Zhvillim": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Pro-Europeanism Factions: Monarchism",
+        "url": "https://en.wikipedia.org/wiki/Djathtas_për_Zhvillim"
+      },
+      "Edi_Rama": {
+        "political_position": "Socialist",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Edi_Rama"
+      },
+      "Sali_Berisha": {
+        "political_position": "Democratic",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Sali_Berisha"
+      },
+      "Adriatik_Lapaj": {
+        "political_position": "Albania Becomes Movement",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Adriatik_Lapaj"
+      },
+      "Arlind_Qori": {
+        "political_position": "Together Movement",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Arlind_Qori"
+      },
+      "Dashamir_Shehi": {
+        "political_position": "LZHK (2004-present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Dashamir_Shehi"
+      },
+      "Agron_Shehaj": {
+        "political_position": "Opportunity Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Agron_Shehaj"
+      },
+      "Lulzim_Basha": {
+        "political_position": "Euroatlantic Democrats (2024–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Lulzim_Basha"
+      },
+      "Tom_Doshi": {
+        "political_position": "Social Democratic Party (2017–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Tom_Doshi"
+      },
+      "Nisma_Thurje": {
+        "political_position": "Big tent",
+        "ideology": "Centrism Populism Anti-corruption",
+        "url": "https://en.wikipedia.org/wiki/Nisma_Thurje"
+      },
+      "Lëvizja_Shqipëria_Bëhet": {
+        "political_position": "Centre-right",
+        "ideology": "Populism Direct democracy Civic nationalism",
+        "url": "https://en.wikipedia.org/wiki/Lëvizja_Shqipëria_Bëhet"
+      },
+      "Shqipëria_Bëhet": {
+        "political_position": "Centre-right",
+        "ideology": "Populism Direct democracy Civic nationalism",
+        "url": "https://en.wikipedia.org/wiki/Shqipëria_Bëhet"
+      }
+    },
+    "Austria": {
+      "Freedom_Party_of_Austria": {
+        "political_position": "Far-right",
+        "ideology": "National conservatism Right-wing populism Euroscepticism Historical: National liberalism German nationalism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_Party_of_Austria"
+      },
+      "Austrian_People's_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Austrian_People's_Party"
+      },
+      "Social_Democratic_Party_of_Austria": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria"
+      },
+      "NEOS_(Austria)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism ( Austrian )",
+        "url": "https://en.wikipedia.org/wiki/NEOS_(Austria)"
+      },
+      "The_Greens_(Austria)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics Eco-feminism Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/The_Greens_(Austria)"
+      },
+      "Communist_Party_of_Austria": {
+        "political_position": "Far-left",
+        "ideology": "Communism Socialism Marxism",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Austria"
+      }
+    },
+    "Belgium": {
+      "New_Flemish_Alliance": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Flemish nationalism Conservatism",
+        "url": "https://en.wikipedia.org/wiki/New_Flemish_Alliance"
+      },
+      "Vlaams_Belang": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Flemish nationalism Anti-immigration Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Vlaams_Belang"
+      },
+      "Christen-Democratisch_en_Vlaams": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams"
+      },
+      "Open_Vlaamse_Liberalen_en_Democraten": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism ( Belgian ) Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Open_Vlaamse_Liberalen_en_Democraten"
+      },
+      "Forward_(Belgium)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Forward_(Belgium)"
+      },
+      "Groen_(political_party)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Groen_(political_party)"
+      },
+      "Workers'_Party_of_Belgium": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Marxism Socialism",
+        "url": "https://en.wikipedia.org/wiki/Workers'_Party_of_Belgium"
+      }
+    },
+    "Bulgaria": {
+      "GERB–SDS": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/GERB–SDS"
+      },
+      "PP–DB": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Anti-corruption Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/PP–DB"
+      },
+      "Revival_(Bulgarian_political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism National conservatism Right-wing populism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)"
+      },
+      "DPS_–_A_New_Beginning": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Turkish minority interests",
+        "url": "https://en.wikipedia.org/wiki/DPS_–_A_New_Beginning"
+      },
+      "BSP_–_United_Left": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Democratic socialism Left-wing populism Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/BSP_–_United_Left"
+      },
+      "Alliance_for_Rights_and_Freedoms": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Turkish minority interests",
+        "url": "https://en.wikipedia.org/wiki/Alliance_for_Rights_and_Freedoms"
+      },
+      "There_is_Such_a_People": {
+        "political_position": "Right-wing",
+        "ideology": "Populism Social conservatism Bulgarian nationalism",
+        "url": "https://en.wikipedia.org/wiki/There_is_Such_a_People"
+      },
+      "Morality,_Unity,_Honour": {
+        "political_position": "Far-right",
+        "ideology": "Bulgarian nationalism Populism Social conservatism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
+      },
+      "Velichie": {
+        "political_position": "Far-right",
+        "ideology": "Bulgarian nationalism Populism",
+        "url": "https://en.wikipedia.org/wiki/Velichie"
+      }
+    },
+    "Croatia": {
+      "Croatian_Democratic_Union": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Croatian_Democratic_Union"
+      },
+      "Social_Democratic_Party_of_Croatia": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia"
+      },
+      "Homeland_Movement_(Croatia)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)"
+      },
+      "Home_and_National_Rally": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Home_and_National_Rally"
+      },
+      "Law_and_Justice_(Croatia)": {
+        "political_position": "Right-wing",
+        "ideology": "Populism Euroscepticism Anti-establishment",
+        "url": "https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)"
+      },
+      "We_Can!_(Croatia)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/We_Can!_(Croatia)"
+      },
+      "The_Bridge_(Croatia)": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/The_Bridge_(Croatia)"
+      },
+      "Croatian_Sovereignists": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Christian fundamentalism",
+        "url": "https://en.wikipedia.org/wiki/Croatian_Sovereignists"
+      },
+      "Focus_(Croatian_political_party)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)"
+      },
+      "Istrian_Democratic_Assembly": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly"
+      },
+      "Independent_Platform_of_the_North": {
+        "political_position": "Centre",
+        "ideology": "Regionalism",
+        "url": "https://en.wikipedia.org/wiki/Independent_Platform_of_the_North"
+      },
+      "Workers'_Front_(Croatia)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism",
+        "url": "https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)"
+      },
+      "Centre_(Croatian_political_party)": {
+        "political_position": "Centre",
+        "ideology": "Social liberalism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)"
+      },
+      "Croatian_Peasant_Party": {
+        "political_position": "Centre to centre-left Historical: Centre to centre-right",
+        "ideology": "Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia)",
+        "url": "https://en.wikipedia.org/wiki/Croatian_Peasant_Party"
+      },
+      "Croatian_Party_of_Pensioners": {
+        "political_position": "Centre-left",
+        "ideology": "Pensioners ' interests ( single-issue politics )",
+        "url": "https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners"
+      },
+      "Croatian_People's_Party_–_Liberal_Democrats": {
+        "political_position": "Centre Historical: Centre to centre-left",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats"
+      }
+    },
+    "Cyprus": {
+      "Democratic_Rally": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Christian democracy Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Rally"
+      },
+      "Progressive_Party_of_Working_People": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People"
+      },
+      "ELAM_(Cyprus)": {
+        "political_position": "Far-right",
+        "ideology": "Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism",
+        "url": "https://en.wikipedia.org/wiki/ELAM_(Cyprus)"
+      },
+      "Democratic_Party_(Cyprus)": {
+        "political_position": "Centre",
+        "ideology": "Greek Cypriot nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)"
+      },
+      "Volt_Cyprus": {
+        "political_position": null,
+        "ideology": "Pro-Europeanism European federalism United Cyprus Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Volt_Cyprus"
+      },
+      "Movement_for_Social_Democracy": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Greek Cypriot nationalism",
+        "url": "https://en.wikipedia.org/wiki/Movement_for_Social_Democracy"
+      },
+      "Ecological_and_Environmental_Movement": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Anti-federalism",
+        "url": "https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement"
+      },
+      "Democratic_Front_(Cyprus)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)"
+      },
+      "Active_Citizens_–_Movement_of_Cypriot_United_Hunters": {
+        "political_position": null,
+        "ideology": "Pro- hunting Environmentalism Agrarianism Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Active_Citizens_–_Movement_of_Cypriot_United_Hunters"
+      },
+      "Animal_Party_Cyprus": {
+        "political_position": null,
+        "ideology": "Animal rights Animal welfare",
+        "url": "https://en.wikipedia.org/wiki/Animal_Party_Cyprus"
+      }
+    },
+    "Czech Republic": {
+      "Spolu_(Czech_Republic)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Spolu_(Czech_Republic)"
+      },
+      "ANO_2011": {
+        "political_position": "Right-wing",
+        "ideology": "Right-wing populism Conservatism Czech nationalism",
+        "url": "https://en.wikipedia.org/wiki/ANO_2011"
+      },
+      "Mayors_and_Independents": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Localism Liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Mayors_and_Independents"
+      },
+      "Czech_Pirate_Party": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Czech_Pirate_Party"
+      },
+      "Green_Party_(Czech_Republic)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)"
+      },
+      "Freedom_and_Direct_Democracy": {
+        "political_position": "Far-right",
+        "ideology": "Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy"
+      },
+      "Přísaha": {
+        "political_position": "Right-wing",
+        "ideology": "Populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Přísaha"
+      },
+      "Motorists_for_Themselves": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Right-wing populism National conservatism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Motorists_for_Themselves"
+      },
+      "Social_Democracy_(Czech_Republic)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Left-wing populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democracy_(Czech_Republic)"
+      },
+      "Stačilo!": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Left-wing nationalism Populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Stačilo!"
+      },
+      "Spolu": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Spolu"
+      },
+      "Law,_Respect,_Expertise": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Law,_Respect,_Expertise"
+      },
+      "Tricolour_Citizens'_Movement": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Tricolour_Citizens'_Movement"
+      },
+      "Svobodní": {
+        "political_position": "Right-wing",
+        "ideology": "Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Svobodní"
+      },
+      "Přísaha_and_Motorists": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Conservatism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Přísaha_and_Motorists"
+      },
+      "Communist_Party_of_Bohemia_and_Moravia": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Communism Anti-capitalism Euroscepticism Cultural conservatism",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia"
+      },
+      "Civic_Democratic_Party_(Czech_Republic)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)"
+      },
+      "KDU-ČSL": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy Green conservatism Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/KDU-ČSL"
+      },
+      "TOP_09": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Liberalism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/TOP_09"
+      },
+      "Pirates_and_Mayors": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Progressivism Decentralization Environmentalism Direct democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Pirates_and_Mayors"
+      }
+    },
+    "Denmark": {
+      "Social_Democrats_(Denmark)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)"
+      },
+      "Venstre_(Denmark)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservative liberalism Agrarianism ( Nordic )",
+        "url": "https://en.wikipedia.org/wiki/Venstre_(Denmark)"
+      },
+      "Green_Left_(Denmark)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Democratic socialism Green politics Popular socialism",
+        "url": "https://en.wikipedia.org/wiki/Green_Left_(Denmark)"
+      },
+      "Denmark_Democrats": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Denmark_Democrats"
+      },
+      "Danish_People's_Party": {
+        "political_position": "Far-right",
+        "ideology": "Danish nationalism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Danish_People's_Party"
+      },
+      "Moderates_(Denmark)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Moderates_(Denmark)"
+      },
+      "Red–Green_Alliance_(Denmark)": {
+        "political_position": "Left-wing",
+        "ideology": "Socialism Eco-socialism Marxism Anti-capitalism",
+        "url": "https://en.wikipedia.org/wiki/Red–Green_Alliance_(Denmark)"
+      },
+      "Conservative_People's_Party_(Denmark)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Liberal conservatism Social conservatism Green conservatism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_People's_Party_(Denmark)"
+      },
+      "Liberal_Alliance_(Denmark)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Classical liberalism Right-libertarianism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)"
+      },
+      "The_Alternative_(Denmark)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/The_Alternative_(Denmark)"
+      },
+      "New_Right_(Denmark)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-libertarianism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/New_Right_(Denmark)"
+      },
+      "Christian_Democrats_(Denmark)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democrats_(Denmark)"
+      },
+      "Danish_Social_Liberal_Party": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party"
+      },
+      "Independent_Greens_(Denmark)": {
+        "political_position": "Left-wing",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)"
+      }
+    },
+    "Estonia": {
+      "Estonian_Reform_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism ( Estonian ) Conservative liberalism",
+        "url": "https://en.wikipedia.org/wiki/Estonian_Reform_Party"
+      },
+      "Conservative_People's_Party_of_Estonia": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism Estonian nationalism National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_People's_Party_of_Estonia"
+      },
+      "Estonian_Centre_Party": {
+        "political_position": "Centre",
+        "ideology": "Populism Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Estonian_Centre_Party"
+      },
+      "Estonia_200": {
+        "political_position": "Centre",
+        "ideology": "Liberalism ( Estonian ) Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Estonia_200"
+      },
+      "Social_Democratic_Party_(Estonia)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)"
+      },
+      "Isamaa": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Christian democracy National conservatism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Isamaa"
+      },
+      "Left_Alliance_(Estonia)": {
+        "political_position": "Left-wing",
+        "ideology": "Since 2023: Democratic socialism Progressivism Pro-Europeanism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed)",
+        "url": "https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)"
+      },
+      "Together_(Estonian_political_party)": {
+        "political_position": null,
+        "ideology": "Social conservatism Russian minority politics Russophilia Non-interventionism",
+        "url": "https://en.wikipedia.org/wiki/Together_(Estonian_political_party)"
+      },
+      "Parempoolsed": {
+        "political_position": "Centre-right",
+        "ideology": "Economic liberalism Right-libertarianism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Parempoolsed"
+      },
+      "Estonian_Greens": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Estonian_Greens"
+      },
+      "Estonian_Nationalists_and_Conservatives": {
+        "political_position": "Far-right [ citation needed ]",
+        "ideology": "Eco-nationalism Estonian nationalism Factions: Ethnofuturism",
+        "url": "https://en.wikipedia.org/wiki/Estonian_Nationalists_and_Conservatives"
+      },
+      "Estonian_United_Left_Party": {
+        "political_position": "Left-wing",
+        "ideology": "Since 2023: Democratic socialism Progressivism Pro-Europeanism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed)",
+        "url": "https://en.wikipedia.org/wiki/Estonian_United_Left_Party"
+      }
+    },
+    "Finland": {
+      "National_Coalition_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/National_Coalition_Party"
+      },
+      "Finns_Party": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Finns_Party"
+      },
+      "Social_Democratic_Party_of_Finland": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland"
+      },
+      "Centre_Party_(Finland)": {
+        "political_position": "Centre",
+        "ideology": "Agrarianism ( Nordic ) Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Centre_Party_(Finland)"
+      },
+      "Left_Alliance_(Finland)": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Eco-socialism",
+        "url": "https://en.wikipedia.org/wiki/Left_Alliance_(Finland)"
+      },
+      "Green_League": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Green_League"
+      },
+      "Swedish_People's_Party_of_Finland": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Swedish-speaking minority interests Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Swedish_People's_Party_of_Finland"
+      },
+      "Christian_Democrats_(Finland)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democrats_(Finland)"
+      },
+      "Movement_Now": {
+        "political_position": "Centre-right",
+        "ideology": "Economic liberalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Movement_Now"
+      }
+    },
+    "France": {
+      "New_Popular_Front": {
+        "political_position": "Left-wing",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/New_Popular_Front"
+      },
+      "Together_(coalition)": {
+        "political_position": "Centre to centre-right",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Together_(coalition)"
+      },
+      "The_Republicans_(France)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberal conservatism",
+        "url": "https://en.wikipedia.org/wiki/The_Republicans_(France)"
+      },
+      "Debout_la_France": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism",
+        "url": "https://en.wikipedia.org/wiki/Debout_la_France"
+      },
+      "National_Rally": {
+        "political_position": "Far-right",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/National_Rally"
+      },
+      "Reconquête": {
+        "political_position": "Far-right",
+        "ideology": "Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism",
+        "url": "https://en.wikipedia.org/wiki/Reconquête"
+      }
+    },
+    "Germany": {
+      "CSU": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism ( German )",
+        "url": "https://en.wikipedia.org/wiki/CDU/CSU"
+      },
+      "Alternative_for_Germany": {
+        "political_position": "Far-right",
+        "ideology": "Völkisch nationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Alternative_for_Germany"
+      },
+      "Social_Democratic_Party_of_Germany": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany"
+      },
+      "The_Greens": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_90/The_Greens"
+      },
+      "The_Left_(Germany)": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Left-wing populism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(Germany)"
+      },
+      "Sahra_Wagenknecht_Alliance": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Left-wing populism Left-wing nationalism Socialism Cultural conservatism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance"
+      },
+      "Free_Democratic_Party_(Germany)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism ( German )",
+        "url": "https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)"
+      },
+      "Christian_Democratic_Union_of_Germany": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism ( German )",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany"
+      },
+      "Christian_Social_Union_in_Bavaria": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism Regionalism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Social_Union_in_Bavaria"
+      },
+      "Friedrich_Merz": {
+        "political_position": "Christian Democratic Union (since 1972)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Friedrich_Merz"
+      },
+      "Alice_Weidel": {
+        "political_position": "AfD (since 2013)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Alice_Weidel"
+      }
+    },
+    "Greece": {
+      "New_Democracy_(Greece)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/New_Democracy_(Greece)"
+      },
+      "SYRIZA": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Democratic socialism Left-wing populism Progressivism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/SYRIZA"
+      },
+      "PASOK_–_Movement_for_Change": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social democracy Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/PASOK_–_Movement_for_Change"
+      },
+      "Communist_Party_of_Greece": {
+        "political_position": "Far-left",
+        "ideology": "Communism Marxism-Leninism Hard Euroscepticism Cultural conservatism",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Greece"
+      },
+      "Spartans_(Greek_political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Neo-fascism Ultranationalism Ultraconservatism",
+        "url": "https://en.wikipedia.org/wiki/Spartans_(Greek_political_party)"
+      },
+      "Greek_Solution": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Ultranationalism National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Greek_Solution"
+      },
+      "Victory_(Greek_political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Ultraconservatism National conservatism",
+        "url": "https://en.wikipedia.org/wiki/Victory_(Greek_political_party)"
+      },
+      "Course_of_Freedom": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Course_of_Freedom"
+      },
+      "MeRA25": {
+        "political_position": "Left-wing",
+        "ideology": "Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/MeRA25"
+      },
+      "Voice_of_Reason_(political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)"
+      },
+      "New_Left_(Greece)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Democratic socialism",
+        "url": "https://en.wikipedia.org/wiki/New_Left_(Greece)"
+      },
+      "Movement_for_Democracy_(Greece)": {
+        "political_position": "Centre-left",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)"
+      }
+    },
+    "Hungary": {
+      "Fidesz–KDNP": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Hungarian nationalism National conservatism Christian democracy Christian right Right-wing populism Anti-immigration Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Fidesz–KDNP"
+      },
+      "Democratic_Coalition_(Hungary)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Social liberalism Third Way Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)"
+      },
+      "Hungarian_Socialist_Party": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Hungarian_Socialist_Party"
+      },
+      "Dialogue_–_The_Greens'_Party": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Dialogue_–_The_Greens'_Party"
+      },
+      "Momentum_Movement": {
+        "political_position": "Centre",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Momentum_Movement"
+      },
+      "Jobbik": {
+        "political_position": "Centre-right to right-wing 2003–2014: Right-wing to far-right",
+        "ideology": "Conservatism Hungarian nationalism 2003–2014: Hungarian irredentism Ethnic nationalism",
+        "url": "https://en.wikipedia.org/wiki/Jobbik"
+      },
+      "LMP_–_Hungary's_Green_Party": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Green liberalism Syncretic politics",
+        "url": "https://en.wikipedia.org/wiki/LMP_–_Hungary's_Green_Party"
+      },
+      "Everybody's_Hungary_People's_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Everybody's_Hungary_People's_Party"
+      },
+      "Our_Homeland_Movement": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism Neo-fascism",
+        "url": "https://en.wikipedia.org/wiki/Our_Homeland_Movement"
+      },
+      "Hungarian_Two_Tailed_Dog_Party": {
+        "political_position": null,
+        "ideology": "Political satire Anti-establishment",
+        "url": "https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party"
+      },
+      "Second_Reform_Era_Party": {
+        "political_position": "Centre",
+        "ideology": "Centrism",
+        "url": "https://en.wikipedia.org/wiki/Second_Reform_Era_Party"
+      },
+      "Tisza_Party": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Populism Conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Tisza_Party"
+      },
+      "Everybody's_Hungary_Movement": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Everybody's_Hungary_Movement"
+      },
+      "National_Self-Government_of_Germans_in_Hungary": {
+        "political_position": "Centre-right",
+        "ideology": "German minority interests Cultural autonomy Cultural conservatism",
+        "url": "https://en.wikipedia.org/wiki/National_Self-Government_of_Germans_in_Hungary"
+      },
+      "Viktor_Orbán": {
+        "political_position": "Fidesz (since 1988)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Viktor_Orbán"
+      },
+      "Klára_Dobrev": {
+        "political_position": "DK (2011–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Klára_Dobrev"
+      },
+      "Anna_Donáth": {
+        "political_position": "Momentum (since 2016)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Anna_Donáth"
+      },
+      "László_Toroczkai": {
+        "political_position": "MHM (2018–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/László_Toroczkai"
+      },
+      "Péter_Márki-Zay": {
+        "political_position": "Everybody's Hungary People's Party (2023–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Péter_Márki-Zay"
+      },
+      "Péter_Magyar": {
+        "political_position": "TISZA (since 2024)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Péter_Magyar"
+      }
+    },
+    "Ireland": {
+      "Sinn_Féin": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Irish republicanism Democratic socialism Left-wing nationalism",
+        "url": "https://en.wikipedia.org/wiki/Sinn_Féin"
+      },
+      "Fianna_Fáil": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservatism Christian democracy Irish republicanism",
+        "url": "https://en.wikipedia.org/wiki/Fianna_Fáil"
+      },
+      "Fine_Gael": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Fine_Gael"
+      },
+      "Green_Party_(Ireland)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_(Ireland)"
+      },
+      "Labour_Party_(Ireland)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Labour_Party_(Ireland)"
+      },
+      "Social_Democrats_(Ireland)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)"
+      },
+      "People_Before_Profit–Solidarity": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Socialism Trotskyism Left-wing populism",
+        "url": "https://en.wikipedia.org/wiki/People_Before_Profit–Solidarity"
+      },
+      "Aontú": {
+        "political_position": "Fiscal: Left-wing Social: Right-wing",
+        "ideology": "Irish republicanism Social conservatism Populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Aontú"
+      },
+      "Independent_Ireland": {
+        "political_position": "Right-wing",
+        "ideology": "Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Independent_Ireland"
+      },
+      "Irish_Freedom_Party": {
+        "political_position": "Far-right",
+        "ideology": "Direct democracy Hard Euroscepticism Right-wing populism Irish nationalism Anti-immigration",
+        "url": "https://en.wikipedia.org/wiki/Irish_Freedom_Party"
+      },
+      "Thomas_Pringle_(politician)": {
+        "political_position": "Independent",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Thomas_Pringle_(politician)"
+      },
+      "Catherine_Connolly": {
+        "political_position": "Independent (from 2006)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Catherine_Connolly"
+      },
+      "Noel_Grealish": {
+        "political_position": "Independent (since 2009)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Noel_Grealish"
+      },
+      "Michael_Healy-Rae": {
+        "political_position": "Independent",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Michael_Healy-Rae"
+      },
+      "Danny_Healy-Rae": {
+        "political_position": "Independent",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Danny_Healy-Rae"
+      }
+    },
+    "Italy": {
+      "Brothers_of_Italy": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism Post-fascism",
+        "url": "https://en.wikipedia.org/wiki/Brothers_of_Italy"
+      },
+      "Democratic_Party_(Italy)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_(Italy)"
+      },
+      "Five_Star_Movement": {
+        "political_position": "Left-wing",
+        "ideology": "Populism Green politics",
+        "url": "https://en.wikipedia.org/wiki/Five_Star_Movement"
+      },
+      "Lega_(political_party)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism",
+        "url": "https://en.wikipedia.org/wiki/Lega_(political_party)"
+      },
+      "Forza_Italia_(2013)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Forza_Italia_(2013)"
+      },
+      "Action_(Italian_political_party)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism ( Italian )",
+        "url": "https://en.wikipedia.org/wiki/Action_(Italian_political_party)"
+      },
+      "Italia_Viva": {
+        "political_position": "Centre",
+        "ideology": "Liberalism ( Italian )",
+        "url": "https://en.wikipedia.org/wiki/Italia_Viva"
+      },
+      "Greens_and_Left_Alliance": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Green politics",
+        "url": "https://en.wikipedia.org/wiki/Greens_and_Left_Alliance"
+      },
+      "More_Europe": {
+        "political_position": "Centre",
+        "ideology": "Liberalism ( Italian ) Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/More_Europe"
+      },
+      "Peace_Land_Dignity": {
+        "political_position": "Left-wing",
+        "ideology": "Pacifism Environmentalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Peace_Land_Dignity"
+      },
+      "Sovereign_Popular_Democracy": {
+        "political_position": "Big Tent",
+        "ideology": "Populism Sovereigntism Hard Euroscepticism Anti-globalism",
+        "url": "https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy"
+      },
+      "Us_Moderates": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberal conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Us_Moderates"
+      },
+      "South_calls_North": {
+        "political_position": "Big tent",
+        "ideology": "Regionalism Populism",
+        "url": "https://en.wikipedia.org/wiki/South_calls_North"
+      },
+      "United_States_of_Europe_(electoral_list)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism European federalism",
+        "url": "https://en.wikipedia.org/wiki/United_States_of_Europe_(electoral_list)"
+      },
+      "Freedom_(electoral_list)": {
+        "political_position": "Big tent",
+        "ideology": "Populism Regionalism Federalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_(electoral_list)"
+      },
+      "Popular_Alternative": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/Popular_Alternative"
+      },
+      "Italexit_(political_party)": {
+        "political_position": "Big tent or far-right",
+        "ideology": "Hard Euroscepticism Populism Sovereigntism",
+        "url": "https://en.wikipedia.org/wiki/Italexit_(political_party)"
+      },
+      "People's_Union_(Italy)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Left-wing populism Socialism Factions : Democratic socialism Communism",
+        "url": "https://en.wikipedia.org/wiki/People's_Union_(Italy)"
+      },
+      "Action_–_Italia_Viva": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Action_–_Italia_Viva"
+      },
+      "Sovereign_and_Popular_Italy": {
+        "political_position": "Big tent",
+        "ideology": "Populism Sovereigntism Euroscepticism Factions: Communism",
+        "url": "https://en.wikipedia.org/wiki/Sovereign_and_Popular_Italy"
+      }
+    },
+    "Kosovo": {
+      "Vetëvendosje": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Left-wing populism Social democracy Progressivism Albanian nationalism Left-wing nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Vetëvendosje"
+      },
+      "Democratic_Party_of_Kosovo": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo"
+      },
+      "Democratic_League_of_Kosovo": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Social conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo"
+      },
+      "Serb_List_(Kosovo)": {
+        "political_position": null,
+        "ideology": "Serb minority politics",
+        "url": "https://en.wikipedia.org/wiki/Serb_List_(Kosovo)"
+      },
+      "Alliance_for_the_Future_of_Kosovo": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo"
+      },
+      "Vjosa_Osmani": {
+        "political_position": "Independent (2021–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Vjosa_Osmani"
+      },
+      "Albin_Kurti": {
+        "political_position": "Kosovo Liberation Army",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Albin_Kurti"
+      },
+      "Lumir_Abdixhiku": {
+        "political_position": "Democratic League",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Lumir_Abdixhiku"
+      },
+      "Memli_Krasniqi": {
+        "political_position": "Democratic Party of Kosovo",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Memli_Krasniqi"
+      },
+      "Ramush_Haradinaj": {
+        "political_position": "Alliance for the Future",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ramush_Haradinaj"
+      },
+      "Bedri_Hamza": {
+        "political_position": "Democratic Party of Kosovo",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Bedri_Hamza"
+      },
+      "Fatmir_Limaj": {
+        "political_position": "Democratic Party (1999–2014) NISMA (2014–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Fatmir_Limaj"
+      },
+      "Behgjet_Pacolli": {
+        "political_position": "New Kosovo Alliance (2006–February 2011; April 2011–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Behgjet_Pacolli"
+      },
+      "Mimoza_Kusari-Lila": {
+        "political_position": "New Kosovo Alliance (2009–2016) Alternativa (2017–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Mimoza_Kusari-Lila"
+      },
+      "Social_Democratic_Initiative_(Kosovo)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)"
+      },
+      "New_Kosovo_Alliance": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/New_Kosovo_Alliance"
+      },
+      "Justice_Party_(Kosovo)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)"
+      }
+    },
+    "Latvia": {
+      "New_Unity": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/New_Unity"
+      },
+      "Union_of_Greens_and_Farmers": {
+        "political_position": "Centre",
+        "ideology": "Agrarianism Green conservatism Economic nationalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers"
+      },
+      "United_List_(Latvia)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Regionalism Green conservatism",
+        "url": "https://en.wikipedia.org/wiki/United_List_(Latvia)"
+      },
+      "National_Alliance_(Latvia)": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/National_Alliance_(Latvia)"
+      },
+      "For_Stability!": {
+        "political_position": "Centre",
+        "ideology": "Populism Russian minority politics Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/For_Stability!"
+      },
+      "Latvia_First": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Latvia_First"
+      },
+      "The_Progressives_(Latvia)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/The_Progressives_(Latvia)"
+      },
+      "Movement_For!": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Movement_For!"
+      },
+      "For_Latvia's_Development": {
+        "political_position": "Centre-right",
+        "ideology": "Classical liberalism",
+        "url": "https://en.wikipedia.org/wiki/For_Latvia's_Development"
+      },
+      "Social_Democratic_Party_\"Harmony\"": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Russian minority politics",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_\"Harmony\""
+      },
+      "Platform_21": {
+        "political_position": "Centre Historical Right-wing to far-right",
+        "ideology": "Moderate nationalism Historical Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Platform_21"
+      },
+      "Sovereign_Power_(Latvia)": {
+        "political_position": "Right-wing",
+        "ideology": "Christian right Direct democracy Russian minority politics",
+        "url": "https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)"
+      },
+      "The_Conservatives_(Latvia)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism",
+        "url": "https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)"
+      },
+      "For!": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Development/For!"
+      },
+      "Latvian_Russian_Union": {
+        "political_position": null,
+        "ideology": "Russian minority politics Russophilia",
+        "url": "https://en.wikipedia.org/wiki/Latvian_Russian_Union"
+      },
+      "Republic_(Latvia)": {
+        "political_position": "Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Republic_(Latvia)"
+      }
+    },
+    "Lithuania": {
+      "Social_Democratic_Party_of_Lithuania": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Lithuania"
+      },
+      "Homeland_Union": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Homeland_Union"
+      },
+      "Union_of_Democrats_\"For_Lithuania\"": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Green conservatism Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Union_of_Democrats_\"For_Lithuania\""
+      },
+      "Liberals'_Movement_(Lithuania)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservative liberalism Classical liberalism",
+        "url": "https://en.wikipedia.org/wiki/Liberals'_Movement_(Lithuania)"
+      },
+      "Lithuanian_Farmers_and_Greens_Union": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green conservatism Left-wing populism Christian democracy Social conservatism Agrarianism Environmentalism",
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_Farmers_and_Greens_Union"
+      },
+      "Freedom_Party_(Lithuania)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_Party_(Lithuania)"
+      },
+      "Electoral_Action_of_Poles_in_Lithuania_–_Christian_Families_Alliance": {
+        "political_position": "Centre-right",
+        "ideology": "Polish minority interests Christian democracy Conservatism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Electoral_Action_of_Poles_in_Lithuania_–_Christian_Families_Alliance"
+      },
+      "National_Alliance_(Lithuania)": {
+        "political_position": "Far-right",
+        "ideology": "Nationalism National conservatism Right-wing populism Soft Euroscepticism Anti-communism",
+        "url": "https://en.wikipedia.org/wiki/National_Alliance_(Lithuania)"
+      },
+      "Labour_Party_(Lithuania)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Populism",
+        "url": "https://en.wikipedia.org/wiki/Labour_Party_(Lithuania)"
+      },
+      "Lithuanian_Regions_Party": {
+        "political_position": "Left-wing",
+        "ideology": "Social democracy Regionalism Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_Regions_Party"
+      },
+      "Lithuanian_Green_Party": {
+        "political_position": "Centre",
+        "ideology": "Green liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_Green_Party"
+      },
+      "People_and_Justice_Union": {
+        "political_position": "Far-right",
+        "ideology": "National conservatism Localism Euroscepticism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/People_and_Justice_Union"
+      },
+      "Center-Right_Union": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservative liberalism National liberalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Center-Right_Union"
+      }
+    },
+    "Malta": {
+      "Nationalist_Party_(Malta)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)"
+      },
+      "AD+PD": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Progressivism",
+        "url": "https://en.wikipedia.org/wiki/AD+PD"
+      },
+      "Momentum_(political_party)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Centrism Environmentalism Anti-corruption",
+        "url": "https://en.wikipedia.org/wiki/Momentum_(political_party)"
+      },
+      "Bernard_Grech": {
+        "political_position": "Nationalist Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Bernard_Grech"
+      },
+      "Arnold_Cassola": {
+        "political_position": "Momentum (2025–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Arnold_Cassola"
+      },
+      "Robert_Abela": {
+        "political_position": "Labour Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Robert_Abela"
+      },
+      "Labour_Party_(Malta)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social democracy Third Way",
+        "url": "https://en.wikipedia.org/wiki/Labour_Party_(Malta)"
+      }
+    },
+    "Netherlands": {
+      "Party_for_Freedom": {
+        "political_position": "Far-right",
+        "ideology": "Nationalism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Party_for_Freedom"
+      },
+      "GroenLinks–PvdA": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Green politics Dutch republicanism",
+        "url": "https://en.wikipedia.org/wiki/GroenLinks–PvdA"
+      },
+      "People's_Party_for_Freedom_and_Democracy": {
+        "political_position": "Centre-right",
+        "ideology": "Conservative liberalism",
+        "url": "https://en.wikipedia.org/wiki/People's_Party_for_Freedom_and_Democracy"
+      },
+      "New_Social_Contract": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/New_Social_Contract"
+      },
+      "Democrats_66": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Democrats_66"
+      },
+      "Farmer–Citizen_Movement": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Agrarianism Conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Farmer–Citizen_Movement"
+      },
+      "Christian_Democratic_Appeal": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democratic_Appeal"
+      },
+      "Socialist_Party_(Netherlands)": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Left-wing populism Social democracy Cultural conservatism",
+        "url": "https://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)"
+      },
+      "Denk_(political_party)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Social conservatism Minority interests",
+        "url": "https://en.wikipedia.org/wiki/Denk_(political_party)"
+      },
+      "Party_for_the_Animals": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Animal rights Animal welfare Anti-capitalism Environmentalism",
+        "url": "https://en.wikipedia.org/wiki/Party_for_the_Animals"
+      },
+      "Forum_for_Democracy": {
+        "political_position": "Far-right",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Forum_for_Democracy"
+      },
+      "Reformed_Political_Party": {
+        "political_position": "Right-wing",
+        "ideology": "Christian right Social conservatism Theocracy",
+        "url": "https://en.wikipedia.org/wiki/Reformed_Political_Party"
+      },
+      "Christian_Union_(Netherlands)": {
+        "political_position": "Fiscal : Centre to centre-left Social : Centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Union_(Netherlands)"
+      },
+      "Volt_Netherlands": {
+        "political_position": "Centre",
+        "ideology": "Social liberalism European federalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Volt_Netherlands"
+      },
+      "JA21": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Conservative liberalism Fortuynism Right-wing populism Anti-immigration",
+        "url": "https://en.wikipedia.org/wiki/JA21"
+      }
+    },
+    "North Macedonia": {
+      "For_a_European_Future": {
+        "political_position": "Centre-left",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/For_a_European_Future"
+      },
+      "VLEN_Coalition": {
+        "political_position": "Centre-right Faction: Centre-left",
+        "ideology": "Albanian minority interests",
+        "url": "https://en.wikipedia.org/wiki/VLEN_Coalition"
+      },
+      "European_Front": {
+        "political_position": "Centre-left",
+        "ideology": "Minority interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/European_Front"
+      },
+      "The_Left_(North_Macedonia)": {
+        "political_position": "Far-left",
+        "ideology": "Socialism Left-wing nationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(North_Macedonia)"
+      },
+      "For_Our_Macedonia": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Macedonian nationalism Left-wing nationalism",
+        "url": "https://en.wikipedia.org/wiki/For_Our_Macedonia"
+      },
+      "Social_Democratic_Union_of_Macedonia": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Union_of_Macedonia"
+      },
+      "Liberal_Democratic_Party_(North_Macedonia)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(North_Macedonia)"
+      },
+      "Besa_Movement": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority interests Social conservatism [ citation needed ]",
+        "url": "https://en.wikipedia.org/wiki/Besa_Movement"
+      },
+      "Democratic_Party_of_Albanians": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Albanian minority interests Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Albanians"
+      },
+      "Alternativa_(North_Macedonian_political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority interests",
+        "url": "https://en.wikipedia.org/wiki/Alternativa_(North_Macedonian_political_party)"
+      },
+      "VMRO-DPMNE": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Christian democracy Macedonian nationalism Economic liberalism Anti-communism",
+        "url": "https://en.wikipedia.org/wiki/VMRO-DPMNE"
+      },
+      "Democratic_Union_for_Integration": {
+        "political_position": "Centre-left",
+        "ideology": "Albanian minority interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Union_for_Integration"
+      },
+      "Nikola_Gruevski": {
+        "political_position": "VMRO-DPMNE",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nikola_Gruevski"
+      },
+      "Alliance_for_Albanians": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority rights Conservatism Social conservatism Decentralisation Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_for_Albanians"
+      }
+    },
+    "Norway": {
+      "Red_Party_(Norway)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Anti-capitalism Democratic socialism Marxism Republicanism ( Norwegian )",
+        "url": "https://en.wikipedia.org/wiki/Red_Party_(Norway)"
+      },
+      "Socialist_Left_Party_(Norway)": {
+        "political_position": "Left-wing",
+        "ideology": "Socialism Eco-socialism Feminism Republicanism ( Norwegian )",
+        "url": "https://en.wikipedia.org/wiki/Socialist_Left_Party_(Norway)"
+      },
+      "Green_Party_(Norway)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_(Norway)"
+      },
+      "Labour_Party_(Norway)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Labour_Party_(Norway)"
+      },
+      "Centre_Party_(Norway)": {
+        "political_position": "Centre",
+        "ideology": "Agrarianism ( Nordic ) Economic nationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Centre_Party_(Norway)"
+      },
+      "Liberal_Party_(Norway)": {
+        "political_position": "Centre",
+        "ideology": "Social liberalism Green liberalism Pro-Europeanism Historical: Classical radicalism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Norway)"
+      },
+      "Christian_Democratic_Party_(Norway)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democratic_Party_(Norway)"
+      },
+      "Conservative_Party_(Norway)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_Party_(Norway)"
+      },
+      "Progress_Party_(Norway)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism [ independent source needed ] Right-libertarianism Right-wing populism Anti-immigration",
+        "url": "https://en.wikipedia.org/wiki/Progress_Party_(Norway)"
+      },
+      "Industry_and_Business_Party": {
+        "political_position": "Right-wing",
+        "ideology": "Populism",
+        "url": "https://en.wikipedia.org/wiki/Industry_and_Business_Party"
+      }
+    },
+    "Poland": {
+      "United_Right_(Poland)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "National conservatism Social conservatism Social patriotism Christian democracy Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/United_Right_(Poland)"
+      },
+      "Civic_Coalition_(Poland)": {
+        "political_position": "Big tent",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)"
+      },
+      "Poland_2050": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Poland_2050"
+      },
+      "Polish_People's_Party": {
+        "political_position": "Centre-right to right-wing Historical: Left-wing",
+        "ideology": "Conservatism Christian democracy Social conservatism Pro-Europeanism Economic liberalism Historical: Agrarianism Agrarian socialism",
+        "url": "https://en.wikipedia.org/wiki/Polish_People's_Party"
+      },
+      "The_Left_(Poland)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Social liberalism Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(Poland)"
+      },
+      "Left_Together": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Social liberalism Democratic socialism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Left_Together"
+      },
+      "Confederation_Liberty_and_Independence": {
+        "political_position": "Far-right",
+        "ideology": "Right-wing populism Economic liberalism Polish nationalism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence"
+      },
+      "Confederation_of_the_Polish_Crown": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement",
+        "url": "https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown"
+      },
+      "Third_Way_(Poland)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Third_Way_(Poland)"
+      },
+      "There_is_One_Poland": {
+        "political_position": "Far-right",
+        "ideology": "Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/There_is_One_Poland"
+      },
+      "Bezpartyjni_Samorządowcy": {
+        "political_position": "Centre-left",
+        "ideology": "Localism Regionalism Federalism Christian democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Bezpartyjni_Samorządowcy"
+      },
+      "Confederation_Freedom_and_Independence": {
+        "political_position": "Far-right",
+        "ideology": "Right-wing populism Economic liberalism Polish nationalism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Confederation_Freedom_and_Independence"
+      },
+      "German_Minority_Electoral_Committee": {
+        "political_position": "Centre-left",
+        "ideology": "German minority interests Regionalism Christian democracy Social market economy",
+        "url": "https://en.wikipedia.org/wiki/German_Minority_Electoral_Committee"
+      },
+      "Senate_Pact_2023": {
+        "political_position": "Big tent",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Senate_Pact_2023"
+      },
+      "Donald_Tusk": {
+        "political_position": "Civic Platform (since 2001) Freedom Union (1994–2001) Liberal Democratic Congress (1990–1994)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Donald_Tusk"
+      },
+      "Włodzimierz_Czarzasty": {
+        "political_position": "Polish United Workers' Party (1983–1990) Democratic Left Alliance (1990–2021) New Left (since 2021)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Włodzimierz_Czarzasty"
+      },
+      "Szymon_Hołownia": {
+        "political_position": "Poland 2050 (2020–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Szymon_Hołownia"
+      },
+      "Władysław_Kosiniak-Kamysz": {
+        "political_position": "Polish People's Party Polish Coalition",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Władysław_Kosiniak-Kamysz"
+      },
+      "Radosław_Sikorski": {
+        "political_position": "Civic Platform (since 2007) Civic Coalition (since 2018)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Radosław_Sikorski"
+      },
+      "Rafał_Trzaskowski": {
+        "political_position": "Civic Platform (since 2004)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Rafał_Trzaskowski"
+      }
+    },
+    "Portugal": {
+      "Democratic_Alliance_(Portugal,_2024)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberal conservatism Christian democracy Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+      },
+      "Socialist_Party_(Portugal)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)"
+      },
+      "Chega_(political_party)": {
+        "political_position": "Far-right",
+        "ideology": "National conservatism Right-wing populism Ultranationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Chega_(political_party)"
+      },
+      "Liberal_Initiative_(Portugal)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberalism ( Portuguese )",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)"
+      },
+      "LIVRE": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics Progressivism Libertarian socialism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/LIVRE"
+      },
+      "Unitary_Democratic_Coalition": {
+        "political_position": "Far-left",
+        "ideology": "Communism Eco-socialism Social conservatism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition"
+      },
+      "Left_Bloc_(Portugal)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Democratic socialism Left-wing populism Anti-capitalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)"
+      },
+      "People–Animals–Nature": {
+        "political_position": "Centre-left",
+        "ideology": "Environmentalism Animal rights Ecofeminism",
+        "url": "https://en.wikipedia.org/wiki/People–Animals–Nature"
+      },
+      "Together_for_the_People": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Madeiran regionalism Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Together_for_the_People"
+      },
+      "Luís_Montenegro": {
+        "political_position": "Social Democratic Party (1991–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Luís_Montenegro"
+      },
+      "José_Luís_Carneiro": {
+        "political_position": "Socialist Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/José_Luís_Carneiro"
+      },
+      "André_Ventura": {
+        "political_position": "Chega (since 2019)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/André_Ventura"
+      },
+      "Nuno_Melo_(politician)": {
+        "political_position": "CDS – People's Party (1987–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nuno_Melo_(politician)"
+      },
+      "Pedro_Nuno_Santos": {
+        "political_position": "Socialist Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Pedro_Nuno_Santos"
+      },
+      "Rui_Rocha": {
+        "political_position": "Liberal Initiative (2020–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Rui_Rocha"
+      },
+      "Mariana_Leitão": {
+        "political_position": "Liberal Initiative (since 2019)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Mariana_Leitão"
+      },
+      "Rui_Tavares": {
+        "political_position": "LIVRE (2014–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Rui_Tavares"
+      },
+      "Paulo_Raimundo": {
+        "political_position": "Portuguese Communist Party (1994–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Paulo_Raimundo"
+      },
+      "Mariana_Mortágua": {
+        "political_position": "Left Bloc",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Mariana_Mortágua"
+      },
+      "Inês_Sousa_Real": {
+        "political_position": "People Animals Nature (2011–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Inês_Sousa_Real"
+      }
+    },
+    "Romania": {
+      "Social_Democratic_Party_(Romania)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Social conservatism Economic nationalism Left-wing nationalism Left-wing populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)"
+      },
+      "AUR_Alliance": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Christian nationalism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/AUR_Alliance"
+      },
+      "National_Liberal_Party_(Romania)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)"
+      },
+      "Save_Romania_Union": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Anti-socialism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Save_Romania_Union"
+      },
+      "S.O.S._Romania": {
+        "political_position": "Far-right",
+        "ideology": "Romanian nationalism Ultranationalism Romanian irredentism Social conservatism Sovereigntism Right-wing populism Russophilia Hard Euroscepticism Neo-Legionarism",
+        "url": "https://en.wikipedia.org/wiki/S.O.S._Romania"
+      },
+      "Party_of_Young_People": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Romanian nationalism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Young_People"
+      },
+      "Democratic_Alliance_of_Hungarians_in_Romania": {
+        "political_position": "Centre-right",
+        "ideology": "Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism Historical: Economic nationalism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania"
+      },
+      "People's_Movement_Party": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "National conservatism Social conservatism Monarchism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/People's_Movement_Party"
+      },
+      "Force_of_the_Right": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberal conservatism Christian democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Force_of_the_Right"
+      },
+      "Renewing_Romania's_European_Project": {
+        "political_position": "Centre",
+        "ideology": "Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Renewing_Romania's_European_Project"
+      },
+      "Health_Education_Nature_Sustainability_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Progressivism Green politics",
+        "url": "https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party"
+      },
+      "Justice_and_Respect_in_Europe_for_All_Party": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Centrism Anti-corruption Big tent Factions: Romanian nationalism",
+        "url": "https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party"
+      }
+    },
+    "Serbia": {
+      "Serbia_Must_Not_Stop": {
+        "political_position": "Big tent",
+        "ideology": "Populism",
+        "url": "https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop"
+      },
+      "Socialist_Party_of_Serbia": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Populism",
+        "url": "https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia"
+      },
+      "Party_of_Freedom_and_Justice": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice"
+      },
+      "People's_Movement_of_Serbia": {
+        "political_position": "Centre-right",
+        "ideology": "Anti-corruption Conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/People's_Movement_of_Serbia"
+      },
+      "Green–Left_Front": {
+        "political_position": "Left-wing",
+        "ideology": "Green politics Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Green–Left_Front"
+      },
+      "Serbia_Centre": {
+        "political_position": "Centre",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Serbia_Centre"
+      },
+      "Democratic_Party_(Serbia)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)"
+      },
+      "National_Democratic_Alternative_(Serbia)": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Monarchism",
+        "url": "https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)"
+      },
+      "We_–_Power_of_the_People": {
+        "political_position": "Right-wing",
+        "ideology": "Russophilia Right-wing populism Conspiracy theorism Anti-vaccination National conservatism Serbian nationalism",
+        "url": "https://en.wikipedia.org/wiki/We_–_Power_of_the_People"
+      }
+    },
+    "Slovakia": {
+      "Direction_–_Social_Democracy": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Direction_–_Social_Democracy"
+      },
+      "Progressive_Slovakia": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Progressive_Slovakia"
+      },
+      "Voice_–_Social_Democracy": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy Populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Voice_–_Social_Democracy"
+      },
+      "OĽaNO_and_Friends": {
+        "political_position": null,
+        "ideology": "Conservatism",
+        "url": "https://en.wikipedia.org/wiki/OĽaNO_and_Friends"
+      },
+      "Christian_Democratic_Movement": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Social conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democratic_Movement"
+      },
+      "Freedom_and_Solidarity": {
+        "political_position": "Centre-right",
+        "ideology": "Conservative liberalism Civil libertarianism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_and_Solidarity"
+      },
+      "Slovak_National_Party": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Slovak_National_Party"
+      },
+      "Republic_(Slovakia)": {
+        "political_position": "Far-right",
+        "ideology": "Neo-fascism National conservatism Right-wing populism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Republic_(Slovakia)"
+      },
+      "Hungarian_Alliance_(Slovak_political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)"
+      },
+      "Democrats_(Slovakia)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democrats_(Slovakia)"
+      },
+      "We_Are_Family_(Slovakia)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)"
+      },
+      "People's_Party_Our_Slovakia": {
+        "political_position": "Far-right",
+        "ideology": "Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia",
+        "url": "https://en.wikipedia.org/wiki/People's_Party_Our_Slovakia"
+      }
+    },
+    "Slovenia": {
+      "Freedom_Movement_(Slovenia)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)"
+      },
+      "Slovenian_Democratic_Party": {
+        "political_position": "Right-wing Historical: Centre-left",
+        "ideology": "National conservatism Slovenian nationalism Right-wing populism Historical : Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Slovenian_Democratic_Party"
+      },
+      "New_Slovenia": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism Slovenian nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/New_Slovenia"
+      },
+      "Social_Democrats_(Slovenia)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)"
+      },
+      "The_Left_(Slovenia)": {
+        "political_position": "Left-wing",
+        "ideology": "Democratic socialism Eco-socialism Antimilitarism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(Slovenia)"
+      },
+      "Greens_of_Slovenia": {
+        "political_position": "Centre-right",
+        "ideology": "Green conservatism",
+        "url": "https://en.wikipedia.org/wiki/Greens_of_Slovenia"
+      },
+      "Resni.ca": {
+        "political_position": null,
+        "ideology": "Populism Anti-lockdown Anti-5G Direct democracy Civil libertarianism Souverainism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Resni.ca"
+      },
+      "Party_of_Generations": {
+        "political_position": "Centre-left",
+        "ideology": "Social liberalism Pensioners' interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Generations"
+      },
+      "Slovenian_National_Party": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Slovenian nationalism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Slovenian_National_Party"
+      },
+      "Democrats_(Slovenia)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservative liberalism Anti-corruption Third Way Decentralisation",
+        "url": "https://en.wikipedia.org/wiki/Democrats_(Slovenia)"
+      },
+      "Voice_of_Pensioners": {
+        "political_position": "Centre-right",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Voice_of_Pensioners"
+      },
+      "Focus_(Slovenian_political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Liberalism",
+        "url": "https://en.wikipedia.org/wiki/Focus_(Slovenian_political_party)"
+      },
+      "Slovenian_People's_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Agrarianism Christian democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Slovenian_People's_Party"
+      },
+      "Concretely": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Conservative liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Concretely"
+      },
+      "Andrej_Čuš_and_Greens_of_Slovenia": {
+        "political_position": "Centre-right",
+        "ideology": "Green conservatism",
+        "url": "https://en.wikipedia.org/wiki/Andrej_Čuš_and_Greens_of_Slovenia"
+      },
+      "Pirate_Party_(Slovenia)": {
+        "political_position": "Syncretic",
+        "ideology": "Pirate politics Freedom of information Open government Network neutrality",
+        "url": "https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)"
+      },
+      "Our_Country_(Slovenia)": {
+        "political_position": "Centre [ citation needed ] to centre-right",
+        "ideology": "Decentralization Pro-Europeanism Agrarianism",
+        "url": "https://en.wikipedia.org/wiki/Our_Country_(Slovenia)"
+      },
+      "Spring_–_Green_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Spring_–_Green_Party"
+      },
+      "Let's_Connect_Slovenia": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Big tent",
+        "url": "https://en.wikipedia.org/wiki/Let's_Connect_Slovenia"
+      },
+      "Party_of_Alenka_Bratušek": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Alenka_Bratušek"
+      },
+      "Vladimir_Prebilič": {
+        "political_position": "Vesna",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Vladimir_Prebilič"
+      },
+      "List_of_Marjan_Šarec": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Populism",
+        "url": "https://en.wikipedia.org/wiki/List_of_Marjan_Šarec"
+      },
+      "Vesna_–_Green_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Vesna_–_Green_Party"
+      },
+      "Trust_(Slovenian_political_party)": {
+        "political_position": "Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Trust_(Slovenian_political_party)"
+      }
+    },
+    "Spain": {
+      "People's_Party_(Spain)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/People's_Party_(Spain)"
+      },
+      "Spanish_Socialist_Workers'_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Socialist_Workers'_Party"
+      },
+      "Vox_(political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Vox_(political_party)"
+      },
+      "Sumar_(electoral_platform)": {
+        "political_position": "Left-wing",
+        "ideology": "Progressivism Green politics Social democracy Democratic socialism",
+        "url": "https://en.wikipedia.org/wiki/Sumar_(electoral_platform)"
+      },
+      "Republican_Left_of_Catalonia": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism",
+        "url": "https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia"
+      },
+      "Together_for_Catalonia_(2020)": {
+        "political_position": "Centre-right",
+        "ideology": "Catalan independence Sovereigntism Populism",
+        "url": "https://en.wikipedia.org/wiki/Together_for_Catalonia_(2020)"
+      },
+      "EH_Bildu": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Basque independence Left-wing nationalism Abertzale left Socialism",
+        "url": "https://en.wikipedia.org/wiki/EH_Bildu"
+      },
+      "Basque_Nationalist_Party": {
+        "political_position": "Centre",
+        "ideology": "Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Basque_Nationalist_Party"
+      },
+      "Galician_Nationalist_Bloc": {
+        "political_position": "Left-wing",
+        "ideology": "Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence",
+        "url": "https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc"
+      },
+      "Canarian_Coalition": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Canarian nationalism Regionalism Centrism",
+        "url": "https://en.wikipedia.org/wiki/Canarian_Coalition"
+      },
+      "Navarrese_People's_Union": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Christian democracy Navarrese regionalism Spanish unionism",
+        "url": "https://en.wikipedia.org/wiki/Navarrese_People's_Union"
+      },
+      "Podemos_(Spanish_political_party)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism",
+        "url": "https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)"
+      },
+      "Se_Acabó_La_Fiesta": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Spanish nationalism Economic liberalism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Se_Acabó_La_Fiesta"
+      }
+    },
+    "Sweden": {
+      "Left_Party_(Sweden)": {
+        "political_position": "Left-wing",
+        "ideology": "Socialism Eco-socialism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Left_Party_(Sweden)"
+      },
+      "Swedish_Social_Democratic_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party"
+      },
+      "Green_Party_(Sweden)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Ecofeminism Environmentalism",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_(Sweden)"
+      },
+      "Centre_Party_(Sweden)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism ( Swedish ) Agrarianism ( Nordic )",
+        "url": "https://en.wikipedia.org/wiki/Centre_Party_(Sweden)"
+      },
+      "Liberals_(Sweden)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservative liberalism",
+        "url": "https://en.wikipedia.org/wiki/Liberals_(Sweden)"
+      },
+      "Moderate_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Moderate_Party"
+      },
+      "Christian_Democrats_(Sweden)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Christian democracy Conservatism ( Swedish ) Social conservatism Agrarianism ( Nordic )",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democrats_(Sweden)"
+      },
+      "Sweden_Democrats": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Sweden_Democrats"
+      },
+      "Nooshi_Dadgostar": {
+        "political_position": "Left Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nooshi_Dadgostar"
+      },
+      "Magdalena_Andersson": {
+        "political_position": "Social Democrats",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Magdalena_Andersson"
+      },
+      "Per_Bolund": {
+        "political_position": "Green Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Per_Bolund"
+      },
+      "Märta_Stenevi": {
+        "political_position": "Green Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Märta_Stenevi"
+      },
+      "Muharrem_Demirok": {
+        "political_position": "Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Muharrem_Demirok"
+      },
+      "Annie_Lööf": {
+        "political_position": "Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Annie_Lööf"
+      },
+      "Johan_Pehrson": {
+        "political_position": "Liberals",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Johan_Pehrson"
+      },
+      "Ulf_Kristersson": {
+        "political_position": "Moderate Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ulf_Kristersson"
+      },
+      "Ebba_Busch": {
+        "political_position": "Christian Democrats",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ebba_Busch"
+      },
+      "Jimmie_Åkesson": {
+        "political_position": "Sweden Democrats",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Jimmie_Åkesson"
+      }
+    },
+    "Switzerland": {
+      "Swiss_People's_Party": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Economic liberalism Right-wing populism Historical: Agrarianism",
+        "url": "https://en.wikipedia.org/wiki/Swiss_People's_Party"
+      },
+      "Social_Democratic_Party_of_Switzerland": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland"
+      },
+      "FDP.The_Liberals": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism ( Swiss ) Conservative liberalism Classical liberalism",
+        "url": "https://en.wikipedia.org/wiki/FDP.The_Liberals"
+      },
+      "The_Centre_(political_party)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy",
+        "url": "https://en.wikipedia.org/wiki/The_Centre_(political_party)"
+      },
+      "Green_Party_of_Switzerland": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_of_Switzerland"
+      },
+      "Green_Liberal_Party_of_Switzerland": {
+        "political_position": "Centre",
+        "ideology": "Green liberalism",
+        "url": "https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland"
+      },
+      "Evangelical_People's_Party_of_Switzerland": {
+        "political_position": "Economic: Centre to centre-left Social: Centre-right",
+        "ideology": "Christian democracy Social conservatism Stewardship theology",
+        "url": "https://en.wikipedia.org/wiki/Evangelical_People's_Party_of_Switzerland"
+      },
+      "Federal_Democratic_Union_of_Switzerland": {
+        "political_position": "Right-wing",
+        "ideology": "Christian right Right-wing populism National conservatism Social conservatism Euroscepticism Historical : Strasserism Revolutionary nationalism Solidarism",
+        "url": "https://en.wikipedia.org/wiki/Federal_Democratic_Union_of_Switzerland"
+      }
+    },
+    "United Kingdom": {
+      "Labour_Party_(UK)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Labour_Party_(UK)"
+      },
+      "Conservative_Party_(UK)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism ( British ) British unionism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_Party_(UK)"
+      },
+      "Reform_UK": {
+        "political_position": "Right-wing",
+        "ideology": "Right-wing populism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Reform_UK"
+      },
+      "Liberal_Democrats_(UK)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism ( British ) Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)"
+      },
+      "Scottish_National_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Scottish nationalism Scottish independence Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Scottish_National_Party"
+      },
+      "Plaid_Cymru": {
+        "political_position": "Centre-left",
+        "ideology": "Welsh nationalism Welsh independence Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Plaid_Cymru"
+      },
+      "Sinn_Féin": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Irish republicanism Democratic socialism Left-wing nationalism",
+        "url": "https://en.wikipedia.org/wiki/Sinn_Féin"
+      },
+      "Democratic_Unionist_Party": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "British unionism British nationalism Ulster loyalism National conservatism Social conservatism Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Unionist_Party"
+      },
+      "Alliance_Party_of_Northern_Ireland": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism Nonsectarianism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland"
+      },
+      "Ulster_Unionist_Party": {
+        "political_position": "Centre-right",
+        "ideology": "British unionism Conservatism ( British )",
+        "url": "https://en.wikipedia.org/wiki/Ulster_Unionist_Party"
+      },
+      "SDLP": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Irish nationalism",
+        "url": "https://en.wikipedia.org/wiki/SDLP"
+      },
+      "Traditional_Unionist_Voice": {
+        "political_position": "Right-wing",
+        "ideology": "British unionism National conservatism Social conservatism Anti-Good Friday Agreement Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Traditional_Unionist_Voice"
+      },
+      "Scottish_Labour": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy British devolution British unionism",
+        "url": "https://en.wikipedia.org/wiki/Scottish_Labour"
+      },
+      "Scottish_Conservatives": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism ( British ) British unionism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Scottish_Conservatives"
+      },
+      "Scottish_Liberal_Democrats": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism Social liberalism British federalism British unionism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Scottish_Liberal_Democrats"
+      },
+      "Scottish_Greens": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Green politics Scottish independence Scottish republicanism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Scottish_Greens"
+      },
+      "Welsh_Labour": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Welsh_Labour"
+      },
+      "Welsh_Conservatives": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism ( British ) Economic liberalism British unionism",
+        "url": "https://en.wikipedia.org/wiki/Welsh_Conservatives"
+      },
+      "Welsh_Liberal_Democrats": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism Social liberalism British federalism British unionism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Welsh_Liberal_Democrats"
+      },
+      "Wales_Green_Party": {
+        "political_position": "Left-wing",
+        "ideology": "Green politics Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Wales_Green_Party"
+      },
+      "Green_Party_of_England_and_Wales": {
+        "political_position": "Left-wing",
+        "ideology": "Green politics Progressivism Factions: Anti-capitalism Eco-socialism",
+        "url": "https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales"
+      },
+      "Your_Party_(UK)": {
+        "political_position": "Left-wing",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Your_Party_(UK)"
+      }
+    },
+    "Russia": {
+      "United_Russia": {
+        "political_position": "Big tent",
+        "ideology": "Conservatism ( Russian ) Statism Cultural nationalism ( Russian )",
+        "url": "https://en.wikipedia.org/wiki/United_Russia"
+      },
+      "Communist_Party_of_the_Russian_Federation": {
+        "political_position": "Far-left",
+        "ideology": "Communism Marxism–Leninism",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_the_Russian_Federation"
+      },
+      "Liberal_Democratic_Party_of_Russia": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Russian ultranationalism Right-wing populism Social conservatism Economic interventionism Pan-Slavism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_of_Russia"
+      },
+      "A_Just_Russia_—_For_Truth": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social democracy Social conservatism National conservatism Eurasianism",
+        "url": "https://en.wikipedia.org/wiki/A_Just_Russia_—_For_Truth"
+      },
+      "New_People_(political_party)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism ( Russian ) Communitarianism Regionalism",
+        "url": "https://en.wikipedia.org/wiki/New_People_(political_party)"
+      },
+      "Russian_Party_of_Pensioners_for_Social_Justice": {
+        "political_position": "Centre",
+        "ideology": "Pensioners' interests Elderly interests Social justice Single-issue politics",
+        "url": "https://en.wikipedia.org/wiki/Russian_Party_of_Pensioners_for_Social_Justice"
+      },
+      "Yabloko": {
+        "political_position": "Centre-left",
+        "ideology": "Social liberalism Progressivism Feminism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Yabloko"
+      },
+      "Communists_of_Russia": {
+        "political_position": "Far-left",
+        "ideology": "Communism Marxism–Leninism Stalinism Anti-revisionism",
+        "url": "https://en.wikipedia.org/wiki/Communists_of_Russia"
+      },
+      "Russian_Ecological_Party_\"The_Greens\"": {
+        "political_position": "Centre",
+        "ideology": "Green politics Agrarianism",
+        "url": "https://en.wikipedia.org/wiki/Russian_Ecological_Party_\"The_Greens\""
+      },
+      "Rodina_(political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Russian ultranationalism Conservatism ( Russian ) National conservatism Social conservatism Right-wing populism Anti-communism",
+        "url": "https://en.wikipedia.org/wiki/Rodina_(political_party)"
+      },
+      "Russian_Party_of_Freedom_and_Justice": {
+        "political_position": "Centre-left",
+        "ideology": "Broad Socialism",
+        "url": "https://en.wikipedia.org/wiki/Russian_Party_of_Freedom_and_Justice"
+      },
+      "Green_Alternative_(Russia)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Green_Alternative_(Russia)"
+      },
+      "Civic_Platform_(Russia)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Liberal conservatism",
+        "url": "https://en.wikipedia.org/wiki/Civic_Platform_(Russia)"
+      }
+    },
+    "Ukraine": {
+      "Servant_of_the_People": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Populism Pro-Europeanism Atlanticism",
+        "url": "https://en.wikipedia.org/wiki/Servant_of_the_People"
+      },
+      "Platform_for_Life_and_Peace": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Platform_for_Life_and_Peace"
+      },
+      "Batkivshchyna": {
+        "political_position": "Centre-left Faction: Centre to centre-right",
+        "ideology": "Social democracy National democracy Ukrainian nationalism Pro-Europeanism Faction: Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Batkivshchyna"
+      },
+      "European_Solidarity": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Civic nationalism National democracy Decentralisation Anti-corruption Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/European_Solidarity"
+      },
+      "Holos_(political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism Anti-corruption Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Holos_(political_party)"
+      },
+      "Radical_Party_of_Oleh_Liashko": {
+        "political_position": "Left-wing",
+        "ideology": "Social democracy Left-wing populism Ukrainian nationalism Liberal nationalism Economic nationalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Radical_Party_of_Oleh_Liashko"
+      },
+      "Ukrainian_Strategy_of_Groysman": {
+        "political_position": "Centre",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman"
+      },
+      "Svoboda_(political_party)": {
+        "political_position": "Far-right",
+        "ideology": "Neo-fascism Ultranationalism Ukrainian nationalism Ethnic nationalism Right-wing populism National conservatism Anti-Russian sentiment Antisemitism Anti-communism",
+        "url": "https://en.wikipedia.org/wiki/Svoboda_(political_party)"
+      },
+      "National_Corps": {
+        "political_position": "Far-right",
+        "ideology": "Ukrainian nationalism Ultranationalism Euroscepticism Economic nationalism Right-wing populism Anti-Russian sentiment Third Position",
+        "url": "https://en.wikipedia.org/wiki/National_Corps"
+      },
+      "Ukrainian_Democratic_Alliance_for_Reform": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism Civic nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform"
+      },
+      "Serhiy_Prytula": {
+        "political_position": "Holos (2019–2022)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Serhiy_Prytula"
+      },
+      "Smart_Politics_(Ukraine)": {
+        "political_position": null,
+        "ideology": "Anti-corruption Reformism",
+        "url": "https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)"
+      },
+      "Oleksii_Arestovych": {
+        "political_position": "Independent",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Oleksii_Arestovych"
+      },
+      "Strength_and_Honor": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Strength_and_Honor"
+      }
+    },
+    "Moldova": {
+      "Party_of_Action_and_Solidarity": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity"
+      },
+      "Patriotic_Electoral_Bloc": {
+        "political_position": "Left-wing",
+        "ideology": "Anti- PAS Social conservatism Moldovenism Russophilia Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Patriotic_Electoral_Bloc"
+      },
+      "Victory_(political_bloc)": {
+        "political_position": "Left-wing",
+        "ideology": "Russophilia Moldovenism Populism Social conservatism Eurasianism Hard Euroscepticism Moldova–Russia unionism",
+        "url": "https://en.wikipedia.org/wiki/Victory_(political_bloc)"
+      },
+      "Alternative_(political_bloc)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social democracy Anti-corruption Pro-Europeanism (claimed and disputed )",
+        "url": "https://en.wikipedia.org/wiki/Alternative_(political_bloc)"
+      },
+      "Our_Party_(Moldova)": {
+        "political_position": "Left-wing",
+        "ideology": "Left-wing populism Social conservatism Soft Euroscepticism Moldovenism Russian minority politics",
+        "url": "https://en.wikipedia.org/wiki/Our_Party_(Moldova)"
+      },
+      "National_Unity_Party_(Moldova)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Moldovan-Romanian unionism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/National_Unity_Party_(Moldova)"
+      },
+      "Liberal_Democratic_Party_of_Moldova": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Liberal conservatism Pro-Europeanism Moldovan–Romanian unionism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_of_Moldova"
+      },
+      "Together_(political_bloc)": {
+        "political_position": "Centre-right",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Together_(political_bloc)"
+      },
+      "Dignity_and_Truth_Platform": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism Anti-corruption Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Dignity_and_Truth_Platform"
+      },
+      "European_Social_Democratic_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Left-wing populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/European_Social_Democratic_Party"
+      },
+      "Democracy_at_Home_Party": {
+        "political_position": null,
+        "ideology": "Populism Moldovan–Romanian unionism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democracy_at_Home_Party"
+      },
+      "Greater_Moldova_Party": {
+        "political_position": null,
+        "ideology": "Populism Moldovenism Moldovan irredentism Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Greater_Moldova_Party"
+      }
+    },
+    "Luxembourg": {
+      "Christian_Social_People's_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Christian_Social_People's_Party"
+      },
+      "Luxembourg_Socialist_Workers'_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers'_Party"
+      },
+      "Democratic_Party_(Luxembourg)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Economic liberalism Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)"
+      },
+      "The_Greens_(Luxembourg)": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)"
+      },
+      "Alternative_Democratic_Reform_Party": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Social conservatism Economic liberalism Soft Euroscepticism Luxembourgish language interests Historical: Pensioners' interests",
+        "url": "https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party"
+      },
+      "Pirate_Party_Luxembourg": {
+        "political_position": "Syncretic",
+        "ideology": "Pirate politics Direct democracy Copyright reform Government transparency",
+        "url": "https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg"
+      },
+      "The_Left_(Luxembourg)": {
+        "political_position": "Left-wing to radical left",
+        "ideology": "Democratic socialism Anti-capitalism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(Luxembourg)"
+      },
+      "Communist_Party_of_Luxembourg": {
+        "political_position": "Far-left",
+        "ideology": "Communism Marxism–Leninism Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg"
+      },
+      "The_Conservatives_(Luxembourg)": {
+        "political_position": "Right-wing to far-right [ citation needed ]",
+        "ideology": "Conservatism National conservatism Economic liberalism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)"
+      },
+      "Volt_Luxembourg": {
+        "political_position": null,
+        "ideology": "Pro-Europeanism European federalism",
+        "url": "https://en.wikipedia.org/wiki/Volt_Luxembourg"
+      },
+      "Fokus_(Luxembourg)": {
+        "political_position": "Centre",
+        "ideology": "Centrism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Fokus_(Luxembourg)"
+      }
+    },
+    "Macedonia": {
+      "For_a_European_Future": {
+        "political_position": "Centre-left",
+        "ideology": "Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/For_a_European_Future"
+      },
+      "VLEN_Coalition": {
+        "political_position": "Centre-right Faction: Centre-left",
+        "ideology": "Albanian minority interests",
+        "url": "https://en.wikipedia.org/wiki/VLEN_Coalition"
+      },
+      "European_Front": {
+        "political_position": "Centre-left",
+        "ideology": "Minority interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/European_Front"
+      },
+      "The_Left_(North_Macedonia)": {
+        "political_position": "Far-left",
+        "ideology": "Socialism Left-wing nationalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/The_Left_(North_Macedonia)"
+      },
+      "For_Our_Macedonia": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Macedonian nationalism Left-wing nationalism",
+        "url": "https://en.wikipedia.org/wiki/For_Our_Macedonia"
+      },
+      "Social_Democratic_Union_of_Macedonia": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Union_of_Macedonia"
+      },
+      "Liberal_Democratic_Party_(North_Macedonia)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(North_Macedonia)"
+      },
+      "VMRO-DPMNE": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Christian democracy Macedonian nationalism Economic liberalism Anti-communism",
+        "url": "https://en.wikipedia.org/wiki/VMRO-DPMNE"
+      },
+      "Democratic_Union_for_Integration": {
+        "political_position": "Centre-left",
+        "ideology": "Albanian minority interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Union_for_Integration"
+      },
+      "Besa_Movement": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority interests Social conservatism [ citation needed ]",
+        "url": "https://en.wikipedia.org/wiki/Besa_Movement"
+      },
+      "Democratic_Party_of_Albanians": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Albanian minority interests Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Albanians"
+      },
+      "Alternativa_(North_Macedonian_political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority interests",
+        "url": "https://en.wikipedia.org/wiki/Alternativa_(North_Macedonian_political_party)"
+      },
+      "Alliance_for_Albanians": {
+        "political_position": "Centre-right",
+        "ideology": "Albanian minority rights Conservatism Social conservatism Decentralisation Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_for_Albanians"
+      },
+      "Nikola_Gruevski": {
+        "political_position": "VMRO-DPMNE",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nikola_Gruevski"
+      }
+    },
+    "Armenia": {
+      "Armenia_Alliance": {
+        "political_position": "Centre-left",
+        "ideology": "Armenian nationalism Social market economy Russophilia",
+        "url": "https://en.wikipedia.org/wiki/Armenia_Alliance"
+      },
+      "My_Step_Alliance": {
+        "political_position": "Centre",
+        "ideology": "Liberal democracy Neoliberalism Reformism",
+        "url": "https://en.wikipedia.org/wiki/My_Step_Alliance"
+      },
+      "I_Have_Honor_Alliance": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "National conservatism Armenian nationalism Russophilia",
+        "url": "https://en.wikipedia.org/wiki/I_Have_Honor_Alliance"
+      },
+      "Prosperous_Armenia": {
+        "political_position": "Centre-right",
+        "ideology": "Social conservatism Economic liberalism Russophilia Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Prosperous_Armenia"
+      },
+      "Bright_Armenia": {
+        "political_position": "Centre",
+        "ideology": "Classical liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Bright_Armenia"
+      },
+      "Free_Democrats_(Armenia)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Pro-Europeanism Pro-Western Anti- EAEU",
+        "url": "https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)"
+      },
+      "Hanrapetutyun_Party": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservative liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Hanrapetutyun_Party"
+      },
+      "National_Democratic_Pole": {
+        "political_position": null,
+        "ideology": "Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian",
+        "url": "https://en.wikipedia.org/wiki/National_Democratic_Pole"
+      },
+      "Armenian_Revolutionary_Federation": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Armenian nationalism United Armenia Social market economy Populism Russophilia",
+        "url": "https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation"
+      },
+      "Civil_Contract_(Armenia)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Reformism Populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Civil_Contract_(Armenia)"
+      }
+    },
+    "Georgia": {
+      "Georgian_Dream": {
+        "political_position": "Syncretic Fiscal: Centre-left Social: Right-wing",
+        "ideology": "Populism Conservatism Social market economy Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Georgian_Dream"
+      },
+      "Coalition_for_Change_(Georgia)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Pro-Europeanism Factions: Libertarianism Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)"
+      },
+      "Unity_–_National_Movement": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Unity_–_National_Movement"
+      },
+      "Strong_Georgia": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Strong_Georgia"
+      },
+      "For_Georgia": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social democracy Technocracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/For_Georgia"
+      },
+      "New_Political_Centre_–_Girchi": {
+        "political_position": "Right-wing",
+        "ideology": "Libertarianism",
+        "url": "https://en.wikipedia.org/wiki/New_Political_Centre_–_Girchi"
+      },
+      "Alliance_of_Patriots_of_Georgia": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia"
+      },
+      "Georgian_Labour_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Left-wing populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Georgian_Labour_Party"
+      }
+    },
+    "Bosnia and Herzegovina": {},
+    "Iceland": {
+      "Independence_Party_(Iceland)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism ( Icelandic ) Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Independence_Party_(Iceland)"
+      },
+      "Left-Green_Movement": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Eco-socialism Democratic socialism Feminism Pacifism",
+        "url": "https://en.wikipedia.org/wiki/Left-Green_Movement"
+      },
+      "Social_Democratic_Alliance": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism [ non-primary source needed ]",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Alliance"
+      },
+      "Centre_Party_(Iceland)": {
+        "political_position": "Right-wing",
+        "ideology": "Conservatism Agrarianism ( Nordic ) Right-wing populism",
+        "url": "https://en.wikipedia.org/wiki/Centre_Party_(Iceland)"
+      },
+      "Progressive_Party_(Iceland)": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Agrarianism ( Nordic ) Liberalism Liberal conservatism",
+        "url": "https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)"
+      },
+      "Pirate_Party_(Iceland)": {
+        "political_position": null,
+        "ideology": "Pirate politics Direct democracy Open government",
+        "url": "https://en.wikipedia.org/wiki/Pirate_Party_(Iceland)"
+      },
+      "People's_Party_(Iceland)": {
+        "political_position": "Centre-left",
+        "ideology": "Populism Left-wing populism Socialism",
+        "url": "https://en.wikipedia.org/wiki/People's_Party_(Iceland)"
+      },
+      "Viðreisn": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Liberalism Economic liberalism Green liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Viðreisn"
+      },
+      "Icelandic_Socialist_Party": {
+        "political_position": "Left-wing",
+        "ideology": "Socialism Democratic socialism Anti-neoliberalism",
+        "url": "https://en.wikipedia.org/wiki/Icelandic_Socialist_Party"
+      }
+    },
+    "Montenegro": {
+      "Europe_Now": {
+        "political_position": "Centre",
+        "ideology": "Populism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Europe_Now"
+      },
+      "Democratic_Party_of_Socialists_of_Montenegro": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Populism Montenegrin nationalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Socialists_of_Montenegro"
+      },
+      "Democratic_Montenegro": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservative liberalism Populism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democratic_Montenegro"
+      },
+      "United_Reform_Action": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Green liberalism Social liberalism Progressivism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/United_Reform_Action"
+      },
+      "Bosniak_Party": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Bosniak nationalism Social conservatism Bosniak minority interests Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Bosniak_Party"
+      },
+      "Socialist_People's_Party_of_Montenegro": {
+        "political_position": "Fiscal: Centre-left Social: Centre-right",
+        "ideology": "Social democracy Social conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Socialist_People's_Party_of_Montenegro"
+      },
+      "Albanian_Alternative": {
+        "political_position": "Center-right",
+        "ideology": "Albanian minority interests Pro-Europeanism Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Albanian_Alternative"
+      },
+      "Social_Democrats_of_Montenegro": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democrats_of_Montenegro"
+      },
+      "Social_Democratic_Party_of_Montenegro": {
+        "political_position": "Centre-left",
+        "ideology": "Montenegrin nationalism Pro-Europeanism Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Montenegro"
+      },
+      "New_Serb_Democracy": {
+        "political_position": "Right-wing",
+        "ideology": "Serbian nationalism National conservatism",
+        "url": "https://en.wikipedia.org/wiki/New_Serb_Democracy"
+      },
+      "Democratic_People's_Party_(Montenegro)": {
+        "political_position": "Centre to Centre-right Faction Centre-left",
+        "ideology": "Serbian–Montenegrin unionism Social conservatism Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Democratic_People's_Party_(Montenegro)"
+      }
+    },
+    "Turkey": {
+      "People's_Alliance_(Turkey)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "National conservatism Conservatism ( Turkish ) Factions: Right-wing populism Social conservatism Neo-Ottomanism Turkish-Islamic nationalism Turkish ultranationalism Islamokemalism Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/People's_Alliance_(Turkey)"
+      },
+      "Nation_Alliance_(Turkey)": {
+        "political_position": "Big tent",
+        "ideology": "Strengthened parliamentary system (ideologies vary by party)",
+        "url": "https://en.wikipedia.org/wiki/Nation_Alliance_(Turkey)"
+      },
+      "Labour_and_Freedom_Alliance": {
+        "political_position": "Left-wing",
+        "ideology": "Progressivism Left-wing populism Anti-capitalism Minority rights Factions : Communism Social democracy Regionalism",
+        "url": "https://en.wikipedia.org/wiki/Labour_and_Freedom_Alliance"
+      },
+      "Ancestral_Alliance": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Kemalism Ultranationalism National conservatism Anti-immigration Parliamentarism",
+        "url": "https://en.wikipedia.org/wiki/Ancestral_Alliance"
+      }
+    }
+  },
+  "updatedAt": "2025-09-04T11:21:41Z"
+}

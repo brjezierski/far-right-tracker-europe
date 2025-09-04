@@ -1,0 +1,19 @@
+.main {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.updated {
+  color: #666;
+}
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 12px;
+}

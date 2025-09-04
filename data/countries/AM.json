@@ -1,0 +1,203 @@
+{
+  "country": "Armenia",
+  "parties": [
+    "Armenia_Alliance",
+    "I_Have_Honor_Alliance",
+    "National_Democratic_Pole",
+    "Armenian_Revolutionary_Federation"
+  ],
+  "latestSupport": 22.9,
+  "seriesByParty": {
+    "Armenia_Alliance": [
+      {
+        "date": "2011-06-18",
+        "value": 28.7
+      },
+      {
+        "date": "2006-06-10",
+        "value": 24.1
+      },
+      {
+        "date": "2021-05-28",
+        "value": 17.5
+      },
+      {
+        "date": "2021-05-21",
+        "value": 14.3
+      },
+      {
+        "date": "2021-04-27",
+        "value": 8.1
+      },
+      {
+        "date": "2021-03-29",
+        "value": 5.9
+      }
+    ],
+    "I_Have_Honor_Alliance": [
+      {
+        "date": "2011-06-18",
+        "value": 10.8
+      },
+      {
+        "date": "2006-06-10",
+        "value": 7.4
+      },
+      {
+        "date": "2021-05-28",
+        "value": 2.7
+      },
+      {
+        "date": "2021-05-21",
+        "value": 3.1
+      },
+      {
+        "date": "2021-04-27",
+        "value": 1.8
+      },
+      {
+        "date": "2021-03-29",
+        "value": 2.4
+      },
+      {
+        "date": "2021-05-04",
+        "value": 1.0
+      },
+      {
+        "date": "2021-02-17",
+        "value": 2.2
+      },
+      {
+        "date": "2021-02-16",
+        "value": 1.0
+      },
+      {
+        "date": "2020-06-27",
+        "value": 1.4
+      },
+      {
+        "date": "2019-12-01",
+        "value": 1.5
+      },
+      {
+        "date": "2019-10-13",
+        "value": 4.0
+      },
+      {
+        "date": "2019-05-31",
+        "value": 5.0
+      },
+      {
+        "date": "2019-05-09",
+        "value": 1.6
+      },
+      {
+        "date": "2018-12-09",
+        "value": 4.7
+      }
+    ],
+    "National_Democratic_Pole": [
+      {
+        "date": "2011-06-18",
+        "value": 0.7
+      },
+      {
+        "date": "2006-06-10",
+        "value": 0.8
+      },
+      {
+        "date": "2021-05-28",
+        "value": 1.7
+      },
+      {
+        "date": "2021-05-21",
+        "value": 1.0
+      },
+      {
+        "date": "2021-04-27",
+        "value": 1.1
+      },
+      {
+        "date": "2021-03-29",
+        "value": 0.5
+      },
+      {
+        "date": "2021-05-04",
+        "value": 1.0
+      },
+      {
+        "date": "2021-02-17",
+        "value": 0.4
+      },
+      {
+        "date": "2021-02-16",
+        "value": 1.0
+      },
+      {
+        "date": "2020-06-27",
+        "value": 0.1
+      },
+      {
+        "date": "2019-12-01",
+        "value": 1.1
+      },
+      {
+        "date": "2019-05-31",
+        "value": 1.0
+      },
+      {
+        "date": "2019-05-09",
+        "value": 1.21
+      }
+    ],
+    "Armenian_Revolutionary_Federation": [
+      {
+        "date": "2021-04-27",
+        "value": 1.1
+      },
+      {
+        "date": "2021-03-29",
+        "value": 2.1
+      },
+      {
+        "date": "2021-05-04",
+        "value": 1.0
+      },
+      {
+        "date": "2021-02-17",
+        "value": 2.2
+      },
+      {
+        "date": "2021-02-16",
+        "value": 1.0
+      },
+      {
+        "date": "2020-06-27",
+        "value": 1.8
+      },
+      {
+        "date": "2019-12-01",
+        "value": 2.5
+      },
+      {
+        "date": "2019-10-13",
+        "value": 3.0
+      },
+      {
+        "date": "2019-05-31",
+        "value": 4.0
+      },
+      {
+        "date": "2019-05-09",
+        "value": 1.6
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_Armenian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-09-04T11:19:12Z"
+}

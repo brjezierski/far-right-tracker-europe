@@ -1,0 +1,66 @@
+{
+  "country": "Portugal",
+  "parties": [
+    "Chega_(political_party)"
+  ],
+  "latestSupport": 22.1,
+  "seriesByParty": {
+    "Chega_(political_party)": [
+      {
+        "date": "2025-08-14",
+        "value": 22.1
+      },
+      {
+        "date": "2025-08-14",
+        "value": 22.1
+      },
+      {
+        "date": "2025-08-14",
+        "value": 22.1
+      },
+      {
+        "date": "2025-07-18",
+        "value": 20.2
+      },
+      {
+        "date": "2025-07-18",
+        "value": 20.2
+      },
+      {
+        "date": "2025-07-18",
+        "value": 20.2
+      },
+      {
+        "date": "2025-06-15",
+        "value": 21.7
+      },
+      {
+        "date": "2025-06-15",
+        "value": 21.7
+      },
+      {
+        "date": "2025-06-15",
+        "value": 21.7
+      },
+      {
+        "date": "2025-05-18",
+        "value": 22.8
+      },
+      {
+        "date": "2025-05-18",
+        "value": 22.8
+      },
+      {
+        "date": "2025-05-18",
+        "value": 22.8
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
+    }
+  ],
+  "updatedAt": "2025-09-04T11:20:59Z"
+}

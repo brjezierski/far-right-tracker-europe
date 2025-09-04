@@ -1,0 +1,53 @@
+{
+  "country": "Luxembourg",
+  "parties": [
+    "Alternative_Democratic_Reform_Party",
+    "The_Conservatives_(Luxembourg)"
+  ],
+  "latestSupport": 9.600000000000001,
+  "seriesByParty": {
+    "Alternative_Democratic_Reform_Party": [
+      {
+        "date": "2025-04-24",
+        "value": 9.3
+      },
+      {
+        "date": "2024-09-30",
+        "value": 10.7
+      },
+      {
+        "date": "2024-06-09",
+        "value": 11.76
+      },
+      {
+        "date": "2023-10-08",
+        "value": 9.27
+      }
+    ],
+    "The_Conservatives_(Luxembourg)": [
+      {
+        "date": "2025-04-24",
+        "value": 0.3
+      },
+      {
+        "date": "2024-09-30",
+        "value": 0.2
+      },
+      {
+        "date": "2024-06-09",
+        "value": 0.58
+      },
+      {
+        "date": "2023-10-08",
+        "value": 0.27
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
+    }
+  ],
+  "updatedAt": "2025-09-04T11:20:29Z"
+}

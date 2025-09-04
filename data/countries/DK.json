@@ -1,0 +1,52 @@
+{
+  "country": "Denmark",
+  "parties": [
+    "Denmark_Democrats",
+    "Danish_People's_Party",
+    "New_Right_(Denmark)"
+  ],
+  "latestSupport": 15.1,
+  "seriesByParty": {
+    "Denmark_Democrats": [
+      {
+        "date": "2023-09-11",
+        "value": 7.0
+      },
+      {
+        "date": "2023-09-11",
+        "value": 7.0
+      }
+    ],
+    "Danish_People's_Party": [
+      {
+        "date": "2023-09-11",
+        "value": 6.6
+      },
+      {
+        "date": "2023-09-11",
+        "value": 6.6
+      },
+      {
+        "date": "2023-09-11",
+        "value": 6.6
+      }
+    ],
+    "New_Right_(Denmark)": [
+      {
+        "date": "2023-09-11",
+        "value": 1.5
+      },
+      {
+        "date": "2023-09-11",
+        "value": 1.5
+      }
+    ]
+  },
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election"
+    }
+  ],
+  "updatedAt": "2025-09-04T11:19:39Z"
+}

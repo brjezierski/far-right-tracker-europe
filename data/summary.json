@@ -1,0 +1,507 @@
+{
+  "updatedAt": "2025-09-04T11:21:41Z",
+  "countries": {
+    "AL": {
+      "country": "Albania",
+      "iso2": "AL",
+      "parties": [
+        "Lëvizja_Shqipëria_Bëhet"
+      ],
+      "latestSupport": 7.6,
+      "latestUpdate": "2025-09-04T11:19:08Z"
+    },
+    "MK": {
+      "country": "Macedonia",
+      "iso2": "MK",
+      "parties": [
+        "The_Left_(North_Macedonia)",
+        "For_Our_Macedonia"
+      ],
+      "latestSupport": 12.75,
+      "latestUpdate": "2025-09-04T11:20:49Z"
+    },
+    "PL": {
+      "country": "Poland",
+      "iso2": "PL",
+      "parties": [
+        "United_Right_(Poland)",
+        "Confederation_Liberty_and_Independence",
+        "Confederation_of_the_Polish_Crown"
+      ],
+      "latestSupport": 49.5,
+      "latestUpdate": "2025-09-04T11:20:55Z"
+    },
+    "AT": {
+      "country": "Austria",
+      "iso2": "AT",
+      "parties": [
+        "Freedom_Party_of_Austria"
+      ],
+      "latestSupport": 35.0,
+      "latestUpdate": "2025-09-04T11:19:15Z"
+    },
+    "CY": {
+      "country": "Cyprus",
+      "iso2": "CY",
+      "parties": [
+        "ELAM_(Cyprus)",
+        "Democratic_Party_(Cyprus)",
+        "Movement_for_Social_Democracy"
+      ],
+      "latestSupport": 28.699999999999996,
+      "latestUpdate": "2025-09-04T11:19:32Z"
+    },
+    "RO": {
+      "country": "Romania",
+      "iso2": "RO",
+      "parties": [
+        "Social_Democratic_Party_(Romania)",
+        "AUR_Alliance",
+        "S.O.S._Romania",
+        "Party_of_Young_People",
+        "Democratic_Alliance_of_Hungarians_in_Romania",
+        "People's_Movement_Party",
+        "Justice_and_Respect_in_Europe_for_All_Party"
+      ],
+      "latestSupport": 64.2,
+      "latestUpdate": "2025-09-04T11:21:02Z"
+    },
+    "SK": {
+      "country": "Slovakia",
+      "iso2": "SK",
+      "parties": [
+        "Direction_–_Social_Democracy",
+        "Slovak_National_Party",
+        "Republic_(Slovakia)",
+        "Hungarian_Alliance_(Slovak_political_party)",
+        "We_Are_Family_(Slovakia)",
+        "People's_Party_Our_Slovakia"
+      ],
+      "latestSupport": 39.6,
+      "latestUpdate": "2025-09-04T11:21:14Z"
+    },
+    "SE": {
+      "country": "Sweden",
+      "iso2": "SE",
+      "parties": [
+        "Sweden_Democrats"
+      ],
+      "latestSupport": 11.8,
+      "latestUpdate": "2025-09-04T11:21:25Z"
+    },
+    "GB": {
+      "country": "United Kingdom",
+      "iso2": "GB",
+      "parties": [
+        "Reform_UK",
+        "Scottish_National_Party",
+        "Plaid_Cymru"
+      ],
+      "latestSupport": 33.0,
+      "latestUpdate": "2025-09-04T11:21:41Z"
+    },
+    "DE": {
+      "country": "Germany",
+      "iso2": "DE",
+      "parties": [
+        "Alternative_for_Germany",
+        "Sahra_Wagenknecht_Alliance"
+      ],
+      "latestSupport": 29.0,
+      "latestUpdate": "2025-09-04T11:19:53Z"
+    },
+    "DK": {
+      "country": "Denmark",
+      "iso2": "DK",
+      "parties": [
+        "Denmark_Democrats",
+        "Danish_People's_Party",
+        "New_Right_(Denmark)"
+      ],
+      "latestSupport": 15.1,
+      "latestUpdate": "2025-09-04T11:19:39Z"
+    },
+    "NL": {
+      "country": "Netherlands",
+      "iso2": "NL",
+      "parties": [
+        "Party_for_Freedom",
+        "Farmer–Citizen_Movement",
+        "Forum_for_Democracy",
+        "JA21"
+      ],
+      "latestSupport": 49.0,
+      "latestUpdate": "2025-09-04T11:20:45Z"
+    },
+    "BE": {
+      "country": "Belgium",
+      "iso2": "BE",
+      "parties": [
+        "New_Flemish_Alliance",
+        "Vlaams_Belang"
+      ],
+      "latestSupport": 47.400000000000006,
+      "latestUpdate": "2025-09-04T11:19:19Z"
+    },
+    "CZ": {
+      "country": "Czech Republic",
+      "iso2": "CZ",
+      "parties": [
+        "ANO_2011",
+        "Freedom_and_Direct_Democracy",
+        "Motorists_for_Themselves",
+        "Stačilo!"
+      ],
+      "latestSupport": 36.5,
+      "latestUpdate": "2025-09-04T11:19:36Z"
+    },
+    "HU": {
+      "country": "Hungary",
+      "iso2": "HU",
+      "parties": [
+        "Fidesz–KDNP",
+        "Our_Homeland_Movement",
+        "Jobbik"
+      ],
+      "latestSupport": 42.0,
+      "latestUpdate": "2025-09-04T11:20:04Z"
+    },
+    "CH": {
+      "country": "Switzerland",
+      "iso2": "CH",
+      "parties": [
+        "Swiss_People's_Party",
+        "Federal_Democratic_Union_of_Switzerland"
+      ],
+      "latestSupport": 29.099999999999998,
+      "latestUpdate": "2025-09-04T11:21:29Z"
+    },
+    "LU": {
+      "country": "Luxembourg",
+      "iso2": "LU",
+      "parties": [
+        "Alternative_Democratic_Reform_Party",
+        "The_Conservatives_(Luxembourg)"
+      ],
+      "latestSupport": 9.600000000000001,
+      "latestUpdate": "2025-09-04T11:20:29Z"
+    },
+    "FR": {
+      "country": "France",
+      "iso2": "FR",
+      "parties": [
+        "Debout_la_France",
+        "National_Rally",
+        "Reconquête"
+      ],
+      "latestSupport": 38.5,
+      "latestUpdate": "2025-09-04T11:19:50Z"
+    },
+    "ES": {
+      "country": "Spain",
+      "iso2": "ES",
+      "parties": [
+        "Vox_(political_party)",
+        "Republican_Left_of_Catalonia",
+        "EH_Bildu",
+        "Basque_Nationalist_Party",
+        "Galician_Nationalist_Bloc",
+        "Canarian_Coalition",
+        "Se_Acabó_La_Fiesta"
+      ],
+      "latestSupport": 23.500000000000004,
+      "latestUpdate": "2025-09-04T11:21:22Z"
+    },
+    "PT": {
+      "country": "Portugal",
+      "iso2": "PT",
+      "parties": [
+        "Chega_(political_party)"
+      ],
+      "latestSupport": 22.1,
+      "latestUpdate": "2025-09-04T11:20:59Z"
+    },
+    "IT": {
+      "country": "Italy",
+      "iso2": "IT",
+      "parties": [
+        "Brothers_of_Italy",
+        "Lega_(political_party)"
+      ],
+      "latestSupport": 37.4,
+      "latestUpdate": "2025-09-04T11:20:15Z"
+    },
+    "IE": {
+      "country": "Ireland",
+      "iso2": "IE",
+      "parties": [
+        "Sinn_Féin",
+        "Independent_Ireland"
+      ],
+      "latestSupport": 22.6,
+      "latestUpdate": "2025-09-04T11:20:11Z"
+    },
+    "UA": {
+      "country": "Ukraine",
+      "iso2": "UA",
+      "parties": [
+        "Batkivshchyna",
+        "European_Solidarity",
+        "Radical_Party_of_Oleh_Liashko",
+        "Svoboda_(political_party)",
+        "National_Corps",
+        "Ukrainian_Democratic_Alliance_for_Reform"
+      ],
+      "latestSupport": 23.200000000000003,
+      "latestUpdate": "2025-09-04T11:21:38Z"
+    },
+    "NO": {
+      "country": "Norway",
+      "iso2": "NO",
+      "parties": [
+        "Centre_Party_(Norway)",
+        "Progress_Party_(Norway)"
+      ],
+      "latestSupport": 32.4,
+      "latestUpdate": "2025-09-04T11:20:52Z"
+    },
+    "FI": {
+      "country": "Finland",
+      "iso2": "FI",
+      "parties": [
+        "Finns_Party"
+      ],
+      "latestSupport": 11.0,
+      "latestUpdate": "2025-09-04T11:19:46Z"
+    },
+    "GR": {
+      "country": "Greece",
+      "iso2": "GR",
+      "parties": [
+        "Greek_Solution",
+        "Victory_(Greek_political_party)",
+        "Course_of_Freedom",
+        "Voice_of_Reason_(political_party)",
+        "Spartans_(Greek_political_party)"
+      ],
+      "latestSupport": 28.799999999999997,
+      "latestUpdate": "2025-09-04T11:20:00Z"
+    },
+    "BG": {
+      "country": "Bulgaria",
+      "iso2": "BG",
+      "parties": [
+        "Revival_(Bulgarian_political_party)",
+        "There_is_Such_a_People",
+        "Morality,_Unity,_Honour",
+        "Velichie"
+      ],
+      "latestSupport": 30.6,
+      "latestUpdate": "2025-09-04T11:19:26Z"
+    },
+    "HR": {
+      "country": "Croatia",
+      "iso2": "HR",
+      "parties": [
+        "Homeland_Movement_(Croatia)",
+        "Home_and_National_Rally",
+        "The_Bridge_(Croatia)"
+      ],
+      "latestSupport": 10.5,
+      "latestUpdate": "2025-09-04T11:19:29Z"
+    },
+    "EE": {
+      "country": "Estonia",
+      "iso2": "EE",
+      "parties": [
+        "Conservative_People's_Party_of_Estonia",
+        "Estonian_Nationalists_and_Conservatives"
+      ],
+      "latestSupport": 17.1,
+      "latestUpdate": "2025-09-04T11:19:42Z"
+    },
+    "LV": {
+      "country": "Latvia",
+      "iso2": "LV",
+      "parties": [
+        "New_Unity",
+        "Union_of_Greens_and_Farmers",
+        "National_Alliance_(Latvia)",
+        "Latvia_First",
+        "Platform_21"
+      ],
+      "latestSupport": 51.599999999999994,
+      "latestUpdate": "2025-09-04T11:20:22Z"
+    },
+    "LT": {
+      "country": "Lithuania",
+      "iso2": "LT",
+      "parties": [
+        "National_Alliance_(Lithuania)",
+        "People_and_Justice_Union"
+      ],
+      "latestSupport": 31.6,
+      "latestUpdate": "2025-09-04T11:20:25Z"
+    },
+    "RU": {
+      "country": "Russia",
+      "iso2": "RU",
+      "parties": [
+        "United_Russia",
+        "Liberal_Democratic_Party_of_Russia",
+        "Rodina_(political_party)"
+      ],
+      "latestSupport": 53.0,
+      "latestUpdate": "2025-09-04T11:21:06Z"
+    },
+    "RS": {
+      "country": "Serbia",
+      "iso2": "RS",
+      "parties": [
+        "We_–_Power_of_the_People"
+      ],
+      "latestSupport": 2.9,
+      "latestUpdate": "2025-09-04T11:21:11Z"
+    },
+    "SI": {
+      "country": "Slovenia",
+      "iso2": "SI",
+      "parties": [
+        "Slovenian_Democratic_Party",
+        "New_Slovenia",
+        "Slovenian_National_Party"
+      ],
+      "latestSupport": 29.3,
+      "latestUpdate": "2025-09-04T11:21:18Z"
+    },
+    "GE": {
+      "country": "Georgia",
+      "iso2": "GE",
+      "parties": [
+        "Alliance_of_Patriots_of_Georgia"
+      ],
+      "latestSupport": 1.8,
+      "latestUpdate": "2025-09-04T11:19:57Z"
+    },
+    "Country 'Czech Republic' not found.": {
+      "country": "Czech Republic",
+      "iso2": "Country 'Czech Republic' not found.",
+      "parties": [
+        "ANO_2011",
+        "Freedom_and_Direct_Democracy",
+        "Přísaha",
+        "Motorists_for_Themselves",
+        "Stačilo!"
+      ],
+      "latestSupport": 38.8,
+      "latestUpdate": "2025-09-04T10:28:44Z"
+    },
+    "Country 'Russia' not found.": {
+      "country": "Russia",
+      "iso2": "Country 'Russia' not found.",
+      "parties": [
+        "Liberal_Democratic_Party_of_Russia",
+        "Rodina_(political_party)"
+      ],
+      "latestSupport": 11.0,
+      "latestUpdate": "2025-08-18T15:16:50Z"
+    },
+    "IS": {
+      "country": "Iceland",
+      "iso2": "IS",
+      "parties": [
+        "Centre_Party_(Iceland)"
+      ],
+      "latestSupport": 5.4,
+      "latestUpdate": "2025-09-04T11:20:08Z"
+    },
+    "TR": {
+      "country": "Turkey",
+      "iso2": "TR",
+      "parties": [
+        "People's_Alliance_(Turkey)",
+        "Ancestral_Alliance"
+      ],
+      "latestSupport": 48.199999999999996,
+      "latestUpdate": "2025-09-04T11:21:32Z"
+    },
+    "AM": {
+      "country": "Armenia",
+      "iso2": "AM",
+      "parties": [
+        "Armenia_Alliance",
+        "I_Have_Honor_Alliance",
+        "National_Democratic_Pole",
+        "Armenian_Revolutionary_Federation"
+      ],
+      "latestSupport": 22.9,
+      "latestUpdate": "2025-09-04T11:19:12Z"
+    },
+    "Country 'Kosovo' not found.": {
+      "country": "Kosovo",
+      "iso2": "Country 'Kosovo' not found.",
+      "parties": [
+        "Vetëvendosje"
+      ],
+      "latestSupport": 0,
+      "latestUpdate": "2025-09-04T10:29:34Z"
+    },
+    "Country 'Moldova' not found.": {
+      "country": "Moldova",
+      "iso2": "Country 'Moldova' not found.",
+      "parties": [
+        "Our_Party_(Moldova)",
+        "Victory_(political_bloc)",
+        "European_Social_Democratic_Party",
+        "Democracy_at_Home_Party",
+        "Greater_Moldova_Party"
+      ],
+      "latestSupport": 16.7,
+      "latestUpdate": "2025-09-04T10:30:01Z"
+    },
+    "ME": {
+      "country": "Montenegro",
+      "iso2": "ME",
+      "parties": [
+        "Democratic_Party_of_Socialists_of_Montenegro",
+        "Social_Democratic_Party_of_Montenegro",
+        "New_Serb_Democracy",
+        "Bosniak_Party"
+      ],
+      "latestSupport": 53.0,
+      "latestUpdate": "2025-09-04T11:20:42Z"
+    },
+    "Country 'Macedonia' not found.": {
+      "country": "Macedonia",
+      "iso2": "Country 'Macedonia' not found.",
+      "parties": [
+        "The_Left_(North_Macedonia)",
+        "For_Our_Macedonia"
+      ],
+      "latestSupport": 12.75,
+      "latestUpdate": "2025-09-04T10:30:11Z"
+    },
+    "MD": {
+      "country": "Moldova",
+      "iso2": "MD",
+      "parties": [
+        "Our_Party_(Moldova)",
+        "Victory_(political_bloc)",
+        "European_Social_Democratic_Party",
+        "Democracy_at_Home_Party",
+        "Greater_Moldova_Party"
+      ],
+      "latestSupport": 16.7,
+      "latestUpdate": "2025-09-04T11:12:07Z"
+    },
+    "XK": {
+      "country": "Kosovo",
+      "iso2": "XK",
+      "parties": [
+        "Vetëvendosje"
+      ],
+      "latestSupport": 0,
+      "latestUpdate": "2025-09-04T11:20:18Z"
+    }
+  }
+}
