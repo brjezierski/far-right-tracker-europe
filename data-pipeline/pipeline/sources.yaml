@@ -1,7 +1,0 @@
-# Optionally pin or override sources per country. Empty to use defaults.
-# Example:
-# France:
-#   polling:
-#     - type: politico
-#     - type: wikipedia
-#       url: https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_French_legislative_election

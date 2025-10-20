@@ -36,7 +36,6 @@ export default function CountryPage({ params }: { params: { iso2: string } }) {
       <p>
         <Link href="/">Back to map</Link>
       </p>
-      <p>Parties: {data.parties.map((p: any) => p.name).join(", ")}</p>
       <p>
         Latest combined support:{" "}
         {data.latestSupport != null

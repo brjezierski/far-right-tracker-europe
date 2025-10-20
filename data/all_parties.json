@@ -159,6 +159,36 @@
         "political_position": "Left-wing to far-left",
         "ideology": "Marxism Socialism",
         "url": "https://en.wikipedia.org/wiki/Workers'_Party_of_Belgium"
+      },
+      "Parti_Socialiste_(Belgium)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy",
+        "url": "https://en.wikipedia.org/wiki/Parti_Socialiste_(Belgium)"
+      },
+      "Mouvement_Réformateur": {
+        "political_position": "Centre-right",
+        "ideology": "Liberalism ( Belgian ) Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Mouvement_Réformateur"
+      },
+      "Ecolo": {
+        "political_position": "Centre-left",
+        "ideology": "Green politics",
+        "url": "https://en.wikipedia.org/wiki/Ecolo"
+      },
+      "Les_Engagés": {
+        "political_position": "Centre",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Les_Engagés"
+      },
+      "DéFI": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Regionalism Liberalism ( Belgian ) Social liberalism",
+        "url": "https://en.wikipedia.org/wiki/DéFI"
+      },
+      "The_Committed_(political_party)": {
+        "political_position": "Centre",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/The_Committed_(political_party)"
       }
     },
     "Bulgaria": {
@@ -340,6 +370,11 @@
         "political_position": null,
         "ideology": "Animal rights Animal welfare",
         "url": "https://en.wikipedia.org/wiki/Animal_Party_Cyprus"
+      },
+      "Fidias_Panayiotou": {
+        "political_position": "Direct Democracy (2025–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Fidias_Panayiotou"
       }
     },
     "Czech Republic": {
@@ -514,6 +549,11 @@
         "political_position": "Left-wing",
         "ideology": "Green politics",
         "url": "https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)"
+      },
+      "Citizens'_Party_(Denmark)": {
+        "political_position": "Far-right",
+        "ideology": "Populism Anti-establishment",
+        "url": "https://en.wikipedia.org/wiki/Citizens'_Party_(Denmark)"
       }
     },
     "Estonia": {
@@ -1405,6 +1445,11 @@
         "political_position": "Right-wing to far-right",
         "ideology": "Conservative liberalism Fortuynism Right-wing populism Anti-immigration",
         "url": "https://en.wikipedia.org/wiki/JA21"
+      },
+      "50PLUS": {
+        "political_position": "Centre",
+        "ideology": "Pensioners' interests Populism",
+        "url": "https://en.wikipedia.org/wiki/50PLUS"
       }
     },
     "North Macedonia": {
@@ -1631,6 +1676,11 @@
         "political_position": "Civic Platform (since 2004)",
         "ideology": null,
         "url": "https://en.wikipedia.org/wiki/Rafał_Trzaskowski"
+      },
+      "Law_and_Justice": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Paternalistic conservatism Right-wing populism Soft Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Law_and_Justice"
       }
     },
     "Portugal": {
@@ -1795,6 +1845,61 @@
         "political_position": "Centre to centre-right",
         "ideology": "Centrism Anti-corruption Big tent Factions: Romanian nationalism",
         "url": "https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party"
+      },
+      "Nicușor_Dan": {
+        "political_position": "Independent (since 2017)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nicușor_Dan"
+      },
+      "Ilie_Bolojan": {
+        "political_position": "National Liberal Party (1993–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ilie_Bolojan"
+      },
+      "Călin_Georgescu": {
+        "political_position": "Independent (since 2022)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Călin_Georgescu"
+      },
+      "Sorin_Grindeanu": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Sorin_Grindeanu"
+      },
+      "George_Simion": {
+        "political_position": "Alliance for the Union of Romanians (2019–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/George_Simion"
+      },
+      "Cătălin_Predoiu": {
+        "political_position": "PNL (2014–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Cătălin_Predoiu"
+      },
+      "Dominic_Fritz": {
+        "political_position": "Save Romania Union (2019–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Dominic_Fritz"
+      },
+      "Diana_Șoșoacă": {
+        "political_position": "S.O.S. Romania (2022–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Diana_Șoșoacă"
+      },
+      "Hunor_Kelemen": {
+        "political_position": "Democratic Alliance of Hungarians in Romania (since 1997)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Hunor_Kelemen"
+      },
+      "Anamaria_Gavrilă": {
+        "political_position": "POT (2023–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Anamaria_Gavrilă"
+      },
+      "Victor_Ponta": {
+        "political_position": "Independent (since 2025)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Victor_Ponta"
       }
     },
     "Serbia": {
@@ -1842,6 +1947,11 @@
         "political_position": "Right-wing",
         "ideology": "Russophilia Right-wing populism Conspiracy theorism Anti-vaccination National conservatism Serbian nationalism",
         "url": "https://en.wikipedia.org/wiki/We_–_Power_of_the_People"
+      },
+      "Kreni-Promeni": {
+        "political_position": "Centre-right",
+        "ideology": "Localism Environmentalism Animal rights Animal welfare",
+        "url": "https://en.wikipedia.org/wiki/Kreni-Promeni"
       }
     },
     "Slovakia": {
@@ -2227,6 +2337,221 @@
         "political_position": "Right-wing",
         "ideology": "Christian right Right-wing populism National conservatism Social conservatism Euroscepticism Historical : Strasserism Revolutionary nationalism Solidarism",
         "url": "https://en.wikipedia.org/wiki/Federal_Democratic_Union_of_Switzerland"
+      },
+      "Christian_Democratic_People's_Party_of_Switzerland": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Christian democracy Social conservatism Conservatism Social market economy",
+        "url": "https://en.wikipedia.org/wiki/Christian_Democratic_People's_Party_of_Switzerland"
+      },
+      "Conservative_Democratic_Party_of_Switzerland": {
+        "political_position": "Centre to centre-right",
+        "ideology": "Conservatism",
+        "url": "https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland"
+      },
+      "Neo_–_The_Social-liberal_Centre": {
+        "political_position": "Centrist",
+        "ideology": "Christian left",
+        "url": "https://en.wikipedia.org/wiki/Neo_–_The_Social-liberal_Centre"
+      },
+      "Alternative_List": {
+        "political_position": "Left-wing",
+        "ideology": "Socialism",
+        "url": "https://en.wikipedia.org/wiki/Alternative_List"
+      },
+      "Benjamin_Giezendanner": {
+        "political_position": "Swiss People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Giezendanner"
+      },
+      "Marianne_Binder-Keller": {
+        "political_position": "The Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Marianne_Binder-Keller"
+      },
+      "Irène_Kälin": {
+        "political_position": "Green Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Irène_Kälin"
+      },
+      "Werner_Salzmann": {
+        "political_position": "SVP",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Werner_Salzmann"
+      },
+      "Jürg_Grossen": {
+        "political_position": "Green Liberal Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Jürg_Grossen"
+      },
+      "Stefan_Engler": {
+        "political_position": "The Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Stefan_Engler"
+      },
+      "Damian_Müller": {
+        "political_position": "The Liberals",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Damian_Müller"
+      },
+      "Pirmin_Bischof": {
+        "political_position": "The Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Pirmin_Bischof"
+      },
+      "Christian_Imark": {
+        "political_position": "Swiss People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Christian_Imark"
+      },
+      "Brigitte_Häberli-Koller": {
+        "political_position": "The Centre (2021–present)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Brigitte_Häberli-Koller"
+      },
+      "Beat_Rieder": {
+        "political_position": "Christian Democratic People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Beat_Rieder"
+      },
+      "Jean-Luc_Addor": {
+        "political_position": "Democratic Union of the Centre",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Jean-Luc_Addor"
+      },
+      "Daniel_Jositsch": {
+        "political_position": "Social Democratic Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Daniel_Jositsch"
+      },
+      "Regine_Sauter": {
+        "political_position": "The Liberals",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Regine_Sauter"
+      },
+      "Gregor_Rutz": {
+        "political_position": "Swiss People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Gregor_Rutz"
+      },
+      "Nick_Gugger": {
+        "political_position": "Evangelical People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Nick_Gugger"
+      },
+      "Ueli_Maurer": {
+        "political_position": "Swiss People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ueli_Maurer"
+      },
+      "Simonetta_Sommaruga": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Simonetta_Sommaruga"
+      },
+      "Alain_Berset": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Alain_Berset"
+      },
+      "Guy_Parmelin": {
+        "political_position": "Swiss People's Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Guy_Parmelin"
+      },
+      "Ignazio_Cassis": {
+        "political_position": "FDP.The Liberals",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Ignazio_Cassis"
+      },
+      "Viola_Amherd": {
+        "political_position": "The Centre (since 2021)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Viola_Amherd"
+      },
+      "Karin_Keller-Sutter": {
+        "political_position": "Free Democratic Party (until 2009) FDP. The Liberals (since 2009)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Karin_Keller-Sutter"
+      },
+      "Albert_Rösti": {
+        "political_position": "Swiss People's",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Albert_Rösti"
+      },
+      "Élisabeth_Baume-Schneider": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Élisabeth_Baume-Schneider"
+      },
+      "Eva_Herzog": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Eva_Herzog"
+      },
+      "Christian_Levrat": {
+        "political_position": "Social Democratic Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Christian_Levrat"
+      },
+      "Beat_Jans": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Beat_Jans"
+      },
+      "Tamara_Funiciello": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Tamara_Funiciello"
+      },
+      "Cédric_Wermuth": {
+        "political_position": "Social Democratic Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Cédric_Wermuth"
+      },
+      "Roger_Nordmann": {
+        "political_position": "Social Democratic Party",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Roger_Nordmann"
+      },
+      "Jacqueline_Fehr": {
+        "political_position": "Parti socialiste suisse",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Jacqueline_Fehr"
+      },
+      "Eric_Nussbaumer": {
+        "political_position": "Social Democratic Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Eric_Nussbaumer"
+      },
+      "Balthasar_Glättli": {
+        "political_position": "Green Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Balthasar_Glättli"
+      },
+      "Lisa_Mazzone": {
+        "political_position": "Green Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Lisa_Mazzone"
+      },
+      "Mathias_Zopfi": {
+        "political_position": "Green Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Mathias_Zopfi"
+      },
+      "Christine_Häsler": {
+        "political_position": "Green",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Christine_Häsler"
+      },
+      "Gerhard_Andrey": {
+        "political_position": "Green Party of Switzerland",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Gerhard_Andrey"
+      },
+      "Martin_Bäumle": {
+        "political_position": "Green Party of Switzerland Green Liberal Party of Switzerland (after 2004)",
+        "ideology": null,
+        "url": "https://en.wikipedia.org/wiki/Martin_Bäumle"
       }
     },
     "United Kingdom": {
@@ -2406,6 +2731,11 @@
         "political_position": "Centre-right to right-wing",
         "ideology": "Liberal conservatism",
         "url": "https://en.wikipedia.org/wiki/Civic_Platform_(Russia)"
+      },
+      "Party_of_Growth": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Conservative liberalism Economic liberalism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Growth"
       }
     },
     "Ukraine": {
@@ -2478,6 +2808,71 @@
         "political_position": "Centre-right",
         "ideology": "Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism",
         "url": "https://en.wikipedia.org/wiki/Strength_and_Honor"
+      },
+      "Opposition_Platform_—_For_Life": {
+        "political_position": "Left-wing",
+        "ideology": "Social democracy Left-wing populism Centrism Russophilia",
+        "url": "https://en.wikipedia.org/wiki/Opposition_Platform_—_For_Life"
+      },
+      "Opposition_Bloc_(2019)": {
+        "political_position": "Centre to centre-left",
+        "ideology": "Social liberalism Regionalism Russophilia Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Opposition_Bloc_(2019)"
+      },
+      "Nashi_(political_party)": {
+        "political_position": "Centre-left",
+        "ideology": "Social conservatism",
+        "url": "https://en.wikipedia.org/wiki/Nashi_(political_party)"
+      },
+      "Party_of_Shariy": {
+        "political_position": null,
+        "ideology": "Libertarianism Russophilia Euroscepticism",
+        "url": "https://en.wikipedia.org/wiki/Party_of_Shariy"
+      },
+      "Civil_Position": {
+        "political_position": "Centre",
+        "ideology": "Conservative liberalism Economic liberalism Centrism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Civil_Position"
+      },
+      "Self_Reliance_(political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Christian democracy Liberal conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Self_Reliance_(political_party)"
+      },
+      "For_the_Future_(political_party)": {
+        "political_position": "Centre-right [ citation needed ]",
+        "ideology": "Liberalism Economic nationalism Populism",
+        "url": "https://en.wikipedia.org/wiki/For_the_Future_(political_party)"
+      },
+      "Proposition_(political_party)": {
+        "political_position": null,
+        "ideology": "Regionalism",
+        "url": "https://en.wikipedia.org/wiki/Proposition_(political_party)"
+      },
+      "Our_Land_(Ukraine)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Regionalism Decentralization Russophilia",
+        "url": "https://en.wikipedia.org/wiki/Our_Land_(Ukraine)"
+      },
+      "People's_Front_(Ukraine)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Nationalism National Democracy Social conservatism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/People's_Front_(Ukraine)"
+      },
+      "Ukraine_is_Our_Home": {
+        "political_position": "Centre (claimed)",
+        "ideology": "Social conservatism (claimed) Pro-Europeanism (claimed) Russophilia (alleged)",
+        "url": "https://en.wikipedia.org/wiki/Ukraine_is_Our_Home"
+      },
+      "Servant_of_the_People_(political_party)": {
+        "political_position": "Centre",
+        "ideology": "Liberalism Populism Pro-Europeanism Atlanticism",
+        "url": "https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)"
+      },
+      "Strength_and_Honor_(political_party)": {
+        "political_position": "Centre-right",
+        "ideology": "Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Strength_and_Honor_(political_party)"
       }
     },
     "Moldova": {
@@ -2540,6 +2935,11 @@
         "political_position": null,
         "ideology": "Populism Moldovenism Moldovan irredentism Social liberalism Pro-Europeanism",
         "url": "https://en.wikipedia.org/wiki/Greater_Moldova_Party"
+      },
+      "Respect_Moldova_Movement": {
+        "political_position": "Centre-left",
+        "ideology": "Conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Respect_Moldova_Movement"
       }
     },
     "Luxembourg": {
@@ -2763,6 +3163,16 @@
         "political_position": "Centre-left",
         "ideology": "Social democracy Left-wing populism Pro-Europeanism",
         "url": "https://en.wikipedia.org/wiki/Georgian_Labour_Party"
+      },
+      "For_the_People_(Georgia)": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/For_the_People_(Georgia)"
+      },
+      "Freedom_Square_(political_party)": {
+        "political_position": "Center to center-left",
+        "ideology": "Social liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Freedom_Square_(political_party)"
       }
     },
     "Bosnia and Herzegovina": {},
@@ -2890,8 +3300,88 @@
         "political_position": "Right-wing to far-right",
         "ideology": "Kemalism Ultranationalism National conservatism Anti-immigration Parliamentarism",
         "url": "https://en.wikipedia.org/wiki/Ancestral_Alliance"
+      },
+      "Justice_and_Development_Party_(Turkey)": {
+        "political_position": "Right-wing",
+        "ideology": "National conservatism Social conservatism Right-wing populism Neo-Ottomanism",
+        "url": "https://en.wikipedia.org/wiki/Justice_and_Development_Party_(Turkey)"
+      },
+      "Republican_People's_Party": {
+        "political_position": "Centre-left",
+        "ideology": "Social democracy Kemalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Republican_People's_Party"
+      },
+      "Peoples'_Democratic_Party_(Turkey)": {
+        "political_position": "Centre-left to left-wing",
+        "ideology": "Minority rights Kurdish interests Kurdish nationalism Democratic socialism Secularism Progressivism Social democracy Left-wing populism Anti-Zionism Regionalism Feminism",
+        "url": "https://en.wikipedia.org/wiki/Peoples'_Democratic_Party_(Turkey)"
+      },
+      "Nationalist_Movement_Party": {
+        "political_position": "Far-right",
+        "ideology": "Turkish ultranationalism Turkish–Islamic nationalism National conservatism Right-wing populism Euroscepticism Neo-fascism",
+        "url": "https://en.wikipedia.org/wiki/Nationalist_Movement_Party"
+      },
+      "Good_Party": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Kemalism Turkish nationalism National conservatism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Good_Party"
+      },
+      "Felicity_Party": {
+        "political_position": "Right-wing",
+        "ideology": "Conservatism Religious conservatism Religious nationalism Millî Görüş Islamism",
+        "url": "https://en.wikipedia.org/wiki/Felicity_Party"
+      },
+      "Democracy_and_Progress_Party": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Neoliberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democracy_and_Progress_Party"
+      },
+      "Future_Party_(Turkey)": {
+        "political_position": "Centre-right to right-wing",
+        "ideology": "Conservatism Liberal conservatism Conservative liberalism Economic liberalism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Future_Party_(Turkey)"
+      },
+      "Great_Unity_Party": {
+        "political_position": "Far-right",
+        "ideology": "Turkish Islamonationalism Sunni Islamism Turkish ultranationalism Islamokemalism Social conservatism National conservatism",
+        "url": "https://en.wikipedia.org/wiki/Great_Unity_Party"
+      },
+      "New_Welfare_Party": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Millî Görüş Islamism Neo-Ottomanism Pan-Islamism Hard Euroscepticism Ultraconservatism",
+        "url": "https://en.wikipedia.org/wiki/New_Welfare_Party"
+      },
+      "Homeland_Party_(Turkey,_2021)": {
+        "political_position": null,
+        "ideology": "Kemalism Pro-Europeanism Populism Ulusalism (alleged)",
+        "url": "https://en.wikipedia.org/wiki/Homeland_Party_(Turkey,_2021)"
+      },
+      "Party_for_Change_in_Turkey": {
+        "political_position": "Center",
+        "ideology": "Kemalism Social democracy Social liberalism Pro-Europeanism Parliamentarism Economic nationalism",
+        "url": "https://en.wikipedia.org/wiki/Party_for_Change_in_Turkey"
+      },
+      "Democrat_Party_(Turkey,_current)": {
+        "political_position": "Centre-right",
+        "ideology": "Liberal conservatism Turkish nationalism Kemalism Right-wing populism Parliamentarism Pro-Europeanism",
+        "url": "https://en.wikipedia.org/wiki/Democrat_Party_(Turkey,_current)"
+      },
+      "Workers'_Party_of_Turkey_(2017)": {
+        "political_position": "Left-wing to far-left",
+        "ideology": "Communism Marxism–Leninism Left-wing populism Progressivism",
+        "url": "https://en.wikipedia.org/wiki/Workers'_Party_of_Turkey_(2017)"
+      },
+      "Victory_Party_(Turkey)": {
+        "political_position": "Right-wing to far-right",
+        "ideology": "Kemalism Anti-immigration Ultranationalism Pan-Turkism",
+        "url": "https://en.wikipedia.org/wiki/Victory_Party_(Turkey)"
+      },
+      "Independent_Turkey_Party": {
+        "political_position": "Center",
+        "ideology": "Kemalism Turkish nationalism Conservatism Economic nationalism Parliamentarism",
+        "url": "https://en.wikipedia.org/wiki/Independent_Turkey_Party"
       }
     }
   },
-  "updatedAt": "2025-09-04T11:21:41Z"
+  "updatedAt": "2025-10-20T22:12:11Z"
 }

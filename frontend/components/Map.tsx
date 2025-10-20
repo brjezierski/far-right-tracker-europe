@@ -73,108 +73,111 @@ export default function MapComponent({
 
     m.addControl(new maplibregl.NavigationControl({}));
 
-    fetch(EUROPE_TOPOJSON)
-      .then((r) => r.json())
-      .then((topo) => {
-        // convert topo to geojson
-        const countries = (topojson as any).feature(
-          topo,
-          topo.objects.countries
-        );
-        geoRef.current = countries;
-        m.addSource("countries", {
-          type: "geojson",
-          data: countries,
-        });
-
-        m.addLayer({
-          id: "countries-fill",
-          type: "fill",
-          source: "countries",
-          paint: {
-            "fill-color": [
-              "interpolate",
-              ["linear"],
-              ["coalesce", ["get", "support"], 0],
-              0,
-              "#fee5e5",
-              10,
-              "#fcb3b3",
-              20,
-              "#f88484",
-              30,
-              "#f15555",
-              40,
-              "#e12d2d",
-              50,
-              "#b90000",
-            ],
-            "fill-opacity": 0.8,
-          },
-        });
-
-        m.addLayer({
-          id: "countries-outline",
-          type: "line",
-          source: "countries",
-          paint: { "line-color": "#555", "line-width": 0.5 },
-        });
-
-        // initial property enrichment
-        const src = m.getSource("countries") as any;
-        if (geoRef.current && src) {
-          const base = geoRef.current;
-          const features = base.features.map((f: any) => {
-            const name = f.properties?.name;
-            const iso2 = NAME_TO_ISO2[name as keyof typeof NAME_TO_ISO2];
-            const support =
-              iso2 && summary
-                ? summary.countries?.[iso2]?.latestSupport
-                : undefined;
-            return {
-              ...f,
-              properties: { ...f.properties, iso2: iso2 || null, support },
-            };
+    // Wait for style to load before adding sources and layers
+    m.on('load', () => {
+      fetch(EUROPE_TOPOJSON)
+        .then((r) => r.json())
+        .then((topo) => {
+          // convert topo to geojson
+          const countries = (topojson as any).feature(
+            topo,
+            topo.objects.countries
+          );
+          geoRef.current = countries;
+          m.addSource("countries", {
+            type: "geojson",
+            data: countries,
           });
-          src.setData({ type: "FeatureCollection", features });
-        }
 
-        // Hover popup
-        const popup = new maplibregl.Popup({
-          closeButton: false,
-          closeOnClick: false,
-        });
-        m.on("mousemove", "countries-fill", (e: any) => {
-          const f = e.features?.[0];
-          const iso2 = f?.properties?.iso2;
-          const countryName = f?.properties?.name;
-          let html = `<strong>${countryName || ""}</strong>`;
-          if (iso2 && summary && summary.countries[iso2]) {
-            const c = summary.countries[iso2];
-            const parties = c.parties.slice(0, 6).join(", ");
-            const support =
-              c.latestSupport != null
-                ? `${c.latestSupport.toFixed(1)}%`
-                : "N/A";
-            html += `<br/>Parties: ${parties}<br/>Support: ${support}`;
-          }
-          popup.setLngLat(e.lngLat).setHTML(html).addTo(m);
-          setHoverHtml(html);
-        });
-        m.on("mouseleave", "countries-fill", () => {
-          popup.remove();
-          setHoverHtml(null);
-        });
+          m.addLayer({
+            id: "countries-fill",
+            type: "fill",
+            source: "countries",
+            paint: {
+              "fill-color": [
+                "interpolate",
+                ["linear"],
+                ["coalesce", ["get", "support"], 0],
+                0,
+                "#fee5e5",
+                10,
+                "#fcb3b3",
+                20,
+                "#f88484",
+                30,
+                "#f15555",
+                40,
+                "#e12d2d",
+                50,
+                "#b90000",
+              ],
+              "fill-opacity": 0.8,
+            },
+          });
 
-        // Click to navigate
-        m.on("click", "countries-fill", (e: any) => {
-          const f = e.features?.[0];
-          const iso2 = f?.properties?.iso2;
-          if (iso2) {
-            window.location.href = `/country/${iso2}`;
+          m.addLayer({
+            id: "countries-outline",
+            type: "line",
+            source: "countries",
+            paint: { "line-color": "#555", "line-width": 0.5 },
+          });
+
+          // initial property enrichment
+          const src = m.getSource("countries") as any;
+          if (geoRef.current && src) {
+            const base = geoRef.current;
+            const features = base.features.map((f: any) => {
+              const name = f.properties?.name;
+              const iso2 = NAME_TO_ISO2[name as keyof typeof NAME_TO_ISO2];
+              const support =
+                iso2 && summary
+                  ? summary.countries?.[iso2]?.latestSupport
+                  : undefined;
+              return {
+                ...f,
+                properties: { ...f.properties, iso2: iso2 || null, support },
+              };
+            });
+            src.setData({ type: "FeatureCollection", features });
           }
+
+          // Hover popup
+          const popup = new maplibregl.Popup({
+            closeButton: false,
+            closeOnClick: false,
+          });
+          m.on("mousemove", "countries-fill", (e: any) => {
+            const f = e.features?.[0];
+            const iso2 = f?.properties?.iso2;
+            const countryName = f?.properties?.name;
+            let html = `<strong>${countryName || ""}</strong>`;
+            if (iso2 && summary && summary.countries[iso2]) {
+              const c = summary.countries[iso2];
+              const parties = c.parties.slice(0, 6).join(", ");
+              const support =
+                c.latestSupport != null
+                  ? `${c.latestSupport.toFixed(1)}%`
+                  : "N/A";
+              html += `<br/>Parties: ${parties}<br/>Support: ${support}`;
+            }
+            popup.setLngLat(e.lngLat).setHTML(html).addTo(m);
+            setHoverHtml(html);
+          });
+          m.on("mouseleave", "countries-fill", () => {
+            popup.remove();
+            setHoverHtml(null);
+          });
+
+          // Click to navigate
+          m.on("click", "countries-fill", (e: any) => {
+            const f = e.features?.[0];
+            const iso2 = f?.properties?.iso2;
+            if (iso2) {
+              window.location.href = `/country/${iso2}`;
+            }
+          });
         });
-      });
+    });
 
     mapRef.current = m;
     return () => {
