@@ -10,14 +10,8 @@ This project displays a choropleth map of Europe showing support percentages for
 
 ## Data sources
 
-- Party lists: Wikipedia - List of active nationalist parties in Europe
-  https://en.wikipedia.org/wiki/List_of_active_nationalist_parties_in_Europe
-- Polling data priority order per country (automatically selected per availability):
-  1. Politico Europe Poll of Polls (preferred where available)
-  2. Wikipedia country-specific opinion polling pages (scraped tables)
-  3. National polling aggregators (manual mappings can be added in `data-pipeline/sources.yaml`)
-
-Each country view shows the concrete sources used.
+- Polling data is taken from Wikipedia country-specific opinion polling pages (scraped tables)
+- The party position and ideology is taken from its Wikipedia article
 
 ## Getting started
 
@@ -52,6 +46,14 @@ Install and run:
 
 - A GitHub Actions workflow `.github/workflows/update-data.yml` runs daily to refresh JSON under `data/` and commit changes.
 
+### Data Pipeline
+
+1. Collect and save polling data for **all parties** found in polling tables (not just far-right)
+2. Store data in **CSV format** instead of JSON for better data analysis compatibility
+3. Include political position and ideology metadata for each party
+4. Generate summary.json from CSV files rather than in-memory data
+
+
 ## Project structure
 
 - `frontend/` - Next.js app serving the map and country detail pages, reading JSON from `../data`.
@@ -60,31 +62,93 @@ Install and run:
   - `../data/countries/<ISO2>.json` - time series and sources
 - `data/` - Generated JSON files.
 
-## Notes and limitations
+### Data structure
 
-- Party ideology labels are contentious; the pipeline relies on Wikipedia's categorization and may include parties with varying characteristics.
-- Poll availability varies by country. Some countries may rely on election results where no polling exists; this will be indicated in sources. The gradient reflects the sum of support for parties categorized as nationalist in that country.
 
-## Development tips
+#### Country Directories (`data/countries/{ISO2}/`)
 
-- To change the color scale or thresholds, edit `frontend/lib/colors.ts`.
-- To add or pin a polling source for a country, update `data-pipeline/sources.yaml`.
+Each country now has its own directory containing:
 
-# Issues
+##### `polling_data.csv`
+Time series polling data for all parties:
+```csv
+date,party,polling_value,political_position,ideology,wikipedia_url
+2025-09-01,Social_Democratic_Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
+2025-09-01,Alternative_for_Germany,17.2,Far-right,Right-wing populism,https://en.wikipedia.org/wiki/...
+2025-08-29,Social_Democratic_Party,24.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
+```
 
-- Croatia doesn't show up
-- France: NR missing
-- Czechia: some party missing
-- UK, Ireland, Switzerland
+##### `parties.csv`
+Party metadata:
+```csv
+party,political_position,ideology,wikipedia_url
+Social_Democratic_Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
+Alternative_for_Germany,Far-right,Right-wing populism,https://en.wikipedia.org/wiki/...
+```
 
-Leaflet
+##### `metadata.json`
+Country and source information:
+```json
+{
+  "country": "Germany",
+  "iso2": "DE",
+  "sources": [
+    {"type": "wikipedia", "url": "https://en.wikipedia.org/wiki/..."}
+  ],
+  "updatedAt": "2025-09-04T..."
+}
+```
 
-# TODOs
-- fix the projection
-- fix Armenia, Montenegro
-- only get national polls (e.g. Ireland)
-- do not collect politicians (e.g. Kosovo)
-- fix the graphs
-- collect past polling data
-- set up git repo
-- allow for ideology to be selected on the go
+#### Summary File (`data/summary.json`)
+
+Generated from CSV data:
+```json
+{
+  "countries": {
+    "DE": {
+      "country": "Germany",
+      "iso2": "DE",
+      "parties": ["Social_Democratic_Party", "Alternative_for_Germany", ...],
+      "farRightParties": ["Alternative_for_Germany"],
+      "latestSupport": 85.5,
+      "latestFarRightSupport": 17.2,
+      "latestUpdate": "2025-09-04T..."
+    }
+  },
+  "updatedAt": "2025-09-04T..."
+}
+```
+
+## Usage
+
+```bash
+# Run for all countries (full scraping)
+python -m pipeline.update
+
+# Run for specific country  
+python -m pipeline.update Germany
+
+# Rebuild summary.json from existing CSV data without scraping
+python -m pipeline.update --no-scraping
+
+# Rebuild summary for specific country from CSV data
+python -m pipeline.update Germany --no-scraping
+```
+
+## Dynamic Far-Right Classification
+
+The system now determines far-right classification dynamically when generating `summary.json`:
+
+1. **No Pre-stored Classification**: The CSV files no longer store `is_far_right` flags
+2. **Dynamic Evaluation**: Far-right status is determined by checking if any of the defined categories (`far-right`, `right-wing-populism`, `nationalism`) appear in the party's political position or ideology
+3. **Flexible Categories**: You can modify the `CATEGORIES` list and rebuild the summary without re-scraping data
+4. **No-Scraping Mode**: Use `--no-scraping` to rebuild `summary.json` from existing CSV data with current category definitions
+
+
+
+COUNTRY_TABLE_HEADERS = {
+    "Albania": ["Nationwide"],
+    "Armenia": ["Opinion polls"],
+    "Czech Republic": ["Polls"],
+    "Ireland": ["National polls"],
+}
