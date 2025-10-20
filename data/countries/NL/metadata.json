@@ -1,0 +1,11 @@
+{
+  "country": "Netherlands",
+  "iso2": "NL",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Dutch_general_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:30:47Z"
+}

@@ -1,89 +1,279 @@
 {
   "country": "Switzerland",
+  "iso2": "CH",
   "parties": [
-    "Swiss_People's_Party",
-    "Federal_Democratic_Union_of_Switzerland"
+    "Christian_Democratic_People's_Party_of_Switzerland",
+    "Conservative_Democratic_Party_of_Switzerland",
+    "Evangelical_People's_Party_of_Switzerland",
+    "FDP.The_Liberals",
+    "Federal_Democratic_Union_of_Switzerland",
+    "Green_Liberal_Party_of_Switzerland",
+    "Swiss_People's_Party"
   ],
-  "latestSupport": 29.099999999999998,
+  "latestSupport": 66.8,
   "seriesByParty": {
-    "Swiss_People's_Party": [
+    "Christian_Democratic_People's_Party_of_Switzerland": [
       {
-        "date": "2023-10-22",
-        "value": 27.9
+        "date": "2019-10-20",
+        "value": 11.4
       },
       {
-        "date": "2023-10-05",
-        "value": 28.1
+        "date": "2020-11-02",
+        "value": 11.9
+      }
+    ],
+    "Conservative_Democratic_Party_of_Switzerland": [
+      {
+        "date": "2019-10-20",
+        "value": 2.4
       },
       {
-        "date": "2023-09-26",
-        "value": 28.8
+        "date": "2020-11-02",
+        "value": 1.9
+      }
+    ],
+    "Evangelical_People's_Party_of_Switzerland": [
+      {
+        "date": "2019-10-20",
+        "value": 2.1
       },
       {
-        "date": "2023-09-20",
-        "value": 28.7
+        "date": "2020-11-02",
+        "value": 2.6
       },
       {
-        "date": "2023-08-25",
-        "value": 27.6
-      },
-      {
-        "date": "2023-07-11",
-        "value": 27.9
-      },
-      {
-        "date": "2023-06-22",
-        "value": 27.1
-      },
-      {
-        "date": "2023-03-05",
-        "value": 26.6
-      },
-      {
-        "date": "2023-02-17",
-        "value": 27.5
+        "date": "2021-10-03",
+        "value": 2.1
       },
       {
         "date": "2022-10-07",
-        "value": 26.1
+        "value": 2.1
+      },
+      {
+        "date": "2023-03-05",
+        "value": 2.1
+      },
+      {
+        "date": "2023-06-22",
+        "value": 2.1
+      },
+      {
+        "date": "2023-08-25",
+        "value": 2.1
+      },
+      {
+        "date": "2023-09-26",
+        "value": 2.2
+      },
+      {
+        "date": "2023-10-05",
+        "value": 2.1
+      },
+      {
+        "date": "2023-10-22",
+        "value": 2.0
+      }
+    ],
+    "FDP.The_Liberals": [
+      {
+        "date": "2019-10-20",
+        "value": 15.1
+      },
+      {
+        "date": "2020-11-02",
+        "value": 15.1
+      },
+      {
+        "date": "2021-10-03",
+        "value": 14.6
+      },
+      {
+        "date": "2021-12-09",
+        "value": 15.4
       },
       {
         "date": "2022-08-16",
-        "value": 25.9
+        "value": 16.4
+      },
+      {
+        "date": "2022-10-07",
+        "value": 16.1
+      },
+      {
+        "date": "2023-02-17",
+        "value": 15.4
+      },
+      {
+        "date": "2023-03-05",
+        "value": 15.6
+      },
+      {
+        "date": "2023-06-22",
+        "value": 14.6
+      },
+      {
+        "date": "2023-07-11",
+        "value": 14.3
+      },
+      {
+        "date": "2023-08-25",
+        "value": 14.6
+      },
+      {
+        "date": "2023-09-20",
+        "value": 13.8
+      },
+      {
+        "date": "2023-09-26",
+        "value": 14.0
+      },
+      {
+        "date": "2023-10-05",
+        "value": 14.1
+      },
+      {
+        "date": "2023-10-22",
+        "value": 14.3
+      }
+    ],
+    "Federal_Democratic_Union_of_Switzerland": [
+      {
+        "date": "2019-10-20",
+        "value": 1.0
+      },
+      {
+        "date": "2023-09-26",
+        "value": 1.1
+      },
+      {
+        "date": "2023-10-22",
+        "value": 1.2
+      }
+    ],
+    "Green_Liberal_Party_of_Switzerland": [
+      {
+        "date": "2019-10-20",
+        "value": 7.8
+      },
+      {
+        "date": "2020-11-02",
+        "value": 9.8
+      },
+      {
+        "date": "2021-10-03",
+        "value": 9.8
+      },
+      {
+        "date": "2021-12-09",
+        "value": 10.2
+      },
+      {
+        "date": "2022-08-16",
+        "value": 9.2
+      },
+      {
+        "date": "2022-10-07",
+        "value": 9.3
+      },
+      {
+        "date": "2023-02-17",
+        "value": 8.5
+      },
+      {
+        "date": "2023-03-05",
+        "value": 8.3
+      },
+      {
+        "date": "2023-06-22",
+        "value": 8.3
+      },
+      {
+        "date": "2023-07-11",
+        "value": 8.2
+      },
+      {
+        "date": "2023-08-25",
+        "value": 7.3
+      },
+      {
+        "date": "2023-09-20",
+        "value": 7.5
+      },
+      {
+        "date": "2023-09-26",
+        "value": 7.2
+      },
+      {
+        "date": "2023-10-05",
+        "value": 6.8
+      },
+      {
+        "date": "2023-10-22",
+        "value": 7.6
+      }
+    ],
+    "Swiss_People's_Party": [
+      {
+        "date": "2019-10-20",
+        "value": 25.6
+      },
+      {
+        "date": "2020-11-02",
+        "value": 24.1
+      },
+      {
+        "date": "2021-10-03",
+        "value": 26.6
       },
       {
         "date": "2021-12-09",
         "value": 27.0
       },
       {
-        "date": "2021-10-03",
+        "date": "2022-08-16",
+        "value": 25.9
+      },
+      {
+        "date": "2022-10-07",
+        "value": 26.1
+      },
+      {
+        "date": "2023-02-17",
+        "value": 27.5
+      },
+      {
+        "date": "2023-03-05",
         "value": 26.6
-      }
-    ],
-    "Federal_Democratic_Union_of_Switzerland": [
-      {
-        "date": "2023-10-22",
-        "value": 1.2
       },
       {
-        "date": "2023-10-22",
-        "value": 1.2
+        "date": "2023-06-22",
+        "value": 27.1
+      },
+      {
+        "date": "2023-07-11",
+        "value": 27.9
+      },
+      {
+        "date": "2023-08-25",
+        "value": 27.6
+      },
+      {
+        "date": "2023-09-20",
+        "value": 28.7
       },
       {
         "date": "2023-09-26",
-        "value": 1.1
+        "value": 28.8
       },
       {
-        "date": "2023-09-26",
-        "value": 1.1
+        "date": "2023-10-05",
+        "value": 28.1
+      },
+      {
+        "date": "2023-10-22",
+        "value": 27.9
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.m.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:21:29Z"
+  "latestUpdate": "2025-10-20T21:41:47Z"
 }

@@ -1,0 +1,11 @@
+{
+  "country": "Serbia",
+  "iso2": "RS",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:31:18Z"
+}

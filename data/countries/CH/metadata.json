@@ -1,0 +1,11 @@
+{
+  "country": "Switzerland",
+  "iso2": "CH",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:31:37Z"
+}

@@ -1,0 +1,11 @@
+{
+  "country": "Sweden",
+  "iso2": "SE",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T22:12:11Z"
+}

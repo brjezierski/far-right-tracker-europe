@@ -1,42 +1,85 @@
 {
   "country": "Sweden",
+  "iso2": "SE",
   "parties": [
+    "Centre_Party_(Sweden)",
+    "Christian_Democrats_(Sweden)",
+    "Liberals_(Sweden)",
+    "Moderate_Party",
     "Sweden_Democrats"
   ],
-  "latestSupport": 11.8,
+  "latestSupport": 38.3,
   "seriesByParty": {
+    "Centre_Party_(Sweden)": [
+      {
+        "date": "2022-09-11",
+        "value": 8.5
+      },
+      {
+        "date": "2022-11-04",
+        "value": 7.2
+      },
+      {
+        "date": "2023-05-04",
+        "value": 4.0
+      }
+    ],
+    "Christian_Democrats_(Sweden)": [
+      {
+        "date": "2022-09-11",
+        "value": 3.2
+      },
+      {
+        "date": "2022-11-04",
+        "value": 2.7
+      },
+      {
+        "date": "2023-05-04",
+        "value": 2.0
+      }
+    ],
+    "Liberals_(Sweden)": [
+      {
+        "date": "2022-09-11",
+        "value": 6.9
+      },
+      {
+        "date": "2022-11-04",
+        "value": 7.0
+      },
+      {
+        "date": "2023-05-04",
+        "value": 3.8
+      }
+    ],
+    "Moderate_Party": [
+      {
+        "date": "2022-09-11",
+        "value": 19.1
+      },
+      {
+        "date": "2022-11-04",
+        "value": 16.4
+      },
+      {
+        "date": "2023-05-04",
+        "value": 16.7
+      }
+    ],
     "Sweden_Democrats": [
       {
-        "date": "2023-05-04",
-        "value": 11.8
-      },
-      {
-        "date": "2023-05-04",
-        "value": 11.8
+        "date": "2022-09-11",
+        "value": 10.7
       },
       {
         "date": "2022-11-04",
         "value": 10.6
       },
       {
-        "date": "2022-11-04",
-        "value": 10.6
-      },
-      {
-        "date": "2022-09-11",
-        "value": 10.7
-      },
-      {
-        "date": "2022-09-11",
-        "value": 10.7
+        "date": "2023-05-04",
+        "value": 11.8
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:21:25Z"
+  "latestUpdate": "2025-10-20T21:41:47Z"
 }

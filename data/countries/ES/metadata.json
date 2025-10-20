@@ -1,0 +1,11 @@
+{
+  "country": "Spain",
+  "iso2": "ES",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:31:29Z"
+}

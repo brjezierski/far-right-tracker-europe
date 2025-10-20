@@ -1,216 +1,234 @@
 {
   "country": "Cyprus",
+  "iso2": "CY",
   "parties": [
-    "ELAM_(Cyprus)",
-    "Democratic_Party_(Cyprus)",
-    "Movement_for_Social_Democracy"
+    "Active_Citizens_–_Movement_of_Cypriot_United_Hunters",
+    "Democratic_Front_(Cyprus)",
+    "Democratic_Rally",
+    "ELAM_(Cyprus)"
   ],
-  "latestSupport": 28.699999999999996,
+  "latestSupport": 40.8,
   "seriesByParty": {
-    "ELAM_(Cyprus)": [
+    "Active_Citizens_–_Movement_of_Cypriot_United_Hunters": [
       {
-        "date": "2025-07-08",
-        "value": 16.4
-      },
-      {
-        "date": "2025-07-08",
-        "value": 16.4
-      },
-      {
-        "date": "2025-06-28",
-        "value": 16.0
-      },
-      {
-        "date": "2025-06-28",
-        "value": 16.0
-      },
-      {
-        "date": "2025-03-21",
-        "value": 16.25
-      },
-      {
-        "date": "2025-03-21",
-        "value": 16.25
-      },
-      {
-        "date": "2024-11-01",
-        "value": 14.5
-      },
-      {
-        "date": "2024-11-01",
-        "value": 14.5
-      },
-      {
-        "date": "2024-10-16",
-        "value": 9.9
-      },
-      {
-        "date": "2024-10-16",
-        "value": 9.9
-      },
-      {
-        "date": "2024-10-05",
-        "value": 14.1
-      },
-      {
-        "date": "2024-10-05",
-        "value": 14.1
-      },
-      {
-        "date": "2024-06-09",
-        "value": 11.2
-      },
-      {
-        "date": "2024-06-09",
-        "value": 11.2
-      },
-      {
-        "date": "2024-02-16",
-        "value": 14.5
-      },
-      {
-        "date": "2024-02-16",
-        "value": 14.5
-      },
-      {
-        "date": "2002-02-09",
-        "value": 10.9
-      },
-      {
-        "date": "2002-02-09",
-        "value": 10.9
+        "date": "2023-09-22",
+        "value": 1.4
       },
       {
         "date": "2024-01-11",
-        "value": 17.4
+        "value": 0.7
       },
       {
-        "date": "2024-01-11",
-        "value": 17.4
+        "date": "2024-06-09",
+        "value": 1.3
       },
       {
-        "date": "2023-09-22",
-        "value": 17.4
+        "date": "2024-11-01",
+        "value": 1.4
       },
       {
-        "date": "2023-09-22",
-        "value": 17.4
-      },
-      {
-        "date": "2025-05-30",
-        "value": 6.8
+        "date": "2025-03-11",
+        "value": 1.3
       },
       {
         "date": "2025-05-30",
-        "value": 6.8
+        "value": 3.3
+      },
+      {
+        "date": "2025-06-28",
+        "value": 1.2
+      },
+      {
+        "date": "2025-08-11",
+        "value": 2.7
+      },
+      {
+        "date": "2025-09-22",
+        "value": 1.1
       }
     ],
-    "Democratic_Party_(Cyprus)": [
+    "Democratic_Front_(Cyprus)": [
       {
-        "date": "2025-07-08",
-        "value": 8.2
+        "date": "2023-09-22",
+        "value": 1.4
       },
       {
-        "date": "2025-06-28",
-        "value": 8.6
+        "date": "2024-01-11",
+        "value": 3.3
       },
       {
-        "date": "2025-03-21",
-        "value": 10.0
-      },
-      {
-        "date": "2024-11-01",
-        "value": 11.4
-      },
-      {
-        "date": "2024-10-16",
+        "date": "2024-02-09",
         "value": 3.7
       },
       {
-        "date": "2024-10-05",
-        "value": 10.9
+        "date": "2024-02-16",
+        "value": 4.3
       },
       {
         "date": "2024-06-09",
-        "value": 9.7
+        "value": 2.2
       },
       {
-        "date": "2024-02-16",
-        "value": 11.6
-      },
-      {
-        "date": "2002-02-09",
-        "value": 13.6
-      },
-      {
-        "date": "2024-01-11",
-        "value": 9.7
-      },
-      {
-        "date": "2023-09-22",
-        "value": 10.1
-      },
-      {
-        "date": "2025-05-30",
-        "value": 11.3
-      }
-    ],
-    "Movement_for_Social_Democracy": [
-      {
-        "date": "2025-07-08",
-        "value": 4.1
-      },
-      {
-        "date": "2025-06-28",
-        "value": 2.5
-      },
-      {
-        "date": "2025-03-21",
-        "value": 3.75
-      },
-      {
-        "date": "2024-11-01",
-        "value": 4.0
+        "date": "2024-10-05",
+        "value": 3.4
       },
       {
         "date": "2024-10-16",
         "value": 1.2
       },
       {
-        "date": "2024-10-05",
-        "value": 4.3
+        "date": "2025-03-11",
+        "value": 1.3
       },
       {
-        "date": "2024-06-09",
-        "value": 5.1
-      },
-      {
-        "date": "2024-02-16",
-        "value": 4.3
-      },
-      {
-        "date": "2002-02-09",
-        "value": 3.7
-      },
-      {
-        "date": "2024-01-11",
-        "value": 3.2
-      },
-      {
-        "date": "2023-09-22",
-        "value": 2.9
+        "date": "2025-03-21",
+        "value": 1.25
       },
       {
         "date": "2025-05-30",
-        "value": 6.7
+        "value": 6.1
+      },
+      {
+        "date": "2025-06-28",
+        "value": 1.2
+      },
+      {
+        "date": "2025-07-08",
+        "value": 1.4
+      },
+      {
+        "date": "2025-08-11",
+        "value": 1.4
+      },
+      {
+        "date": "2025-09-22",
+        "value": 1.1
+      }
+    ],
+    "Democratic_Rally": [
+      {
+        "date": "2023-09-22",
+        "value": 26.1
+      },
+      {
+        "date": "2024-01-11",
+        "value": 25.7
+      },
+      {
+        "date": "2024-02-09",
+        "value": 30.7
+      },
+      {
+        "date": "2024-02-16",
+        "value": 29.0
+      },
+      {
+        "date": "2024-06-09",
+        "value": 24.8
+      },
+      {
+        "date": "2024-10-05",
+        "value": 28.8
+      },
+      {
+        "date": "2024-10-16",
+        "value": 23.5
+      },
+      {
+        "date": "2024-11-01",
+        "value": 27.9
+      },
+      {
+        "date": "2025-03-11",
+        "value": 24.0
+      },
+      {
+        "date": "2025-03-21",
+        "value": 25.0
+      },
+      {
+        "date": "2025-05-30",
+        "value": 27.8
+      },
+      {
+        "date": "2025-06-28",
+        "value": 22.2
+      },
+      {
+        "date": "2025-07-08",
+        "value": 23.2
+      },
+      {
+        "date": "2025-08-11",
+        "value": 21.9
+      },
+      {
+        "date": "2025-09-22",
+        "value": 22.7
+      }
+    ],
+    "ELAM_(Cyprus)": [
+      {
+        "date": "2023-09-22",
+        "value": 17.4
+      },
+      {
+        "date": "2024-01-11",
+        "value": 17.4
+      },
+      {
+        "date": "2024-02-09",
+        "value": 10.9
+      },
+      {
+        "date": "2024-02-16",
+        "value": 14.5
+      },
+      {
+        "date": "2024-06-09",
+        "value": 11.2
+      },
+      {
+        "date": "2024-10-05",
+        "value": 14.1
+      },
+      {
+        "date": "2024-10-16",
+        "value": 9.9
+      },
+      {
+        "date": "2024-11-01",
+        "value": 14.5
+      },
+      {
+        "date": "2025-03-11",
+        "value": 16.5
+      },
+      {
+        "date": "2025-03-21",
+        "value": 16.25
+      },
+      {
+        "date": "2025-05-30",
+        "value": 6.8
+      },
+      {
+        "date": "2025-06-28",
+        "value": 16.0
+      },
+      {
+        "date": "2025-07-08",
+        "value": 16.4
+      },
+      {
+        "date": "2025-08-11",
+        "value": 17.8
+      },
+      {
+        "date": "2025-09-22",
+        "value": 15.9
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:19:32Z"
+  "latestUpdate": "2025-10-20T21:41:48Z"
 }

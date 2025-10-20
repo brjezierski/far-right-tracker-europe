@@ -1,53 +1,102 @@
 {
   "country": "Luxembourg",
+  "iso2": "LU",
   "parties": [
     "Alternative_Democratic_Reform_Party",
+    "Christian_Social_People's_Party",
+    "Democratic_Party_(Luxembourg)",
     "The_Conservatives_(Luxembourg)"
   ],
-  "latestSupport": 9.600000000000001,
+  "latestSupport": 57.099999999999994,
   "seriesByParty": {
     "Alternative_Democratic_Reform_Party": [
       {
-        "date": "2025-04-24",
-        "value": 9.3
-      },
-      {
-        "date": "2024-09-30",
-        "value": 10.7
+        "date": "2023-10-08",
+        "value": 9.27
       },
       {
         "date": "2024-06-09",
         "value": 11.76
       },
       {
+        "date": "2024-09-30",
+        "value": 10.7
+      },
+      {
+        "date": "2025-04-24",
+        "value": 9.3
+      },
+      {
+        "date": "2025-09-29",
+        "value": 11.6
+      }
+    ],
+    "Christian_Social_People's_Party": [
+      {
         "date": "2023-10-08",
-        "value": 9.27
+        "value": 29.22
+      },
+      {
+        "date": "2024-06-09",
+        "value": 22.91
+      },
+      {
+        "date": "2024-09-30",
+        "value": 28.9
+      },
+      {
+        "date": "2025-04-24",
+        "value": 29.1
+      },
+      {
+        "date": "2025-09-29",
+        "value": 25.3
+      }
+    ],
+    "Democratic_Party_(Luxembourg)": [
+      {
+        "date": "2023-10-08",
+        "value": 18.7
+      },
+      {
+        "date": "2024-06-09",
+        "value": 18.29
+      },
+      {
+        "date": "2024-09-30",
+        "value": 18.9
+      },
+      {
+        "date": "2025-04-24",
+        "value": 21.0
+      },
+      {
+        "date": "2025-09-29",
+        "value": 19.7
       }
     ],
     "The_Conservatives_(Luxembourg)": [
       {
-        "date": "2025-04-24",
-        "value": 0.3
-      },
-      {
-        "date": "2024-09-30",
-        "value": 0.2
+        "date": "2023-10-08",
+        "value": 0.27
       },
       {
         "date": "2024-06-09",
         "value": 0.58
       },
       {
-        "date": "2023-10-08",
-        "value": 0.27
+        "date": "2024-09-30",
+        "value": 0.2
+      },
+      {
+        "date": "2025-04-24",
+        "value": 0.3
+      },
+      {
+        "date": "2025-09-29",
+        "value": 0.5
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:20:29Z"
+  "latestUpdate": "2025-10-20T21:41:48Z"
 }

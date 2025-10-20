@@ -1,0 +1,11 @@
+{
+  "country": "Austria",
+  "iso2": "AT",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Austrian_legislative_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:02Z"
+}

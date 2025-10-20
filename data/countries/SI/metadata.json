@@ -1,0 +1,11 @@
+{
+  "country": "Slovenia",
+  "iso2": "SI",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:31:24Z"
+}

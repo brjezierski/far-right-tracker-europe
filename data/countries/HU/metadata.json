@@ -1,0 +1,11 @@
+{
+  "country": "Hungary",
+  "iso2": "HU",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:57Z"
+}

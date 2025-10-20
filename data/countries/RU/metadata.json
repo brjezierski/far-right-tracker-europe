@@ -1,0 +1,11 @@
+{
+  "country": "Russia",
+  "iso2": "RU",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:31:14Z"
+}

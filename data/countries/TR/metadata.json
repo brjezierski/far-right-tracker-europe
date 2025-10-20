@@ -1,0 +1,11 @@
+{
+  "country": "Turkey",
+  "iso2": "TR",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Turkish_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T22:09:27Z"
+}

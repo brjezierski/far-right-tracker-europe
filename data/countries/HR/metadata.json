@@ -1,0 +1,11 @@
+{
+  "country": "Croatia",
+  "iso2": "HR",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Croatian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:16Z"
+}

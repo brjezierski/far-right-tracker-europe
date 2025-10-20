@@ -1,0 +1,53 @@
+date,party,polling_value,political_position,ideology,wikipedia_url
+2022-03-26,AD+PD,1.3,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2023-03-16,AD+PD,5.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2023-10-04,AD+PD,10.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2023-10-26,AD+PD,5.2,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2023-11-09,AD+PD,5.6,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2023-12-06,AD+PD,9.6,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2024-06-08,AD+PD,1.2,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2024-09-19,AD+PD,4.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2024-11-13,AD+PD,4.1,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2025-02-12,AD+PD,3.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2025-02-13,AD+PD,3.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2025-04-08,AD+PD,1.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2025-06-06,AD+PD,1.6,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2025-10-02,AD+PD,2.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
+2022-03-26,Labour_Party_(Malta),45.8,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-03-16,Labour_Party_(Malta),51.6,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-10-04,Labour_Party_(Malta),43.8,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-10-26,Labour_Party_(Malta),50.0,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-11-09,Labour_Party_(Malta),49.0,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-12-06,Labour_Party_(Malta),47.3,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2024-06-08,Labour_Party_(Malta),45.3,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2024-09-19,Labour_Party_(Malta),43.8,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2024-11-13,Labour_Party_(Malta),45.3,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-02-12,Labour_Party_(Malta),51.5,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-02-13,Labour_Party_(Malta),48.2,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-04-08,Labour_Party_(Malta),51.6,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-06-06,Labour_Party_(Malta),53.3,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-10-02,Labour_Party_(Malta),48.8,Centre to centre-left,Social democracy Third Way,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2023-03-16,Momentum_(political_party),5.5,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2023-10-04,Momentum_(political_party),10.4,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2023-10-26,Momentum_(political_party),5.2,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2023-11-09,Momentum_(political_party),5.6,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2023-12-06,Momentum_(political_party),9.6,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-02-12,Momentum_(political_party),3.5,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-02-13,Momentum_(political_party),4.0,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-04-08,Momentum_(political_party),2.2,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-06-06,Momentum_(political_party),3.1,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-10-02,Momentum_(political_party),2.0,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2022-03-26,Nationalist_Party_(Malta),34.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2023-03-16,Nationalist_Party_(Malta),42.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2023-10-04,Nationalist_Party_(Malta),45.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2023-10-26,Nationalist_Party_(Malta),44.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2023-11-09,Nationalist_Party_(Malta),45.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2023-12-06,Nationalist_Party_(Malta),43.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2024-06-08,Nationalist_Party_(Malta),42.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2024-09-19,Nationalist_Party_(Malta),48.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2024-11-13,Nationalist_Party_(Malta),46.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-02-12,Nationalist_Party_(Malta),45.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-02-13,Nationalist_Party_(Malta),43.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-04-08,Nationalist_Party_(Malta),42.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-06-06,Nationalist_Party_(Malta),39.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-10-02,Nationalist_Party_(Malta),45.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)

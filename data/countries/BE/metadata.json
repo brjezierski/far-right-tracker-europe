@@ -1,0 +1,11 @@
+{
+  "country": "Belgium",
+  "iso2": "BE",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:05Z"
+}

@@ -1,0 +1,11 @@
+{
+  "country": "France",
+  "iso2": "FR",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_French_legislative_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:41Z"
+}

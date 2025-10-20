@@ -1,0 +1,11 @@
+{
+  "country": "Ireland",
+  "iso2": "IE",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Irish_general_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:30:05Z"
+}

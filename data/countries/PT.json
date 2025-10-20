@@ -1,66 +1,129 @@
 {
   "country": "Portugal",
+  "iso2": "PT",
   "parties": [
-    "Chega_(political_party)"
+    "Chega_(political_party)",
+    "Democratic_Alliance_(Portugal,_2024)",
+    "Liberal_Initiative_(Portugal)",
+    "Together_for_the_People",
+    "Unitary_Democratic_Coalition"
   ],
-  "latestSupport": 22.1,
+  "latestSupport": 55.300000000000004,
   "seriesByParty": {
     "Chega_(political_party)": [
       {
-        "date": "2025-08-14",
-        "value": 22.1
-      },
-      {
-        "date": "2025-08-14",
-        "value": 22.1
-      },
-      {
-        "date": "2025-08-14",
-        "value": 22.1
-      },
-      {
-        "date": "2025-07-18",
-        "value": 20.2
-      },
-      {
-        "date": "2025-07-18",
-        "value": 20.2
-      },
-      {
-        "date": "2025-07-18",
-        "value": 20.2
+        "date": "2025-05-18",
+        "value": 22.8
       },
       {
         "date": "2025-06-15",
         "value": 21.7
       },
       {
+        "date": "2025-07-18",
+        "value": 20.2
+      },
+      {
+        "date": "2025-08-14",
+        "value": 22.1
+      },
+      {
+        "date": "2025-09-05",
+        "value": 26.8
+      },
+      {
+        "date": "2025-10-12",
+        "value": 11.9
+      }
+    ],
+    "Democratic_Alliance_(Portugal,_2024)": [
+      {
+        "date": "2025-05-18",
+        "value": 31.8
+      },
+      {
         "date": "2025-06-15",
-        "value": 21.7
+        "value": 29.9
+      },
+      {
+        "date": "2025-07-18",
+        "value": 26.3
+      },
+      {
+        "date": "2025-08-14",
+        "value": 28.9
+      },
+      {
+        "date": "2025-09-05",
+        "value": 25.9
+      },
+      {
+        "date": "2025-10-12",
+        "value": 35.6
+      }
+    ],
+    "Liberal_Initiative_(Portugal)": [
+      {
+        "date": "2025-05-18",
+        "value": 5.4
       },
       {
         "date": "2025-06-15",
-        "value": 21.7
+        "value": 8.4
       },
       {
-        "date": "2025-05-18",
-        "value": 22.8
+        "date": "2025-07-18",
+        "value": 7.3
       },
       {
-        "date": "2025-05-18",
-        "value": 22.8
+        "date": "2025-08-14",
+        "value": 8.1
       },
       {
+        "date": "2025-09-05",
+        "value": 6.2
+      },
+      {
+        "date": "2025-10-12",
+        "value": 1.6
+      }
+    ],
+    "Together_for_the_People": [
+      {
         "date": "2025-05-18",
-        "value": 22.8
+        "value": 0.3
+      },
+      {
+        "date": "2025-10-12",
+        "value": 0.5
+      }
+    ],
+    "Unitary_Democratic_Coalition": [
+      {
+        "date": "2025-05-18",
+        "value": 2.9
+      },
+      {
+        "date": "2025-06-15",
+        "value": 3.4
+      },
+      {
+        "date": "2025-07-18",
+        "value": 4.0
+      },
+      {
+        "date": "2025-08-14",
+        "value": 1.7
+      },
+      {
+        "date": "2025-09-05",
+        "value": 3.1
+      },
+      {
+        "date": "2025-10-12",
+        "value": 5.7
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:20:59Z"
+  "latestUpdate": "2025-10-20T21:41:47Z"
 }

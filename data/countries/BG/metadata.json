@@ -1,0 +1,11 @@
+{
+  "country": "Bulgaria",
+  "iso2": "BG",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Bulgarian_parliamentary_election"
+    }
+  ],
+  "updatedAt": "2025-10-20T21:29:12Z"
+}

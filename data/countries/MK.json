@@ -1,177 +1,38 @@
 {
   "country": "Macedonia",
+  "iso2": "MK",
   "parties": [
-    "The_Left_(North_Macedonia)",
-    "For_Our_Macedonia"
+    "Alliance_for_Albanians",
+    "Besa_Movement",
+    "Democratic_Party_of_Albanians",
+    "VMRO-DPMNE"
   ],
-  "latestSupport": 12.75,
+  "latestSupport": 36.900000000000006,
   "seriesByParty": {
-    "The_Left_(North_Macedonia)": [
+    "Alliance_for_Albanians": [
       {
-        "date": "2024-05-08",
-        "value": 7.01
-      },
-      {
-        "date": "2024-04-24",
+        "date": "2023-10-06",
         "value": 4.7
-      },
-      {
-        "date": "2024-04-20",
-        "value": 7.2
-      },
-      {
-        "date": "2024-04-13",
-        "value": 6.5
-      },
-      {
-        "date": "2024-04-13",
-        "value": 6.4
-      },
-      {
-        "date": "2024-03-24",
-        "value": 7.9
-      },
-      {
-        "date": "2024-03-07",
-        "value": 5.5
-      },
-      {
-        "date": "2024-02-20",
-        "value": 6.0
-      },
-      {
-        "date": "2023-11-09",
-        "value": 5.9
-      },
-      {
-        "date": "2023-10-29",
-        "value": 6.8
-      },
-      {
-        "date": "2023-05-26",
-        "value": 12.3
-      },
-      {
-        "date": "2023-05-04",
-        "value": 11.0
-      },
-      {
-        "date": "2023-04-14",
-        "value": 10.3
-      },
-      {
-        "date": "2023-03-04",
-        "value": 10.1
-      },
-      {
-        "date": "2023-03-09",
-        "value": 9.0
-      },
-      {
-        "date": "2023-02-16",
-        "value": 8.1
-      },
-      {
-        "date": "2022-12-19",
-        "value": 12.3
-      },
-      {
-        "date": "2022-11-13",
-        "value": 8.9
-      },
-      {
-        "date": "2022-05-06",
-        "value": 5.4
-      },
-      {
-        "date": "2021-10-22",
-        "value": 6.6
-      },
-      {
-        "date": "2021-10-17",
-        "value": 9.19
-      },
-      {
-        "date": "2021-09-09",
-        "value": 7.4
-      },
-      {
-        "date": "2021-06-16",
-        "value": 7.5
-      },
-      {
-        "date": "2021-04-06",
-        "value": 9.8
-      },
-      {
-        "date": "2021-03-04",
-        "value": 6.6
-      },
-      {
-        "date": "2020-12-24",
-        "value": 10.6
-      },
-      {
-        "date": "2020-07-15",
-        "value": 4.1
       }
     ],
-    "For_Our_Macedonia": [
+    "Besa_Movement": [
       {
-        "date": "2024-05-08",
-        "value": 5.74
-      },
+        "date": "2023-10-06",
+        "value": 7.3
+      }
+    ],
+    "Democratic_Party_of_Albanians": [
       {
-        "date": "2024-04-24",
-        "value": 9.5
-      },
+        "date": "2023-10-06",
+        "value": 7.3
+      }
+    ],
+    "VMRO-DPMNE": [
       {
-        "date": "2024-04-20",
-        "value": 5.0
-      },
-      {
-        "date": "2024-04-13",
-        "value": 6.1
-      },
-      {
-        "date": "2024-04-13",
-        "value": 5.3
-      },
-      {
-        "date": "2024-03-24",
-        "value": 8.2
-      },
-      {
-        "date": "2024-03-07",
-        "value": 5.3
-      },
-      {
-        "date": "2024-02-20",
-        "value": 5.0
-      },
-      {
-        "date": "2023-10-29",
-        "value": 5.6
-      },
-      {
-        "date": "2023-05-26",
-        "value": 5.7
-      },
-      {
-        "date": "2023-04-14",
-        "value": 3.1
-      },
-      {
-        "date": "2023-03-04",
-        "value": 9.2
+        "date": "2023-10-06",
+        "value": 17.6
       }
     ]
   },
-  "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election"
-    }
-  ],
-  "updatedAt": "2025-09-04T11:20:49Z"
+  "latestUpdate": "2025-10-20T21:41:47Z"
 }
