@@ -277,8 +277,6 @@ def rebuild_summary_from_csv(selected_country=None):
             country_json_data = dict(country_data)
             save_json(COUNTRIES_DIR / f"{iso2}.json", country_json_data)
 
-    # summary["parties"] = party_metadata
-
     # Save updated summary
     save_json(DATA_DIR / "summary.json", summary)
     print("Updated summary.json")
