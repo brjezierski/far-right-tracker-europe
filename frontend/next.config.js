@@ -9,8 +9,13 @@ const nextConfig = {
     unoptimized: true,
   },
   reactStrictMode: true,
-  experimental: {
-    esmExternals: "loose",
+  typescript: {
+    // Dangerously allow production builds to successfully complete even if type errors
+    // This prevents build failures from internal Next.js type resolution issues
+    ignoreBuildErrors: false,
+  },
+  eslint: {
+    ignoreDuringBuilds: false,
   },
 };
 

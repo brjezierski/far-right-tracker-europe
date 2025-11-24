@@ -1,7 +1,6 @@
 import "./globals.css";
-import type { Metadata } from "next";
 
-export const metadata: Metadata = {
+export const metadata = {
   title: "Europe Nationalist Support Map",
   description: "Choropleth of nationalist party support across Europe",
 };
