@@ -4,7 +4,7 @@
   "parties": [
     "II"
   ],
-  "latestSupport": 2.066666666666667,
+  "latestSupport": 3.0666666666666664,
   "seriesByParty": {
     "II": [
       {
@@ -33,7 +33,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-11-18T15:08:58Z",
+  "latestUpdate": "2025-11-24T23:19:50Z",
   "sources": [
     {
       "type": "wikipedia",

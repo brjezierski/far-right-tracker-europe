@@ -4,7 +4,7 @@
   "parties": [
     "LPV"
   ],
-  "latestSupport": 27.099999999999998,
+  "latestSupport": 13.166666666666666,
   "seriesByParty": {
     "LPV": [
       {
@@ -121,7 +121,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-11-18T16:22:12Z",
+  "latestUpdate": "2025-11-24T23:20:02Z",
   "sources": [
     {
       "type": "wikipedia",
