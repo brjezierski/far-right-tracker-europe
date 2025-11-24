@@ -2,25 +2,22 @@
   "country": "France",
   "iso2": "FR",
   "parties": [
-    "Debout_la_France",
-    "National_Rally",
-    "Reconquête",
-    "The_Republicans_(France)"
+    "DLF",
+    "REC",
+    "RN",
+    "RN and allies",
+    "UDR"
   ],
-  "latestSupport": 52.0,
+  "latestSupport": 39.5,
   "seriesByParty": {
-    "Debout_la_France": [
-      {
-        "date": "2024-06-30",
-        "value": 0.28
-      },
+    "DLF": [
       {
         "date": "2025-02-06",
         "value": 1.0
       },
       {
         "date": "2025-06-04",
-        "value": 1.17
+        "value": 1.0
       },
       {
         "date": "2025-09-01",
@@ -39,30 +36,70 @@
         "value": 1.0
       }
     ],
-    "National_Rally": [
-      {
-        "date": "2024-06-30",
-        "value": 33.22
-      },
+    "REC": [
       {
         "date": "2025-02-06",
-        "value": 35.75
+        "value": 3.0
       },
       {
         "date": "2025-06-04",
-        "value": 35.33
+        "value": 2.0
       },
       {
         "date": "2025-06-05",
-        "value": 32.75
+        "value": 3.0
       },
       {
         "date": "2025-08-29",
-        "value": 31.25
+        "value": 5.0
       },
       {
         "date": "2025-09-01",
+        "value": 4.0
+      },
+      {
+        "date": "2025-09-05",
+        "value": 5.0
+      },
+      {
+        "date": "2025-09-07",
+        "value": 4.0
+      },
+      {
+        "date": "2025-09-08",
+        "value": 3.5
+      },
+      {
+        "date": "2025-10-07",
+        "value": 5.0
+      },
+      {
+        "date": "2025-10-08",
+        "value": 4.0
+      }
+    ],
+    "RN": [
+      {
+        "date": "2025-02-06",
+        "value": 35.0
+      },
+      {
+        "date": "2025-06-04",
+        "value": 35.0
+      }
+    ],
+    "RN and allies": [
+      {
+        "date": "2025-06-05",
         "value": 32.5
+      },
+      {
+        "date": "2025-08-29",
+        "value": 31.5
+      },
+      {
+        "date": "2025-09-01",
+        "value": 33.0
       },
       {
         "date": "2025-09-05",
@@ -74,109 +111,33 @@
       },
       {
         "date": "2025-09-08",
-        "value": 33.5
+        "value": 34.0
       },
       {
         "date": "2025-10-07",
-        "value": 33.33
+        "value": 34.0
       },
       {
         "date": "2025-10-08",
-        "value": 35.67
+        "value": 35.0
       }
     ],
-    "Reconquête": [
-      {
-        "date": "2024-06-30",
-        "value": 0.75
-      },
+    "UDR": [
       {
         "date": "2025-02-06",
-        "value": 3.0
+        "value": 1.0
       },
       {
         "date": "2025-06-04",
-        "value": 2.17
-      },
-      {
-        "date": "2025-06-05",
-        "value": 2.75
-      },
-      {
-        "date": "2025-08-29",
-        "value": 4.75
-      },
-      {
-        "date": "2025-09-01",
-        "value": 3.75
-      },
-      {
-        "date": "2025-09-05",
-        "value": 5.0
-      },
-      {
-        "date": "2025-09-07",
-        "value": 4.17
-      },
-      {
-        "date": "2025-09-08",
-        "value": 3.75
-      },
-      {
-        "date": "2025-10-07",
-        "value": 5.33
-      },
-      {
-        "date": "2025-10-08",
-        "value": 3.83
-      }
-    ],
-    "The_Republicans_(France)": [
-      {
-        "date": "2024-06-30",
-        "value": 6.57
-      },
-      {
-        "date": "2025-02-06",
-        "value": 12.5
-      },
-      {
-        "date": "2025-06-04",
-        "value": 10.67
-      },
-      {
-        "date": "2025-06-05",
-        "value": 10.25
-      },
-      {
-        "date": "2025-08-29",
-        "value": 10.5
-      },
-      {
-        "date": "2025-09-01",
-        "value": 13.0
-      },
-      {
-        "date": "2025-09-05",
-        "value": 10.0
-      },
-      {
-        "date": "2025-09-07",
-        "value": 12.67
-      },
-      {
-        "date": "2025-09-08",
-        "value": 12.0
-      },
-      {
-        "date": "2025-10-07",
-        "value": 12.67
-      },
-      {
-        "date": "2025-10-08",
-        "value": 11.33
+        "value": 1.0
       }
     ]
   },
-  "latestUpdate": "2025-10-20T21:41:48Z"
+  "latestUpdate": "2025-11-18T17:18:44Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_French_legislative_election"
+    }
+  ]
 }

@@ -1,353 +1,377 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2022-10-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-10-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-10-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-10-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-11-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-11-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-12-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2022-12-01,For!,0.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-2023-01-20,For_Latvia's_Development,1.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-03-20,For_Latvia's_Development,1.2,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-05-20,For_Latvia's_Development,1.2,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-06-20,For_Latvia's_Development,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-07-20,For_Latvia's_Development,2.0,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-08-20,For_Latvia's_Development,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-09-20,For_Latvia's_Development,1.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-11-20,For_Latvia's_Development,2.0,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2023-12-20,For_Latvia's_Development,3.3,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-01-20,For_Latvia's_Development,2.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-03-20,For_Latvia's_Development,3.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-04-20,For_Latvia's_Development,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-06-20,For_Latvia's_Development,3.9,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-08-20,For_Latvia's_Development,3.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-10-20,For_Latvia's_Development,2.6,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-11-20,For_Latvia's_Development,3.8,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2024-12-20,For_Latvia's_Development,3.4,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2025-01-20,For_Latvia's_Development,2.4,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2025-03-24,For_Latvia's_Development,3.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2025-04-24,For_Latvia's_Development,2.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2025-07-24,For_Latvia's_Development,2.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia's_Development
-2022-10-01,For_Stability!,6.78,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2022-10-01,For_Stability!,6.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2022-11-01,For_Stability!,5.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2022-12-01,For_Stability!,8.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-01-20,For_Stability!,7.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-03-20,For_Stability!,8.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-04-20,For_Stability!,7.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-05-20,For_Stability!,7.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-06-20,For_Stability!,6.6,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-07-20,For_Stability!,7.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-08-20,For_Stability!,9.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-09-20,For_Stability!,8.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-10-20,For_Stability!,8.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-11-20,For_Stability!,9.6,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2023-12-20,For_Stability!,9.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-01-20,For_Stability!,8.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-03-20,For_Stability!,8.4,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-04-20,For_Stability!,6.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-06-20,For_Stability!,6.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-08-20,For_Stability!,7.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-10-20,For_Stability!,7.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-11-20,For_Stability!,8.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2024-12-20,For_Stability!,6.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2025-01-20,For_Stability!,7.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2025-03-24,For_Stability!,5.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2025-04-24,For_Stability!,7.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2025-07-24,For_Stability!,5.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-2022-10-01,Latvia_First,6.22,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2022-10-01,Latvia_First,5.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2022-11-01,Latvia_First,5.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2022-12-01,Latvia_First,5.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-01-20,Latvia_First,7.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-03-20,Latvia_First,9.0,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-04-20,Latvia_First,11.7,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-05-20,Latvia_First,13.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-06-20,Latvia_First,14.1,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-07-20,Latvia_First,11.4,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-08-20,Latvia_First,11.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-09-20,Latvia_First,11.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-10-20,Latvia_First,11.6,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-11-20,Latvia_First,11.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2023-12-20,Latvia_First,11.3,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-01-20,Latvia_First,11.1,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-03-20,Latvia_First,11.1,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-04-20,Latvia_First,10.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-06-20,Latvia_First,10.7,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-08-20,Latvia_First,11.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-10-20,Latvia_First,11.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-11-20,Latvia_First,14.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2024-12-20,Latvia_First,14.6,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2025-01-20,Latvia_First,14.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2025-03-24,Latvia_First,18.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2025-04-24,Latvia_First,16.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2025-07-24,Latvia_First,14.0,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-2022-10-01,Latvian_Russian_Union,3.62,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
-2022-10-01,Latvian_Russian_Union,2.2,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
-2022-11-01,Latvian_Russian_Union,2.1,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
-2022-12-01,Latvian_Russian_Union,2.8,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
-2023-01-20,Movement_For!,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-03-20,Movement_For!,1.9,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-04-20,Movement_For!,2.9,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-05-20,Movement_For!,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-06-20,Movement_For!,1.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-07-20,Movement_For!,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-08-20,Movement_For!,2.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-09-20,Movement_For!,2.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-10-20,Movement_For!,2.3,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-11-20,Movement_For!,2.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2023-12-20,Movement_For!,2.0,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-01-20,Movement_For!,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-03-20,Movement_For!,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-04-20,Movement_For!,2.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-06-20,Movement_For!,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-08-20,Movement_For!,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-10-20,Movement_For!,1.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-11-20,Movement_For!,1.1,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2024-12-20,Movement_For!,1.3,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2025-01-20,Movement_For!,1.7,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2025-03-24,Movement_For!,1.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2025-04-24,Movement_For!,1.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2025-07-24,Movement_For!,1.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-2022-10-01,National_Alliance_(Latvia),9.27,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2022-10-01,National_Alliance_(Latvia),10.5,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2022-11-01,National_Alliance_(Latvia),12.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2022-12-01,National_Alliance_(Latvia),11.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-01-20,National_Alliance_(Latvia),10.4,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-03-20,National_Alliance_(Latvia),10.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-04-20,National_Alliance_(Latvia),10.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-05-20,National_Alliance_(Latvia),10.6,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-06-20,National_Alliance_(Latvia),10.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-07-20,National_Alliance_(Latvia),8.8,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-08-20,National_Alliance_(Latvia),8.7,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-09-20,National_Alliance_(Latvia),12.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-10-20,National_Alliance_(Latvia),12.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-11-20,National_Alliance_(Latvia),10.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2023-12-20,National_Alliance_(Latvia),13.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-01-20,National_Alliance_(Latvia),13.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-03-20,National_Alliance_(Latvia),13.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-04-20,National_Alliance_(Latvia),14.5,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-06-20,National_Alliance_(Latvia),16.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-08-20,National_Alliance_(Latvia),16.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-10-20,National_Alliance_(Latvia),15.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-11-20,National_Alliance_(Latvia),16.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2024-12-20,National_Alliance_(Latvia),18.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2025-01-20,National_Alliance_(Latvia),18.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2025-03-24,National_Alliance_(Latvia),18.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2025-04-24,National_Alliance_(Latvia),16.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2025-07-24,National_Alliance_(Latvia),15.4,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-2022-10-01,New_Unity,18.92,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2022-10-01,New_Unity,23.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2022-11-01,New_Unity,22.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2022-12-01,New_Unity,18.8,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-01-20,New_Unity,21.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-03-20,New_Unity,17.7,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-04-20,New_Unity,19.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-05-20,New_Unity,18.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-06-20,New_Unity,18.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-07-20,New_Unity,22.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-08-20,New_Unity,18.1,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-09-20,New_Unity,14.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-10-20,New_Unity,17.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-11-20,New_Unity,18.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2023-12-20,New_Unity,14.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-01-20,New_Unity,16.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-03-20,New_Unity,13.6,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-04-20,New_Unity,12.7,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-06-20,New_Unity,18.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-08-20,New_Unity,15.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-10-20,New_Unity,15.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-11-20,New_Unity,14.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2024-12-20,New_Unity,12.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2025-01-20,New_Unity,11.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2025-03-24,New_Unity,13.2,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2025-04-24,New_Unity,12.8,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2025-07-24,New_Unity,11.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-2022-10-01,Platform_21,3.66,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2022-10-01,Platform_21,2.2,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2022-11-01,Platform_21,2.0,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2022-12-01,Platform_21,2.2,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-01-20,Platform_21,2.0,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-03-20,Platform_21,1.7,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-05-20,Platform_21,1.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-06-20,Platform_21,0.7,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-07-20,Platform_21,0.4,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-08-20,Platform_21,0.6,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-09-20,Platform_21,0.5,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-10-20,Platform_21,0.7,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-11-20,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2023-12-20,Platform_21,1.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-01-20,Platform_21,0.7,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-03-20,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-04-20,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-06-20,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-08-20,Platform_21,0.1,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-10-20,Platform_21,0.2,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-11-20,Platform_21,0.2,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2024-12-20,Platform_21,0.5,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2025-01-20,Platform_21,0.1,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2025-04-24,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2025-07-24,Platform_21,0.3,Centre Historical Right-wing to far-right,Moderate nationalism Historical Right-wing populism,https://en.wikipedia.org/wiki/Platform_21
-2022-10-01,Republic_(Latvia),1.76,Centre,,https://en.wikipedia.org/wiki/Republic_(Latvia)
-2022-10-01,Republic_(Latvia),1.6,Centre,,https://en.wikipedia.org/wiki/Republic_(Latvia)
-2022-10-01,"Social_Democratic_Party_""Harmony""",4.76,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2022-10-01,"Social_Democratic_Party_""Harmony""",3.0,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2022-11-01,"Social_Democratic_Party_""Harmony""",4.4,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2022-12-01,"Social_Democratic_Party_""Harmony""",4.4,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-01-20,"Social_Democratic_Party_""Harmony""",4.1,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-03-20,"Social_Democratic_Party_""Harmony""",4.5,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-04-20,"Social_Democratic_Party_""Harmony""",4.7,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-05-20,"Social_Democratic_Party_""Harmony""",5.5,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-06-20,"Social_Democratic_Party_""Harmony""",5.6,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-07-20,"Social_Democratic_Party_""Harmony""",4.9,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-08-20,"Social_Democratic_Party_""Harmony""",5.3,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-09-20,"Social_Democratic_Party_""Harmony""",5.1,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-10-20,"Social_Democratic_Party_""Harmony""",4.5,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-11-20,"Social_Democratic_Party_""Harmony""",7.2,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2023-12-20,"Social_Democratic_Party_""Harmony""",3.6,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-01-20,"Social_Democratic_Party_""Harmony""",5.9,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-03-20,"Social_Democratic_Party_""Harmony""",7.3,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-04-20,"Social_Democratic_Party_""Harmony""",8.7,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-06-20,"Social_Democratic_Party_""Harmony""",8.5,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-08-20,"Social_Democratic_Party_""Harmony""",7.3,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-10-20,"Social_Democratic_Party_""Harmony""",7.6,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-11-20,"Social_Democratic_Party_""Harmony""",6.1,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2024-12-20,"Social_Democratic_Party_""Harmony""",6.1,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2025-01-20,"Social_Democratic_Party_""Harmony""",5.4,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2025-03-24,"Social_Democratic_Party_""Harmony""",4.2,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2025-04-24,"Social_Democratic_Party_""Harmony""",5.1,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2025-07-24,"Social_Democratic_Party_""Harmony""",4.0,Centre-left,Social democracy Russian minority politics,"https://en.wikipedia.org/wiki/Social_Democratic_Party_""Harmony"""
-2022-10-01,Sovereign_Power_(Latvia),3.23,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2022-10-01,Sovereign_Power_(Latvia),1.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2022-11-01,Sovereign_Power_(Latvia),1.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2022-12-01,Sovereign_Power_(Latvia),1.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-01-20,Sovereign_Power_(Latvia),1.7,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-03-20,Sovereign_Power_(Latvia),2.4,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-05-20,Sovereign_Power_(Latvia),2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-06-20,Sovereign_Power_(Latvia),2.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-07-20,Sovereign_Power_(Latvia),2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-08-20,Sovereign_Power_(Latvia),1.7,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-09-20,Sovereign_Power_(Latvia),2.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-10-20,Sovereign_Power_(Latvia),2.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-11-20,Sovereign_Power_(Latvia),2.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2023-12-20,Sovereign_Power_(Latvia),2.2,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-01-20,Sovereign_Power_(Latvia),2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-03-20,Sovereign_Power_(Latvia),2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-04-20,Sovereign_Power_(Latvia),4.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-06-20,Sovereign_Power_(Latvia),2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-08-20,Sovereign_Power_(Latvia),3.6,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-10-20,Sovereign_Power_(Latvia),4.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-11-20,Sovereign_Power_(Latvia),3.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2024-12-20,Sovereign_Power_(Latvia),4.6,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2025-01-20,Sovereign_Power_(Latvia),4.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2025-03-24,Sovereign_Power_(Latvia),2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2025-04-24,Sovereign_Power_(Latvia),4.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2025-07-24,Sovereign_Power_(Latvia),7.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-2022-10-01,The_Conservatives_(Latvia),3.08,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2022-10-01,The_Conservatives_(Latvia),2.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2022-11-01,The_Conservatives_(Latvia),2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2022-12-01,The_Conservatives_(Latvia),2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-01-20,The_Conservatives_(Latvia),2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-03-20,The_Conservatives_(Latvia),1.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-04-20,The_Conservatives_(Latvia),2.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-05-20,The_Conservatives_(Latvia),2.3,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-06-20,The_Conservatives_(Latvia),1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-07-20,The_Conservatives_(Latvia),2.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-08-20,The_Conservatives_(Latvia),2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-09-20,The_Conservatives_(Latvia),3.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-10-20,The_Conservatives_(Latvia),2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-11-20,The_Conservatives_(Latvia),2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2023-12-20,The_Conservatives_(Latvia),3.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-01-20,The_Conservatives_(Latvia),2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-03-20,The_Conservatives_(Latvia),2.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-04-20,The_Conservatives_(Latvia),2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-06-20,The_Conservatives_(Latvia),2.4,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-08-20,The_Conservatives_(Latvia),3.0,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-10-20,The_Conservatives_(Latvia),1.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-11-20,The_Conservatives_(Latvia),1.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2024-12-20,The_Conservatives_(Latvia),1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2025-01-20,The_Conservatives_(Latvia),1.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2025-03-24,The_Conservatives_(Latvia),1.0,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2025-04-24,The_Conservatives_(Latvia),1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2025-07-24,The_Conservatives_(Latvia),1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-2022-10-01,The_Progressives_(Latvia),6.14,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2022-10-01,The_Progressives_(Latvia),9.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2022-11-01,The_Progressives_(Latvia),12.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2022-12-01,The_Progressives_(Latvia),11.7,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-01-20,The_Progressives_(Latvia),10.9,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-03-20,The_Progressives_(Latvia),12.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-04-20,The_Progressives_(Latvia),11.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-05-20,The_Progressives_(Latvia),10.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-06-20,The_Progressives_(Latvia),14.7,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-07-20,The_Progressives_(Latvia),14.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-08-20,The_Progressives_(Latvia),13.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-09-20,The_Progressives_(Latvia),13.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-10-20,The_Progressives_(Latvia),11.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-11-20,The_Progressives_(Latvia),11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2023-12-20,The_Progressives_(Latvia),12.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-01-20,The_Progressives_(Latvia),13.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-03-20,The_Progressives_(Latvia),13.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-04-20,The_Progressives_(Latvia),11.5,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-06-20,The_Progressives_(Latvia),10.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-08-20,The_Progressives_(Latvia),11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-10-20,The_Progressives_(Latvia),11.1,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-11-20,The_Progressives_(Latvia),11.5,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2024-12-20,The_Progressives_(Latvia),11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2025-01-20,The_Progressives_(Latvia),10.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2025-03-24,The_Progressives_(Latvia),8.9,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2025-04-24,The_Progressives_(Latvia),8.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2025-07-24,The_Progressives_(Latvia),11.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-2022-10-01,Union_of_Greens_and_Farmers,12.4,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2022-10-01,Union_of_Greens_and_Farmers,13.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2022-11-01,Union_of_Greens_and_Farmers,11.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2022-12-01,Union_of_Greens_and_Farmers,15.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-01-20,Union_of_Greens_and_Farmers,14.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-03-20,Union_of_Greens_and_Farmers,14.4,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-04-20,Union_of_Greens_and_Farmers,12.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-05-20,Union_of_Greens_and_Farmers,12.8,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-06-20,Union_of_Greens_and_Farmers,11.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-07-20,Union_of_Greens_and_Farmers,11.8,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-08-20,Union_of_Greens_and_Farmers,12.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-09-20,Union_of_Greens_and_Farmers,12.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-10-20,Union_of_Greens_and_Farmers,13.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-11-20,Union_of_Greens_and_Farmers,13.2,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2023-12-20,Union_of_Greens_and_Farmers,12.0,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-01-20,Union_of_Greens_and_Farmers,10.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-03-20,Union_of_Greens_and_Farmers,10.3,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-04-20,Union_of_Greens_and_Farmers,11.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-06-20,Union_of_Greens_and_Farmers,7.2,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-08-20,Union_of_Greens_and_Farmers,7.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-10-20,Union_of_Greens_and_Farmers,9.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-11-20,Union_of_Greens_and_Farmers,8.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2024-12-20,Union_of_Greens_and_Farmers,7.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2025-01-20,Union_of_Greens_and_Farmers,9.5,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2025-03-24,Union_of_Greens_and_Farmers,16.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2025-04-24,Union_of_Greens_and_Farmers,9.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2025-07-24,Union_of_Greens_and_Farmers,10.4,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-2022-10-01,United_List_(Latvia),10.98,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2022-10-01,United_List_(Latvia),9.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2022-11-01,United_List_(Latvia),11.0,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2022-12-01,United_List_(Latvia),8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-01-20,United_List_(Latvia),10.3,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-03-20,United_List_(Latvia),9.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-04-20,United_List_(Latvia),11.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-05-20,United_List_(Latvia),9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-06-20,United_List_(Latvia),8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-07-20,United_List_(Latvia),7.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-08-20,United_List_(Latvia),9.3,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-09-20,United_List_(Latvia),8.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-10-20,United_List_(Latvia),8.2,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-11-20,United_List_(Latvia),7.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2023-12-20,United_List_(Latvia),8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-01-20,United_List_(Latvia),8.4,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-03-20,United_List_(Latvia),8.2,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-04-20,United_List_(Latvia),8.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-06-20,United_List_(Latvia),7.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-08-20,United_List_(Latvia),7.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-10-20,United_List_(Latvia),9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-11-20,United_List_(Latvia),8.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2024-12-20,United_List_(Latvia),8.4,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2025-01-20,United_List_(Latvia),9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2025-03-24,United_List_(Latvia),4.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2025-04-24,United_List_(Latvia),9.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-2025-07-24,United_List_(Latvia),10.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2022-10-18,AP!,4.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
+2022-11-18,AP!,5.1,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
+2022-12-18,AP!,5.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
+2022-10-18,AS,9.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2022-11-18,AS,11.0,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2022-12-18,AS,8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-01-18,AS,10.3,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-03-18,AS,9.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-04-18,AS,11.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-05-18,AS,9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-06-18,AS,8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-07-18,AS,7.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-08-18,AS,9.3,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-09-18,AS,8.7,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-10-18,AS,8.2,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-11-18,AS,7.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2023-12-18,AS,8.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-01-18,AS,8.4,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-03-18,AS,8.2,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-04-18,AS,8.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-06-18,AS,7.9,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-08-18,AS,7.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-10-18,AS,9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-11-18,AS,8.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-12-18,AS,8.4,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-01-18,AS,9.1,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-03-24,AS,4.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-04-24,AS,9.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-07-24,AS,10.6,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-11-04,AS,10.5,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2025-11-06,AS,7.2,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
+2024-01-18,JKP,2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-03-18,JKP,2.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-04-18,JKP,2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-06-18,JKP,2.4,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-08-18,JKP,3.0,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-10-18,JKP,1.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-11-18,JKP,1.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2024-12-18,JKP,1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-01-18,JKP,1.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-03-24,JKP,1.0,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-04-24,JKP,1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-07-24,JKP,1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-11-04,JKP,0.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2025-11-06,JKP,1.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2022-10-18,JV,23.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2022-11-18,JV,22.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2022-12-18,JV,18.8,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-01-18,JV,21.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-03-18,JV,17.7,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-04-18,JV,19.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-05-18,JV,18.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-06-18,JV,18.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-07-18,JV,22.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-08-18,JV,18.1,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-09-18,JV,14.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-10-18,JV,17.3,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-11-18,JV,18.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2023-12-18,JV,14.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-01-18,JV,16.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-03-18,JV,13.6,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-04-18,JV,12.7,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-06-18,JV,18.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-08-18,JV,15.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-10-18,JV,15.9,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-11-18,JV,14.0,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2024-12-18,JV,12.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-01-18,JV,11.4,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-03-24,JV,13.2,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-04-24,JV,12.8,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-07-24,JV,11.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-11-04,JV,16.5,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2025-11-06,JV,13.6,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
+2022-10-18,K,2.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2022-11-18,K,2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2022-12-18,K,2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-01-18,K,2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-03-18,K,1.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-04-18,K,2.9,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-05-18,K,2.3,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-06-18,K,1.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-07-18,K,2.6,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-08-18,K,2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-09-18,K,3.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-10-18,K,2.7,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-11-18,K,2.8,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-12-18,K,3.2,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
+2023-01-18,KP,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-03-18,KP,1.9,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-04-18,KP,2.9,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-05-18,KP,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-06-18,KP,1.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-07-18,KP,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-08-18,KP,2.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-09-18,KP,2.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-10-18,KP,2.3,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-11-18,KP,2.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-12-18,KP,2.0,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-01-18,KP,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-03-18,KP,2.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-04-18,KP,2.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-06-18,KP,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-08-18,KP,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-10-18,KP,1.5,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-11-18,KP,1.1,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2024-12-18,KP,1.3,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-01-18,KP,1.7,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-03-24,KP,1.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-04-24,KP,1.4,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-07-24,KP,1.8,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-11-04,KP,1.6,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2025-11-06,KP,1.7,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
+2023-01-18,LA,1.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-03-18,LA,1.2,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-05-18,LA,1.2,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-06-18,LA,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-07-18,LA,2.0,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-08-18,LA,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-09-18,LA,1.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-11-18,LA,2.0,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2023-12-18,LA,3.3,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-01-18,LA,2.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-03-18,LA,3.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-04-18,LA,2.1,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-06-18,LA,3.9,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-08-18,LA,3.7,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-10-18,LA,2.6,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-11-18,LA,3.8,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2024-12-18,LA,3.4,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-01-18,LA,2.4,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-03-24,LA,3.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-04-24,LA,2.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-07-24,LA,2.5,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-11-04,LA,2.3,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2025-11-06,LA,2.3,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
+2022-10-18,LKS,2.2,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2022-11-18,LKS,2.1,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2022-12-18,LKS,2.8,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-01-18,LKS,1.7,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-03-18,LKS,2.1,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-04-18,LKS,2.2,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-05-18,LKS,1.3,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-06-18,LKS,0.9,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-07-18,LKS,1.2,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-08-18,LKS,1.1,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-09-18,LKS,1.5,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-10-18,LKS,1.8,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-11-18,LKS,1.5,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2023-12-18,LKS,2.5,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2025-01-18,LKS,1.4,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2025-04-24,LKS,2.0,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2025-07-24,LKS,1.0,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2025-11-04,LKS,2.3,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2025-11-06,LKS,3.0,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
+2022-10-18,LPV,5.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2022-11-18,LPV,5.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2022-12-18,LPV,5.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-01-18,LPV,7.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-03-18,LPV,9.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-04-18,LPV,11.7,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-05-18,LPV,13.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-06-18,LPV,14.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-07-18,LPV,11.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-08-18,LPV,11.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-09-18,LPV,11.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-10-18,LPV,11.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-11-18,LPV,11.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2023-12-18,LPV,11.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-01-18,LPV,11.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-03-18,LPV,11.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-04-18,LPV,10.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-06-18,LPV,10.7,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-08-18,LPV,11.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-10-18,LPV,11.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-11-18,LPV,14.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2024-12-18,LPV,14.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-01-18,LPV,14.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-03-24,LPV,18.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-04-24,LPV,16.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-07-24,LPV,14.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-11-04,LPV,14.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2025-11-06,LPV,10.7,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
+2022-10-18,NA,10.5,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2022-11-18,NA,12.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2022-12-18,NA,11.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-01-18,NA,10.4,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-03-18,NA,10.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-04-18,NA,10.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-05-18,NA,10.6,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-06-18,NA,10.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-07-18,NA,8.8,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-08-18,NA,8.7,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-09-18,NA,12.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-10-18,NA,12.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-11-18,NA,10.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2023-12-18,NA,13.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-01-18,NA,13.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-03-18,NA,13.9,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-04-18,NA,14.5,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-06-18,NA,16.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-08-18,NA,16.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-10-18,NA,15.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-11-18,NA,16.2,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2024-12-18,NA,18.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-01-18,NA,18.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-03-24,NA,18.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-04-24,NA,16.0,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-07-24,NA,15.4,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-11-04,NA,11.1,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2025-11-06,NA,15.3,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
+2022-10-18,P21,2.2,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2022-11-18,P21,2.0,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2022-12-18,P21,2.2,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-01-18,P21,2.0,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-03-18,P21,1.7,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-05-18,P21,1.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-06-18,P21,0.7,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-07-18,P21,0.4,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-08-18,P21,0.6,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-09-18,P21,0.5,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-10-18,P21,0.7,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-11-18,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2023-12-18,P21,1.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-01-18,P21,0.7,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-03-18,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-04-18,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-06-18,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-08-18,P21,0.1,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-10-18,P21,0.2,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-11-18,P21,0.2,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2024-12-18,P21,0.5,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2025-01-18,P21,0.1,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2025-04-24,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2025-07-24,P21,0.3,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2025-11-04,P21,0.4,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2025-11-06,P21,0.7,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
+2022-10-18,PRO,9.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2022-11-18,PRO,12.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2022-12-18,PRO,11.7,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-01-18,PRO,10.9,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-03-18,PRO,12.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-04-18,PRO,11.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-05-18,PRO,10.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-06-18,PRO,14.7,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-07-18,PRO,14.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-08-18,PRO,13.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-09-18,PRO,13.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-10-18,PRO,11.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-11-18,PRO,11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2023-12-18,PRO,12.0,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-01-18,PRO,13.3,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-03-18,PRO,13.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-04-18,PRO,11.5,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-06-18,PRO,10.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-08-18,PRO,11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-10-18,PRO,11.1,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-11-18,PRO,11.5,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2024-12-18,PRO,11.2,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-01-18,PRO,10.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-03-24,PRO,8.9,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-04-24,PRO,8.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-07-24,PRO,11.6,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-11-04,PRO,11.8,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2025-11-06,PRO,12.7,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
+2022-10-18,R,1.6,Centre,,https://en.wikipedia.org/wiki/Republic_(Latvia)
+2022-10-18,S,3.0,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2022-11-18,S,4.4,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2022-12-18,S,4.4,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-01-18,S,4.1,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-03-18,S,4.5,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-04-18,S,4.7,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-05-18,S,5.5,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-06-18,S,5.6,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-07-18,S,4.9,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-08-18,S,5.3,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-09-18,S,5.1,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-10-18,S,4.5,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-11-18,S,7.2,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2023-12-18,S,3.6,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-01-18,S,5.9,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-03-18,S,7.3,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-04-18,S,8.7,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-06-18,S,8.5,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-08-18,S,7.3,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-10-18,S,7.6,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-11-18,S,6.1,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2024-12-18,S,6.1,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-01-18,S,5.4,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-03-24,S,4.2,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-04-24,S,5.1,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-07-24,S,4.0,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-11-04,S,3.0,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2025-11-06,S,3.8,Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
+2022-10-18,ST!,6.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2022-11-18,ST!,5.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2022-12-18,ST!,8.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-01-18,ST!,7.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-03-18,ST!,8.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-04-18,ST!,7.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-05-18,ST!,7.8,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-06-18,ST!,6.6,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-07-18,ST!,7.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-08-18,ST!,9.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-09-18,ST!,8.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-10-18,ST!,8.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-11-18,ST!,9.6,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2023-12-18,ST!,9.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-01-18,ST!,8.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-03-18,ST!,8.4,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-04-18,ST!,6.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-06-18,ST!,6.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-08-18,ST!,7.5,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-10-18,ST!,7.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-11-18,ST!,8.0,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2024-12-18,ST!,6.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-01-18,ST!,7.7,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-03-24,ST!,5.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-04-24,ST!,7.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-07-24,ST!,5.1,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-11-04,ST!,5.2,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2025-11-06,ST!,1.3,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
+2022-10-18,SV,1.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2022-11-18,SV,1.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2022-12-18,SV,1.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-01-18,SV,1.7,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-03-18,SV,2.4,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-05-18,SV,2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-06-18,SV,2.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-07-18,SV,2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-08-18,SV,1.7,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-09-18,SV,2.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-10-18,SV,2.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-11-18,SV,2.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2023-12-18,SV,2.2,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-01-18,SV,2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-03-18,SV,2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-04-18,SV,4.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-06-18,SV,2.9,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-08-18,SV,3.6,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-10-18,SV,4.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-11-18,SV,3.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2024-12-18,SV,4.6,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-01-18,SV,4.0,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-03-24,SV,2.1,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-04-24,SV,4.5,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-07-24,SV,7.3,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-11-04,SV,6.8,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2025-11-06,SV,4.4,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
+2022-10-18,ZZS,13.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2022-11-18,ZZS,11.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2022-12-18,ZZS,15.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-01-18,ZZS,14.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-03-18,ZZS,14.4,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-04-18,ZZS,12.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-05-18,ZZS,12.8,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-06-18,ZZS,11.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-07-18,ZZS,11.8,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-08-18,ZZS,12.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-09-18,ZZS,12.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-10-18,ZZS,13.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-11-18,ZZS,13.2,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2023-12-18,ZZS,12.0,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-01-18,ZZS,10.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-03-18,ZZS,10.3,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-04-18,ZZS,11.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-06-18,ZZS,7.2,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-08-18,ZZS,7.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-10-18,ZZS,9.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-11-18,ZZS,8.9,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2024-12-18,ZZS,7.6,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-01-18,ZZS,9.5,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-03-24,ZZS,16.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-04-24,ZZS,9.7,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-07-24,ZZS,10.4,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-11-04,ZZS,8.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
+2025-11-06,ZZS,5.1,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers

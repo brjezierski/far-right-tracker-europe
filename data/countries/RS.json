@@ -1,87 +1,14 @@
 {
   "country": "Serbia",
   "iso2": "RS",
-  "parties": [
-    "National_Democratic_Alternative_(Serbia)",
-    "People's_Movement_of_Serbia",
-    "We_–_Power_of_the_People"
-  ],
-  "latestSupport": 6.199999999999999,
-  "seriesByParty": {
-    "National_Democratic_Alternative_(Serbia)": [
-      {
-        "date": "2024-08-17",
-        "value": 0.0
-      },
-      {
-        "date": "2024-12-17",
-        "value": 5.2
-      },
-      {
-        "date": "2024-12-25",
-        "value": 3.8
-      },
-      {
-        "date": "2025-07-30",
-        "value": 0.0
-      },
-      {
-        "date": "2025-08-02",
-        "value": 0.0
-      },
-      {
-        "date": "2025-09-02",
-        "value": 0.0
-      }
-    ],
-    "People's_Movement_of_Serbia": [
-      {
-        "date": "2024-09-27",
-        "value": 4.6
-      },
-      {
-        "date": "2024-12-17",
-        "value": 24.3
-      },
-      {
-        "date": "2024-12-25",
-        "value": 4.1
-      },
-      {
-        "date": "2025-07-30",
-        "value": 2.5
-      },
-      {
-        "date": "2025-08-02",
-        "value": 4.2
-      },
-      {
-        "date": "2025-09-02",
-        "value": 3.3
-      }
-    ],
-    "We_–_Power_of_the_People": [
-      {
-        "date": "2024-09-27",
-        "value": 4.6
-      },
-      {
-        "date": "2024-12-25",
-        "value": 5.6
-      },
-      {
-        "date": "2025-07-30",
-        "value": 3.5
-      },
-      {
-        "date": "2025-08-02",
-        "value": 4.2
-      },
-      {
-        "date": "2025-09-02",
-        "value": 2.9
-      }
-    ]
-  },
-  "latestUpdate": "2025-10-20T21:41:47Z"
+  "parties": [],
+  "latestSupport": 0.0,
+  "seriesByParty": {},
+  "latestUpdate": "2025-11-18T12:51:16Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election"
+    }
+  ]
 }

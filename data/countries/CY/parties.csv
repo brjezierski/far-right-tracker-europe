@@ -1,12 +1,12 @@
 party,political_position,ideology,wikipedia_url
-Democratic_Rally,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-Progressive_Party_of_Working_People,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-ELAM_(Cyprus),Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
-Democratic_Party_(Cyprus),Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-Movement_for_Social_Democracy,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-Ecological_and_Environmental_Movement,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-Democratic_Front_(Cyprus),Centre,Liberalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-Active_Citizens_–_Movement_of_Cypriot_United_Hunters,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_–_Movement_of_Cypriot_United_Hunters
-Animal_Party_Cyprus,,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-Volt_Cyprus,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-Fidias_Panayiotou,Direct Democracy (2025–present),,https://en.wikipedia.org/wiki/Fidias_Panayiotou
+DISY,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+AKEL,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+ELAM,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+DIKO,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+EDEK,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+KOSP,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+DIPA,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+EP,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+APC,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+Volt,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+Direct Democracy,Direct Democracy (2025–present),,https://en.wikipedia.org/wiki/Fidias_Panayiotou

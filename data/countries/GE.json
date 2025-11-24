@@ -2,24 +2,11 @@
   "country": "Georgia",
   "iso2": "GE",
   "parties": [
-    "Alliance_of_Patriots_of_Georgia",
-    "Coalition_for_Change_(Georgia)",
-    "Freedom_Square_(political_party)",
-    "Georgian_Dream",
-    "Strong_Georgia",
-    "Unity_–_National_Movement"
+    "APG"
   ],
-  "latestSupport": 117.2,
+  "latestSupport": 1.65,
   "seriesByParty": {
-    "Alliance_of_Patriots_of_Georgia": [
-      {
-        "date": "2024-10-26",
-        "value": 2.4
-      },
-      {
-        "date": "2025-01-30",
-        "value": 2.9
-      },
+    "APG": [
       {
         "date": "2025-06-29",
         "value": 1.5
@@ -27,102 +14,14 @@
       {
         "date": "2025-07-05",
         "value": 1.8
-      },
-      {
-        "date": "2025-10-04",
-        "value": 0.8
-      }
-    ],
-    "Coalition_for_Change_(Georgia)": [
-      {
-        "date": "2024-10-26",
-        "value": 11.0
-      },
-      {
-        "date": "2025-01-30",
-        "value": 18.0
-      },
-      {
-        "date": "2025-06-29",
-        "value": 18.0
-      },
-      {
-        "date": "2025-07-05",
-        "value": 9.5
-      }
-    ],
-    "Freedom_Square_(political_party)": [
-      {
-        "date": "2024-10-26",
-        "value": 8.8
-      },
-      {
-        "date": "2025-01-30",
-        "value": 11.0
-      }
-    ],
-    "Georgian_Dream": [
-      {
-        "date": "2024-10-26",
-        "value": 53.9
-      },
-      {
-        "date": "2025-01-30",
-        "value": 31.5
-      },
-      {
-        "date": "2025-06-29",
-        "value": 35.8
-      },
-      {
-        "date": "2025-07-05",
-        "value": 56.2
-      },
-      {
-        "date": "2025-10-04",
-        "value": 81.7
-      }
-    ],
-    "Strong_Georgia": [
-      {
-        "date": "2024-10-26",
-        "value": 8.8
-      },
-      {
-        "date": "2025-01-30",
-        "value": 11.0
-      },
-      {
-        "date": "2025-06-29",
-        "value": 9.5
-      },
-      {
-        "date": "2025-07-05",
-        "value": 10.7
-      },
-      {
-        "date": "2025-10-04",
-        "value": 6.7
-      }
-    ],
-    "Unity_–_National_Movement": [
-      {
-        "date": "2024-10-26",
-        "value": 10.2
-      },
-      {
-        "date": "2025-01-30",
-        "value": 14.9
-      },
-      {
-        "date": "2025-06-29",
-        "value": 16.6
-      },
-      {
-        "date": "2025-07-05",
-        "value": 7.5
       }
     ]
   },
-  "latestUpdate": "2025-10-20T21:41:47Z"
+  "latestUpdate": "2025-11-18T12:52:38Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Georgian_parliamentary_election"
+    }
+  ]
 }

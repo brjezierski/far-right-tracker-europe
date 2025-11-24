@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && rm -rf ../docs && cp -r out ../docs && touch ../docs/.nojekyll",
+    "export": "next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -21,6 +22,7 @@
     "@types/node": "^20.14.2",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
+    "@types/topojson-client": "^3.1.5",
     "eslint": "^8.57.0",
     "eslint-config-next": "^14.2.5",
     "typescript": "^5.5.3"

@@ -1,12 +1,14 @@
 party,political_position,ideology,wikipedia_url
-Far-left_politics_in_France,,,
-New_Popular_Front,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-Miscellaneous_left,,,
-Green_politics,,,
-Together_(coalition),Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-Miscellaneous_centre,,,
-The_Republicans_(France),Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-Miscellaneous_right,,,
-Debout_la_France,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-National_Rally,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-Reconquête,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
+EXG,,,
+NFP,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+PS,Centre-left to left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_(France)
+DVG,,,
+ENS,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+LR,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+DVD,,,
+DLF,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+UDR,Far-right,Right-libertarianism,https://en.wikipedia.org/wiki/Union_of_the_Right_for_the_Republic
+RN,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+REC,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+RN and allies,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+DVC,,,

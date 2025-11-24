@@ -1,15 +1,14 @@
 party,political_position,ideology,wikipedia_url
-People's_Party_(Spain),Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People's_Party_(Spain)
-Spanish_Socialist_Workers'_Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers'_Party
-Vox_(political_party),Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-Sumar_(electoral_platform),Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
-Republican_Left_of_Catalonia,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
-Together_for_Catalonia_(2020),Centre-right,Catalan independence Sovereigntism Populism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2020)
-EH_Bildu,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
-Basque_Nationalist_Party,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
-Galician_Nationalist_Bloc,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
-Canarian_Coalition,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
-Navarrese_People's_Union,Centre-right to right-wing,Conservatism Christian democracy Navarrese regionalism Spanish unionism,https://en.wikipedia.org/wiki/Navarrese_People's_Union
-Podemos_(Spanish_political_party),Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
-Se_Acabó_La_Fiesta,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acabó_La_Fiesta
-',,,
+People's Party,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+Spanish Socialist Workers' Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+Vox,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
+Sumar,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
+Republican Left of Catalonia,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
+Together for Catalonia,Centre-right,Catalan independence Populism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2020)
+EH Bildu,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
+Basque Nationalist Party,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
+Galician Nationalist Bloc,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
+Canarian Coalition,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
+Navarrese People's Union,Centre-right to right-wing,Conservatism Christian democracy Navarrese regionalism Spanish unionism,https://en.wikipedia.org/wiki/Navarrese_People%27s_Union
+Podemos,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
+SALF,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta

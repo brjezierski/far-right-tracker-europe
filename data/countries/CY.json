@@ -2,172 +2,11 @@
   "country": "Cyprus",
   "iso2": "CY",
   "parties": [
-    "Active_Citizens_–_Movement_of_Cypriot_United_Hunters",
-    "Democratic_Front_(Cyprus)",
-    "Democratic_Rally",
-    "ELAM_(Cyprus)"
+    "ELAM"
   ],
-  "latestSupport": 40.8,
+  "latestSupport": 16.7,
   "seriesByParty": {
-    "Active_Citizens_–_Movement_of_Cypriot_United_Hunters": [
-      {
-        "date": "2023-09-22",
-        "value": 1.4
-      },
-      {
-        "date": "2024-01-11",
-        "value": 0.7
-      },
-      {
-        "date": "2024-06-09",
-        "value": 1.3
-      },
-      {
-        "date": "2024-11-01",
-        "value": 1.4
-      },
-      {
-        "date": "2025-03-11",
-        "value": 1.3
-      },
-      {
-        "date": "2025-05-30",
-        "value": 3.3
-      },
-      {
-        "date": "2025-06-28",
-        "value": 1.2
-      },
-      {
-        "date": "2025-08-11",
-        "value": 2.7
-      },
-      {
-        "date": "2025-09-22",
-        "value": 1.1
-      }
-    ],
-    "Democratic_Front_(Cyprus)": [
-      {
-        "date": "2023-09-22",
-        "value": 1.4
-      },
-      {
-        "date": "2024-01-11",
-        "value": 3.3
-      },
-      {
-        "date": "2024-02-09",
-        "value": 3.7
-      },
-      {
-        "date": "2024-02-16",
-        "value": 4.3
-      },
-      {
-        "date": "2024-06-09",
-        "value": 2.2
-      },
-      {
-        "date": "2024-10-05",
-        "value": 3.4
-      },
-      {
-        "date": "2024-10-16",
-        "value": 1.2
-      },
-      {
-        "date": "2025-03-11",
-        "value": 1.3
-      },
-      {
-        "date": "2025-03-21",
-        "value": 1.25
-      },
-      {
-        "date": "2025-05-30",
-        "value": 6.1
-      },
-      {
-        "date": "2025-06-28",
-        "value": 1.2
-      },
-      {
-        "date": "2025-07-08",
-        "value": 1.4
-      },
-      {
-        "date": "2025-08-11",
-        "value": 1.4
-      },
-      {
-        "date": "2025-09-22",
-        "value": 1.1
-      }
-    ],
-    "Democratic_Rally": [
-      {
-        "date": "2023-09-22",
-        "value": 26.1
-      },
-      {
-        "date": "2024-01-11",
-        "value": 25.7
-      },
-      {
-        "date": "2024-02-09",
-        "value": 30.7
-      },
-      {
-        "date": "2024-02-16",
-        "value": 29.0
-      },
-      {
-        "date": "2024-06-09",
-        "value": 24.8
-      },
-      {
-        "date": "2024-10-05",
-        "value": 28.8
-      },
-      {
-        "date": "2024-10-16",
-        "value": 23.5
-      },
-      {
-        "date": "2024-11-01",
-        "value": 27.9
-      },
-      {
-        "date": "2025-03-11",
-        "value": 24.0
-      },
-      {
-        "date": "2025-03-21",
-        "value": 25.0
-      },
-      {
-        "date": "2025-05-30",
-        "value": 27.8
-      },
-      {
-        "date": "2025-06-28",
-        "value": 22.2
-      },
-      {
-        "date": "2025-07-08",
-        "value": 23.2
-      },
-      {
-        "date": "2025-08-11",
-        "value": 21.9
-      },
-      {
-        "date": "2025-09-22",
-        "value": 22.7
-      }
-    ],
-    "ELAM_(Cyprus)": [
+    "ELAM": [
       {
         "date": "2023-09-22",
         "value": 17.4
@@ -230,5 +69,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-10-20T21:41:48Z"
+  "latestUpdate": "2025-11-18T12:55:06Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
+    }
+  ]
 }

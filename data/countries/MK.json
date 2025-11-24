@@ -1,38 +1,14 @@
 {
   "country": "Macedonia",
   "iso2": "MK",
-  "parties": [
-    "Alliance_for_Albanians",
-    "Besa_Movement",
-    "Democratic_Party_of_Albanians",
-    "VMRO-DPMNE"
-  ],
-  "latestSupport": 36.900000000000006,
-  "seriesByParty": {
-    "Alliance_for_Albanians": [
-      {
-        "date": "2023-10-06",
-        "value": 4.7
-      }
-    ],
-    "Besa_Movement": [
-      {
-        "date": "2023-10-06",
-        "value": 7.3
-      }
-    ],
-    "Democratic_Party_of_Albanians": [
-      {
-        "date": "2023-10-06",
-        "value": 7.3
-      }
-    ],
-    "VMRO-DPMNE": [
-      {
-        "date": "2023-10-06",
-        "value": 17.6
-      }
-    ]
-  },
-  "latestUpdate": "2025-10-20T21:41:47Z"
+  "parties": [],
+  "latestSupport": 0.0,
+  "seriesByParty": {},
+  "latestUpdate": "2025-11-10T23:45:28Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election"
+    }
+  ]
 }

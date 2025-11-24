@@ -1,10 +1,10 @@
 party,political_position,ideology,wikipedia_url
-National_Coalition_Party,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
-Finns_Party,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Finns_Party
-Social_Democratic_Party_of_Finland,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
-Centre_Party_(Finland),Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
-Left_Alliance_(Finland),Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
-Green_League,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
-Swedish_People's_Party_of_Finland,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People's_Party_of_Finland
-Christian_Democrats_(Finland),Centre-right,Christian democracy Conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Finland)
-Movement_Now,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now
+KOK,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
+PS,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Finns_Party
+SDP,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
+KESK,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
+VAS,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
+VIHR,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
+SFP,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland
+KD,Centre-right,Christian democracy Conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Finland)
+LIIK,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now

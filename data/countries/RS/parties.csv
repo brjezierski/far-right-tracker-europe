@@ -1,11 +1,13 @@
 party,political_position,ideology,wikipedia_url
-Serbia_Must_Not_Stop,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-Socialist_Party_of_Serbia,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-Party_of_Freedom_and_Justice,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-People's_Movement_of_Serbia,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People's_Movement_of_Serbia
-Green–Left_Front,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green–Left_Front
-Serbia_Centre,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-Democratic_Party_(Serbia),Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-National_Democratic_Alternative_(Serbia),Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
-Kreni-Promeni,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-We_–_Power_of_the_People,Right-wing,Russophilia Right-wing populism Conspiracy theorism Anti-vaccination National conservatism Serbian nationalism,https://en.wikipedia.org/wiki/We_–_Power_of_the_People
+SNS–led coalition,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+SPS – JS,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+SSP,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+NPS,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+ZLF,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+SRCE,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+DS,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+NDSS,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+POKS,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+KP,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+MI–SN,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+NADA,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)

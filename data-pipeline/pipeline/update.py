@@ -2,7 +2,6 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from typing import Optional
-import yaml
 import pandas as pd
 from .utils import (
     DATA_DIR,
@@ -15,13 +14,13 @@ from .utils import (
 from .polling import (
     WikipediaPollingFetcher,
     get_polling_source,
+    calculate_latest_total_support,
 )
 import time
 
 
 ROOT = Path(__file__).resolve().parents[2]
-# CATEGORIES = ["communism"]  # , "liberal", "conservatism"]
-CATEGORIES = ["far-right", "right-wing-populism", "liberal", "conservatism"]
+CATEGORIES = ["far-right", "right-wing-populism"]
 
 
 def is_party_far_right(
@@ -55,6 +54,7 @@ def save_country_polling_csv(
     party_metadata: dict,
     sources: list,
     updated_at: str,
+    latest_total: Optional[float] = None,
 ) -> None:
     """Save country polling data as CSV files."""
     # Create country-specific directory
@@ -110,11 +110,17 @@ def save_country_polling_csv(
         "updatedAt": updated_at,
     }
 
+    # Add latest_total if provided (for new calculation method)
+    if latest_total is not None:
+        metadata["latestTotal"] = latest_total
+
     with open(country_dir / "metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
 
 
-def read_country_data_from_csv(iso2: str, categories: Optional[list] = None) -> dict:
+def read_country_data_from_csv(
+    iso2: str, categories: Optional[list] = None, latest_total: Optional[float] = None
+) -> dict:
     """Read country data from CSV files and return summary information."""
     if categories is None:
         categories = CATEGORIES
@@ -148,9 +154,33 @@ def read_country_data_from_csv(iso2: str, categories: Optional[list] = None) -> 
 
         # Calculate far-right totals
         selected_parties = latest_data[latest_data["is_far_right"]]["party"].tolist()
-        latest_far_right_support = latest_data[latest_data["is_far_right"]][
-            "polling_value"
-        ].sum()
+
+        # Use provided latest_total if available, otherwise calculate it
+        if latest_total is not None:
+            latest_far_right_support = latest_total
+        else:
+            # Build series and party_metadata for calculation
+            series_for_calc = {}
+            party_metadata_for_calc = {}
+            for party in selected_parties:
+                party_data = df_polling[df_polling["party"] == party].copy()
+                party_data = party_data.sort_values("date")
+                series_for_calc[party] = [
+                    {
+                        "date": row["date"].strftime("%Y-%m-%d"),
+                        "value": row["polling_value"],
+                    }
+                    for _, row in party_data.iterrows()
+                ]
+                party_metadata_for_calc[party] = {"is_far_right": True}
+
+            # Calculate using the same method as in polling.py
+            latest_far_right_support = calculate_latest_total_support(
+                series_for_calc, party_metadata_for_calc
+            )
+            if latest_far_right_support is None:
+                latest_far_right_support = 0.0
+
         print(
             f"Selected parties: {selected_parties} with total support {latest_far_right_support}"
         )
@@ -310,6 +340,7 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
         series_by_party = {}
         party_metadata = {}
         sources = []
+        latest_total = None
         if url:
             fetcher = WikipediaPollingFetcher(url)
             print(f"Fetching latest support data from {url} for {country}...")
@@ -330,10 +361,11 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
             party_metadata=party_metadata,
             sources=sources,
             updated_at=now_iso(),
+            latest_total=latest_total,
         )
 
         # Also save individual country JSON for frontend compatibility
-        country_data = read_country_data_from_csv(iso2, CATEGORIES)
+        country_data = read_country_data_from_csv(iso2, CATEGORIES, latest_total)
         if country_data:
             # Add sources to the country data
             country_data["sources"] = sources

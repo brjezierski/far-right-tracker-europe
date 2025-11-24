@@ -1,5 +1,4 @@
 from __future__ import annotations
-from io import StringIO
 import re
 from typing import Dict, List, Optional, Tuple
 import requests
@@ -8,8 +7,18 @@ from bs4 import BeautifulSoup
 
 from datetime import datetime
 from pathlib import Path
-from .utils import DATA_DIR, save_json
-import urllib.parse
+from .utils import (
+    DATA_DIR,
+    save_json,
+    get_polling_value,
+    get_latest_polling_value,
+    parse_html_table_with_hierarchy,
+    extract_value_from_hierarchical_tuple,
+    parse_all_tables_from_soup,
+    find_date_column,
+    extract_hierarchical_value_by_level,
+    extract_party_name_from_link,
+)
 import json
 from dateparser import parse
 
@@ -25,9 +34,12 @@ except Exception:
 COUNTRY_TABLE_HEADERS = {
     "Albania": ["Nationwide"],
     "Armenia": ["Opinion polls"],
+    "Belgium": ["Federal"],
     "Czech Republic": ["Polls"],
     "Denmark": ["Opinion polls"],
+    "France": ["Opinion polling"],
     "Hungary": ["Polling"],
+    "Iceland": ["Opinion polls"],
     "Ireland": ["National polls"],
     "Italy": ["Party vote"],
     "Kosovo": ["National polls"],
@@ -51,6 +63,7 @@ COUNTRY_EXCLUDED_HEADERS = {
     "Denmark": ["Constituency polling"],
 }
 HISTORICAL_SEPERATORS = ["Formerly:", "Historical"]
+DEBUG = False
 
 
 def normalize_party_name(s: str) -> str:
@@ -58,13 +71,19 @@ def normalize_party_name(s: str) -> str:
 
 
 def parse_date(
-    s: str,
+    s: str | tuple,
     prev_date: Optional[pd.Timestamp] = None,
     prev_date_year_given: bool = False,
     table_header_key: str = "",
 ) -> Tuple[Optional[pd.Timestamp], bool]:
     # parse date ranges as well, e.g. "1–2 January 2024" or "1/2 January 2024" by extracting the last part
-    s = s.strip()
+    if isinstance(s, tuple):
+        for item in s:
+            if isinstance(item, str):
+                s = item
+                break
+
+    s = s.strip()  # type: ignore
     if "–" in s or "/" in s or "-" in s:
         # Split by the last occurrence of '–' or '/' and take the last part
         parts = re.split(r"[–/-]", s)
@@ -94,6 +113,9 @@ def parse_date(
                 parsed_date = parsed_date.replace(year=parsed_date.year + 1)
             # if s contains a 4-digit year, then we assume the year is given
             prev_date_year_given = bool(re.search(r"\b\d{4}\b", s))
+            # if parsed_date is after today return None
+            if parsed_date > datetime.utcnow():
+                return None, prev_date_year_given
             return pd.Timestamp(parsed_date), prev_date_year_given
         else:
             return None, False
@@ -120,7 +142,10 @@ class WikipediaPollingFetcher:
             r = requests.get(self.url, timeout=30, headers=headers)
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "lxml")
-            years = [str(datetime.utcnow().year), str(datetime.utcnow().year - 1)]
+            years = []
+            # get years between current year and current year -10
+            for y in range(datetime.utcnow().year, datetime.utcnow().year - 10, -1):
+                years.append(str(y))
             specific_headers = (
                 COUNTRY_TABLE_HEADERS[country]
                 if country in COUNTRY_TABLE_HEADERS
@@ -131,10 +156,11 @@ class WikipediaPollingFetcher:
                 if country in COUNTRY_EXCLUDED_HEADERS
                 else []
             )
+            possible_headers = ["h1", "h2", "h3", "h4", "h5"]
 
             for specific_header in specific_headers:
                 # Look for heading elements with text equal to the year
-                for header in soup.find_all(["h1", "h2", "h3", "h4"]):
+                for header in soup.find_all(possible_headers):
                     span = header.find("span", class_="mw-headline")
                     text = (
                         span.get_text(strip=True)
@@ -147,7 +173,6 @@ class WikipediaPollingFetcher:
                     # Find the first table following this header, before the next heading at the same or higher level
                     node = header
                     header_level = int(header.name[1])
-                    possible_headers = ["h1", "h2", "h3", "h4"]
                     stopping_headers = possible_headers[:header_level]
 
                     df_dict = {}
@@ -181,31 +206,43 @@ class WikipediaPollingFetcher:
                             break
                         if node.name == "table":
                             try:
-                                dfs = pd.read_html(
-                                    StringIO(str(node)), extract_links="header"
-                                )
+                                # Use custom parser to preserve hierarchy
+                                df = parse_html_table_with_hierarchy(str(node))
+                                dfs = [df] if not df.empty else []
+
+                                # save node as html for debugging
+                                if DEBUG:
+                                    with open(
+                                        f"debug_{country}_{specific_header}_{node_header_text}.html",
+                                        "w",
+                                        encoding="utf-8",
+                                    ) as f:
+                                        f.write(str(node))
                                 if node_header_text not in df_dict:
                                     df_dict[node_header_text] = dfs
                                 else:
                                     df_dict[node_header_text].extend(dfs)
-                                # if dfs:
-                                #     return [dfs[0]]
-                            except Exception:
+                            except Exception as e:
+                                print(f"Error parsing table: {e}")
                                 if len(df_dict) > 0:
                                     return df_dict
                                 pass
-                            # break
 
                     if len(df_dict) > 0:
                         return df_dict
             # Fallback: return all tables
             print("No specific year tables found, returning all tables.")
-            return {"": pd.read_html(StringIO(str(r.text)), extract_links="header")}
+            # Parse all tables with custom parser
+            fallback_dfs = parse_all_tables_from_soup(soup)
+            return {"": fallback_dfs}
         except Exception as e:
-            # Last resort: try pandas directly, else empty
+            # Last resort: try custom parser on all tables
             try:
                 print(f"Error fetching specific year tables, returning all tables. {e}")
-                return {"": pd.read_html(self.url, extract_links="header")}
+                r = requests.get(self.url, timeout=30)
+                soup = BeautifulSoup(r.text, "lxml")
+                fallback_dfs = parse_all_tables_from_soup(soup)
+                return {"": fallback_dfs}
             except Exception:
                 return {}
 
@@ -230,65 +267,42 @@ class WikipediaPollingFetcher:
         series: Dict[str, List[Dict]] = {}
         latest_values: Dict[str, float] = {}
         party_metadata: Dict[str, Dict] = {}
-
-        def split_header_to_text_link(col) -> Tuple[str, str]:
-            # Use last level if MultiIndex; expects tuples like (text, href) when extract_links='header'
-            first = col[0] if isinstance(col, tuple) else col
-            last = col[-1] if isinstance(col, tuple) else col
-            text: str
-            href: str = ""
-            if isinstance(first, tuple):
-                # Common case: (text, href)
-                if len(first) >= 2 and isinstance(first[0], str):
-                    text = first[0]
-                    if len(first) >= 2 and isinstance(first[1], str):
-                        href = first[1]
-                    elif len(last) >= 2 and isinstance(last[1], str):
-                        href = last[1]
-                        text += " | " + last[0]
-                    elif isinstance(last[0], str):
-                        href = ""
-                        text += " | " + last[0]
-                    else:
-                        href = ""
-                else:
-                    text = " ".join(str(x) for x in first if isinstance(x, str))
-            else:
-                text = str(first)
-            return urllib.parse.unquote(text), urllib.parse.unquote(href or "")
+        latest_total: Optional[float] = None
 
         # Heuristic: find the first table that looks like a poll list (has a date column and multiple party columns)
         for tables_key in tables_dict:
             for df in tables_dict[tables_key]:
-                # Build parallel arrays of header display texts and links
-                cols: List[str] = []
-                links: List[str] = []
-                for col in df.columns:
-                    header_text, header_link = split_header_to_text_link(col)
-                    column_name = (
-                        header_link.split("/")[-1]
-                        if header_link
-                        else header_text.lower().strip()
-                    )
-                    cols.append(column_name)
-                    links.append(header_link)
-                # Assign normalized text headers to DataFrame columns
-                df.columns = cols
+                # save df locally for debugging
+                if DEBUG:
+                    df.to_csv(f"debug_{country}_{tables_key}.csv", index=False)
 
-                # No date column found, skipping table
-                if not any(
-                    "date" in c or "fieldwork" in c or "conducted" in c for c in cols
-                ):
+                # Process hierarchical column structure
+                cols_info = process_hierarchical_columns(df)
+
+                # Check for date column
+                date_col_info = find_date_column(cols_info)
+
+                if not date_col_info:
+                    print(f"No date column found in table for {country}")
                     continue
 
-                header_parties = [
-                    {"name": link.split("/")[-1], "link": link}
-                    for link in links
-                    if len(link) > 0
-                ]
-                header_parties_links = [
-                    header_party["link"] for header_party in header_parties
-                ]
+                # Extract party columns (those with links) and fix empty names
+                header_parties = []
+                for col_info in cols_info:
+                    if col_info["column_link"]:
+                        column_name = col_info["column_name"]
+                        # If name is empty, extract it from the link
+                        if not column_name or column_name.strip() == "":
+                            column_name = extract_party_name_from_link(
+                                col_info["column_link"]
+                            )
+                        # Clean party name (remove references like [b])
+                        column_name = _clean_text(column_name)
+                        # Update the column_name in cols_info so it's used later
+                        col_info["column_name"] = column_name
+                        header_parties.append(
+                            {"name": column_name, "link": col_info["column_link"]}
+                        )
 
                 # Get all party information and identify selected parties
                 all_parties_with_positions = annotate_parties_positions(
@@ -297,126 +311,251 @@ class WikipediaPollingFetcher:
                 selected_parties = all_parties_with_positions["selected_parties"]
                 all_party_metadata = all_parties_with_positions["party_metadata"]
 
-                # Process all parties that have polling data (not just selected)
-                potential_party_columns = [
-                    col
-                    for col, link in zip(cols, links)
-                    if link in header_parties_links
+                # Process all parties that have polling data
+                potential_party_cols = [
+                    col_info
+                    for col_info in cols_info
+                    if col_info["column_link"] and col_info != date_col_info
                 ]
 
-                if not potential_party_columns:
+                if not potential_party_cols:
                     continue
 
-                # Extract date column
-                # TODO make it into a function
-                date_col = next(
-                    (
-                        c
-                        for c in cols
-                        if "date" in c or "fieldwork" in c or "conducted" in c
-                    ),
-                    None,
-                )
-                if not date_col:
-                    continue
-                pollster_col_ind = 0
+                # Get pollster column (first column, typically)
+                pollster_col = cols_info[0]["original"] if cols_info else None
 
                 # Iterate rows from the bottom
                 prev_date: Optional[pd.Timestamp] = None
                 prev_date_year_given: bool = False
                 for i in range(len(df) - 1, -1, -1):
                     row = df.iloc[i]
-                    date_raw = str(row.get(date_col, "")).strip()
-                    pollster = str(row.iloc[pollster_col_ind]).strip()
+
+                    # Extract date from date column
+                    date_raw = row[date_col_info["original"]]
+                    date_str = extract_value_from_hierarchical_tuple(date_raw)
+
+                    # Skip rows with empty date cells (continuation rows from rowspan)
+                    if not date_str or date_str.strip() == "":
+                        continue
+
+                    # Extract pollster
+                    pollster_raw = row[pollster_col] if pollster_col else ""
+                    pollster = extract_value_from_hierarchical_tuple(pollster_raw, "")
+
+                    # Skip election results
                     if "election" in pollster.lower():
                         continue
+
                     date, prev_date_year_given = parse_date(
-                        date_raw, prev_date, prev_date_year_given, tables_key
+                        date_str, prev_date, prev_date_year_given, tables_key
                     )
+                    if DEBUG:
+                        print(f"Parsing date string: '{date_str}' into date: {date}")
                     if date:
                         prev_date = date
 
                     if date is None:
                         continue
 
-                    for party in potential_party_columns:
+                    for party_col_info in potential_party_cols:
                         try:
-                            val = row.get(party)
-                            if val == "-":
-                                continue
-                            v = None
-                            # if is of type pandas series, convert to string
-                            # Values may be strings like '23%' or '23.5'
-                            if isinstance(val, str):
-                                val = (
-                                    val.replace("%", "")
-                                    .replace(",", ".")
-                                    .strip()
-                                    .split()[0]
-                                )
-                                v = float(val)
-                            elif isinstance(val, (int, float)):
-                                v = float(val)
-                            else:
-                                try:
-                                    v = 0
-                                    if val is not None and hasattr(val, "iloc"):
-                                        for i in range(len(val)):
-                                            if isinstance(val.iloc[i], str):
-                                                val_i = val.iloc[i]
-                                                val_i = (
-                                                    val_i.replace("%", "")
-                                                    .replace(",", ".")
-                                                    .strip()
-                                                    .split()[0]
-                                                )
-                                                val_i = float(val_i)
-                                                # sometimes multiple parties in a coalition have the support listed together multiple times
-                                                # here we apply a heuristic: if the same polling value appears we assume the case is as above,
-                                                # otherwise the support is listed for coalition parties separately
-                                                if val_i != v:
-                                                    v += val_i
-                                except Exception as e:
-                                    print(
-                                        f"Error converting Series to string for {party} in {country}: {e}"
-                                    )
-                                    continue
+                            party_name = party_col_info["column_name"]
+                            is_parent = party_col_info.get("is_parent", False)
+                            is_hierarchical = party_col_info.get(
+                                "is_hierarchical", False
+                            )
+                            polling_value_raw = row[party_col_info["original"]]
 
-                            if party not in series:
-                                series[party] = []
+                            # Extract polling value from tuple structure based on parent/child level
+                            polling_value_str = extract_hierarchical_value_by_level(
+                                polling_value_raw, is_parent, is_hierarchical, ""
+                            )
 
-                            if v is None or pd.isna(v) or v > 100 or v < 0:
+                            if not polling_value_str or polling_value_str in [
+                                "",
+                                "nan",
+                                "None",
+                            ]:
                                 continue
 
-                            series[party].append(
-                                {"date": date.date().isoformat(), "value": v}
+                            polling_value = get_polling_value(
+                                polling_value_str, party_name, country
+                            )
+
+                            if (
+                                pd.isna(polling_value)
+                                or polling_value > 100
+                                or polling_value < 0
+                            ):
+                                continue
+
+                            if party_name not in series:
+                                series[party_name] = []
+                            series[party_name].append(
+                                {
+                                    "date": date.date().isoformat(),
+                                    "value": polling_value,
+                                }
                             )
 
                             # Store party metadata
-                            if party not in party_metadata:
-                                party_metadata[party] = all_party_metadata.get(
-                                    party,
+                            if party_name not in party_metadata:
+                                party_metadata[party_name] = all_party_metadata.get(
+                                    party_name,
                                     {
                                         "political_position": None,
                                         "ideology": None,
                                         "url": None,
-                                        "is_far_right": party in selected_parties,
+                                        "is_far_right": party_name in selected_parties,
                                     },
                                 )
-                        except Exception:
+                        except Exception as e:
                             continue
 
-                # Latest per party: take max by date
-                for party, pts in series.items():
-                    if pts:
-                        latest = max(pts, key=lambda x: x["date"])  # type: ignore
-                        latest_values[party] = latest["value"]
-                # # If we got some values, break
-                # if latest_values:
-                #     break
+        # Calculate latest total support using the extracted method
+        latest_total = calculate_latest_total_support(series, party_metadata)
 
-        latest_total = sum(latest_values.values()) if latest_values else None
+        # Also calculate latest per party for other uses
+        for party, pts in series.items():
+            if pts:
+                latest_values[party] = get_latest_polling_value(pts)
+
         return latest_total, series, party_metadata
+
+
+def process_hierarchical_columns(df: pd.DataFrame) -> List[Dict]:
+    """
+    Process hierarchical column structure from a DataFrame.
+    Columns are tuples: ((parent_text, parent_link), (child_text, child_link))
+
+    Args:
+        df: DataFrame with hierarchical column headers
+
+    Returns:
+        List of column info dictionaries containing original column, column names, links, etc.
+    """
+    cols_info = []
+    for col in df.columns:
+        if isinstance(col, tuple) and len(col) == 2:
+            parent_info, child_info = col
+            parent_text, parent_link = (
+                parent_info
+                if isinstance(parent_info, tuple)
+                else (str(parent_info), None)
+            )
+            child_text, child_link = (
+                child_info
+                if isinstance(child_info, tuple) and child_info != ()
+                else ("", None)
+            )
+
+            # For hierarchical columns, create entries for both parent and child
+            if child_text:
+                # If there's child text, use it as the primary column name
+                # regardless of whether there's a link
+                cols_info.append(
+                    {
+                        "original": col,
+                        "column_name": child_text,
+                        "column_link": child_link or "",
+                        "parent_text": parent_text,
+                        "parent_link": parent_link,
+                        "child_text": child_text,
+                        "is_hierarchical": True,
+                        "is_parent": False,
+                    }
+                )
+                # Also create parent column entry if parent has link
+                if parent_link and child_link:
+                    cols_info.append(
+                        {
+                            "original": col,
+                            "column_name": parent_text,
+                            "column_link": parent_link,
+                            "parent_text": parent_text,
+                            "parent_link": parent_link,
+                            "child_text": child_text,
+                            "is_hierarchical": True,
+                            "is_parent": True,
+                        }
+                    )
+            else:
+                # Non-hierarchical column with just parent info
+                cols_info.append(
+                    {
+                        "original": col,
+                        "column_name": parent_text,
+                        "column_link": parent_link or "",
+                        "parent_text": parent_text,
+                        "parent_link": parent_link,
+                        "child_text": "",
+                        "is_hierarchical": False,
+                        "is_parent": False,
+                    }
+                )
+        else:
+            # Fallback for non-tuple columns
+            cols_info.append(
+                {
+                    "original": col,
+                    "column_name": str(col).lower().strip(),
+                    "column_link": "",
+                    "parent_text": str(col),
+                    "parent_link": None,
+                    "child_text": "",
+                    "is_hierarchical": False,
+                    "is_parent": False,
+                }
+            )
+
+    return cols_info
+
+
+def calculate_latest_total_support(
+    series: Dict[str, List[Dict]], party_metadata: Dict[str, Dict]
+) -> Optional[float]:
+    """
+    Calculate latest total support as the average of total support from the latest 3 polls.
+    Only includes parties marked as far-right (is_far_right=True).
+
+    Args:
+        series: {party: [{date, value}]}
+        party_metadata: {party: {is_far_right, ...}}
+
+    Returns:
+        Average of sum of far-right party support across latest 3 poll dates, or None if no data
+    """
+    # Get all unique dates
+    all_dates_set = set()
+    for party_name, pts in series.items():
+        for pt in pts:
+            all_dates_set.add(pt["date"])
+
+    if not all_dates_set:
+        return None
+
+    # Sort dates in descending order (most recent first)
+    sorted_dates = sorted(list(all_dates_set), reverse=True)
+    latest_3_dates = sorted_dates[:3]
+
+    # Calculate total support for each of the latest 3 dates (only for far-right parties)
+    totals_per_date = []
+    for date_str in latest_3_dates:
+        date_total = 0
+        for party_name, pts in series.items():
+            # Only include parties that are marked as far-right
+            if party_name in party_metadata and party_metadata[party_name].get(
+                "is_far_right", False
+            ):
+                # Find the polling value for this party on this date
+                for pt in pts:
+                    if pt["date"] == date_str:
+                        date_total += pt["value"]
+                        break
+        totals_per_date.append(date_total)
+
+    # Average the totals
+    return sum(totals_per_date) / len(totals_per_date) if totals_per_date else None
 
 
 def get_polling_source(country: str) -> Tuple[str, Optional[str]]:

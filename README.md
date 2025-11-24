@@ -41,6 +41,11 @@ Install and run:
    npm run dev
    ```
 4. Open http://localhost:3000
+5. Alternatively, to generate the new static website run
+   ```
+   cd ../frontend
+   npm run build 
+   ```
 
 ## Updating data daily
 

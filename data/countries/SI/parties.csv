@@ -1,16 +1,15 @@
 party,political_position,ideology,wikipedia_url
-Freedom_Movement_(Slovenia),Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-Slovenian_Democratic_Party,Right-wing Historical: Centre-left,National conservatism Slovenian nationalism Right-wing populism Historical : Social democracy,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-New_Slovenia,Centre-right,Christian democracy Conservatism Slovenian nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Slovenia
-Social_Democrats_(Slovenia),Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-The_Left_(Slovenia),Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
-Slovenian_People's_Party,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People's_Party
-Resni.ca,,Populism Anti-lockdown Anti-5G Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-Pirate_Party_(Slovenia),Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-Slovenian_National_Party,Right-wing to far-right,Slovenian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
-Vesna_–_Green_Party,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_–_Green_Party
-Democrats_(Slovenia),Centre to centre-right,Conservative liberalism Anti-corruption Third Way Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
-Vladimir_Prebilič,Vesna,,https://en.wikipedia.org/wiki/Vladimir_Prebilič
-Voice_of_Pensioners,Centre-right,,https://en.wikipedia.org/wiki/Voice_of_Pensioners
-Trust_(Slovenian_political_party),Centre,,https://en.wikipedia.org/wiki/Trust_(Slovenian_political_party)
-Greens_of_Slovenia,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+GS,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+SDS,Right-wing,National conservatism Slovenian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+NSi,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Slovenia
+SD,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+Levica,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+Vesna,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+SLS,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+RES,Big tent,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+PIR,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+SNS,Right-wing to far-right,Slovenian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+D.,Centre to centre-right,Conservative liberalism Anti-corruption Third Way Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+ZS,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+GU,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+PVP,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Rebirth_-_Party_of_Vladimir_Prebili%C4%8D

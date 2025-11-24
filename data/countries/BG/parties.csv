@@ -1,11 +1,12 @@
 party,political_position,ideology,wikipedia_url
 GERB–SDS,Centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB–SDS
 PP–DB,Centre to centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/PP–DB
-Revival_(Bulgarian_political_party),Far-right,Ultranationalism National conservatism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
-DPS_–_A_New_Beginning,Centre,Liberalism Turkish minority interests,https://en.wikipedia.org/wiki/DPS_–_A_New_Beginning
-BSP_–_United_Left,Centre-left to left-wing,Social democracy Democratic socialism Left-wing populism Social conservatism,https://en.wikipedia.org/wiki/BSP_–_United_Left
-Alliance_for_Rights_and_Freedoms,Centre,Liberalism Turkish minority interests,https://en.wikipedia.org/wiki/Alliance_for_Rights_and_Freedoms
-There_is_Such_a_People,Right-wing,Populism Social conservatism Bulgarian nationalism,https://en.wikipedia.org/wiki/There_is_Such_a_People
-"Morality,_Unity,_Honour",Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
-Velichie,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie
-List_of_political_parties_in_Bulgaria,,,
+Vaz.,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
+DPS–NN,Centre,Liberalism Turkish minority interests,https://en.wikipedia.org/wiki/DPS_%E2%80%93_A_New_Beginning
+BSP–OL,Centre-left to left-wing,Social democracy Democratic socialism Left-wing populism Social conservatism,https://en.wikipedia.org/wiki/BSP_%E2%80%93_United_Left
+APS,Centre,Liberalism Turkish minority interests,https://en.wikipedia.org/wiki/Alliance_for_Rights_and_Freedoms
+ITN,Right-wing,Populism Social conservatism Bulgarian nationalism,https://en.wikipedia.org/wiki/There_is_Such_a_People
+MECh,Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
+Others,,,
+NOTA,,,
+Veli.,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie

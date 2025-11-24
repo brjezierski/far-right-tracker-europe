@@ -1,527 +1,521 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2024-05-12,Centre_(Croatian_political_party),1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-06-07,Centre_(Croatian_political_party),1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-07-01,Centre_(Croatian_political_party),2.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-07-07,Centre_(Croatian_political_party),0.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-07-31,Centre_(Croatian_political_party),2.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-08-04,Centre_(Croatian_political_party),0.8,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-08-29,Centre_(Croatian_political_party),2.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-09-08,Centre_(Croatian_political_party),1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-10-01,Centre_(Croatian_political_party),2.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-10-06,Centre_(Croatian_political_party),1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-10-20,Centre_(Croatian_political_party),1.7,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-11-10,Centre_(Croatian_political_party),1.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-11-20,Centre_(Croatian_political_party),1.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-12-03,Centre_(Croatian_political_party),1.5,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-12-20,Centre_(Croatian_political_party),1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-01-10,Centre_(Croatian_political_party),1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-02-01,Centre_(Croatian_political_party),1.4,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-02-09,Centre_(Croatian_political_party),1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-02-20,Centre_(Croatian_political_party),1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-03-09,Centre_(Croatian_political_party),0.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-03-20,Centre_(Croatian_political_party),1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-03-31,Centre_(Croatian_political_party),1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-04-06,Centre_(Croatian_political_party),1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-05-01,Centre_(Croatian_political_party),1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-06-08,Centre_(Croatian_political_party),1.5,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-07-13,Centre_(Croatian_political_party),1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-08-03,Centre_(Croatian_political_party),1.8,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-09-07,Centre_(Croatian_political_party),1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2025-10-12,Centre_(Croatian_political_party),1.6,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-2024-04-17,Croatian_Democratic_Union,34.42,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-04-25,Croatian_Democratic_Union,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-05-12,Croatian_Democratic_Union,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-05-24,Croatian_Democratic_Union,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-06-07,Croatian_Democratic_Union,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-06-25,Croatian_Democratic_Union,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-07-01,Croatian_Democratic_Union,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-07-07,Croatian_Democratic_Union,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-07-25,Croatian_Democratic_Union,30.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-07-31,Croatian_Democratic_Union,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-08-04,Croatian_Democratic_Union,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-08-23,Croatian_Democratic_Union,29.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-08-29,Croatian_Democratic_Union,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-09-08,Croatian_Democratic_Union,27.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-09-25,Croatian_Democratic_Union,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-10-01,Croatian_Democratic_Union,30.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-10-06,Croatian_Democratic_Union,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-10-20,Croatian_Democratic_Union,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-10-25,Croatian_Democratic_Union,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-11-10,Croatian_Democratic_Union,26.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-11-20,Croatian_Democratic_Union,26.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-11-25,Croatian_Democratic_Union,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-12-03,Croatian_Democratic_Union,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-12-20,Croatian_Democratic_Union,26.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-12-24,Croatian_Democratic_Union,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-01-10,Croatian_Democratic_Union,26.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-01-25,Croatian_Democratic_Union,27.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-02-01,Croatian_Democratic_Union,28.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-02-09,Croatian_Democratic_Union,26.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-02-20,Croatian_Democratic_Union,25.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-02-25,Croatian_Democratic_Union,26.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-03-03,Croatian_Democratic_Union,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-03-09,Croatian_Democratic_Union,26.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-03-20,Croatian_Democratic_Union,25.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-03-25,Croatian_Democratic_Union,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-03-31,Croatian_Democratic_Union,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-04-06,Croatian_Democratic_Union,25.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-04-25,Croatian_Democratic_Union,25.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-05-01,Croatian_Democratic_Union,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-05-24,Croatian_Democratic_Union,29.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-06-08,Croatian_Democratic_Union,29.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-06-25,Croatian_Democratic_Union,27.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-07-13,Croatian_Democratic_Union,29.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-07-25,Croatian_Democratic_Union,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-08-03,Croatian_Democratic_Union,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-08-25,Croatian_Democratic_Union,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-09-07,Croatian_Democratic_Union,28.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-09-25,Croatian_Democratic_Union,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2025-10-12,Croatian_Democratic_Union,26.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-2024-05-12,Croatian_Party_of_Pensioners,1.2,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-06-07,Croatian_Party_of_Pensioners,0.6,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-07-01,Croatian_Party_of_Pensioners,1.3,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-07-07,Croatian_Party_of_Pensioners,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-07-31,Croatian_Party_of_Pensioners,1.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-08-04,Croatian_Party_of_Pensioners,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-08-29,Croatian_Party_of_Pensioners,1.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-09-08,Croatian_Party_of_Pensioners,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-10-01,Croatian_Party_of_Pensioners,1.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-10-06,Croatian_Party_of_Pensioners,1.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-10-20,Croatian_Party_of_Pensioners,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-11-10,Croatian_Party_of_Pensioners,1.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-11-20,Croatian_Party_of_Pensioners,1.0,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-12-03,Croatian_Party_of_Pensioners,2.7,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-12-20,Croatian_Party_of_Pensioners,0.9,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-12-24,Croatian_Party_of_Pensioners,2.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-01-10,Croatian_Party_of_Pensioners,0.7,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-02-01,Croatian_Party_of_Pensioners,2.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-02-09,Croatian_Party_of_Pensioners,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-02-20,Croatian_Party_of_Pensioners,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-03-03,Croatian_Party_of_Pensioners,3.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-03-09,Croatian_Party_of_Pensioners,0.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-03-20,Croatian_Party_of_Pensioners,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-03-31,Croatian_Party_of_Pensioners,2.3,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-05-01,Croatian_Party_of_Pensioners,1.9,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-06-08,Croatian_Party_of_Pensioners,0.6,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-07-13,Croatian_Party_of_Pensioners,0.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-07-25,Croatian_Party_of_Pensioners,2.0,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-08-03,Croatian_Party_of_Pensioners,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2025-09-07,Croatian_Party_of_Pensioners,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-2024-05-12,Croatian_Peasant_Party,1.4,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-06-07,Croatian_Peasant_Party,1.0,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-07-07,Croatian_Peasant_Party,0.6,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-08-04,Croatian_Peasant_Party,0.9,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-09-08,Croatian_Peasant_Party,1.1,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-10-20,Croatian_Peasant_Party,1.0,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-11-10,Croatian_Peasant_Party,1.0,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-11-20,Croatian_Peasant_Party,1.5,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-12-20,Croatian_Peasant_Party,1.1,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-01-10,Croatian_Peasant_Party,1.2,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-02-09,Croatian_Peasant_Party,1.3,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-02-20,Croatian_Peasant_Party,1.2,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-03-09,Croatian_Peasant_Party,1.4,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-03-20,Croatian_Peasant_Party,1.2,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-04-06,Croatian_Peasant_Party,1.0,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-05-01,Croatian_Peasant_Party,1.0,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-06-08,Croatian_Peasant_Party,0.7,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-07-13,Croatian_Peasant_Party,0.6,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-08-03,Croatian_Peasant_Party,0.6,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2025-09-07,Croatian_Peasant_Party,0.7,Centre to centre-left Historical: Centre to centre-right,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism Historical: Christian democracy Social conservatism Federalism (in Kingdom of Yugoslavia),https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-2024-05-12,Croatian_People's_Party_–_Liberal_Democrats,0.8,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-06-07,Croatian_People's_Party_–_Liberal_Democrats,0.7,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-07-07,Croatian_People's_Party_–_Liberal_Democrats,0.8,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-08-04,Croatian_People's_Party_–_Liberal_Democrats,0.6,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-09-08,Croatian_People's_Party_–_Liberal_Democrats,1.0,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-10-20,Croatian_People's_Party_–_Liberal_Democrats,0.9,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-11-10,Croatian_People's_Party_–_Liberal_Democrats,1.1,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-11-20,Croatian_People's_Party_–_Liberal_Democrats,1.0,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-12-20,Croatian_People's_Party_–_Liberal_Democrats,1.1,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-01-10,Croatian_People's_Party_–_Liberal_Democrats,1.0,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-02-09,Croatian_People's_Party_–_Liberal_Democrats,1.1,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-02-20,Croatian_People's_Party_–_Liberal_Democrats,1.0,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-03-09,Croatian_People's_Party_–_Liberal_Democrats,1.0,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-03-20,Croatian_People's_Party_–_Liberal_Democrats,0.9,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-04-06,Croatian_People's_Party_–_Liberal_Democrats,1.1,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-06-08,Croatian_People's_Party_–_Liberal_Democrats,0.6,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-07-13,Croatian_People's_Party_–_Liberal_Democrats,0.6,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-08-03,Croatian_People's_Party_–_Liberal_Democrats,0.5,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2025-09-07,Croatian_People's_Party_–_Liberal_Democrats,0.6,Centre Historical: Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People's_Party_–_Liberal_Democrats
-2024-04-17,Croatian_Sovereignists,8.02,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-05-12,Croatian_Sovereignists,0.7,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-06-07,Croatian_Sovereignists,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-07-01,Croatian_Sovereignists,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-07-07,Croatian_Sovereignists,0.3,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-07-31,Croatian_Sovereignists,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-08-04,Croatian_Sovereignists,0.7,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-08-29,Croatian_Sovereignists,1.2,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-09-08,Croatian_Sovereignists,0.9,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-10-01,Croatian_Sovereignists,1.2,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-10-20,Croatian_Sovereignists,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-11-10,Croatian_Sovereignists,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-11-20,Croatian_Sovereignists,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-12-03,Croatian_Sovereignists,1.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-12-20,Croatian_Sovereignists,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-01-10,Croatian_Sovereignists,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-02-01,Croatian_Sovereignists,1.0,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-02-09,Croatian_Sovereignists,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-02-20,Croatian_Sovereignists,0.8,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-03-09,Croatian_Sovereignists,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-03-20,Croatian_Sovereignists,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-03-31,Croatian_Sovereignists,1.0,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-04-06,Croatian_Sovereignists,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-05-01,Croatian_Sovereignists,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-06-08,Croatian_Sovereignists,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-06-25,Croatian_Sovereignists,2.9,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-07-13,Croatian_Sovereignists,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-07-25,Croatian_Sovereignists,2.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2025-08-03,Croatian_Sovereignists,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-2024-04-17,Focus_(Croatian_political_party),2.25,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-05-12,Focus_(Croatian_political_party),1.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-06-07,Focus_(Croatian_political_party),1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-07-01,Focus_(Croatian_political_party),1.2,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-07-07,Focus_(Croatian_political_party),1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-07-31,Focus_(Croatian_political_party),1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-08-04,Focus_(Croatian_political_party),1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-08-29,Focus_(Croatian_political_party),0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-09-08,Focus_(Croatian_political_party),1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-10-20,Focus_(Croatian_political_party),0.7,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-11-10,Focus_(Croatian_political_party),1.1,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-11-20,Focus_(Croatian_political_party),0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-12-20,Focus_(Croatian_political_party),1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-01-10,Focus_(Croatian_political_party),0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-02-09,Focus_(Croatian_political_party),0.7,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-02-20,Focus_(Croatian_political_party),1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-03-09,Focus_(Croatian_political_party),0.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-03-20,Focus_(Croatian_political_party),0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-04-06,Focus_(Croatian_political_party),0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-06-08,Focus_(Croatian_political_party),0.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-07-13,Focus_(Croatian_political_party),0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-08-03,Focus_(Croatian_political_party),0.5,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2025-09-07,Focus_(Croatian_political_party),0.5,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-2024-04-17,Home_and_National_Rally,9.56,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-04-25,Home_and_National_Rally,10.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-05-12,Home_and_National_Rally,8.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-05-24,Home_and_National_Rally,7.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-06-07,Home_and_National_Rally,8.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-06-25,Home_and_National_Rally,7.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-07-01,Home_and_National_Rally,7.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-07-07,Home_and_National_Rally,7.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-07-25,Home_and_National_Rally,7.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-07-31,Home_and_National_Rally,7.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-08-04,Home_and_National_Rally,6.7,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-08-23,Home_and_National_Rally,6.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-08-29,Home_and_National_Rally,7.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-09-08,Home_and_National_Rally,4.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-09-25,Home_and_National_Rally,5.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-10-06,Home_and_National_Rally,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-10-20,Home_and_National_Rally,2.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-11-10,Home_and_National_Rally,1.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-11-20,Home_and_National_Rally,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-12-03,Home_and_National_Rally,2.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-12-20,Home_and_National_Rally,2.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-01-25,Home_and_National_Rally,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-02-01,Home_and_National_Rally,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-02-09,Home_and_National_Rally,2.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-02-20,Home_and_National_Rally,2.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-03-03,Home_and_National_Rally,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-03-09,Home_and_National_Rally,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-03-20,Home_and_National_Rally,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-03-31,Home_and_National_Rally,1.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-04-06,Home_and_National_Rally,2.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-04-25,Home_and_National_Rally,2.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-05-01,Home_and_National_Rally,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-06-08,Home_and_National_Rally,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-06-25,Home_and_National_Rally,2.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-07-13,Home_and_National_Rally,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-07-25,Home_and_National_Rally,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-08-03,Home_and_National_Rally,1.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-08-25,Home_and_National_Rally,2.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-09-07,Home_and_National_Rally,1.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2025-10-12,Home_and_National_Rally,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
-2024-04-17,Homeland_Movement_(Croatia),9.56,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-04-25,Homeland_Movement_(Croatia),10.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-05-12,Homeland_Movement_(Croatia),8.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-05-24,Homeland_Movement_(Croatia),7.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-06-07,Homeland_Movement_(Croatia),8.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-06-25,Homeland_Movement_(Croatia),7.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-07-01,Homeland_Movement_(Croatia),7.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-07-07,Homeland_Movement_(Croatia),7.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-07-25,Homeland_Movement_(Croatia),7.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-07-31,Homeland_Movement_(Croatia),7.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-08-04,Homeland_Movement_(Croatia),6.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-08-23,Homeland_Movement_(Croatia),6.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-08-29,Homeland_Movement_(Croatia),7.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-09-08,Homeland_Movement_(Croatia),4.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-09-25,Homeland_Movement_(Croatia),5.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-10-01,Homeland_Movement_(Croatia),4.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-10-06,Homeland_Movement_(Croatia),4.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-10-20,Homeland_Movement_(Croatia),3.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-10-25,Homeland_Movement_(Croatia),3.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-11-10,Homeland_Movement_(Croatia),3.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-11-20,Homeland_Movement_(Croatia),3.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-11-25,Homeland_Movement_(Croatia),4.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-12-03,Homeland_Movement_(Croatia),3.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-12-20,Homeland_Movement_(Croatia),2.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-12-24,Homeland_Movement_(Croatia),2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-01-10,Homeland_Movement_(Croatia),2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-01-25,Homeland_Movement_(Croatia),1.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-02-01,Homeland_Movement_(Croatia),1.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-02-09,Homeland_Movement_(Croatia),2.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-02-20,Homeland_Movement_(Croatia),2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-02-25,Homeland_Movement_(Croatia),2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-03-03,Homeland_Movement_(Croatia),1.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-03-09,Homeland_Movement_(Croatia),2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-03-20,Homeland_Movement_(Croatia),2.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-03-25,Homeland_Movement_(Croatia),3.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-03-31,Homeland_Movement_(Croatia),2.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-04-06,Homeland_Movement_(Croatia),2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-04-25,Homeland_Movement_(Croatia),4.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-05-01,Homeland_Movement_(Croatia),2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-05-24,Homeland_Movement_(Croatia),2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-06-08,Homeland_Movement_(Croatia),2.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-06-25,Homeland_Movement_(Croatia),2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-07-13,Homeland_Movement_(Croatia),2.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-07-25,Homeland_Movement_(Croatia),2.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-08-03,Homeland_Movement_(Croatia),1.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-08-25,Homeland_Movement_(Croatia),2.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-09-07,Homeland_Movement_(Croatia),1.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-09-25,Homeland_Movement_(Croatia),2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2025-10-12,Homeland_Movement_(Croatia),2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-2024-04-17,Independent_Platform_of_the_North,1.22,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-05-12,Independent_Platform_of_the_North,1.0,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-07-07,Independent_Platform_of_the_North,0.5,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-09-08,Independent_Platform_of_the_North,0.6,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-10-20,Independent_Platform_of_the_North,0.9,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-11-10,Independent_Platform_of_the_North,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-11-20,Independent_Platform_of_the_North,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-12-20,Independent_Platform_of_the_North,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-01-10,Independent_Platform_of_the_North,1.0,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-02-09,Independent_Platform_of_the_North,1.2,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-02-20,Independent_Platform_of_the_North,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-03-09,Independent_Platform_of_the_North,1.4,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-03-20,Independent_Platform_of_the_North,1.3,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-04-06,Independent_Platform_of_the_North,1.2,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-06-08,Independent_Platform_of_the_North,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-07-13,Independent_Platform_of_the_North,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-08-03,Independent_Platform_of_the_North,0.7,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2025-09-07,Independent_Platform_of_the_North,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-2024-04-17,Istrian_Democratic_Assembly,2.25,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-05-12,Istrian_Democratic_Assembly,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-06-07,Istrian_Democratic_Assembly,2.0,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-07-01,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-07-07,Istrian_Democratic_Assembly,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-07-31,Istrian_Democratic_Assembly,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-08-04,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-08-29,Istrian_Democratic_Assembly,1.8,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-09-08,Istrian_Democratic_Assembly,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-10-01,Istrian_Democratic_Assembly,1.8,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-10-06,Istrian_Democratic_Assembly,1.7,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-10-20,Istrian_Democratic_Assembly,1.4,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-11-10,Istrian_Democratic_Assembly,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-11-20,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-12-03,Istrian_Democratic_Assembly,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-12-20,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-01-10,Istrian_Democratic_Assembly,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-02-01,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-02-09,Istrian_Democratic_Assembly,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-02-20,Istrian_Democratic_Assembly,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-03-09,Istrian_Democratic_Assembly,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-03-20,Istrian_Democratic_Assembly,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-03-31,Istrian_Democratic_Assembly,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-04-06,Istrian_Democratic_Assembly,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-05-01,Istrian_Democratic_Assembly,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-05-24,Istrian_Democratic_Assembly,2.7,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-06-08,Istrian_Democratic_Assembly,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-07-13,Istrian_Democratic_Assembly,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-08-03,Istrian_Democratic_Assembly,1.0,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-08-25,Istrian_Democratic_Assembly,2.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-09-07,Istrian_Democratic_Assembly,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2025-10-12,Istrian_Democratic_Assembly,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-2024-04-17,Law_and_Justice_(Croatia),9.56,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-05-12,Law_and_Justice_(Croatia),1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-06-07,Law_and_Justice_(Croatia),1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-07-07,Law_and_Justice_(Croatia),0.8,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-08-04,Law_and_Justice_(Croatia),1.0,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-10-20,Law_and_Justice_(Croatia),0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-11-10,Law_and_Justice_(Croatia),0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-11-20,Law_and_Justice_(Croatia),0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-12-20,Law_and_Justice_(Croatia),0.7,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-01-10,Law_and_Justice_(Croatia),0.7,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-02-09,Law_and_Justice_(Croatia),0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-02-20,Law_and_Justice_(Croatia),1.1,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-03-09,Law_and_Justice_(Croatia),0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-03-20,Law_and_Justice_(Croatia),0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-04-06,Law_and_Justice_(Croatia),1.0,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-06-08,Law_and_Justice_(Croatia),0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-07-13,Law_and_Justice_(Croatia),0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-08-03,Law_and_Justice_(Croatia),0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-09-07,Law_and_Justice_(Croatia),1.3,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2025-10-12,Law_and_Justice_(Croatia),1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-2024-04-17,Social_Democratic_Party_of_Croatia,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-04-25,Social_Democratic_Party_of_Croatia,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-05-12,Social_Democratic_Party_of_Croatia,23.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-05-24,Social_Democratic_Party_of_Croatia,20.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-06-07,Social_Democratic_Party_of_Croatia,22.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-06-25,Social_Democratic_Party_of_Croatia,20.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-07-01,Social_Democratic_Party_of_Croatia,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-07-07,Social_Democratic_Party_of_Croatia,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-07-25,Social_Democratic_Party_of_Croatia,19.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-07-31,Social_Democratic_Party_of_Croatia,20.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-08-04,Social_Democratic_Party_of_Croatia,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-08-23,Social_Democratic_Party_of_Croatia,19.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-08-29,Social_Democratic_Party_of_Croatia,20.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-09-08,Social_Democratic_Party_of_Croatia,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-09-25,Social_Democratic_Party_of_Croatia,20.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-10-01,Social_Democratic_Party_of_Croatia,20.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-10-06,Social_Democratic_Party_of_Croatia,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-10-20,Social_Democratic_Party_of_Croatia,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-10-25,Social_Democratic_Party_of_Croatia,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-11-10,Social_Democratic_Party_of_Croatia,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-11-20,Social_Democratic_Party_of_Croatia,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-11-25,Social_Democratic_Party_of_Croatia,21.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-12-03,Social_Democratic_Party_of_Croatia,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-12-20,Social_Democratic_Party_of_Croatia,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-12-24,Social_Democratic_Party_of_Croatia,22.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-01-10,Social_Democratic_Party_of_Croatia,23.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-01-25,Social_Democratic_Party_of_Croatia,24.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-02-01,Social_Democratic_Party_of_Croatia,21.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-02-09,Social_Democratic_Party_of_Croatia,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-02-20,Social_Democratic_Party_of_Croatia,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-02-25,Social_Democratic_Party_of_Croatia,25.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-03-03,Social_Democratic_Party_of_Croatia,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-03-09,Social_Democratic_Party_of_Croatia,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-03-20,Social_Democratic_Party_of_Croatia,26.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-03-25,Social_Democratic_Party_of_Croatia,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-03-31,Social_Democratic_Party_of_Croatia,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-04-06,Social_Democratic_Party_of_Croatia,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-04-25,Social_Democratic_Party_of_Croatia,25.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-05-01,Social_Democratic_Party_of_Croatia,23.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-05-24,Social_Democratic_Party_of_Croatia,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-06-08,Social_Democratic_Party_of_Croatia,23.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-06-25,Social_Democratic_Party_of_Croatia,23.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-07-13,Social_Democratic_Party_of_Croatia,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-07-25,Social_Democratic_Party_of_Croatia,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-08-03,Social_Democratic_Party_of_Croatia,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-08-25,Social_Democratic_Party_of_Croatia,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-09-07,Social_Democratic_Party_of_Croatia,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-09-25,Social_Democratic_Party_of_Croatia,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2025-10-12,Social_Democratic_Party_of_Croatia,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-2024-04-17,The_Bridge_(Croatia),8.02,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-04-25,The_Bridge_(Croatia),8.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-05-12,The_Bridge_(Croatia),5.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-05-24,The_Bridge_(Croatia),8.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-06-07,The_Bridge_(Croatia),6.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-06-25,The_Bridge_(Croatia),7.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-07-01,The_Bridge_(Croatia),5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-07-07,The_Bridge_(Croatia),6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-07-25,The_Bridge_(Croatia),7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-07-31,The_Bridge_(Croatia),6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-08-04,The_Bridge_(Croatia),6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-08-23,The_Bridge_(Croatia),7.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-08-29,The_Bridge_(Croatia),6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-09-08,The_Bridge_(Croatia),7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-09-25,The_Bridge_(Croatia),6.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-10-01,The_Bridge_(Croatia),6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-10-06,The_Bridge_(Croatia),6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-10-20,The_Bridge_(Croatia),6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-10-25,The_Bridge_(Croatia),7.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-11-10,The_Bridge_(Croatia),6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-11-20,The_Bridge_(Croatia),6.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-11-25,The_Bridge_(Croatia),7.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-12-03,The_Bridge_(Croatia),6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-12-20,The_Bridge_(Croatia),6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-12-24,The_Bridge_(Croatia),7.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-01-10,The_Bridge_(Croatia),6.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-01-25,The_Bridge_(Croatia),6.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-02-01,The_Bridge_(Croatia),6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-02-09,The_Bridge_(Croatia),6.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-02-20,The_Bridge_(Croatia),6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-02-25,The_Bridge_(Croatia),6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-03-03,The_Bridge_(Croatia),6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-03-09,The_Bridge_(Croatia),6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-03-20,The_Bridge_(Croatia),6.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-03-25,The_Bridge_(Croatia),5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-03-31,The_Bridge_(Croatia),6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-04-06,The_Bridge_(Croatia),7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-04-25,The_Bridge_(Croatia),5.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-05-01,The_Bridge_(Croatia),6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-05-24,The_Bridge_(Croatia),6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-06-08,The_Bridge_(Croatia),5.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-06-25,The_Bridge_(Croatia),5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-07-13,The_Bridge_(Croatia),5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-07-25,The_Bridge_(Croatia),5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-08-03,The_Bridge_(Croatia),6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-08-25,The_Bridge_(Croatia),5.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-09-07,The_Bridge_(Croatia),6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-09-25,The_Bridge_(Croatia),6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2025-10-12,The_Bridge_(Croatia),6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-2024-04-17,We_Can!_(Croatia),9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-04-25,We_Can!_(Croatia),12.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-05-12,We_Can!_(Croatia),9.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-05-24,We_Can!_(Croatia),11.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-06-07,We_Can!_(Croatia),9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-06-25,We_Can!_(Croatia),9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-07-01,We_Can!_(Croatia),7.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-07-07,We_Can!_(Croatia),10.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-07-25,We_Can!_(Croatia),8.5,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-07-31,We_Can!_(Croatia),7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-08-04,We_Can!_(Croatia),9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-08-23,We_Can!_(Croatia),10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-08-29,We_Can!_(Croatia),6.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-09-08,We_Can!_(Croatia),8.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-09-25,We_Can!_(Croatia),10.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-10-01,We_Can!_(Croatia),7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-10-06,We_Can!_(Croatia),8.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-10-20,We_Can!_(Croatia),8.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-10-25,We_Can!_(Croatia),9.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-11-10,We_Can!_(Croatia),9.0,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-11-20,We_Can!_(Croatia),8.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-11-25,We_Can!_(Croatia),10.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-12-03,We_Can!_(Croatia),6.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-12-20,We_Can!_(Croatia),9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-12-24,We_Can!_(Croatia),9.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-01-10,We_Can!_(Croatia),9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-01-25,We_Can!_(Croatia),10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-02-01,We_Can!_(Croatia),7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-02-09,We_Can!_(Croatia),9.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-02-20,We_Can!_(Croatia),9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-02-25,We_Can!_(Croatia),9.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-03-03,We_Can!_(Croatia),7.0,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-03-09,We_Can!_(Croatia),10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-03-20,We_Can!_(Croatia),9.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-03-25,We_Can!_(Croatia),11.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-03-31,We_Can!_(Croatia),7.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-04-06,We_Can!_(Croatia),10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-04-25,We_Can!_(Croatia),10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-05-01,We_Can!_(Croatia),7.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-05-24,We_Can!_(Croatia),9.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-06-08,We_Can!_(Croatia),9.8,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-06-25,We_Can!_(Croatia),10.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-07-13,We_Can!_(Croatia),10.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-07-25,We_Can!_(Croatia),10.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-08-03,We_Can!_(Croatia),10.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-08-25,We_Can!_(Croatia),10.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-09-07,We_Can!_(Croatia),11.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-09-25,We_Can!_(Croatia),10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2025-10-12,We_Can!_(Croatia),11.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-2024-04-17,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-05-12,Workers'_Front_(Croatia),1.0,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-06-07,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-07-07,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-08-04,Workers'_Front_(Croatia),1.2,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-09-08,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-10-06,Workers'_Front_(Croatia),1.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-10-20,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-11-10,Workers'_Front_(Croatia),1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-11-20,Workers'_Front_(Croatia),1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2024-12-20,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-01-10,Workers'_Front_(Croatia),1.0,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-02-09,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-02-20,Workers'_Front_(Croatia),1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-03-09,Workers'_Front_(Croatia),0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-03-20,Workers'_Front_(Croatia),0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-04-06,Workers'_Front_(Croatia),0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-06-08,Workers'_Front_(Croatia),0.3,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-07-13,Workers'_Front_(Croatia),0.7,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-08-03,Workers'_Front_(Croatia),0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
-2025-09-07,Workers'_Front_(Croatia),0.7,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Socialist feminism Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers'_Front_(Croatia)
+2024-05-12,Centar,1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-06-07,Centar,1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-07-01,Centar,2.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-07-07,Centar,0.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-07-31,Centar,2.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-08-04,Centar,0.8,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-08-29,Centar,2.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-09-08,Centar,1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-10-01,Centar,2.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-10-06,Centar,1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-10-20,Centar,1.7,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-11-10,Centar,1.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-11-20,Centar,1.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-12-03,Centar,1.5,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-12-20,Centar,1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-01-10,Centar,1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-02-01,Centar,1.4,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-02-09,Centar,1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-02-20,Centar,1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-03-09,Centar,0.9,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-03-20,Centar,1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-03-31,Centar,1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-04-06,Centar,1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-05-01,Centar,1.2,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-06-08,Centar,1.5,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-07-13,Centar,1.3,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-08-03,Centar,1.8,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-09-07,Centar,1.1,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-10-12,Centar,1.6,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2025-11-09,Centar,1.0,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
+2024-10-06,DOMiNO,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-10-20,DOMiNO,2.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-11-10,DOMiNO,1.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-11-20,DOMiNO,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-12-03,DOMiNO,2.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-12-20,DOMiNO,2.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-01-25,DOMiNO,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-02-01,DOMiNO,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-02-09,DOMiNO,2.1,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-02-20,DOMiNO,2.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-03-03,DOMiNO,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-03-09,DOMiNO,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-03-20,DOMiNO,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-03-31,DOMiNO,1.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-04-06,DOMiNO,2.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-04-25,DOMiNO,2.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-05-01,DOMiNO,1.5,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-06-08,DOMiNO,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-06-25,DOMiNO,2.3,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-07-13,DOMiNO,1.9,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-07-25,DOMiNO,2.2,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-08-03,DOMiNO,1.6,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-08-25,DOMiNO,2.0,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-09-07,DOMiNO,1.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-10-12,DOMiNO,1.8,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2025-11-09,DOMiNO,1.4,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+2024-04-25,DP,10.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-05-12,DP,8.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-05-24,DP,7.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-06-07,DP,8.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-06-25,DP,7.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-07-01,DP,7.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-07-07,DP,7.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-07-25,DP,7.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-07-31,DP,7.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-08-04,DP,6.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-08-23,DP,6.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-08-29,DP,7.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-09-08,DP,4.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-09-25,DP,5.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-10-01,DP,4.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-10-06,DP,4.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-10-20,DP,3.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-10-25,DP,3.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-11-10,DP,3.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-11-20,DP,3.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-11-25,DP,4.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-12-03,DP,3.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-12-20,DP,2.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-12-24,DP,2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-01-10,DP,2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-01-25,DP,1.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-02-01,DP,1.9,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-02-09,DP,2.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-02-20,DP,2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-02-25,DP,2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-03-03,DP,1.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-03-09,DP,2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-03-20,DP,2.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-03-25,DP,3.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-03-31,DP,2.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-04-06,DP,2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-04-25,DP,4.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-05-01,DP,2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-05-24,DP,2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-06-08,DP,2.3,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-06-25,DP,2.7,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-07-13,DP,2.1,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-07-25,DP,2.4,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-08-03,DP,1.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-08-25,DP,2.8,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-09-07,DP,1.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-09-25,DP,2.5,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-10-12,DP,2.2,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-10-24,DP,3.0,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2025-11-09,DP,2.6,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
+2024-05-12,Fokus,1.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-06-07,Fokus,1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-07-01,Fokus,1.2,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-07-07,Fokus,1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-07-31,Fokus,1.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-08-04,Fokus,1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-08-29,Fokus,0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-09-08,Fokus,1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-10-20,Fokus,0.7,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-11-10,Fokus,1.1,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-11-20,Fokus,0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-12-20,Fokus,1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-01-10,Fokus,0.9,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-02-09,Fokus,0.7,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-02-20,Fokus,1.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-03-09,Fokus,0.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-03-20,Fokus,0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-04-06,Fokus,0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-06-08,Fokus,0.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-07-13,Fokus,0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-08-03,Fokus,0.5,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-09-07,Fokus,0.5,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2025-11-09,Fokus,0.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
+2024-04-25,HDZ,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-05-12,HDZ,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-05-24,HDZ,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-06-07,HDZ,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-06-25,HDZ,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-07-01,HDZ,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-07-07,HDZ,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-07-25,HDZ,30.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-07-31,HDZ,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-08-04,HDZ,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-08-23,HDZ,29.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-08-29,HDZ,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-09-08,HDZ,27.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-09-25,HDZ,30.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-10-01,HDZ,30.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-10-06,HDZ,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-10-20,HDZ,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-10-25,HDZ,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-11-10,HDZ,26.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-11-20,HDZ,26.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-11-25,HDZ,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-12-03,HDZ,29.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-12-20,HDZ,26.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-12-24,HDZ,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-01-10,HDZ,26.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-01-25,HDZ,27.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-02-01,HDZ,28.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-02-09,HDZ,26.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-02-20,HDZ,25.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-02-25,HDZ,26.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-03-03,HDZ,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-03-09,HDZ,26.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-03-20,HDZ,25.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-03-25,HDZ,26.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-03-31,HDZ,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-04-06,HDZ,25.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-04-25,HDZ,25.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-05-01,HDZ,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-05-24,HDZ,29.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-06-08,HDZ,29.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-06-25,HDZ,27.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-07-13,HDZ,29.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-07-25,HDZ,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-08-03,HDZ,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-08-25,HDZ,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-09-07,HDZ,28.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-09-25,HDZ,27.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-10-12,HDZ,26.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-10-24,HDZ,27.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2025-11-09,HDZ,27.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
+2024-05-12,HNS,0.8,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-06-07,HNS,0.7,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-07-07,HNS,0.8,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-08-04,HNS,0.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-09-08,HNS,1.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-10-20,HNS,0.9,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-11-10,HNS,1.1,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-11-20,HNS,1.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-12-20,HNS,1.1,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-01-10,HNS,1.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-02-09,HNS,1.1,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-02-20,HNS,1.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-03-09,HNS,1.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-03-20,HNS,0.9,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-04-06,HNS,1.1,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-06-08,HNS,0.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-07-13,HNS,0.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-08-03,HNS,0.5,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-09-07,HNS,0.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2025-11-09,HNS,0.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
+2024-05-12,HS,0.7,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-06-07,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-07-01,HS,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-07-07,HS,0.3,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-07-31,HS,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-08-04,HS,0.7,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-08-29,HS,1.2,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-09-08,HS,0.9,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-10-01,HS,1.2,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-10-20,HS,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-11-10,HS,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-11-20,HS,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-12-03,HS,1.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-12-20,HS,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-01-10,HS,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-02-01,HS,1.0,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-02-09,HS,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-02-20,HS,0.8,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-03-09,HS,0.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-03-20,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-03-31,HS,1.0,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-04-06,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-05-01,HS,1.1,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-06-08,HS,0.6,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-06-25,HS,2.9,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-07-13,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-07-25,HS,2.4,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-08-03,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2025-11-09,HS,0.5,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
+2024-05-12,HSS,1.4,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-06-07,HSS,1.0,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-07-07,HSS,0.6,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-08-04,HSS,0.9,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-09-08,HSS,1.1,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-10-20,HSS,1.0,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-11-10,HSS,1.0,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-11-20,HSS,1.5,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-12-20,HSS,1.1,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-01-10,HSS,1.2,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-02-09,HSS,1.3,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-02-20,HSS,1.2,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-03-09,HSS,1.4,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-03-20,HSS,1.2,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-04-06,HSS,1.0,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-05-01,HSS,1.0,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-06-08,HSS,0.7,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-07-13,HSS,0.6,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-08-03,HSS,0.6,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-09-07,HSS,0.7,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2025-11-09,HSS,0.7,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
+2024-05-12,HSU,1.2,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-06-07,HSU,0.6,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-07-01,HSU,1.3,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-07-07,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-07-31,HSU,1.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-08-04,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-08-29,HSU,1.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-09-08,HSU,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-10-01,HSU,1.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-10-06,HSU,1.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-10-20,HSU,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-11-10,HSU,1.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-11-20,HSU,1.0,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-12-03,HSU,2.7,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-12-20,HSU,0.9,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-12-24,HSU,2.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-01-10,HSU,0.7,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-02-01,HSU,2.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-02-09,HSU,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-02-20,HSU,0.8,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-03-03,HSU,3.1,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-03-09,HSU,0.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-03-20,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-03-31,HSU,2.3,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-05-01,HSU,1.9,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-06-08,HSU,0.6,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-07-13,HSU,0.4,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-07-25,HSU,2.0,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-08-03,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-09-07,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2025-11-09,HSU,0.5,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
+2024-05-12,IDS,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-06-07,IDS,2.0,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-07-01,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-07-07,IDS,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-07-31,IDS,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-08-04,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-08-29,IDS,1.8,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-09-08,IDS,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-10-01,IDS,1.8,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-10-06,IDS,1.7,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-10-20,IDS,1.4,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-11-10,IDS,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-11-20,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-12-03,IDS,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-12-20,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-01-10,IDS,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-02-01,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-02-09,IDS,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-02-20,IDS,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-03-09,IDS,1.5,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-03-20,IDS,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-03-31,IDS,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-04-06,IDS,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-05-01,IDS,1.6,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-05-24,IDS,2.7,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-06-08,IDS,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-07-13,IDS,1.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-08-03,IDS,1.0,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-08-25,IDS,2.1,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-09-07,IDS,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-10-12,IDS,1.2,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2025-11-09,IDS,1.3,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
+2024-04-25,Most,8.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-05-12,Most,5.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-05-24,Most,8.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-06-07,Most,6.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-06-25,Most,7.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-07-01,Most,5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-07-07,Most,6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-07-25,Most,7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-07-31,Most,6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-08-04,Most,6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-08-23,Most,7.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-08-29,Most,6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-09-08,Most,7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-09-25,Most,6.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-10-01,Most,6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-10-06,Most,6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-10-20,Most,6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-10-25,Most,7.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-11-10,Most,6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-11-20,Most,6.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-11-25,Most,7.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-12-03,Most,6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-12-20,Most,6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-12-24,Most,7.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-01-10,Most,6.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-01-25,Most,6.3,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-02-01,Most,6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-02-09,Most,6.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-02-20,Most,6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-02-25,Most,6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-03-03,Most,6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-03-09,Most,6.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-03-20,Most,6.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-03-25,Most,5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-03-31,Most,6.4,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-04-06,Most,7.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-04-25,Most,5.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-05-01,Most,6.1,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-05-24,Most,6.2,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-06-08,Most,5.5,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-06-25,Most,5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-07-13,Most,5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-07-25,Most,5.9,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-08-03,Most,6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-08-25,Most,5.7,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-09-07,Most,6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-09-25,Most,6.0,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-10-12,Most,6.6,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-10-24,Most,5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2025-11-09,Most,5.8,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
+2024-04-25,Možemo,12.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-05-12,Možemo,9.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-05-24,Možemo,11.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-06-07,Možemo,9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-06-25,Možemo,9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-07-01,Možemo,7.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-07-07,Možemo,10.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-07-25,Možemo,8.5,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-07-31,Možemo,7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-08-04,Možemo,9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-08-23,Možemo,10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-08-29,Možemo,6.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-09-08,Možemo,8.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-09-25,Možemo,10.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-10-01,Možemo,7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-10-06,Možemo,8.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-10-20,Možemo,8.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-10-25,Možemo,9.4,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-11-10,Možemo,9.0,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-11-20,Možemo,8.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-11-25,Možemo,10.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-12-03,Možemo,6.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-12-20,Možemo,9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-12-24,Možemo,9.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-01-10,Možemo,9.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-01-25,Možemo,10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-02-01,Možemo,7.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-02-09,Možemo,9.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-02-20,Možemo,9.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-02-25,Možemo,9.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-03-03,Možemo,7.0,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-03-09,Možemo,10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-03-20,Možemo,9.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-03-25,Možemo,11.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-03-31,Možemo,7.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-04-06,Možemo,10.2,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-04-25,Možemo,10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-05-01,Možemo,7.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-05-24,Možemo,9.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-06-08,Možemo,9.8,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-06-25,Možemo,10.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-07-13,Možemo,10.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-07-25,Možemo,10.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-08-03,Možemo,10.9,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-08-25,Možemo,10.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-09-07,Možemo,11.3,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-09-25,Možemo,10.6,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-10-12,Možemo,11.1,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-10-24,Možemo,11.8,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2025-11-09,Možemo,10.7,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
+2024-05-12,NPS,1.0,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-07-07,NPS,0.5,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-09-08,NPS,0.6,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-10-20,NPS,0.9,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-11-10,NPS,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-11-20,NPS,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-12-20,NPS,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-01-10,NPS,1.0,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-02-09,NPS,1.2,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-02-20,NPS,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-03-09,NPS,1.4,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-03-20,NPS,1.3,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-04-06,NPS,1.2,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-06-08,NPS,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-07-13,NPS,1.1,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-08-03,NPS,0.7,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-09-07,NPS,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2025-11-09,NPS,0.8,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
+2024-05-12,PiP,1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-06-07,PiP,1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-07-07,PiP,0.8,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-08-04,PiP,1.0,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-10-20,PiP,0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-11-10,PiP,0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-11-20,PiP,0.6,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-12-20,PiP,0.7,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-01-10,PiP,0.7,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-02-09,PiP,0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-02-20,PiP,1.1,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-03-09,PiP,0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-03-20,PiP,0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-04-06,PiP,1.0,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-06-08,PiP,0.5,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-07-13,PiP,0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-08-03,PiP,0.9,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-09-07,PiP,1.3,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-10-12,PiP,1.2,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2025-11-09,PiP,1.3,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
+2024-05-12,RF,1.0,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-06-07,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-07-07,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-08-04,RF,1.2,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-09-08,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-10-06,RF,1.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-10-20,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-11-10,RF,1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-11-20,RF,1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-12-20,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-01-10,RF,1.0,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-02-09,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-02-20,RF,1.1,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-03-09,RF,0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-03-20,RF,0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-04-06,RF,0.8,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-06-08,RF,0.3,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-07-13,RF,0.7,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-08-03,RF,0.6,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2025-09-07,RF,0.7,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
+2024-04-25,SDP,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-05-12,SDP,23.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-05-24,SDP,20.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-06-07,SDP,22.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-06-25,SDP,20.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-07-01,SDP,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-07-07,SDP,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-07-25,SDP,19.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-07-31,SDP,20.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-08-04,SDP,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-08-23,SDP,19.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-08-29,SDP,20.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-09-08,SDP,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-09-25,SDP,20.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-10-01,SDP,20.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-10-06,SDP,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-10-20,SDP,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-10-25,SDP,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-11-10,SDP,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-11-20,SDP,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-11-25,SDP,21.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-12-03,SDP,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-12-20,SDP,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2024-12-24,SDP,22.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-01-10,SDP,23.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-01-25,SDP,24.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-02-01,SDP,21.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-02-09,SDP,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-02-20,SDP,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-02-25,SDP,25.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-03-03,SDP,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-03-09,SDP,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-03-20,SDP,26.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-03-25,SDP,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-03-31,SDP,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-04-06,SDP,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-04-25,SDP,25.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-05-01,SDP,23.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-05-24,SDP,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-06-08,SDP,23.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-06-25,SDP,23.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-07-13,SDP,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-07-25,SDP,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-08-03,SDP,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-08-25,SDP,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-09-07,SDP,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-09-25,SDP,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-10-12,SDP,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-10-24,SDP,21.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
+2025-11-09,SDP,23.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia

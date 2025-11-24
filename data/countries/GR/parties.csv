@@ -1,13 +1,13 @@
 party,political_position,ideology,wikipedia_url
-New_Democracy_(Greece),Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
+ND,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 SYRIZA,Centre-left to left-wing,Democratic socialism Left-wing populism Progressivism Soft Euroscepticism,https://en.wikipedia.org/wiki/SYRIZA
-PASOK_–_Movement_for_Change,Centre to centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_–_Movement_for_Change
-Communist_Party_of_Greece,Far-left,Communism Marxism-Leninism Hard Euroscepticism Cultural conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
-Spartans_(Greek_political_party),Far-right,Neo-fascism Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/Spartans_(Greek_political_party)
-Greek_Solution,Right-wing to far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
-Victory_(Greek_political_party),Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
-Course_of_Freedom,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Soft Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
-MeRA25,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
-Voice_of_Reason_(political_party),Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
-New_Left_(Greece),Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
-Movement_for_Democracy_(Greece),Centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
+PASOK,Centre to centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
+KKE,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
+SP,Far-right,Neo-fascism Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/Spartans_(Greek_political_party)
+EL,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
+NIKI,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
+PE,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
+Μ25,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
+NA,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
+FL,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
+KD,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)

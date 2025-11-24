@@ -2,14 +2,12 @@
   "country": "Luxembourg",
   "iso2": "LU",
   "parties": [
-    "Alternative_Democratic_Reform_Party",
-    "Christian_Social_People's_Party",
-    "Democratic_Party_(Luxembourg)",
-    "The_Conservatives_(Luxembourg)"
+    "ADR",
+    "DK"
   ],
-  "latestSupport": 57.099999999999994,
+  "latestSupport": 10.866666666666667,
   "seriesByParty": {
-    "Alternative_Democratic_Reform_Party": [
+    "ADR": [
       {
         "date": "2023-10-08",
         "value": 9.27
@@ -31,51 +29,7 @@
         "value": 11.6
       }
     ],
-    "Christian_Social_People's_Party": [
-      {
-        "date": "2023-10-08",
-        "value": 29.22
-      },
-      {
-        "date": "2024-06-09",
-        "value": 22.91
-      },
-      {
-        "date": "2024-09-30",
-        "value": 28.9
-      },
-      {
-        "date": "2025-04-24",
-        "value": 29.1
-      },
-      {
-        "date": "2025-09-29",
-        "value": 25.3
-      }
-    ],
-    "Democratic_Party_(Luxembourg)": [
-      {
-        "date": "2023-10-08",
-        "value": 18.7
-      },
-      {
-        "date": "2024-06-09",
-        "value": 18.29
-      },
-      {
-        "date": "2024-09-30",
-        "value": 18.9
-      },
-      {
-        "date": "2025-04-24",
-        "value": 21.0
-      },
-      {
-        "date": "2025-09-29",
-        "value": 19.7
-      }
-    ],
-    "The_Conservatives_(Luxembourg)": [
+    "DK": [
       {
         "date": "2023-10-08",
         "value": 0.27
@@ -98,5 +52,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-10-20T21:41:48Z"
+  "latestUpdate": "2025-11-18T16:24:02Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
+    }
+  ]
 }

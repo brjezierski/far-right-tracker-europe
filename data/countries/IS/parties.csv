@@ -1,10 +1,12 @@
 party,political_position,ideology,wikipedia_url
-Independence_Party_(Iceland),Centre-right,Conservatism ( Icelandic ) Economic liberalism,https://en.wikipedia.org/wiki/Independence_Party_(Iceland)
-Left-Green_Movement,Centre-left to left-wing,Eco-socialism Democratic socialism Feminism Pacifism,https://en.wikipedia.org/wiki/Left-Green_Movement
-Social_Democratic_Alliance,Centre-left,Social democracy Pro-Europeanism [ non-primary source needed ],https://en.wikipedia.org/wiki/Social_Democratic_Alliance
-Centre_Party_(Iceland),Right-wing,Conservatism Agrarianism ( Nordic ) Right-wing populism,https://en.wikipedia.org/wiki/Centre_Party_(Iceland)
-Progressive_Party_(Iceland),Centre to centre-right,Agrarianism ( Nordic ) Liberalism Liberal conservatism,https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)
-Pirate_Party_(Iceland),,Pirate politics Direct democracy Open government,https://en.wikipedia.org/wiki/Pirate_Party_(Iceland)
-People's_Party_(Iceland),Centre-left,Populism Left-wing populism Socialism,https://en.wikipedia.org/wiki/People's_Party_(Iceland)
-Viðreisn,Centre to centre-right,Liberalism Economic liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Viðreisn
-Icelandic_Socialist_Party,Left-wing,Socialism Democratic socialism Anti-neoliberalism,https://en.wikipedia.org/wiki/Icelandic_Socialist_Party
+D,Centre-right,Conservatism ( Icelandic ) Economic liberalism,https://en.wikipedia.org/wiki/Independence_Party_(Iceland)
+B,Centre to centre-right,Agrarianism ( Nordic ) Liberal conservatism,https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)
+V,Centre-left to left-wing,Eco-socialism Democratic socialism Feminism Pacifism,https://en.wikipedia.org/wiki/Left-Green_Movement
+S,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Alliance
+F,Centre-left,Populism Left-wing populism Socialism,https://en.wikipedia.org/wiki/People%27s_Party_(Iceland)
+P,,Pirate politics Direct democracy Open government,https://en.wikipedia.org/wiki/Pirate_Party_(Iceland)
+C,Centre to centre-right,Liberalism Economic liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Vi%C3%B0reisn
+M,Right-wing,Conservatism Agrarianism ( Nordic ) Right-wing populism,https://en.wikipedia.org/wiki/Centre_Party_(Iceland)
+J,Left-wing,Socialism Democratic socialism Anti-neoliberalism,https://en.wikipedia.org/wiki/Icelandic_Socialist_Party
+L,Right-wing,Libertarian conservatism Right-libertarianism Euroscepticism,https://en.wikipedia.org/wiki/Democratic_Party_(Iceland)
+Y,Right-wing,Right-libertarianism Anti-vaccination,https://en.wikipedia.org/wiki/Responsible_Future_(Iceland)

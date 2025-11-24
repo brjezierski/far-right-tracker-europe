@@ -1,17 +1,18 @@
 party,political_position,ideology,wikipedia_url
-Party_for_Freedom,Far-right,Nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Party_for_Freedom
-GroenLinks–PvdA,Centre-left to left-wing,Social democracy Green politics Dutch republicanism,https://en.wikipedia.org/wiki/GroenLinks–PvdA
-People's_Party_for_Freedom_and_Democracy,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/People's_Party_for_Freedom_and_Democracy
-New_Social_Contract,Centre to centre-right,Christian democracy,https://en.wikipedia.org/wiki/New_Social_Contract
-Democrats_66,Centre to centre-left,Social liberalism Progressivism,https://en.wikipedia.org/wiki/Democrats_66
-Farmer–Citizen_Movement,Centre-right to right-wing,Agrarianism Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Farmer–Citizen_Movement
-Christian_Democratic_Appeal,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Appeal
-Socialist_Party_(Netherlands),Left-wing,Democratic socialism Left-wing populism Social democracy Cultural conservatism,https://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)
-Denk_(political_party),Centre-left,Social democracy Social conservatism Minority interests,https://en.wikipedia.org/wiki/Denk_(political_party)
-Party_for_the_Animals,Left-wing to far-left,Animal rights Animal welfare Anti-capitalism Environmentalism,https://en.wikipedia.org/wiki/Party_for_the_Animals
-Forum_for_Democracy,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Forum_for_Democracy
-Reformed_Political_Party,Right-wing,Christian right Social conservatism Theocracy,https://en.wikipedia.org/wiki/Reformed_Political_Party
-Christian_Union_(Netherlands),Fiscal : Centre to centre-left Social : Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Netherlands)
-Volt_Netherlands,Centre,Social liberalism European federalism Pro-Europeanism,https://en.wikipedia.org/wiki/Volt_Netherlands
+PVV,Far-right,Nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Party_for_Freedom
+GL/PvdA,Centre-left to left-wing,Social democracy Green politics Progressivism,https://en.wikipedia.org/wiki/GroenLinks%E2%80%93PvdA
+VVD,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/People%27s_Party_for_Freedom_and_Democracy
+NSC,Centre to centre-right,Christian democracy,https://en.wikipedia.org/wiki/New_Social_Contract
+D66,Centre to centre-left,Social liberalism Progressivism,https://en.wikipedia.org/wiki/Democrats_66
+BBB,Centre-right to right-wing,Agrarianism Right-wing populism,https://en.wikipedia.org/wiki/Farmer%E2%80%93Citizen_Movement
+CDA,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Appeal
+SP,Left-wing,Democratic socialism Left-wing populism Social democracy Cultural conservatism,https://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)
+Denk,Centre-left,Social democracy Social conservatism Minority interests,https://en.wikipedia.org/wiki/Denk_(political_party)
+PvdD,Left-wing to far-left,Animal rights Animal welfare Anti-capitalism Environmentalism,https://en.wikipedia.org/wiki/Party_for_the_Animals
+FvD,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Forum_for_Democracy
+SGP,Right-wing,Christian right Social conservatism Theocracy,https://en.wikipedia.org/wiki/Reformed_Political_Party
+CU,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Netherlands)
+Volt,Centre-left,Social liberalism European federalism Pro-Europeanism Progressivism,https://en.wikipedia.org/wiki/Volt_Netherlands
 JA21,Right-wing to far-right,Conservative liberalism Fortuynism Right-wing populism Anti-immigration,https://en.wikipedia.org/wiki/JA21
-50PLUS,Centre,Pensioners' interests Populism,https://en.wikipedia.org/wiki/50PLUS
+50+,Centre,Pensioners' interests Populism,https://en.wikipedia.org/wiki/50Plus
+BIJ1,Left-wing to far-left,Socialism Anti-racism Feminism,https://en.wikipedia.org/wiki/BIJ1

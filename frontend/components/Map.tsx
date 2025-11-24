@@ -67,8 +67,6 @@ export default function MapComponent({
       style: "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
       center: [12, 50],
       zoom: 3.5,
-      attributionControl: true,
-      projection: { type: "globe" },
     });
 
     m.addControl(new maplibregl.NavigationControl({}));

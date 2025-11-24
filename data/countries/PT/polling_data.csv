@@ -1,51 +1,49 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2025-05-18,Chega_(political_party),22.8,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-06-15,Chega_(political_party),21.7,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-07-18,Chega_(political_party),20.2,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-08-14,Chega_(political_party),22.1,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-09-05,Chega_(political_party),26.8,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-10-12,Chega_(political_party),11.9,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
-2025-05-18,"Democratic_Alliance_(Portugal,_2024)",31.8,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-06-15,"Democratic_Alliance_(Portugal,_2024)",29.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-07-18,"Democratic_Alliance_(Portugal,_2024)",26.3,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-08-14,"Democratic_Alliance_(Portugal,_2024)",28.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-09-05,"Democratic_Alliance_(Portugal,_2024)",25.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-10-12,"Democratic_Alliance_(Portugal,_2024)",35.6,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
-2025-05-18,LIVRE,4.1,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
+2025-06-15,Chega,21.7,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-07-18,Chega,20.2,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-08-14,Chega,22.1,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-09-05,Chega,26.8,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-10-26,Chega,24.4,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-10-27,Chega,21.9,Far-right,National conservatism Right-wing populism Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Chega_(political_party)
+2025-06-15,Democratic Alliance,29.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+2025-07-18,Democratic Alliance,26.3,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+2025-08-14,Democratic Alliance,28.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+2025-09-05,Democratic Alliance,25.9,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+2025-10-26,Democratic Alliance,28.0,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
+2025-10-27,Democratic Alliance,32.4,Centre-right to right-wing,Liberal conservatism Christian democracy Conservatism,"https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)"
 2025-06-15,LIVRE,7.4,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
 2025-07-18,LIVRE,9.9,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
 2025-08-14,LIVRE,6.0,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
 2025-09-05,LIVRE,6.5,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
-2025-10-12,LIVRE,1.1,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
-2025-05-18,Left_Bloc_(Portugal),2.0,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-06-15,Left_Bloc_(Portugal),1.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-07-18,Left_Bloc_(Portugal),2.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-08-14,Left_Bloc_(Portugal),2.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-09-05,Left_Bloc_(Portugal),2.4,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-10-12,Left_Bloc_(Portugal),1.0,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
-2025-05-18,Liberal_Initiative_(Portugal),5.4,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-06-15,Liberal_Initiative_(Portugal),8.4,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-07-18,Liberal_Initiative_(Portugal),7.3,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-08-14,Liberal_Initiative_(Portugal),8.1,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-09-05,Liberal_Initiative_(Portugal),6.2,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-10-12,Liberal_Initiative_(Portugal),1.6,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
-2025-05-18,People–Animals–Nature,1.4,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
+2025-10-26,LIVRE,5.4,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
+2025-10-27,LIVRE,6.1,Centre-left to left-wing,Green politics Progressivism Libertarian socialism Pro-Europeanism,https://en.wikipedia.org/wiki/LIVRE
+2025-06-15,Left Bloc,1.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-07-18,Left Bloc,2.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-08-14,Left Bloc,2.8,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-09-05,Left Bloc,2.4,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-10-26,Left Bloc,1.4,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-10-27,Left Bloc,1.3,Left-wing to far-left,Democratic socialism Left-wing populism Anti-capitalism Euroscepticism,https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)
+2025-06-15,Liberal Initiative,8.4,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
+2025-07-18,Liberal Initiative,7.3,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
+2025-08-14,Liberal Initiative,8.1,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
+2025-09-05,Liberal Initiative,6.2,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
+2025-10-26,Liberal Initiative,7.0,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
+2025-10-27,Liberal Initiative,5.9,Centre-right to right-wing,Liberalism ( Portuguese ),https://en.wikipedia.org/wiki/Liberal_Initiative_(Portugal)
 2025-06-15,People–Animals–Nature,3.9,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
 2025-07-18,People–Animals–Nature,3.3,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
 2025-08-14,People–Animals–Nature,3.2,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
 2025-09-05,People–Animals–Nature,1.7,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
-2025-10-12,People–Animals–Nature,0.2,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
-2025-05-18,Socialist_Party_(Portugal),22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-06-15,Socialist_Party_(Portugal),21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-07-18,Socialist_Party_(Portugal),23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-08-14,Socialist_Party_(Portugal),26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-09-05,Socialist_Party_(Portugal),23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-10-12,Socialist_Party_(Portugal),33.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
-2025-05-18,Together_for_the_People,0.3,Centre to centre-left,Madeiran regionalism Social liberalism,https://en.wikipedia.org/wiki/Together_for_the_People
-2025-10-12,Together_for_the_People,0.5,Centre to centre-left,Madeiran regionalism Social liberalism,https://en.wikipedia.org/wiki/Together_for_the_People
-2025-05-18,Unitary_Democratic_Coalition,2.9,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
-2025-06-15,Unitary_Democratic_Coalition,3.4,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
-2025-07-18,Unitary_Democratic_Coalition,4.0,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
-2025-08-14,Unitary_Democratic_Coalition,1.7,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
-2025-09-05,Unitary_Democratic_Coalition,3.1,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
-2025-10-12,Unitary_Democratic_Coalition,5.7,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-10-26,People–Animals–Nature,3.0,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
+2025-10-27,People–Animals–Nature,2.0,Centre-left,Environmentalism Animal rights Ecofeminism,https://en.wikipedia.org/wiki/People–Animals–Nature
+2025-06-15,Socialist Party,21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-07-18,Socialist Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-08-14,Socialist Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-09-05,Socialist Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-10-26,Socialist Party,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-10-27,Socialist Party,23.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)
+2025-06-15,Unitary Democratic Coalition,3.4,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-07-18,Unitary Democratic Coalition,4.0,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-08-14,Unitary Democratic Coalition,1.7,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-09-05,Unitary Democratic Coalition,3.1,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-10-26,Unitary Democratic Coalition,4.0,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition
+2025-10-27,Unitary Democratic Coalition,3.2,Far-left,Communism Eco-socialism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition

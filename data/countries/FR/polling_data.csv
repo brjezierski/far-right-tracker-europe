@@ -1,242 +1,60 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2024-06-30,Debout_la_France,0.28,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-02-06,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-02-06,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-06-04,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-06-04,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-06-04,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-01,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-01,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-07,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-07,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-07,Debout_la_France,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-08,Debout_la_France,2.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-09-08,Debout_la_France,2.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-10-08,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-10-08,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2025-10-08,Debout_la_France,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism Souverainism,https://en.wikipedia.org/wiki/Debout_la_France
-2024-06-30,National_Rally,33.22,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2024-06-30,National_Rally,33.22,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-02-06,National_Rally,35.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-02-06,National_Rally,35.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-02-06,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-02-06,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,34.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,34.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,35.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,35.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-04,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-05,National_Rally,32.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-06-05,National_Rally,32.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-08-29,National_Rally,31.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-08-29,National_Rally,31.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-08-29,National_Rally,31.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-08-29,National_Rally,31.5,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-01,National_Rally,32.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-01,National_Rally,32.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-01,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-01,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-05,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-07,National_Rally,29.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-08,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-08,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-08,National_Rally,34.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-09-08,National_Rally,34.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,33.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,34.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-07,National_Rally,34.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,36.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,35.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2025-10-08,National_Rally,35.0,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
-2024-06-30,New_Popular_Front,28.21,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2024-06-30,New_Popular_Front,28.21,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2024-06-30,New_Popular_Front,28.21,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2024-06-30,New_Popular_Front,28.21,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,27.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,27.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,27.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-02-06,New_Popular_Front,27.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,29.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,29.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,29.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,29.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,37.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,37.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,37.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,37.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-04,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,58.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,58.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,58.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,58.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-06-05,New_Popular_Front,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,59.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,59.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,59.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,59.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,23.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,23.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,23.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-08-29,New_Popular_Front,23.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,41.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,41.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,41.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,41.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-01,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,67.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,67.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,67.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,67.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,26.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,26.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,26.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-05,New_Popular_Front,26.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,14.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,14.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,14.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,14.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,59.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,59.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,59.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,59.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-07,New_Popular_Front,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,66.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,66.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,66.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,66.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-09-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,63.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,63.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,63.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,63.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,13.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,13.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,13.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,13.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-07,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,44.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,44.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,44.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,44.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,65.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2025-10-08,New_Popular_Front,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
-2024-06-30,Reconquête,0.75,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-02-06,Reconquête,3.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-02-06,Reconquête,3.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-06-04,Reconquête,2.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-06-04,Reconquête,2.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-06-04,Reconquête,2.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-06-05,Reconquête,2.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-06-05,Reconquête,3.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-08-29,Reconquête,4.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-08-29,Reconquête,5.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-01,Reconquête,3.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-01,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-05,Reconquête,5.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-05,Reconquête,5.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-07,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-07,Reconquête,4.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-07,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-08,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-09-08,Reconquête,3.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-07,Reconquête,6.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-07,Reconquête,5.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-07,Reconquête,5.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-08,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-08,Reconquête,3.5,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2025-10-08,Reconquête,4.0,Far-right,Traditionalist conservatism Ultraconservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconquête
-2024-06-30,The_Republicans_(France),6.57,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-02-06,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-02-06,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-06-04,The_Republicans_(France),10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-06-04,The_Republicans_(France),11.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-06-04,The_Republicans_(France),11.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-06-05,The_Republicans_(France),10.5,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-06-05,The_Republicans_(France),10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-08-29,The_Republicans_(France),10.5,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-08-29,The_Republicans_(France),10.5,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-01,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-01,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-05,The_Republicans_(France),10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-05,The_Republicans_(France),10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-07,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-07,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-07,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-08,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-09-08,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-07,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-07,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-07,The_Republicans_(France),13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-08,The_Republicans_(France),11.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-08,The_Republicans_(France),11.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2025-10-08,The_Republicans_(France),12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
-2024-06-30,Together_(coalition),21.28,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-02-06,Together_(coalition),15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-02-06,Together_(coalition),15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-06-04,Together_(coalition),16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-06-04,Together_(coalition),18.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-06-04,Together_(coalition),18.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-06-05,Together_(coalition),15.5,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-06-05,Together_(coalition),15.5,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-08-29,Together_(coalition),13.5,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-08-29,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-01,Together_(coalition),15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-01,Together_(coalition),15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-05,Together_(coalition),16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-05,Together_(coalition),16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-07,Together_(coalition),12.5,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-07,Together_(coalition),13.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-07,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-08,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-09-08,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-07,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-07,Together_(coalition),15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-07,Together_(coalition),16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-08,Together_(coalition),13.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-08,Together_(coalition),13.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
-2025-10-08,Together_(coalition),14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-02-06,DLF,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-06-04,DLF,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-09-01,DLF,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-09-07,DLF,1.5,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-09-08,DLF,2.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-10-08,DLF,1.0,Right-wing to far-right,French nationalism National conservatism Traditional Gaullism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Debout_la_France
+2025-02-06,ENS,15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-06-04,ENS,18.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-06-05,ENS,15.5,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-08-29,ENS,14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-09-01,ENS,15.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-09-05,ENS,16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-09-07,ENS,14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-09-08,ENS,14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-10-07,ENS,16.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-10-08,ENS,14.0,Centre to centre-right,,https://en.wikipedia.org/wiki/Together_(coalition)
+2025-02-06,LR,13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-06-04,LR,11.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-06-05,LR,10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-08-29,LR,10.5,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-09-01,LR,13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-09-05,LR,10.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-09-07,LR,13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-09-08,LR,12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-10-07,LR,13.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-10-08,LR,12.0,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/The_Republicans_(France)
+2025-02-06,NFP,14.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-06-04,NFP,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-06-05,NFP,21.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-08-29,NFP,23.5,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-09-01,NFP,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-09-05,NFP,26.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-09-07,NFP,25.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-09-08,NFP,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-10-07,NFP,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-10-08,NFP,24.0,Left-wing,,https://en.wikipedia.org/wiki/New_Popular_Front
+2025-02-06,PS,13.0,Centre-left to left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_(France)
+2025-02-06,REC,3.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-06-04,REC,2.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-06-05,REC,3.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-08-29,REC,5.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-09-01,REC,4.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-09-05,REC,5.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-09-07,REC,4.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-09-08,REC,3.5,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-10-07,REC,5.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-10-08,REC,4.0,Far-right,National conservatism Right-wing populism Euroscepticism Protectionism,https://en.wikipedia.org/wiki/Reconqu%C3%AAte
+2025-02-06,RN,35.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-06-04,RN,35.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-06-05,RN and allies,32.5,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-08-29,RN and allies,31.5,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-09-01,RN and allies,33.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-09-05,RN and allies,33.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-09-07,RN and allies,29.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-09-08,RN and allies,34.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-10-07,RN and allies,34.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-10-08,RN and allies,35.0,Far-right [ nb 1 ],French nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/National_Rally
+2025-02-06,UDR,1.0,Far-right,Right-libertarianism,https://en.wikipedia.org/wiki/Union_of_the_Right_for_the_Republic
+2025-06-04,UDR,1.0,Far-right,Right-libertarianism,https://en.wikipedia.org/wiki/Union_of_the_Right_for_the_Republic

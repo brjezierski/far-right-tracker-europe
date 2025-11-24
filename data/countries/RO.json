@@ -2,23 +2,17 @@
   "country": "Romania",
   "iso2": "RO",
   "parties": [
-    "AUR_Alliance",
-    "Democratic_Alliance_of_Hungarians_in_Romania",
-    "Force_of_the_Right",
-    "National_Liberal_Party_(Romania)",
-    "Party_of_Young_People",
-    "People's_Movement_Party",
-    "Renewing_Romania's_European_Project",
-    "S.O.S._Romania",
-    "Save_Romania_Union",
-    "Social_Democratic_Party_(Romania)"
+    "AUR",
+    "PMP",
+    "POT",
+    "SOS"
   ],
-  "latestSupport": 96.19999999999999,
+  "latestSupport": 44.46666666666667,
   "seriesByParty": {
-    "AUR_Alliance": [
+    "AUR": [
       {
         "date": "2024-12-01",
-        "value": 18.16
+        "value": 18.01
       },
       {
         "date": "2025-01-16",
@@ -83,178 +77,46 @@
       {
         "date": "2025-10-10",
         "value": 40.0
+      },
+      {
+        "date": "2025-10-26",
+        "value": 35.0
+      },
+      {
+        "date": "2025-11-02",
+        "value": 38.0
       }
     ],
-    "Democratic_Alliance_of_Hungarians_in_Romania": [
+    "PMP": [
       {
         "date": "2024-12-01",
-        "value": 6.36
+        "value": 2.05
       },
       {
         "date": "2025-01-16",
-        "value": 4.0
-      },
-      {
-        "date": "2025-01-25",
-        "value": 5.0
-      },
-      {
-        "date": "2025-02-16",
-        "value": 3.4
-      },
-      {
-        "date": "2025-03-28",
-        "value": 5.1
-      },
-      {
-        "date": "2025-04-05",
         "value": 3.0
       },
       {
-        "date": "2025-04-26",
-        "value": 4.0
-      },
-      {
-        "date": "2025-05-28",
-        "value": 5.5
-      },
-      {
-        "date": "2025-05-30",
-        "value": 4.75
-      },
-      {
-        "date": "2025-06-26",
-        "value": 5.2
-      },
-      {
-        "date": "2025-07-10",
-        "value": 5.0
-      },
-      {
-        "date": "2025-07-12",
-        "value": 4.5
-      },
-      {
-        "date": "2025-07-23",
-        "value": 4.95
-      },
-      {
-        "date": "2025-09-09",
-        "value": 4.0
-      },
-      {
-        "date": "2025-09-18",
-        "value": 6.0
-      },
-      {
-        "date": "2025-09-19",
-        "value": 5.0
-      },
-      {
-        "date": "2025-10-10",
-        "value": 5.2
-      }
-    ],
-    "Force_of_the_Right": [
-      {
-        "date": "2024-12-01",
-        "value": 1.96
-      },
-      {
-        "date": "2025-01-16",
-        "value": 2.0
-      },
-      {
         "date": "2025-02-16",
-        "value": 0.6
+        "value": 1.1
       },
       {
         "date": "2025-05-28",
-        "value": 1.5
+        "value": 1.0
       },
       {
         "date": "2025-07-23",
-        "value": 1.0
+        "value": 0.7
       },
       {
         "date": "2025-09-18",
         "value": 1.0
       }
     ],
-    "National_Liberal_Party_(Romania)": [
+    "POT": [
       {
         "date": "2024-12-01",
-        "value": 13.74
-      },
-      {
-        "date": "2025-01-16",
-        "value": 13.0
-      },
-      {
-        "date": "2025-01-25",
-        "value": 15.0
-      },
-      {
-        "date": "2025-02-16",
-        "value": 12.3
-      },
-      {
-        "date": "2025-03-28",
-        "value": 15.0
-      },
-      {
-        "date": "2025-04-05",
-        "value": 13.0
-      },
-      {
-        "date": "2025-04-26",
-        "value": 15.0
-      },
-      {
-        "date": "2025-05-28",
-        "value": 15.0
-      },
-      {
-        "date": "2025-05-30",
-        "value": 15.0
-      },
-      {
-        "date": "2025-06-26",
-        "value": 17.3
-      },
-      {
-        "date": "2025-07-10",
-        "value": 15.0
-      },
-      {
-        "date": "2025-07-12",
-        "value": 16.0
-      },
-      {
-        "date": "2025-07-23",
-        "value": 14.7
-      },
-      {
-        "date": "2025-09-09",
-        "value": 15.2
-      },
-      {
-        "date": "2025-09-18",
-        "value": 13.0
-      },
-      {
-        "date": "2025-09-19",
-        "value": 16.0
-      },
-      {
-        "date": "2025-10-10",
-        "value": 14.8
-      }
-    ],
-    "Party_of_Young_People": [
-      {
-        "date": "2024-12-01",
-        "value": 6.42
+        "value": 6.46
       },
       {
         "date": "2025-01-16",
@@ -319,60 +181,20 @@
       {
         "date": "2025-10-10",
         "value": 2.6
+      },
+      {
+        "date": "2025-10-26",
+        "value": 7.0
+      },
+      {
+        "date": "2025-11-02",
+        "value": 3.1
       }
     ],
-    "People's_Movement_Party": [
+    "SOS": [
       {
         "date": "2024-12-01",
-        "value": 1.96
-      },
-      {
-        "date": "2025-01-16",
-        "value": 3.0
-      },
-      {
-        "date": "2025-02-16",
-        "value": 1.1
-      },
-      {
-        "date": "2025-05-28",
-        "value": 1.0
-      },
-      {
-        "date": "2025-07-23",
-        "value": 0.7
-      },
-      {
-        "date": "2025-09-18",
-        "value": 1.0
-      }
-    ],
-    "Renewing_Romania's_European_Project": [
-      {
-        "date": "2024-12-01",
-        "value": 1.31
-      },
-      {
-        "date": "2025-02-16",
-        "value": 1.1
-      },
-      {
-        "date": "2025-03-28",
-        "value": 1.2
-      },
-      {
-        "date": "2025-05-28",
-        "value": 2.0
-      },
-      {
-        "date": "2025-07-23",
-        "value": 0.75
-      }
-    ],
-    "S.O.S._Romania": [
-      {
-        "date": "2024-12-01",
-        "value": 7.56
+        "value": 7.36
       },
       {
         "date": "2025-01-16",
@@ -437,148 +259,22 @@
       {
         "date": "2025-10-10",
         "value": 2.0
-      }
-    ],
-    "Save_Romania_Union": [
-      {
-        "date": "2024-12-01",
-        "value": 12.33
       },
       {
-        "date": "2025-01-16",
-        "value": 13.0
+        "date": "2025-10-26",
+        "value": 4.0
       },
       {
-        "date": "2025-01-25",
-        "value": 13.0
-      },
-      {
-        "date": "2025-02-16",
-        "value": 19.0
-      },
-      {
-        "date": "2025-03-28",
-        "value": 12.9
-      },
-      {
-        "date": "2025-04-05",
-        "value": 14.0
-      },
-      {
-        "date": "2025-04-26",
-        "value": 9.0
-      },
-      {
-        "date": "2025-05-28",
-        "value": 13.5
-      },
-      {
-        "date": "2025-05-30",
-        "value": 13.1
-      },
-      {
-        "date": "2025-06-26",
-        "value": 13.1
-      },
-      {
-        "date": "2025-07-10",
-        "value": 12.0
-      },
-      {
-        "date": "2025-07-12",
-        "value": 16.0
-      },
-      {
-        "date": "2025-07-23",
-        "value": 12.6
-      },
-      {
-        "date": "2025-09-09",
-        "value": 12.8
-      },
-      {
-        "date": "2025-09-18",
-        "value": 12.0
-      },
-      {
-        "date": "2025-09-19",
-        "value": 12.0
-      },
-      {
-        "date": "2025-10-10",
-        "value": 11.5
-      }
-    ],
-    "Social_Democratic_Party_(Romania)": [
-      {
-        "date": "2024-12-01",
-        "value": 22.13
-      },
-      {
-        "date": "2025-01-16",
-        "value": 22.0
-      },
-      {
-        "date": "2025-01-25",
-        "value": 24.0
-      },
-      {
-        "date": "2025-02-16",
-        "value": 21.2
-      },
-      {
-        "date": "2025-03-28",
-        "value": 21.2
-      },
-      {
-        "date": "2025-04-05",
-        "value": 18.5
-      },
-      {
-        "date": "2025-04-26",
-        "value": 19.0
-      },
-      {
-        "date": "2025-05-28",
-        "value": 18.5
-      },
-      {
-        "date": "2025-05-30",
-        "value": 20.7
-      },
-      {
-        "date": "2025-06-26",
-        "value": 13.7
-      },
-      {
-        "date": "2025-07-10",
-        "value": 20.0
-      },
-      {
-        "date": "2025-07-12",
-        "value": 18.0
-      },
-      {
-        "date": "2025-07-23",
-        "value": 19.0
-      },
-      {
-        "date": "2025-09-09",
-        "value": 17.9
-      },
-      {
-        "date": "2025-09-18",
-        "value": 19.0
-      },
-      {
-        "date": "2025-09-19",
-        "value": 23.0
-      },
-      {
-        "date": "2025-10-10",
-        "value": 17.6
+        "date": "2025-11-02",
+        "value": 1.7
       }
     ]
   },
-  "latestUpdate": "2025-10-20T21:41:47Z"
+  "latestUpdate": "2025-11-18T16:38:12Z",
+  "sources": [
+    {
+      "type": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
+    }
+  ]
 }

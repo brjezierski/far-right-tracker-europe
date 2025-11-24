@@ -19,6 +19,23 @@ function loadCountry(iso2: string) {
   }
 }
 
+function loadSummary() {
+  try {
+    const file = path.join(process.cwd(), "..", "data", "summary.json");
+    const raw = fs.readFileSync(file, "utf-8");
+    return JSON.parse(raw);
+  } catch {
+    return { countries: {} };
+  }
+}
+
+export async function generateStaticParams() {
+  const summary = loadSummary();
+  return Object.keys(summary.countries).map((iso2) => ({
+    iso2,
+  }));
+}
+
 export default function CountryPage({ params }: { params: { iso2: string } }) {
   const data = loadCountry(params.iso2);
   if (!data) {
