@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useMemo, useRef, useState } from "react";
+import { useRouter } from "next/navigation";
 import maplibregl, { Map as MapLibreMap } from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import * as topojson from "topojson-client";
@@ -25,6 +26,7 @@ type Summary = {
 export default function MapComponent({
   summary = null,
 }: { summary?: Summary } = {}) {
+  const router = useRouter();
   const containerRef = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MapLibreMap | null>(null);
   const geoRef = useRef<any | null>(null);
@@ -171,7 +173,7 @@ export default function MapComponent({
             const f = e.features?.[0];
             const iso2 = f?.properties?.iso2;
             if (iso2) {
-              window.location.href = `/country/${iso2}`;
+              router.push(`/country/${iso2}`);
             }
           });
         });
