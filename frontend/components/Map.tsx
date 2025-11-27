@@ -6,7 +6,6 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import * as topojson from "topojson-client";
 import { NAME_TO_ISO2 } from "../lib/iso";
 
-// Natural Earth GeoJSON from MapLibre's official CDN
 const COUNTRIES_GEOJSON =
   "https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson";
 
@@ -78,7 +77,6 @@ export default function MapComponent({
       fetch(COUNTRIES_GEOJSON)
         .then((r) => r.json())
         .then((geojson) => {
-          // Already in GeoJSON format, no conversion needed
           geoRef.current = geojson;
           m.addSource("countries", {
             type: "geojson",
