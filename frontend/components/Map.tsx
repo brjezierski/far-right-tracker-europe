@@ -6,9 +6,8 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import * as topojson from "topojson-client";
 import { NAME_TO_ISO2 } from "../lib/iso";
 
-// Lightweight world topojson focusing on Europe; for demo, fetch from unpkg
-const EUROPE_TOPOJSON =
-  "https://unpkg.com/world-atlas@2.0.2/countries-50m.json";
+const COUNTRIES_GEOJSON =
+  "https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson";
 
 type Summary = {
   updatedAt: string;
@@ -75,18 +74,13 @@ export default function MapComponent({
 
     // Wait for style to load before adding sources and layers
     m.on('load', () => {
-      fetch(EUROPE_TOPOJSON)
+      fetch(COUNTRIES_GEOJSON)
         .then((r) => r.json())
-        .then((topo) => {
-          // convert topo to geojson
-          const countries = (topojson as any).feature(
-            topo,
-            topo.objects.countries
-          );
-          geoRef.current = countries;
+        .then((geojson) => {
+          geoRef.current = geojson;
           m.addSource("countries", {
             type: "geojson",
-            data: countries,
+            data: geojson,
           });
 
           m.addLayer({
