@@ -1,45 +1,129 @@
 {
-  "Albania": "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election",
-  "Armenia": "https://en.wikipedia.org/wiki/2021_Armenian_parliamentary_election",
-  "Austria": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Austrian_legislative_election",
-  "Belgium": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections",
-  "Bosnia and Herzegovina": "https://en.wikipedia.org/wiki/2022_Bosnian_general_election",
-  "Bulgaria": "https://en.wikipedia.org/wiki/Next_Bulgarian_parliamentary_election",
-  "Croatia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Croatian_parliamentary_election",
-  "Cyprus": "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election",
-  "Czech Republic": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election",
-  "Denmark": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election",
-  "Estonia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Estonian_parliamentary_election",
-  "Finland": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_Finnish_parliamentary_election",
-  "France": "https://en.wikipedia.org/wiki/Next_French_legislative_election",
-  "Germany": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election",
-  "Georgia": "https://en.wikipedia.org/wiki/Next_Georgian_parliamentary_election",
-  "Greece": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election",
-  "Hungary": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election",
-  "Iceland": "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election",
-  "Ireland": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Irish_general_election",
-  "Italy": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election",
-  "Kosovo": "https://en.wikipedia.org/wiki/2025_Kosovan_parliamentary_election",
-  "Latvia": "https://en.wikipedia.org/wiki/Next_Latvian_parliamentary_election",
-  "Lithuania": "https://en.wikipedia.org/wiki/2028_Lithuanian_parliamentary_election",
-  "Luxembourg": "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election",
-  "Malta": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election",
-  "Moldova": "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election",
-  "Montenegro": "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election",
-  "Netherlands": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
-  "Macedonia": "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election",
-  "Norway": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Norwegian_parliamentary_election",
-  "Poland": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election",
-  "Portugal": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election",
-  "Romania": "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election",
-  "Russia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election",
-  "Serbia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election",
-  "Slovakia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovak_parliamentary_election",
-  "Slovenia": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election",
-  "Spain": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election",
-  "Sweden": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election",
-  "Switzerland": "https://en.m.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election",
-  "Turkey": "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler",
-  "Ukraine": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election",
-  "United Kingdom": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
+  "Albania": [
+    "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
+  ],
+  "Armenia": [
+    "https://en.wikipedia.org/wiki/2021_Armenian_parliamentary_election"
+  ],
+  "Austria": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Austrian_legislative_election"
+  ],
+  "Belgium": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
+  ],
+  "Bosnia and Herzegovina": [
+    "https://en.wikipedia.org/wiki/2022_Bosnian_general_election"
+  ],
+  "Bulgaria": [
+    "https://en.wikipedia.org/wiki/Next_Bulgarian_parliamentary_election"
+  ],
+  "Croatia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Croatian_parliamentary_election"
+  ],
+  "Cyprus": ["https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"],
+  "Czech Republic": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
+  ],
+  "Denmark": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election"
+  ],
+  "Estonia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Estonian_parliamentary_election"
+  ],
+  "Finland": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_Finnish_parliamentary_election"
+  ],
+  "France": ["https://en.wikipedia.org/wiki/Next_French_legislative_election"],
+  "Germany": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election"
+  ],
+  "Georgia": [
+    "https://en.wikipedia.org/wiki/Next_Georgian_parliamentary_election"
+  ],
+  "Greece": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election"
+  ],
+  "Hungary": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+  ],
+  "Iceland": [
+    "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election"
+  ],
+  "Ireland": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Irish_general_election"
+  ],
+  "Italy": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
+  ],
+  "Kosovo": [
+    "https://en.wikipedia.org/wiki/2025_Kosovan_parliamentary_election"
+  ],
+  "Latvia": [
+    "https://en.wikipedia.org/wiki/Next_Latvian_parliamentary_election"
+  ],
+  "Lithuania": [
+    "https://en.wikipedia.org/wiki/2028_Lithuanian_parliamentary_election"
+  ],
+  "Luxembourg": [
+    "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
+  ],
+  "Malta": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election"
+  ],
+  "Moldova": [
+    "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
+  ],
+  "Montenegro": [
+    "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election"
+  ],
+  "Netherlands": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Next_Dutch_general_election"
+  ],
+  "Macedonia": [
+    "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election"
+  ],
+  "Norway": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Norwegian_parliamentary_election"
+  ],
+  "Poland": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
+  ],
+  "Portugal": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
+  ],
+  "Romania": [
+    "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
+  ],
+  "Russia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
+  ],
+  "Serbia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election"
+  ],
+  "Slovakia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovak_parliamentary_election"
+  ],
+  "Slovenia": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
+  ],
+  "Spain": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election"
+  ],
+  "Sweden": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
+  ],
+  "Switzerland": [
+    "https://en.m.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
+  ],
+  "Turkey": [
+    "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler"
+  ],
+  "Ukraine": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"
+  ],
+  "United Kingdom": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
+  ]
 }

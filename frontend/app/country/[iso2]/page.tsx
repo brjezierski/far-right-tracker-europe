@@ -62,18 +62,15 @@ export default function CountryPage({ params }: { params: { iso2: string } }) {
       <TimeSeriesChart seriesByParty={data.seriesByParty || {}} />
       <h3>Sources</h3>
       <ul>
-        {(data.sources || []).map((s: any, idx: number) => (
+        {(data.sources || []).map((url: string, idx: number) => (
           <li key={idx}>
-            {s.type}{" "}
-            {s.url ? (
-              <a href={s.url} target="_blank">
-                {s.url}
-              </a>
-            ) : null}
+            <a href={url} target="_blank" rel="noopener noreferrer">
+              {url}
+            </a>
           </li>
         ))}
       </ul>
-      <p>Updated: {new Date(data.updatedAt).toLocaleString()}</p>
+      <p>Updated: {data.latestUpdate ? new Date(data.latestUpdate).toLocaleString() : "N/A"}</p>
     </main>
   );
 }

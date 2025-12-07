@@ -25,7 +25,7 @@ from dateparser import parse
 # Load polling sources from JSON file
 _SOURCES_PATH = Path(__file__).resolve().parent / "polling_sources.json"
 try:
-    WIKI_POLLING_PAGES: Dict[str, str] = json.loads(
+    WIKI_POLLING_PAGES: Dict[str, List[str]] = json.loads(
         _SOURCES_PATH.read_text(encoding="utf-8")
     )
 except Exception:
@@ -66,6 +66,12 @@ HISTORICAL_SEPERATORS = ["Formerly:", "Historical"]
 DEBUG = False
 
 
+def set_debug_mode(enabled: bool):
+    """Enable or disable debug mode."""
+    global DEBUG
+    DEBUG = enabled
+
+
 def normalize_party_name(s: str) -> str:
     return re.sub(r"\W+", "", s.lower()).replace("_", "").replace("party", "")
 
@@ -93,7 +99,7 @@ def parse_date(
     if (
         table_header_key.isdigit()
         and len(table_header_key) == 4
-        and not re.search(r"\b\d{4}\b", s)
+        and not re.search(r"\b\d{4}\b", s)  # type: ignore
     ):
         s = f"{s} {table_header_key}"
 
@@ -257,7 +263,7 @@ class WikipediaPollingFetcher:
         """
         try:
             tables_dict = self.fetch_tables(country)
-            print(f"Fetched {len(tables_dict)} tables for {country} from {self.url}")
+            print(f"Fetched {len(tables_dict)} tables")
         except Exception:
             return None, {}, {}
         if len(tables_dict) == 0:
@@ -283,7 +289,8 @@ class WikipediaPollingFetcher:
                 date_col_info = find_date_column(cols_info)
 
                 if not date_col_info:
-                    print(f"No date column found in table for {country}")
+                    if DEBUG:
+                        print(f"No date column found in table for {country}")
                     continue
 
                 # Extract party columns (those with links) and fix empty names
@@ -349,8 +356,6 @@ class WikipediaPollingFetcher:
                     date, prev_date_year_given = parse_date(
                         date_str, prev_date, prev_date_year_given, tables_key
                     )
-                    if DEBUG:
-                        print(f"Parsing date string: '{date_str}' into date: {date}")
                     if date:
                         prev_date = date
 
@@ -409,7 +414,7 @@ class WikipediaPollingFetcher:
                                         "is_far_right": party_name in selected_parties,
                                     },
                                 )
-                        except Exception as e:
+                        except Exception:
                             continue
 
         # Calculate latest total support using the extracted method
@@ -558,11 +563,11 @@ def calculate_latest_total_support(
     return sum(totals_per_date) / len(totals_per_date) if totals_per_date else None
 
 
-def get_polling_source(country: str) -> Tuple[str, Optional[str]]:
-    """Return (source_type, url) for the polling source. Currently uses Wikipedia pages mapping."""
+def get_polling_source(country: str) -> List[str]:
+    """Return urls for the polling source. Currently uses Wikipedia pages mapping."""
     if country in WIKI_POLLING_PAGES:
-        return ("wikipedia", WIKI_POLLING_PAGES[country])
-    return ("wikipedia", None)
+        return WIKI_POLLING_PAGES[country]
+    return []
 
 
 def _load_json(path: Path) -> dict:

@@ -81,7 +81,6 @@ def save_country_polling_csv(
         if polling_data:
             df = pd.DataFrame(polling_data)
             df["date"] = pd.to_datetime(df["date"])
-            df = df.dropna(subset=["wikipedia_url"])
             df = df.sort_values(["party", "date"])
             df.to_csv(country_dir / "polling_data.csv", index=False)
 
@@ -334,20 +333,38 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
             time.sleep(3)
         print(f"\nProcessing {country}...")
 
-        source_type, url = get_polling_source(country)
+        urls = get_polling_source(country)
         series_by_party = {}
         party_metadata = {}
         sources = []
         latest_total = None
-        if url:
-            fetcher = WikipediaPollingFetcher(url)
-            print(f"Fetching latest support data from {url} for {country}...")
-            latest_total, series_by_party, party_metadata = (
-                fetcher.fetch_latest_and_series(country, CATEGORIES)
+
+        if urls:
+            # Process each URL and merge the data
+            for url in urls:
+                fetcher = WikipediaPollingFetcher(url)
+                print(f"Fetching latest support data from {url} for {country}...")
+                url_latest_total, url_series_by_party, url_party_metadata = (
+                    fetcher.fetch_latest_and_series(country, CATEGORIES)
+                )
+
+                # Merge series data
+                for party, points in url_series_by_party.items():
+                    if party not in series_by_party:
+                        series_by_party[party] = []
+                    series_by_party[party].extend(points)
+
+                # Merge party metadata (later URLs override earlier ones)
+                party_metadata.update(url_party_metadata)
+
+                # Keep track of all sources
+                sources.append(url)
+
+        # Recalculate latest total support based on merged data
+        if series_by_party and party_metadata:
+            latest_total = calculate_latest_total_support(
+                series_by_party, party_metadata
             )
-            sources.append({"type": "wikipedia", "url": url})
-        else:
-            sources.append({"type": "wikipedia", "url": None})
 
         iso2 = get_country_iso_code(country)
 

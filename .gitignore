@@ -6,3 +6,5 @@ data-pipeline/__pycache__
 data-pipeline/pipeline/__pycache__/*pyc
 tests/
 settings.json
+.python-version
+uv.lock

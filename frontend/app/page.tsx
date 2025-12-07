@@ -1,7 +1,6 @@
 import fs from "fs";
 import path from "path";
 import dynamic from "next/dynamic";
-import Link from "next/link";
 import styles from "./page.module.css";
 
 const Map = dynamic<{ summary?: Summary }>(
@@ -46,21 +45,6 @@ export default function HomePage() {
           Data updated: {new Date(summary.updatedAt).toLocaleString()}
         </p>
       )}
-      <div className={styles.list}>
-        {summary &&
-          Object.values(summary.countries).map((c) => (
-            <div key={c.iso2} className={styles.card}>
-              <h3>{c.country}</h3>
-              <p>
-                Latest support:{" "}
-                {c.latestSupport != null
-                  ? `${c.latestSupport.toFixed(1)}%`
-                  : "N/A"}
-              </p>
-              <Link href={`/country/${c.iso2}`}>View trends</Link>
-            </div>
-          ))}
-      </div>
     </main>
   );
 }

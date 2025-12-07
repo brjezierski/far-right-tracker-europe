@@ -539,22 +539,21 @@ def find_date_column(cols_info: List[Dict]) -> Optional[Dict]:
     """
     Find the date column from a list of column info dictionaries.
 
-    Looks for columns with 'date', 'fieldwork', or 'conducted' in the party_name field.
+    Looks for columns with 'date', 'fieldwork', or 'conducted' in the column_name field.
 
     Args:
-        cols_info: List of column info dicts with 'party_name' field
+        cols_info: List of column info dicts with 'column_name' field
 
     Returns:
         The column info dict for the date column, or None if not found
     """
     for col_info in cols_info:
-        party_name_lower = col_info.get("party_name", "").lower()
-        print("Checking column:", party_name_lower)
+        column_name_lower = col_info.get("column_name", "").lower()
         if (
-            "date" in party_name_lower
-            or "fieldwork" in party_name_lower
-            or "conducted" in party_name_lower
-            or "tarih" in party_name_lower
+            "date" in column_name_lower
+            or "fieldwork" in column_name_lower
+            or "conducted" in column_name_lower
+            or "tarih" in column_name_lower
         ):
             return col_info
     return None
