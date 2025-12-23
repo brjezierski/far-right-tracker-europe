@@ -189,6 +189,43 @@ def get_latest_polling_value(pts: List[Dict]) -> float:
     return sum(recent_values) / len(recent_values)
 
 
+def _convert_subsequent_header_rows_to_td(table):
+    """
+    Convert <th> elements to <td> in all header rows except the first.
+
+    When a table has multiple rows of headers, only the first row should use <th> elements.
+    Subsequent header rows should use <td> elements for proper hierarchical parsing.
+
+    Args:
+        table: BeautifulSoup table element (modified in-place)
+    """
+    rows = table.find_all("tr")
+    if not rows:
+        return
+
+    # Find the first row that contains <th> elements
+    first_header_row_idx = None
+    for idx, row in enumerate(rows):
+        if row.find("th"):
+            first_header_row_idx = idx
+            break
+
+    if first_header_row_idx is None:
+        return
+
+    # Convert <th> to <td> in all subsequent rows that contain headers
+    for idx in range(first_header_row_idx + 1, len(rows)):
+        row = rows[idx]
+        th_cells = row.find_all("th")
+
+        # Check if this row looks like a header row (has mostly <th> and no substantial data)
+        # or if it has any <th> elements at all in positions other than the first column
+        if th_cells:
+            for th_cell in th_cells:
+                # Convert <th> to <td>
+                th_cell.name = "td"
+
+
 def _insert_rowspan_placeholders(table):
     """
     Insert placeholder <td> elements for positions covered by rowspan.
@@ -283,6 +320,9 @@ def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
     table = soup.find("table")
     if not table:
         return pd.DataFrame()
+
+    # Preprocess: Convert subsequent header rows from <th> to <td>
+    _convert_subsequent_header_rows_to_td(table)
 
     # Preprocess table to insert placeholder td elements for rowspan-covered cells
     _insert_rowspan_placeholders(table)
