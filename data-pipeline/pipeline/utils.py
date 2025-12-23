@@ -189,6 +189,79 @@ def get_latest_polling_value(pts: List[Dict]) -> float:
     return sum(recent_values) / len(recent_values)
 
 
+def _insert_rowspan_placeholders(table):
+    """
+    Insert placeholder <td> elements for positions covered by rowspan.
+
+    When a cell has rowspan > 1, subsequent rows don't include <td> elements
+    for that position. This function inserts empty placeholder <td> elements
+    to maintain consistent column positions across all rows.
+
+    Args:
+        table: BeautifulSoup table element (modified in-place)
+    """
+    rows = table.find_all("tr")
+    if not rows:
+        return
+
+    # Track active rowspans: dict mapping (row_idx, col_idx) -> remaining_span
+    active_rowspans = {}
+
+    for row_idx, row in enumerate(rows):
+        cells = row.find_all(["td", "th"])
+
+        # Build a map of column positions for this row
+        col_idx = 0
+        cells_to_insert = []  # List of (position, cell) tuples
+
+        for cell in cells:
+            # Skip columns that are covered by active rowspans
+            while (row_idx, col_idx) in active_rowspans:
+                # Insert placeholder td at this position
+                placeholder = BeautifulSoup("", "lxml").new_tag("td")
+                placeholder.string = ""
+                cells_to_insert.append((col_idx, placeholder))
+                col_idx += 1
+
+            # Process current cell
+            colspan = int(cell.get("colspan", 1))
+            rowspan = int(cell.get("rowspan", 1))
+
+            # Register this cell's rowspan for future rows
+            if rowspan > 1:
+                for span_row in range(row_idx + 1, row_idx + rowspan):
+                    for span_col in range(col_idx, col_idx + colspan):
+                        active_rowspans[(span_row, span_col)] = True
+
+            col_idx += colspan
+
+        # Check for any remaining rowspan positions after the last cell
+        while (row_idx, col_idx) in active_rowspans:
+            placeholder = BeautifulSoup("", "lxml").new_tag("td")
+            placeholder.string = ""
+            cells_to_insert.append((col_idx, placeholder))
+            col_idx += 1
+
+        # Insert placeholder cells in order
+        if cells_to_insert:
+            cells_list = list(row.find_all(["td", "th"]))
+            for target_col_idx, placeholder in reversed(cells_to_insert):
+                # Find the cell before which to insert
+                current_col = 0
+                insert_before = None
+                for cell in cells_list:
+                    if current_col == target_col_idx:
+                        insert_before = cell
+                        break
+                    current_col += int(cell.get("colspan", 1))
+
+                if insert_before:
+                    insert_before.insert_before(placeholder)
+                else:
+                    # Append to end if no cell found
+                    row.append(placeholder)
+
+
 def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
     """
     Parse an HTML table preserving hierarchical header structure with colspan/rowspan.
@@ -210,6 +283,9 @@ def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
     table = soup.find("table")
     if not table:
         return pd.DataFrame()
+
+    # Preprocess table to insert placeholder td elements for rowspan-covered cells
+    _insert_rowspan_placeholders(table)
 
     # Extract all rows
     rows = table.find_all("tr")
@@ -286,9 +362,11 @@ def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
         # Typical first data rows have rowspan=3 on first few cells and ~17-20 cells total
         # Continuation rows have no rowspan and ~16-17 cells
         # Use a threshold: if < 90% of columns and no rowspan, skip
-        if len(cells) < len(columns) * 0.90 and not has_any_rowspan:
-            # Likely a continuation row, skip it
-            continue
+        # if (
+        #     len(cells) < len(columns) * 0.90 and not has_any_rowspan
+        # ):  # TODO uncomment for France
+        #     # Likely a continuation row, skip it
+        #     continue
 
         row_data = _parse_row_with_hierarchy(cells, columns)
         data.append(row_data)
@@ -554,6 +632,7 @@ def find_date_column(cols_info: List[Dict]) -> Optional[Dict]:
             or "fieldwork" in column_name_lower
             or "conducted" in column_name_lower
             or "tarih" in column_name_lower
+            or "period" in column_name_lower
         ):
             return col_info
     return None
