@@ -1,15 +1,19 @@
 party,political_position,ideology,wikipedia_url
-UR,"People's Front ""For Russia""",Conservatism ( Russia ) Centrism (official) Statism Russian nationalism,https://en.wikipedia.org/wiki/United_Russia
-CPRF,Far-left,Communism Marxism–Leninism Left-conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_the_Russian_Federation
-LDPR,Right-wing to far-right,Russian ultranationalism Right-wing populism Social conservatism Pan-Slavism,https://en.wikipedia.org/wiki/Liberal_Democratic_Party_of_Russia
-SRZP,Centre to centre-left,Social democracy Social conservatism Democratic socialism Eurasianism,https://en.wikipedia.org/wiki/A_Just_Russia_%E2%80%94_For_Truth
-NP,Centre to centre-right,Liberalism ( Russian ) Communitarianism Regionalism,https://en.wikipedia.org/wiki/New_People_(political_party)
-RPPSJ,Centre to centre-right,Pensioners' interests Elderly interests Social justice Single-issue politics,https://en.wikipedia.org/wiki/Russian_Party_of_Pensioners_for_Social_Justice
+United Russia,"People's Front ""For Russia""",Conservatism ( Russia ) Centrism (official) Statism Russian nationalism,https://en.wikipedia.org/wiki/United_Russia
+Communist Party of the Russian Federation,Far-left,Communism Marxism–Leninism Left-conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_the_Russian_Federation
+Liberal Democratic Party of Russia,Right-wing to far-right,Russian ultranationalism Right-wing populism Social conservatism Pan-Slavism,https://en.wikipedia.org/wiki/Liberal_Democratic_Party_of_Russia
+A Just Russia,Centre to centre-left,Social democracy Social conservatism Democratic socialism Eurasianism,https://en.wikipedia.org/wiki/A_Just_Russia
 Yabloko,Centre-left,Social liberalism Progressivism Feminism Pro-Europeanism,https://en.wikipedia.org/wiki/Yabloko
-CR,Far-left,Communism Marxism–Leninism Stalinism Anti-revisionism,https://en.wikipedia.org/wiki/Communists_of_Russia
-Greens,Centre,Green politics Agrarianism,https://en.wikipedia.org/wiki/Russian_Ecological_Party_%22The_Greens%22
+Patriots of Russia,Left-wing,Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Patriots_of_Russia
+Party of Growth,Centre-right,Liberal conservatism Conservative liberalism Economic liberalism,https://en.wikipedia.org/wiki/Party_of_Growth
+People's Freedom Party,Centre-right,Republicanism Anti-Putinism Liberalism Conservative liberalism Federalism Atlanticism Anti-communism Pro-Europeanism Nemtsovism,https://en.wikipedia.org/wiki/People%27s_Freedom_Party_(Russia)
+Civic Platform,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/Civic_Platform_(Russia)
 Rodina,Far-right,Russian ultranationalism Conservatism ( Russian ) National conservatism Social conservatism Right-wing populism Anti-communism Anti-Zionism Antisemitism,https://en.wikipedia.org/wiki/Rodina_(political_party)
-RPFJ,Centre-left,Broad Socialism,https://en.wikipedia.org/wiki/Russian_Party_of_Freedom_and_Justice
-GA,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_Alternative_(Russia)
-CP,Centre-right to right-wing,Liberal conservatism,https://en.wikipedia.org/wiki/Civic_Platform_(Russia)
-PG,Centre-right,Liberal conservatism Conservative liberalism Economic liberalism,https://en.wikipedia.org/wiki/Party_of_Growth
+"Russian Ecological Party ""The Greens""",Centre,Green politics Agrarianism,https://en.wikipedia.org/wiki/Russian_Ecological_Party_%22The_Greens%22
+Communists of Russia,Far-left,Communism Marxism–Leninism Stalinism Anti-revisionism,https://en.wikipedia.org/wiki/Communists_of_Russia
+Russian Party of Pensioners for Social Justice,Centre to centre-right,Pensioners' interests Elderly interests Social justice Single-issue politics,https://en.wikipedia.org/wiki/Russian_Party_of_Pensioners_for_Social_Justice
+Civilian Power,Centre to centre-right,Liberalism Green liberalism,https://en.wikipedia.org/wiki/Civilian_Power
+New People,Centre to centre-right,Liberalism ( Russian ) Communitarianism Regionalism,https://en.wikipedia.org/wiki/New_People_(political_party)
+Russian Party of Freedom and Justice,Centre-left,Broad Socialism,https://en.wikipedia.org/wiki/Russian_Party_of_Freedom_and_Justice
+Green Alternative,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_Alternative_(Russia)
+A Just Russia — For Truth,Centre to centre-left,Social democracy Social conservatism Democratic socialism Eurasianism,https://en.wikipedia.org/wiki/A_Just_Russia_%E2%80%94_For_Truth

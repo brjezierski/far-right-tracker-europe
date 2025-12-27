@@ -1,13 +1,10 @@
 party,political_position,ideology,wikipedia_url
-AKP,Right-wing,National conservatism Social conservatism Right-wing populism Neo-Ottomanism,https://en.wikipedia.org/wiki/Justice_and_Development_Party_(Turkey)
-CHP,Centre-left,Social democracy Kemalism Pro-Europeanism,https://en.wikipedia.org/wiki/Republican_People%27s_Party
-MHP,Far-right,Turkish ultranationalism Turkish–Islamic nationalism National conservatism Right-wing populism Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Nationalist_Movement_Party
-İYİ,Centre-right to right-wing,Kemalism Turkish nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Good_Party
-DEM,Centre-left to left-wing,Minority rights Kurdish interests Kurdish nationalism Regionalism Social democracy Secularism Democratic socialism Feminism Progressivism,https://en.wikipedia.org/wiki/Halklar%C4%B1n_E%C5%9Fitlik_ve_Demokrasi_Partisi
-YRP,Right-wing to far-right,Millî Görüş Islamism Neo-Ottomanism Pan-Islamism Hard Euroscepticism Ultraconservatism,https://en.wikipedia.org/wiki/New_Welfare_Party
-ZP,Right-wing to far-right,Kemalism Anti-immigration Ultranationalism Pan-Turkism Anti-Arab Right-wing populism Secularism,https://en.wikipedia.org/wiki/Victory_Party_(Turkey)
-TİP,Left-wing to far-left,Communism Marxism–Leninism Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Turkey_(2017)
-A,,,
-DEVA,Centre-right,Liberal conservatism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_and_Progress_Party
-SP,Right-wing,Conservatism Religious conservatism Religious nationalism Millî Görüş Islamism,https://en.wikipedia.org/wiki/Felicity_Party
-GP,Centre-right to right-wing,Conservatism Liberal conservatism Conservative liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Future_Party_(Turkey)
+Adalet ve Kalkınma Partisi,Right-wing,National conservatism Social conservatism Right-wing populism Neo-Ottomanism,https://en.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi
+Cumhuriyet Halk Partisi,Centre-left,Social democracy Kemalism Pro-Europeanism,https://en.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi
+Milliyetçi Hareket Partisi,Far-right,Turkish ultranationalism Turkish–Islamic nationalism National conservatism Right-wing populism Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Milliyet%C3%A7i_Hareket_Partisi
+İYİ Parti,Centre-right to right-wing,Kemalism Turkish nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/%C4%B0Y%C4%B0_Parti
+Halkların Eşitlik ve Demokrasi Partisi,Centre-left to left-wing,Minority rights Kurdish interests Kurdish nationalism Regionalism Social democracy Secularism Democratic socialism Feminism Progressivism,https://en.wikipedia.org/wiki/Halklar%C4%B1n_E%C5%9Fitlik_ve_Demokrasi_Partisi
+Yeniden Refah Partisi,Right-wing to far-right,Millî Görüş Islamism Neo-Ottomanism Pan-Islamism Hard Euroscepticism Ultraconservatism,https://en.wikipedia.org/wiki/Yeniden_Refah_Partisi
+Zafer Partisi,Right-wing to far-right,Kemalism Anti-immigration Ultranationalism Pan-Turkism,https://en.wikipedia.org/wiki/Zafer_Partisi
+Türkiye İşçi Partisi,Left-wing to far-left,Communism Marxism–Leninism Left-wing populism Progressivism,https://en.wikipedia.org/wiki/T%C3%BCrkiye_%C4%B0%C5%9F%C3%A7i_Partisi_(2017)
+Anahtar Parti,,,

@@ -1,56 +1,193 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2023-10-08,ADR,9.27,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2024-06-09,ADR,11.76,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2024-09-30,ADR,10.7,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2025-04-24,ADR,9.3,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2025-09-29,ADR,11.6,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2023-10-08,CSV,29.22,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2024-06-09,CSV,22.91,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2024-09-30,CSV,28.9,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2025-04-24,CSV,29.1,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2025-09-29,CSV,25.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2023-10-08,DG,8.55,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
-2024-06-09,DG,11.76,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
-2024-09-30,DG,10.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
-2025-04-24,DG,10.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
-2025-09-29,DG,9.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
-2023-10-08,DK,0.27,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
-2024-06-09,DK,0.58,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
-2024-09-30,DK,0.2,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
-2025-04-24,DK,0.3,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
-2025-09-29,DK,0.5,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
-2023-10-08,DL,3.93,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
-2024-06-09,DL,3.15,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
-2024-09-30,DL,3.7,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
-2025-04-24,DL,4.8,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
-2025-09-29,DL,5.9,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
-2023-10-08,DP,18.7,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
-2024-06-09,DP,18.29,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
-2024-09-30,DP,18.9,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
-2025-04-24,DP,21.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
-2025-09-29,DP,19.7,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2020-06-24,/w/index.php?title=Democracy &action=edit&redlink=1,0.3,,,
+2020-11-24,/w/index.php?title=Democracy &action=edit&redlink=1,0.5,,,
+2021-06-09,/w/index.php?title=Democracy &action=edit&redlink=1,0.6,,,
+2021-11-11,/w/index.php?title=Democracy &action=edit&redlink=1,0.6,,,
+2024-09-30,/w/index.php?title=Liberté - Fräiheet!&action=edit&redlink=1,1.9,,,
+2025-04-24,/w/index.php?title=Liberté - Fräiheet!&action=edit&redlink=1,1.2,,,
+2025-09-29,/w/index.php?title=Liberté - Fräiheet!&action=edit&redlink=1,2.0,,,
+2016-01-20,Alternative Democratic Reform Party,5.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2016-06-20,Alternative Democratic Reform Party,6.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2016-06-20,Alternative Democratic Reform Party,6.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2016-12-20,Alternative Democratic Reform Party,3.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2017-05-20,Alternative Democratic Reform Party,3.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2017-12-20,Alternative Democratic Reform Party,4.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2018-06-20,Alternative Democratic Reform Party,5.0,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2018-10-14,Alternative Democratic Reform Party,8.28,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2020-06-24,Alternative Democratic Reform Party,8.2,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2020-11-24,Alternative Democratic Reform Party,9.6,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2021-06-09,Alternative Democratic Reform Party,7.6,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2021-11-11,Alternative Democratic Reform Party,11.3,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2022-11-14,Alternative Democratic Reform Party,7.7,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2023-06-11,Alternative Democratic Reform Party,3.22,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2023-08-16,Alternative Democratic Reform Party,6.9,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2023-10-08,Alternative Democratic Reform Party,9.27,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2023-10-08,Alternative Democratic Reform Party,9.27,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2024-06-09,Alternative Democratic Reform Party,11.76,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2024-09-30,Alternative Democratic Reform Party,10.7,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2025-04-24,Alternative Democratic Reform Party,9.3,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2025-09-29,Alternative Democratic Reform Party,11.6,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
+2016-01-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-12-20,Christian Social People's Party,28.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2017-05-20,Christian Social People's Party,29.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2017-12-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2018-06-20,Christian Social People's Party,26.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2018-10-14,Christian Social People's Party,28.31,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2020-06-24,Christian Social People's Party,27.5,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2020-11-24,Christian Social People's Party,25.7,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2021-06-09,Christian Social People's Party,24.6,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2021-11-11,Christian Social People's Party,21.6,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2022-11-14,Christian Social People's Party,23.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-06-11,Christian Social People's Party,26.06,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-08-16,Christian Social People's Party,28.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2024-06-09,Christian Social People's Party,22.91,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2024-09-30,Christian Social People's Party,28.9,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2025-04-24,Christian Social People's Party,29.1,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2025-09-29,Christian Social People's Party,25.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2020-06-24,Communist Party of Luxembourg,1.1,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2020-11-24,Communist Party of Luxembourg,0.9,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2021-06-09,Communist Party of Luxembourg,1.0,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2021-11-11,Communist Party of Luxembourg,0.8,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2022-11-14,Communist Party of Luxembourg,0.5,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2023-06-11,Communist Party of Luxembourg,0.4,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2023-08-16,Communist Party of Luxembourg,0.4,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2023-10-08,Communist Party of Luxembourg,0.64,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2023-10-08,Communist Party of Luxembourg,0.64,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2024-06-09,Communist Party of Luxembourg,0.97,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2024-09-30,Communist Party of Luxembourg,0.5,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2025-04-24,Communist Party of Luxembourg,0.3,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2025-09-29,Communist Party of Luxembourg,0.4,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
+2016-01-20,Democratic Party,8.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2016-06-20,Democratic Party,7.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2016-06-20,Democratic Party,7.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2016-12-20,Democratic Party,10.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2017-05-20,Democratic Party,9.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2017-12-20,Democratic Party,10.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2018-06-20,Democratic Party,10.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2018-10-14,Democratic Party,16.91,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2020-06-24,Democratic Party,20.6,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2020-11-24,Democratic Party,19.9,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2021-06-09,Democratic Party,19.3,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2021-11-11,Democratic Party,16.2,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2022-11-14,Democratic Party,18.4,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2023-06-11,Democratic Party,20.64,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2023-08-16,Democratic Party,17.4,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2023-10-08,Democratic Party,18.7,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2023-10-08,Democratic Party,18.7,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2024-06-09,Democratic Party,18.29,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2024-09-30,Democratic Party,18.9,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2025-04-24,Democratic Party,21.0,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2025-09-29,Democratic Party,19.7,Centre to centre-right,Liberalism Economic liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Luxembourg)
+2022-11-14,Fokus,1.5,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
+2023-06-11,Fokus,0.84,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
+2023-08-16,Fokus,1.1,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
+2023-10-08,Fokus,2.49,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
 2023-10-08,Fokus,2.49,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
 2024-06-09,Fokus,1.6,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
 2024-09-30,Fokus,1.7,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
 2025-04-24,Fokus,1.9,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
 2025-09-29,Fokus,1.9,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Fokus_(Luxembourg)
-2023-10-08,KPL,0.64,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
-2024-06-09,KPL,0.97,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
-2024-09-30,KPL,0.5,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
-2025-04-24,KPL,0.3,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
-2025-09-29,KPL,0.4,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
-2023-10-08,LSAP,18.92,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
-2024-06-09,LSAP,21.72,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
-2024-09-30,LSAP,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
-2025-04-24,LSAP,17.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
-2025-09-29,LSAP,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
-2023-10-08,PPLU,6.74,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
-2024-06-09,PPLU,4.92,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
-2024-09-30,PPLU,3.2,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
-2025-04-24,PPLU,3.5,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
-2025-09-29,PPLU,4.4,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
-2023-10-08,Volt,0.19,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
-2024-06-09,Volt,1.04,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
-2024-09-30,Volt,0.3,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
-2025-04-24,Volt,0.2,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
-2025-09-29,Volt,0.2,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2016-01-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2016-06-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2016-06-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2016-12-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2017-05-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2017-12-20,Luxembourg Socialist Workers' Party,10.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2018-06-20,Luxembourg Socialist Workers' Party,9.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2018-10-14,Luxembourg Socialist Workers' Party,17.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2020-06-24,Luxembourg Socialist Workers' Party,16.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2020-11-24,Luxembourg Socialist Workers' Party,19.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2021-06-09,Luxembourg Socialist Workers' Party,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2021-11-11,Luxembourg Socialist Workers' Party,20.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2022-11-14,Luxembourg Socialist Workers' Party,20.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2023-06-11,Luxembourg Socialist Workers' Party,21.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2023-08-16,Luxembourg Socialist Workers' Party,19.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2023-10-08,Luxembourg Socialist Workers' Party,18.92,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2023-10-08,Luxembourg Socialist Workers' Party,18.92,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2024-06-09,Luxembourg Socialist Workers' Party,21.72,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2024-09-30,Luxembourg Socialist Workers' Party,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2025-04-24,Luxembourg Socialist Workers' Party,17.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2025-09-29,Luxembourg Socialist Workers' Party,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Luxembourg_Socialist_Workers%27_Party
+2020-06-24,Pirate Party Luxembourg,4.8,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2020-11-24,Pirate Party Luxembourg,5.9,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2021-06-09,Pirate Party Luxembourg,8.0,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2021-11-11,Pirate Party Luxembourg,11.1,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2022-11-14,Pirate Party Luxembourg,9.6,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2023-06-11,Pirate Party Luxembourg,3.98,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2023-08-16,Pirate Party Luxembourg,9.9,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2023-10-08,Pirate Party Luxembourg,6.74,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2023-10-08,Pirate Party Luxembourg,6.74,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2024-06-09,Pirate Party Luxembourg,4.92,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2024-09-30,Pirate Party Luxembourg,3.2,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2025-04-24,Pirate Party Luxembourg,3.5,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2025-09-29,Pirate Party Luxembourg,4.4,Syncretic,Pirate politics Direct democracy Copyright reform Government transparency,https://en.wikipedia.org/wiki/Pirate_Party_Luxembourg
+2020-06-24,The Conservatives,0.2,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2020-11-24,The Conservatives,0.3,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2021-06-09,The Conservatives,0.2,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2021-11-11,The Conservatives,0.5,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2022-11-14,The Conservatives,0.1,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2023-06-11,The Conservatives,0.18,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2023-08-16,The Conservatives,0.1,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2023-10-08,The Conservatives,0.23,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2023-10-08,The Conservatives,0.27,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2024-06-09,The Conservatives,0.58,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2024-09-30,The Conservatives,0.2,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2025-04-24,The Conservatives,0.3,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2025-09-29,The Conservatives,0.5,Right-wing to far-right [ citation needed ],Conservatism National conservatism Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Conservatives_(Luxembourg)
+2016-01-20,The Greens,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2016-06-20,The Greens,7.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2016-06-20,The Greens,7.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2016-12-20,The Greens,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2017-05-20,The Greens,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2017-12-20,The Greens,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2018-06-20,The Greens,7.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2018-10-14,The Greens,15.12,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2020-06-24,The Greens,13.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2020-11-24,The Greens,11.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2021-06-09,The Greens,13.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2021-11-11,The Greens,12.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2022-11-14,The Greens,12.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2023-06-11,The Greens,12.69,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2023-08-16,The Greens,10.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2023-10-08,The Greens,8.55,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2023-10-08,The Greens,8.55,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2024-06-09,The Greens,11.76,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2024-09-30,The Greens,10.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2025-04-24,The Greens,10.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2025-09-29,The Greens,9.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Luxembourg)
+2016-01-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2016-06-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2016-06-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2016-12-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2017-05-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2017-12-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2018-06-20,The Left,3.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2018-10-14,The Left,5.48,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2020-06-24,The Left,7.3,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2020-11-24,The Left,5.8,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2021-06-09,The Left,7.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2021-11-11,The Left,5.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2022-11-14,The Left,5.8,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2023-06-11,The Left,3.22,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2023-08-16,The Left,5.0,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2023-10-08,The Left,3.93,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2023-10-08,The Left,3.93,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2024-06-09,The Left,3.15,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2024-09-30,The Left,3.7,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2025-04-24,The Left,4.8,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2025-09-29,The Left,5.9,Left-wing,Democratic socialism Republicanism,https://en.wikipedia.org/wiki/The_Left_(Luxembourg)
+2020-11-24,Volt Luxembourg,0.1,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2021-06-09,Volt Luxembourg,0.5,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2021-11-11,Volt Luxembourg,0.3,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2022-11-14,Volt Luxembourg,0.1,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2023-08-16,Volt Luxembourg,0.3,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2023-10-08,Volt Luxembourg,0.19,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2023-10-08,Volt Luxembourg,0.19,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2024-06-09,Volt Luxembourg,1.04,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2024-09-30,Volt Luxembourg,0.3,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2025-04-24,Volt Luxembourg,0.2,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg
+2025-09-29,Volt Luxembourg,0.2,,Pro-Europeanism European federalism,https://en.wikipedia.org/wiki/Volt_Luxembourg

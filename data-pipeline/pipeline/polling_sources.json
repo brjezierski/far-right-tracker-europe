@@ -20,7 +20,8 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Austrian_legislative_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Austrian_legislative_election"
-    ]
+    ],
+    "headers": ["Poll results"]
   },
   "Belgium": {
     "links": [
@@ -65,7 +66,7 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
     ],
-    "headers": ["Individual polls", "Percentage"]
+    "headers": ["Individual polls", "Percentage", "Polls"]
   },
   "Denmark": {
     "links": [
@@ -78,7 +79,10 @@
   },
   "Estonia": {
     "links": [
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Estonian_parliamentary_election"
+      "https://en.wikipedia.org/wiki/2015_Estonian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Estonian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Estonian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Estonian_parliamentary_election"
     ],
     "headers": ["Polling results"]
   },
@@ -159,7 +163,6 @@
   },
   "Kosovo": {
     "links": [
-      "https://en.wikipedia.org/wiki/2017_Kosovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/2019_Kosovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/2021_Kosovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/February_2025_Kosovan_parliamentary_election",
@@ -304,7 +307,8 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
-    ]
+    ],
+    "headers": ["Poll results"]
   },
   "Spain": {
     "links": [
@@ -312,9 +316,12 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_April_2019_Spanish_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2019_Spanish_general_election",
+      "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2022)",
+      "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2019%E2%80%932021)",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election"
-    ]
+    ],
+    "headers": ["Nationwide polling"]
   },
   "Sweden": {
     "links": [
@@ -333,13 +340,14 @@
   },
   "Turkey": {
     "links": [
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_June_2015_Turkish_general_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2015_Turkish_general_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Turkish_general_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Turkish_general_election",
       "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler"
     ],
-    "headers": ["Party vote"]
+    "headers": [
+      "Party vote",
+      "Ülke geneli parti anketleri",
+      "Poll results",
+      "Election poll results"
+    ]
   },
   "Ukraine": {
     "links": [
@@ -356,6 +364,6 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_United_Kingdom_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
     ],
-    "headers": ["National poll results"]
+    "headers": ["National poll results", "Poll results"]
   }
 }

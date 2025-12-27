@@ -1,89 +1,204 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2020-11-02,BDP/ PBD,1.9,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
-2020-11-02,CVP/ PDC,11.9,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
-2021-10-03,DM/ LC,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2021-12-09,DM/ LC,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2022-08-16,DM/ LC,13.4,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2022-10-07,DM/ LC,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-02-17,DM/ LC,13.5,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-03-05,DM/ LC,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-06-22,DM/ LC,14.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-07-11,DM/ LC,13.9,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-08-25,DM/ LC,14.8,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-09-20,DM/ LC,13.6,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-09-26,DM/ LC,14.1,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-10-05,DM/ LC,14.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
-2023-09-26,EDU/ UDF,1.1,Right-wing,Christian right Right-wing populism National conservatism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Federal_Democratic_Union_of_Switzerland
-2020-11-02,EVP/ PEV,2.6,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2021-10-03,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2022-10-07,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2023-03-05,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2023-06-22,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2023-08-25,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2023-09-26,EVP/ PEV,2.2,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2023-10-05,EVP/ PEV,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2020-11-02,FDP/ PLR,15.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2021-10-03,FDP/ PLR,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2021-12-09,FDP/ PLR,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2022-08-16,FDP/ PLR,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2022-10-07,FDP/ PLR,16.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-02-17,FDP/ PLR,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-03-05,FDP/ PLR,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-06-22,FDP/ PLR,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-07-11,FDP/ PLR,14.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-08-25,FDP/ PLR,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-09-20,FDP/ PLR,13.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-09-26,FDP/ PLR,14.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-10-05,FDP/ PLR,14.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2020-11-02,GLP/ PVL,9.8,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2021-10-03,GLP/ PVL,9.8,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2021-12-09,GLP/ PVL,10.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2022-08-16,GLP/ PVL,9.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2022-10-07,GLP/ PVL,9.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-02-17,GLP/ PVL,8.5,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-03-05,GLP/ PVL,8.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-06-22,GLP/ PVL,8.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-07-11,GLP/ PVL,8.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-08-25,GLP/ PVL,7.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-09-20,GLP/ PVL,7.5,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-09-26,GLP/ PVL,7.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2023-10-05,GLP/ PVL,6.8,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
-2020-11-02,GPS/ PES,12.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2021-10-03,Grüne/ Verts,13.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2021-12-09,Grüne/ Verts,11.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2022-08-16,Grüne/ Verts,11.8,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2022-10-07,Grüne/ Verts,11.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-02-17,Grüne/ Verts,11.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-03-05,Grüne/ Verts,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-06-22,Grüne/ Verts,10.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-07-11,Grüne/ Verts,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-08-25,Grüne/ Verts,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-09-20,Grüne/ Verts,10.5,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-09-26,Grüne/ Verts,10.4,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2023-10-05,Grüne/ Verts,9.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
-2020-11-02,SP/ PS,16.8,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2021-10-03,SP/ PS,15.8,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2021-12-09,SP/ PS,16.2,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2022-08-16,SP/ PS,16.2,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2022-10-07,SP/ PS,16.3,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-02-17,SP/ PS,16.9,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-03-05,SP/ PS,17.8,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-06-22,SP/ PS,17.8,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-07-11,SP/ PS,17.3,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-08-25,SP/ PS,17.3,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-09-20,SP/ PS,17.6,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-09-26,SP/ PS,17.8,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2023-10-05,SP/ PS,18.3,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
-2020-11-02,SVP/ UDC,24.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2021-10-03,SVP/ UDC,26.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2021-12-09,SVP/ UDC,27.0,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2022-08-16,SVP/ UDC,25.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2022-10-07,SVP/ UDC,26.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-02-17,SVP/ UDC,27.5,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-03-05,SVP/ UDC,26.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-06-22,SVP/ UDC,27.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-07-11,SVP/ UDC,27.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-08-25,SVP/ UDC,27.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-09-20,SVP/ UDC,28.7,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-09-26,SVP/ UDC,28.8,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
-2023-10-05,SVP/ UDC,28.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2016-05-04,Christian Democratic People's Party of Switzerland,10.6,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2016-10-08,Christian Democratic People's Party of Switzerland,10.5,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2017-03-23,Christian Democratic People's Party of Switzerland,10.7,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2017-10-02,Christian Democratic People's Party of Switzerland,10.9,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2018-01-05,Christian Democratic People's Party of Switzerland,9.1,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2018-06-22,Christian Democratic People's Party of Switzerland,10.0,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2018-09-18,Christian Democratic People's Party of Switzerland,10.1,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2018-09-19,Christian Democratic People's Party of Switzerland,11.0,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2018-09-25,Christian Democratic People's Party of Switzerland,9.9,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-02-07,Christian Democratic People's Party of Switzerland,11.3,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-02-20,Christian Democratic People's Party of Switzerland,9.9,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-05-23,Christian Democratic People's Party of Switzerland,10.3,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-05-27,Christian Democratic People's Party of Switzerland,10.6,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-08-25,Christian Democratic People's Party of Switzerland,10.2,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-09-24,Christian Democratic People's Party of Switzerland,10.4,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-10-02,Christian Democratic People's Party of Switzerland,10.6,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2019-10-04,Christian Democratic People's Party of Switzerland,10.5,Centre to centre-right,Christian democracy Social conservatism Conservatism Social market economy,https://en.wikipedia.org/wiki/Christian_Democratic_People%27s_Party_of_Switzerland
+2016-05-04,Conservative Democratic Party of Switzerland,4.6,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2016-10-08,Conservative Democratic Party of Switzerland,3.5,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2017-03-23,Conservative Democratic Party of Switzerland,3.0,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2017-10-02,Conservative Democratic Party of Switzerland,3.4,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-01-05,Conservative Democratic Party of Switzerland,3.7,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-06-22,Conservative Democratic Party of Switzerland,4.7,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-09-18,Conservative Democratic Party of Switzerland,3.2,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-09-19,Conservative Democratic Party of Switzerland,2.0,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-09-25,Conservative Democratic Party of Switzerland,4.0,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-02-07,Conservative Democratic Party of Switzerland,3.3,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-02-20,Conservative Democratic Party of Switzerland,3.9,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-05-23,Conservative Democratic Party of Switzerland,3.3,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-05-27,Conservative Democratic Party of Switzerland,2.9,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-08-25,Conservative Democratic Party of Switzerland,2.6,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-09-24,Conservative Democratic Party of Switzerland,3.2,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-10-02,Conservative Democratic Party of Switzerland,2.8,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2019-10-04,Conservative Democratic Party of Switzerland,3.1,Centre to centre-right,Conservatism,https://en.wikipedia.org/wiki/Conservative_Democratic_Party_of_Switzerland
+2018-09-18,Evangelical People's Party of Switzerland,2.0,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2018-09-19,Evangelical People's Party of Switzerland,1.9,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2019-02-07,Evangelical People's Party of Switzerland,1.7,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2019-05-27,Evangelical People's Party of Switzerland,1.8,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2019-08-25,Evangelical People's Party of Switzerland,1.6,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2019-10-02,Evangelical People's Party of Switzerland,1.8,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2022-10-07,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2023-03-05,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2023-06-22,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2023-08-25,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2023-09-26,Evangelical People's Party of Switzerland,2.2,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2023-10-05,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
+2016-05-04,FDP.The Liberals,16.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2016-10-08,FDP.The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2017-03-23,FDP.The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2017-10-02,FDP.The Liberals,17.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-01-05,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-06-22,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-18,FDP.The Liberals,17.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-19,FDP.The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-25,FDP.The Liberals,17.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-02-07,FDP.The Liberals,17.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-02-20,FDP.The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-05-23,FDP.The Liberals,15.5,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-05-27,FDP.The Liberals,16.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-08-25,FDP.The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-09-24,FDP.The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-10-02,FDP.The Liberals,15.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-10-04,FDP.The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2021-10-03,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2021-12-09,FDP.The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2022-08-16,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2022-10-07,FDP.The Liberals,16.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-02-17,FDP.The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-03-05,FDP.The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-06-22,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-07-11,FDP.The Liberals,14.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-08-25,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-09-20,FDP.The Liberals,13.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-09-26,FDP.The Liberals,14.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-10-05,FDP.The Liberals,14.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2016-05-04,Green Liberal Party of Switzerland,5.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2016-10-08,Green Liberal Party of Switzerland,5.6,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2017-03-23,Green Liberal Party of Switzerland,4.9,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2017-10-02,Green Liberal Party of Switzerland,5.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2018-01-05,Green Liberal Party of Switzerland,6.1,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2018-06-22,Green Liberal Party of Switzerland,5.7,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2018-09-18,Green Liberal Party of Switzerland,5.7,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2018-09-19,Green Liberal Party of Switzerland,5.9,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2018-09-25,Green Liberal Party of Switzerland,5.7,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-02-07,Green Liberal Party of Switzerland,6.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-02-20,Green Liberal Party of Switzerland,6.7,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-05-23,Green Liberal Party of Switzerland,6.9,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-05-27,Green Liberal Party of Switzerland,6.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-08-25,Green Liberal Party of Switzerland,6.9,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-09-24,Green Liberal Party of Switzerland,7.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-10-02,Green Liberal Party of Switzerland,7.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2019-10-04,Green Liberal Party of Switzerland,7.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2021-10-03,Green Liberal Party of Switzerland,9.8,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2021-12-09,Green Liberal Party of Switzerland,10.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2022-08-16,Green Liberal Party of Switzerland,9.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2022-10-07,Green Liberal Party of Switzerland,9.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-02-17,Green Liberal Party of Switzerland,8.5,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-03-05,Green Liberal Party of Switzerland,8.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-06-22,Green Liberal Party of Switzerland,8.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-07-11,Green Liberal Party of Switzerland,8.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-08-25,Green Liberal Party of Switzerland,7.3,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-09-20,Green Liberal Party of Switzerland,7.5,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-09-26,Green Liberal Party of Switzerland,7.2,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2023-10-05,Green Liberal Party of Switzerland,6.8,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
+2016-05-04,Green Party of Switzerland,6.6,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2016-10-08,Green Party of Switzerland,7.6,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2017-03-23,Green Party of Switzerland,8.8,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2017-10-02,Green Party of Switzerland,8.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2018-01-05,Green Party of Switzerland,7.4,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2018-06-22,Green Party of Switzerland,7.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2018-09-18,Green Party of Switzerland,8.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2018-09-19,Green Party of Switzerland,9.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2018-09-25,Green Party of Switzerland,7.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-02-07,Green Party of Switzerland,9.5,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-02-20,Green Party of Switzerland,9.6,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-05-23,Green Party of Switzerland,9.9,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-05-27,Green Party of Switzerland,10.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-08-25,Green Party of Switzerland,10.5,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-09-24,Green Party of Switzerland,10.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-10-02,Green Party of Switzerland,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2019-10-04,Green Party of Switzerland,10.5,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2021-10-03,Green Party of Switzerland,13.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2021-12-09,Green Party of Switzerland,11.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2022-08-16,Green Party of Switzerland,11.8,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2022-10-07,Green Party of Switzerland,11.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-02-17,Green Party of Switzerland,11.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-03-05,Green Party of Switzerland,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-06-22,Green Party of Switzerland,10.2,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-07-11,Green Party of Switzerland,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-08-25,Green Party of Switzerland,10.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-09-20,Green Party of Switzerland,10.5,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-09-26,Green Party of Switzerland,10.4,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2023-10-05,Green Party of Switzerland,9.7,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Green_Party_of_Switzerland
+2016-05-04,Social Democratic Party of Switzerland,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2016-10-08,Social Democratic Party of Switzerland,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2017-03-23,Social Democratic Party of Switzerland,20.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2017-10-02,Social Democratic Party of Switzerland,17.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2018-01-05,Social Democratic Party of Switzerland,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2018-06-22,Social Democratic Party of Switzerland,18.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2018-09-18,Social Democratic Party of Switzerland,19.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2018-09-19,Social Democratic Party of Switzerland,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2018-09-25,Social Democratic Party of Switzerland,17.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-02-07,Social Democratic Party of Switzerland,17.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-02-20,Social Democratic Party of Switzerland,18.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-05-23,Social Democratic Party of Switzerland,17.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-05-27,Social Democratic Party of Switzerland,19.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-08-25,Social Democratic Party of Switzerland,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-09-24,Social Democratic Party of Switzerland,18.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-10-02,Social Democratic Party of Switzerland,18.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2019-10-04,Social Democratic Party of Switzerland,18.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2021-10-03,Social Democratic Party of Switzerland,15.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2021-12-09,Social Democratic Party of Switzerland,16.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2022-08-16,Social Democratic Party of Switzerland,16.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2022-10-07,Social Democratic Party of Switzerland,16.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-02-17,Social Democratic Party of Switzerland,16.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-03-05,Social Democratic Party of Switzerland,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-06-22,Social Democratic Party of Switzerland,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-07-11,Social Democratic Party of Switzerland,17.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-08-25,Social Democratic Party of Switzerland,17.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-09-20,Social Democratic Party of Switzerland,17.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-09-26,Social Democratic Party of Switzerland,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2023-10-05,Social Democratic Party of Switzerland,18.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Switzerland
+2016-05-04,Swiss People's Party,30.8,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2016-10-08,Swiss People's Party,29.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2017-03-23,Swiss People's Party,28.3,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2017-10-02,Swiss People's Party,28.7,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2018-01-05,Swiss People's Party,30.8,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2018-06-22,Swiss People's Party,29.2,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2018-09-18,Swiss People's Party,27.4,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2018-09-19,Swiss People's Party,28.0,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2018-09-25,Swiss People's Party,29.7,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-02-07,Swiss People's Party,27.0,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-02-20,Swiss People's Party,29.2,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-05-23,Swiss People's Party,28.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-05-27,Swiss People's Party,26.5,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-08-25,Swiss People's Party,26.8,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-09-24,Swiss People's Party,27.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-10-02,Swiss People's Party,27.3,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2019-10-04,Swiss People's Party,26.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2021-10-03,Swiss People's Party,26.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2021-12-09,Swiss People's Party,27.0,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2022-08-16,Swiss People's Party,25.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2022-10-07,Swiss People's Party,26.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-02-17,Swiss People's Party,27.5,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-03-05,Swiss People's Party,26.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-06-22,Swiss People's Party,27.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-07-11,Swiss People's Party,27.9,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-08-25,Swiss People's Party,27.6,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-09-20,Swiss People's Party,28.7,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-09-26,Swiss People's Party,28.8,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2023-10-05,Swiss People's Party,28.1,Right-wing,National conservatism Economic liberalism Right-wing populism,https://en.wikipedia.org/wiki/Swiss_People%27s_Party
+2021-10-03,The Centre,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2021-12-09,The Centre,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2022-08-16,The Centre,13.4,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2022-10-07,The Centre,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-02-17,The Centre,13.5,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-03-05,The Centre,13.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-06-22,The Centre,14.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-07-11,The Centre,13.9,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-08-25,The Centre,14.8,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-09-20,The Centre,13.6,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-09-26,The Centre,14.1,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2023-10-05,The Centre,14.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)

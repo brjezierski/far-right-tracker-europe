@@ -2,10 +2,10 @@
   "country": "Poland",
   "iso2": "PL",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:20:54Z"
+  "updatedAt": "2025-12-23T22:49:42Z",
+  "latestTotal": 48.75333333333333
 }

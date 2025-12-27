@@ -2,11 +2,96 @@
   "country": "Cyprus",
   "iso2": "CY",
   "parties": [
-    "ELAM"
+    "ELAM",
+    "Solidarity Movement"
   ],
-  "latestSupport": 16.7,
+  "latestSupport": 15.199999999999998,
   "seriesByParty": {
     "ELAM": [
+      {
+        "date": "2020-10-23",
+        "value": 6.2
+      },
+      {
+        "date": "2021-01-25",
+        "value": 4.8
+      },
+      {
+        "date": "2021-02-06",
+        "value": 6.7
+      },
+      {
+        "date": "2021-02-19",
+        "value": 5.7
+      },
+      {
+        "date": "2021-03-02",
+        "value": 9.2
+      },
+      {
+        "date": "2021-03-12",
+        "value": 5.8
+      },
+      {
+        "date": "2021-03-18",
+        "value": 4.5
+      },
+      {
+        "date": "2021-03-20",
+        "value": 6.2
+      },
+      {
+        "date": "2021-04-04",
+        "value": 6.2
+      },
+      {
+        "date": "2021-04-09",
+        "value": 7.15
+      },
+      {
+        "date": "2021-04-16",
+        "value": 6.35
+      },
+      {
+        "date": "2021-04-17",
+        "value": 6.2
+      },
+      {
+        "date": "2021-04-23",
+        "value": 6.5
+      },
+      {
+        "date": "2021-05-07",
+        "value": 7.0
+      },
+      {
+        "date": "2021-05-12",
+        "value": 5.55
+      },
+      {
+        "date": "2021-05-13",
+        "value": 8.5
+      },
+      {
+        "date": "2021-05-14",
+        "value": 6.8
+      },
+      {
+        "date": "2021-05-15",
+        "value": 5.5
+      },
+      {
+        "date": "2021-05-20",
+        "value": 6.7
+      },
+      {
+        "date": "2021-05-22",
+        "value": 3.7
+      },
+      {
+        "date": "2021-05-26",
+        "value": 8.3
+      },
       {
         "date": "2023-09-22",
         "value": 17.4
@@ -66,14 +151,107 @@
       {
         "date": "2025-09-22",
         "value": 15.9
+      },
+      {
+        "date": "2025-10-17",
+        "value": 15.6
+      },
+      {
+        "date": "2025-11-10",
+        "value": 16.2
+      },
+      {
+        "date": "2025-11-13",
+        "value": 13.0
+      },
+      {
+        "date": "2025-12-03",
+        "value": 16.4
+      }
+    ],
+    "Solidarity Movement": [
+      {
+        "date": "2020-10-23",
+        "value": 1.8
+      },
+      {
+        "date": "2021-01-25",
+        "value": 4.8
+      },
+      {
+        "date": "2021-02-06",
+        "value": 0.9
+      },
+      {
+        "date": "2021-02-19",
+        "value": 2.0
+      },
+      {
+        "date": "2021-03-02",
+        "value": 1.6
+      },
+      {
+        "date": "2021-03-12",
+        "value": 1.9
+      },
+      {
+        "date": "2021-03-18",
+        "value": 1.5
+      },
+      {
+        "date": "2021-03-20",
+        "value": 2.1
+      },
+      {
+        "date": "2021-04-04",
+        "value": 0.6
+      },
+      {
+        "date": "2021-04-09",
+        "value": 1.1
+      },
+      {
+        "date": "2021-04-16",
+        "value": 1.6
+      },
+      {
+        "date": "2021-04-17",
+        "value": 2.9
+      },
+      {
+        "date": "2021-04-23",
+        "value": 0.9
+      },
+      {
+        "date": "2021-05-07",
+        "value": 3.0
+      },
+      {
+        "date": "2021-05-12",
+        "value": 1.75
+      },
+      {
+        "date": "2021-05-13",
+        "value": 1.4
+      },
+      {
+        "date": "2021-05-14",
+        "value": 1.5
+      },
+      {
+        "date": "2021-05-15",
+        "value": 1.5
+      },
+      {
+        "date": "2021-05-22",
+        "value": 5.2
       }
     ]
   },
-  "latestUpdate": "2025-12-05T23:19:26Z",
+  "latestUpdate": "2025-12-23T22:42:36Z",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
-    }
+    "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
+    "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",
+    "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
   ]
 }

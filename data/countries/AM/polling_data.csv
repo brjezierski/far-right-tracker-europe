@@ -1,14 +1,4 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2019-05-09,ARF,1.6,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2019-05-31,ARF,4.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2019-10-13,ARF,3.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2019-12-01,ARF,2.5,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2020-06-27,ARF,1.8,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2021-02-16,ARF,1.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2021-02-17,ARF,2.2,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2021-03-29,ARF,2.1,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2021-04-27,ARF,1.1,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-2021-05-04,ARF,1.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Left-wing populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
 2021-03-29,Armenia Alliance,5.9,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-04-27,Armenia Alliance,8.1,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-05-21,Armenia Alliance,14.3,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
@@ -17,6 +7,33 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2021-06-10,Armenia Alliance,24.1,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-06-16,Armenia Alliance,12.0,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-06-18,Armenia Alliance,28.7,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
+2017-03-02,Armenian Communist Party,1.0,Left-wing to far-left,Communism Marxism–Leninism Russophilia Euroscepticism Soviet patriotism,https://en.wikipedia.org/wiki/Armenian_Communist_Party
+2017-03-19,Armenian Communist Party,1.2,Left-wing to far-left,Communism Marxism–Leninism Russophilia Euroscepticism Soviet patriotism,https://en.wikipedia.org/wiki/Armenian_Communist_Party
+2017-03-27,Armenian Communist Party,3.0,Left-wing to far-left,Communism Marxism–Leninism Russophilia Euroscepticism Soviet patriotism,https://en.wikipedia.org/wiki/Armenian_Communist_Party
+2017-03-02,Armenian National Congress,2.6,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_National_Congress
+2017-03-19,Armenian National Congress,2.9,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_National_Congress
+2017-03-27,Armenian National Congress,4.0,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_National_Congress
+2017-03-02,Armenian Revolutionary Federation,3.9,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2017-03-19,Armenian Revolutionary Federation,4.8,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2017-03-27,Armenian Revolutionary Federation,7.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-08-04,Armenian Revolutionary Federation,1.2,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-08-15,Armenian Revolutionary Federation,2.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-08-21,Armenian Revolutionary Federation,1.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-08-29,Armenian Revolutionary Federation,2.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-12-09,Armenian Revolutionary Federation,1.9,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2019-05-09,Armenian Revolutionary Federation,1.6,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2019-05-31,Armenian Revolutionary Federation,4.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2019-10-13,Armenian Revolutionary Federation,3.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2019-12-01,Armenian Revolutionary Federation,2.5,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2020-06-27,Armenian Revolutionary Federation,1.8,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2021-02-16,Armenian Revolutionary Federation,1.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2021-02-17,Armenian Revolutionary Federation,2.2,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2021-03-29,Armenian Revolutionary Federation,2.1,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2021-04-27,Armenian Revolutionary Federation,1.1,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2021-05-04,Armenian Revolutionary Federation,1.0,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
+2018-08-04,Bright Armenia,3.8,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
+2018-08-21,Bright Armenia,1.2,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
+2018-08-29,Bright Armenia,10.0,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2018-12-09,Bright Armenia,6.37,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2019-05-09,Bright Armenia,4.6,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2019-05-31,Bright Armenia,4.0,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
@@ -33,81 +50,111 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2021-06-04,Bright Armenia,2.9,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2021-06-10,Bright Armenia,3.1,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2021-06-18,Bright Armenia,5.2,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
-2018-12-09,FD,2.0,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
-2019-10-13,FD,1.0,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
-2021-05-04,FD,1.0,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
-2018-12-09,I'm honored / RPA,4.7,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2019-05-09,I'm honored / RPA,1.6,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2019-05-31,I'm honored / RPA,5.0,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2019-10-13,I'm honored / RPA,4.0,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2019-12-01,I'm honored / RPA,1.5,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2020-06-27,I'm honored / RPA,1.4,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-02-16,I'm honored / RPA,1.0,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-02-17,I'm honored / RPA,2.2,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-03-29,I'm honored / RPA,2.4,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-04-27,I'm honored / RPA,1.8,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-05-04,I'm honored / RPA,1.0,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-05-21,I'm honored / RPA,3.1,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-05-28,I'm honored / RPA,2.7,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-04,I'm honored / RPA,3.9,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-10,I'm honored / RPA,7.4,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-16,I'm honored / RPA,1.0,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-18,I'm honored / RPA,10.8,Centre-right to right-wing,National conservatism Armenian nationalism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2018-12-09,My Step / CC,70.42,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2019-05-09,My Step / CC,60.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2019-05-31,My Step / CC,59.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2019-10-13,My Step / CC,55.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2019-12-01,My Step / CC,61.3,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2020-06-27,My Step / CC,55.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-02-16,My Step / CC,33.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-02-17,My Step / CC,33.1,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-03-29,My Step / CC,31.7,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-04-27,My Step / CC,27.2,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-05-04,My Step / CC,26.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-05-21,My Step / CC,24.8,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-05-28,My Step / CC,22.9,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-04,My Step / CC,22.4,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-10,My Step / CC,23.8,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-16,My Step / CC,24.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-18,My Step / CC,25.2,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2019-05-09,NDP / ST,1.21,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2019-05-31,NDP / ST,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2019-12-01,NDP / ST,1.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2020-06-27,NDP / ST,0.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-02-16,NDP / ST,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-02-17,NDP / ST,0.4,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-03-29,NDP / ST,0.5,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-04-27,NDP / ST,1.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-05-04,NDP / ST,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-05-21,NDP / ST,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-05-28,NDP / ST,1.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-04,NDP / ST,1.5,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-10,NDP / ST,0.8,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-16,NDP / ST,2.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-18,NDP / ST,0.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2018-12-09,PAP,8.26,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2019-05-09,PAP,11.9,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2019-05-31,PAP,12.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2019-10-13,PAP,19.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2019-12-01,PAP,14.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2020-06-27,PAP,6.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-02-16,PAP,3.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-02-17,PAP,4.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-03-29,PAP,4.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-05-04,PAP,1.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-05-21,PAP,4.1,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-05-28,PAP,3.8,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-04,PAP,4.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-10,PAP,3.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-16,PAP,2.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-18,PAP,5.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2019-10-13,Republic,1.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-02-17,Republic,0.7,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-03-29,Republic,0.4,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-05-04,Republic,1.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-05-21,Republic,2.5,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-05-28,Republic,2.8,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-04,Republic,2.1,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-10,Republic,2.3,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-16,Republic,2.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-18,Republic,2.6,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2017-03-02,Free Democrats,3.4,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
+2017-03-19,Free Democrats,4.4,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
+2017-03-27,Free Democrats,3.0,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
+2021-02-17,Hanrapetutyun Party,0.7,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-03-29,Hanrapetutyun Party,0.4,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-05-04,Hanrapetutyun Party,1.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-05-21,Hanrapetutyun Party,2.5,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-05-28,Hanrapetutyun Party,2.8,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-06-04,Hanrapetutyun Party,2.1,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-06-10,Hanrapetutyun Party,2.3,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-06-16,Hanrapetutyun Party,2.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2021-06-18,Hanrapetutyun Party,2.6,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
+2018-12-09,I Have Honor Alliance,4.7,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2019-05-09,I Have Honor Alliance,1.6,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2019-05-31,I Have Honor Alliance,5.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2019-10-13,I Have Honor Alliance,4.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2019-12-01,I Have Honor Alliance,1.5,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2020-06-27,I Have Honor Alliance,1.4,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-02-16,I Have Honor Alliance,1.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-02-17,I Have Honor Alliance,2.2,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-03-29,I Have Honor Alliance,2.4,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-04-27,I Have Honor Alliance,1.8,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-05-04,I Have Honor Alliance,1.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-05-21,I Have Honor Alliance,3.1,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-05-28,I Have Honor Alliance,2.7,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-06-04,I Have Honor Alliance,3.9,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-06-10,I Have Honor Alliance,7.4,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-06-16,I Have Honor Alliance,1.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2021-06-18,I Have Honor Alliance,10.8,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
+2018-08-04,My Step Alliance,69.4,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2018-08-21,My Step Alliance,68.3,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2018-08-29,My Step Alliance,67.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2018-12-09,My Step Alliance,70.42,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2019-05-09,My Step Alliance,60.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2019-05-31,My Step Alliance,59.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2019-10-13,My Step Alliance,55.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2019-12-01,My Step Alliance,61.3,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2020-06-27,My Step Alliance,55.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-02-16,My Step Alliance,33.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-02-17,My Step Alliance,33.1,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-03-29,My Step Alliance,31.7,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-04-27,My Step Alliance,27.2,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-05-04,My Step Alliance,26.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-05-21,My Step Alliance,24.8,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-05-28,My Step Alliance,22.9,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-06-04,My Step Alliance,22.4,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-06-10,My Step Alliance,23.8,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-06-16,My Step Alliance,24.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2021-06-18,My Step Alliance,25.2,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
+2019-05-09,National Democratic Alliance,1.21,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2019-05-31,National Democratic Alliance,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2019-12-01,National Democratic Alliance,1.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2020-06-27,National Democratic Alliance,0.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-02-16,National Democratic Alliance,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-02-17,National Democratic Alliance,0.4,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-03-29,National Democratic Alliance,0.5,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-04-27,National Democratic Alliance,1.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-05-04,National Democratic Alliance,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-05-21,National Democratic Alliance,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-05-28,National Democratic Alliance,1.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-06-04,National Democratic Alliance,1.5,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-06-10,National Democratic Alliance,0.8,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-06-16,National Democratic Alliance,2.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2021-06-18,National Democratic Alliance,0.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
+2017-03-02,ORO Alliance,1.8,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
+2017-03-19,ORO Alliance,2.5,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
+2017-03-27,ORO Alliance,4.0,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
+2017-03-02,Orinats Yerkir,2.7,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_Renaissance_(party)
+2017-03-19,Orinats Yerkir,3.4,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_Renaissance_(party)
+2017-03-27,Orinats Yerkir,5.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_Renaissance_(party)
+2018-08-04,Prosperous Armenia,5.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2018-08-15,Prosperous Armenia,13.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2018-08-21,Prosperous Armenia,6.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2018-08-29,Prosperous Armenia,9.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2018-12-09,Prosperous Armenia,3.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2018-12-09,Prosperous Armenia,8.26,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2019-05-09,Prosperous Armenia,11.9,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2019-05-31,Prosperous Armenia,12.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2019-10-13,Prosperous Armenia,19.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2019-12-01,Prosperous Armenia,14.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2020-06-27,Prosperous Armenia,6.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-02-16,Prosperous Armenia,3.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-02-17,Prosperous Armenia,4.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-03-29,Prosperous Armenia,4.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-05-04,Prosperous Armenia,1.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-05-21,Prosperous Armenia,4.1,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-05-28,Prosperous Armenia,3.8,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-06-04,Prosperous Armenia,4.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-06-10,Prosperous Armenia,3.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-06-16,Prosperous Armenia,2.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2021-06-18,Prosperous Armenia,5.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
+2017-03-02,Republican Party of Armenia,22.8,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2017-03-19,Republican Party of Armenia,29.4,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2017-03-27,Republican Party of Armenia,30.0,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-08-04,Republican Party of Armenia,1.3,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-08-15,Republican Party of Armenia,4.0,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-08-21,Republican Party of Armenia,1.5,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-08-29,Republican Party of Armenia,2.0,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-12-09,Republican Party of Armenia,3.8,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
+2018-08-04,Sasna Tsrer Pan-Armenian Party,1.4,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
+2018-08-21,Sasna Tsrer Pan-Armenian Party,0.9,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
+2018-08-29,Sasna Tsrer Pan-Armenian Party,3.0,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
+2017-03-02,Tsarukyan Alliance,26.4,,Liberalism,https://en.wikipedia.org/wiki/Tsarukyan_Alliance
+2017-03-19,Tsarukyan Alliance,28.2,,Liberalism,https://en.wikipedia.org/wiki/Tsarukyan_Alliance
+2017-03-27,Tsarukyan Alliance,29.0,,Liberalism,https://en.wikipedia.org/wiki/Tsarukyan_Alliance
+2017-03-02,Way Out Alliance,4.3,Centre,Liberalism Pro-Europeanism Anti- EAEU Anti-Russian sentiment Armenian civic nationalism,https://en.wikipedia.org/wiki/Way_Out_Alliance
+2017-03-19,Way Out Alliance,6.1,Centre,Liberalism Pro-Europeanism Anti- EAEU Anti-Russian sentiment Armenian civic nationalism,https://en.wikipedia.org/wiki/Way_Out_Alliance
+2017-03-27,Way Out Alliance,9.0,Centre,Liberalism Pro-Europeanism Anti- EAEU Anti-Russian sentiment Armenian civic nationalism,https://en.wikipedia.org/wiki/Way_Out_Alliance

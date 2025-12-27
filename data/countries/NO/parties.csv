@@ -1,11 +1,12 @@
 party,political_position,ideology,wikipedia_url
-R,Left-wing to far-left,Communism Anti-capitalism Democratic socialism Marxism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Red_Party_(Norway)
-SV,Left-wing,Socialism Eco-socialism Republicanism ( Norwegian ) Euroscepticism,https://en.wikipedia.org/wiki/Socialist_Left_Party_(Norway)
-MDG,Centre-left,Green politics Pro-Europeanism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Green_Party_(Norway)
-Ap,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Norway)
-Sp,Centre,Agrarianism ( Nordic ) Economic nationalism Euroscepticism,https://en.wikipedia.org/wiki/Centre_Party_(Norway)
-V,Centre to centre-right,Liberalism ( Norwegian ) Social liberalism Green liberalism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Liberal_Party_(Norway)
-KrF,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Party_(Norway)
-H,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Conservative_Party_(Norway)
-FrP,Right-wing to far-right,National conservatism Right-libertarianism Right-wing populism Anti-immigration,https://en.wikipedia.org/wiki/Progress_Party_(Norway)
-INP,Right-wing,Populism,https://en.wikipedia.org/wiki/Industry_and_Business_Party
+Red Party,Left-wing to far-left,Communism Anti-capitalism Democratic socialism Marxism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Red_Party_(Norway)
+Socialist Left Party,Left-wing,Socialism Eco-socialism Republicanism ( Norwegian ) Euroscepticism,https://en.wikipedia.org/wiki/Socialist_Left_Party_(Norway)
+Green Party,Centre-left,Green politics Pro-Europeanism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Green_Party_(Norway)
+Labour Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Norway)
+Centre Party,Centre,Agrarianism ( Nordic ) Economic nationalism Euroscepticism,https://en.wikipedia.org/wiki/Centre_Party_(Norway)
+Liberal Party,Centre to centre-right,Liberalism ( Norwegian ) Social liberalism Green liberalism Republicanism ( Norwegian ),https://en.wikipedia.org/wiki/Liberal_Party_(Norway)
+Christian Democratic Party,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Party_(Norway)
+Conservative Party,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Conservative_Party_(Norway)
+Progress Party,Right-wing to far-right,Anti-immigration National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/Progress_Party_(Norway)
+Patient Focus,,Single-issue politics Regionalism,https://en.wikipedia.org/wiki/Patient_Focus_(Norway)
+Industry and Business Party,Right-wing,Populism,https://en.wikipedia.org/wiki/Industry_and_Business_Party

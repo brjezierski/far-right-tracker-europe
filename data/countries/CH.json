@@ -2,21 +2,78 @@
   "country": "Switzerland",
   "iso2": "CH",
   "parties": [
-    "EDU/ UDF",
-    "SVP/ UDC"
+    "Swiss People's Party"
   ],
   "latestSupport": 28.900000000000002,
   "seriesByParty": {
-    "EDU/ UDF": [
+    "Swiss People's Party": [
       {
-        "date": "2023-09-26",
-        "value": 1.1
-      }
-    ],
-    "SVP/ UDC": [
+        "date": "2016-05-04",
+        "value": 30.8
+      },
       {
-        "date": "2020-11-02",
-        "value": 24.1
+        "date": "2016-10-08",
+        "value": 29.9
+      },
+      {
+        "date": "2017-03-23",
+        "value": 28.3
+      },
+      {
+        "date": "2017-10-02",
+        "value": 28.7
+      },
+      {
+        "date": "2018-01-05",
+        "value": 30.8
+      },
+      {
+        "date": "2018-06-22",
+        "value": 29.2
+      },
+      {
+        "date": "2018-09-18",
+        "value": 27.4
+      },
+      {
+        "date": "2018-09-19",
+        "value": 28.0
+      },
+      {
+        "date": "2018-09-25",
+        "value": 29.7
+      },
+      {
+        "date": "2019-02-07",
+        "value": 27.0
+      },
+      {
+        "date": "2019-02-20",
+        "value": 29.2
+      },
+      {
+        "date": "2019-05-23",
+        "value": 28.9
+      },
+      {
+        "date": "2019-05-27",
+        "value": 26.5
+      },
+      {
+        "date": "2019-08-25",
+        "value": 26.8
+      },
+      {
+        "date": "2019-09-24",
+        "value": 27.9
+      },
+      {
+        "date": "2019-10-02",
+        "value": 27.3
+      },
+      {
+        "date": "2019-10-04",
+        "value": 26.9
       },
       {
         "date": "2021-10-03",
@@ -68,11 +125,9 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-05T23:21:28Z",
+  "latestUpdate": "2025-12-23T22:52:29Z",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.m.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
-    }
+    "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
   ]
 }

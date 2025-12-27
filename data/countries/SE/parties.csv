@@ -1,9 +1,10 @@
 party,political_position,ideology,wikipedia_url
-V,Left-wing,Socialism Eco-socialism Euroscepticism,https://en.wikipedia.org/wiki/Left_Party_(Sweden)
-S,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party
-MP,Centre-left,Green politics Ecofeminism Environmentalism,https://en.wikipedia.org/wiki/Green_Party_(Sweden)
-C,Centre to centre-right,Liberalism ( Swedish ) Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Centre_Party_(Sweden)
-L,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/Liberals_(Sweden)
-M,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Moderate_Party
-KD,Centre-right to right-wing,Christian democracy Conservatism ( Swedish ) Social conservatism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Christian_Democrats_(Sweden)
-SD,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Sweden_Democrats
+Swedish Social Democratic Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party
+Moderate Party,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Moderate_Party
+Sweden Democrats,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Sweden_Democrats
+Green Party,Centre-left,Green politics Ecofeminism Environmentalism,https://en.wikipedia.org/wiki/Green_Party_(Sweden)
+Centre Party,Centre to centre-right,Liberalism ( Swedish ) Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Centre_Party_(Sweden)
+Left Party,Left-wing,Socialism Eco-socialism Euroscepticism,https://en.wikipedia.org/wiki/Left_Party_(Sweden)
+Liberals,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/Liberals_(Sweden)
+Christian Democrats,Centre-right to right-wing,Christian democracy Conservatism ( Swedish ) Social conservatism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Christian_Democrats_(Sweden)
+Feminist Initiative,Left-wing,Feminism Equity feminism,https://en.wikipedia.org/wiki/Feminist_Initiative_(Sweden)

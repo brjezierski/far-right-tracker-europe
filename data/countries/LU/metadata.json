@@ -2,10 +2,10 @@
   "country": "Luxembourg",
   "iso2": "LU",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
-    }
+    "https://en.wikipedia.org/wiki/2018_Luxembourg_general_election",
+    "https://en.wikipedia.org/wiki/2023_Luxembourg_general_election",
+    "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
   ],
-  "updatedAt": "2025-12-05T23:20:26Z"
+  "updatedAt": "2025-12-23T22:47:36Z",
+  "latestTotal": 10.866666666666667
 }

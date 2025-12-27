@@ -2,10 +2,10 @@
   "country": "Cyprus",
   "iso2": "CY",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
-    }
+    "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
+    "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",
+    "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
   ],
-  "updatedAt": "2025-12-05T23:19:26Z"
+  "updatedAt": "2025-12-23T22:42:36Z",
+  "latestTotal": 15.199999999999998
 }

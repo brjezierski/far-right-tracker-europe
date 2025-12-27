@@ -2,10 +2,11 @@
   "country": "Montenegro",
   "iso2": "ME",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/2016_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2023_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:20:37Z"
+  "updatedAt": "2025-12-23T22:48:28Z",
+  "latestTotal": 20.5
 }

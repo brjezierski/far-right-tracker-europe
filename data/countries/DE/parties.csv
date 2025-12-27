@@ -1,8 +1,13 @@
 party,political_position,ideology,wikipedia_url
-Union,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
-AfD,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
-SPD,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
-Grüne,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
-Linke,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
-BSW,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
-FDP,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
+CDU/CSU,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
+Social Democratic Party of Germany,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
+The Left,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
+Alliance '90/The Greens,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_%2790/The_Greens
+Free Democratic Party,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
+Alternative for Germany,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
+Alliance 90/The Greens,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
+Free Voters,Centre-right,Regionalism Liberal conservatism,https://en.wikipedia.org/wiki/Free_Voters
+Christian Democratic Union of Germany,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany
+Christian Social Union in Bavaria,Centre-right,Christian democracy Conservatism ( German ) Regionalism,https://en.wikipedia.org/wiki/Christian_Social_Union_in_Bavaria
+Sahra Wagenknecht Alliance,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
+Boris Palmer,,,

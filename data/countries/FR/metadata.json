@@ -2,10 +2,10 @@
   "country": "France",
   "iso2": "FR",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_French_legislative_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
   ],
-  "updatedAt": "2025-12-05T23:19:45Z"
+  "updatedAt": "2025-12-23T22:44:04Z",
+  "latestTotal": 51.166666666666664
 }

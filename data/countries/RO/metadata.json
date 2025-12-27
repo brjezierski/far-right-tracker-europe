@@ -2,10 +2,7 @@
   "country": "Romania",
   "iso2": "RO",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:21:00Z"
+  "updatedAt": "2025-12-23T22:50:13Z"
 }

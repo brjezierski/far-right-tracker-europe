@@ -1,15 +1,359 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2025-06-29,APG,1.5,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
-2025-07-05,APG,1.8,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
-2025-06-29,CfC,18.0,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
-2025-07-05,CfC,9.5,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
-2025-06-29,FG,10.0,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
-2025-07-05,FG,10.0,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
-2025-06-29,GD,35.8,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2025-07-05,GD,56.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2025-06-29,Girchi,2.3,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2025-07-05,Girchi,3.2,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2025-06-29,SG,9.5,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
-2025-07-05,SG,10.7,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
-2025-06-29,U-NM,16.6,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
-2025-07-05,U-NM,7.5,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
+2014-06-15,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-01-01,Alliance of Patriots of Georgia,6.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-02-28,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-04-19,Alliance of Patriots of Georgia,6.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-09-10,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-11-10,Alliance of Patriots of Georgia,13.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-12-07,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2015-12-17,Alliance of Patriots of Georgia,7.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2016-01-29,Alliance of Patriots of Georgia,23.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2016-03-14,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2016-04-03,Alliance of Patriots of Georgia,10.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2016-04-03,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2016-10-08,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2017-03-08,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2017-10-21,Alliance of Patriots of Georgia,6.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2017-12-21,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2018-04-21,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2018-04-22,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2018-12-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-04-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-05-28,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-06-28,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-09-28,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-10-28,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-10-28,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2019-12-28,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-01-28,Alliance of Patriots of Georgia,4.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-02-28,Alliance of Patriots of Georgia,5.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-02-28,Alliance of Patriots of Georgia,6.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-07-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-08-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-08-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-09-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-09-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,1.7,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,1.2,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,1.4,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,3.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,4.6,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2020-10-28,Alliance of Patriots of Georgia,1.0,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2025-01-30,Alliance of Patriots of Georgia,2.9,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2025-06-29,Alliance of Patriots of Georgia,1.5,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2025-07-05,Alliance of Patriots of Georgia,1.8,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+2012-10-01,Christian-Democratic Movement,2.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2012-11-25,Christian-Democratic Movement,10.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2013-09-03,Christian-Democratic Movement,7.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2013-11-27,Christian-Democratic Movement,6.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2014-04-18,Christian-Democratic Movement,13.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2014-06-15,Christian-Democratic Movement,10.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2015-01-01,Christian-Democratic Movement,3.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2015-02-28,Christian-Democratic Movement,5.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2015-12-07,Christian-Democratic Movement,4.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2015-12-17,Christian-Democratic Movement,3.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2016-01-29,Christian-Democratic Movement,7.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2016-04-03,Christian-Democratic Movement,11.0,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+2019-06-28,Citizens,2.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2019-09-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2019-10-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2019-10-28,Citizens,4.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2019-12-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-01-28,Citizens,2.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-02-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-02-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-08-28,Citizens,2.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-08-28,Citizens,3.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-09-28,Citizens,1.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-09-28,Citizens,1.5,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-10-28,Citizens,1.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-10-28,Citizens,1.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-10-28,Citizens,0.5,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-10-28,Citizens,1.9,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2020-10-28,Citizens,1.0,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+2025-01-30,Coalition for Change,18.0,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
+2025-06-29,Coalition for Change,18.0,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
+2025-07-05,Coalition for Change,9.5,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
+2015-09-10,Democratic Movement – United Georgia,6.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2015-12-17,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2016-04-03,Democratic Movement – United Georgia,3.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2016-10-08,Democratic Movement – United Georgia,4.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2017-03-08,Democratic Movement – United Georgia,3.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2017-10-21,Democratic Movement – United Georgia,3.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2019-06-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2019-09-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2019-10-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2019-10-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2019-12-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-01-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-02-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-02-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-07-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-08-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-08-28,Democratic Movement – United Georgia,2.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-09-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-09-28,Democratic Movement – United Georgia,2.5,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-10-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-10-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-10-28,Democratic Movement – United Georgia,0.7,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-10-28,Democratic Movement – United Georgia,1.6,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2020-10-28,Democratic Movement – United Georgia,1.0,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+2018-10-28,Development Movement,2.0,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+2019-09-28,Development Movement,2.0,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+2019-10-28,Development Movement,2.0,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+2020-02-28,Development Movement,3.0,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+2020-07-28,Development Movement,1.0,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+2017-03-08,European Georgia - Movement for Liberty,8.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2017-07-09,European Georgia - Movement for Liberty,3.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2017-10-21,European Georgia - Movement for Liberty,10.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2017-12-21,European Georgia - Movement for Liberty,3.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2018-04-21,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2018-04-22,European Georgia - Movement for Liberty,7.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2018-07-22,European Georgia - Movement for Liberty,4.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2018-10-28,European Georgia - Movement for Liberty,10.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2018-12-28,European Georgia - Movement for Liberty,3.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-04-28,European Georgia - Movement for Liberty,3.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-05-28,European Georgia - Movement for Liberty,10.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-06-28,European Georgia - Movement for Liberty,7.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-09-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-10-28,European Georgia - Movement for Liberty,7.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-10-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2019-12-28,European Georgia - Movement for Liberty,8.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-01-28,European Georgia - Movement for Liberty,9.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-02-28,European Georgia - Movement for Liberty,10.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-02-28,European Georgia - Movement for Liberty,8.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-07-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-08-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-08-28,European Georgia - Movement for Liberty,6.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-09-28,European Georgia - Movement for Liberty,6.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-09-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,6.9,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,5.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,5.3,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,11.7,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,4.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,4.3,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2020-10-28,European Georgia - Movement for Liberty,4.0,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+2025-01-30,For Georgia,9.5,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
+2025-06-29,For Georgia,10.0,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
+2025-07-05,For Georgia,10.0,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
+2015-01-01,Free Democrats,33.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-02-28,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-04-19,Free Democrats,9.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-09-10,Free Democrats,6.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-11-10,Free Democrats,19.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-12-07,Free Democrats,11.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2015-12-17,Free Democrats,6.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2016-01-29,Free Democrats,9.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2016-03-14,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2016-04-03,Free Democrats,8.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2016-04-03,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2012-10-01,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2012-11-25,Georgian Dream,66.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-03-27,Georgian Dream,63.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-06-26,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-09-03,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-11-27,Georgian Dream,65.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-04-18,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-06-15,Georgian Dream,51.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-08-07,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-01-01,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-02-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-04-19,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-09-10,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-11-10,Georgian Dream,18.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-12-07,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-12-17,Georgian Dream,21.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-01-29,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-03-14,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-04-03,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-04-03,Georgian Dream,19.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-10-08,Georgian Dream,49.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-03-08,Georgian Dream,30.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-07-09,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-10-21,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-12-21,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-04-21,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-04-22,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-07-22,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-10-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-12-28,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-04-28,Georgian Dream,17.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-05-28,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-06-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-09-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-10-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-12-28,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-01-28,Georgian Dream,22.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-02-28,Georgian Dream,34.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-02-28,Georgian Dream,37.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-07-28,Georgian Dream,39.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-08-28,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-08-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-09-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-09-28,Georgian Dream,25.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,24.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,26.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-01-30,Georgian Dream,31.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-06-29,Georgian Dream,35.8,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-07-05,Georgian Dream,56.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social market economy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-09-03,Georgian Labour Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2013-11-27,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2014-04-18,Georgian Labour Party,11.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2014-06-15,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2014-08-07,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-01-01,Georgian Labour Party,4.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-02-28,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-04-19,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-09-10,Georgian Labour Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-12-07,Georgian Labour Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2015-12-17,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2016-01-29,Georgian Labour Party,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2016-03-14,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2016-04-03,Georgian Labour Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2016-10-08,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2017-03-08,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2017-10-21,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2018-04-21,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2018-04-22,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2018-07-22,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2018-10-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-05-28,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-06-28,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-09-28,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-10-28,Georgian Labour Party,4.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-10-28,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-12-28,Georgian Labour Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-01-28,Georgian Labour Party,4.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-02-28,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-02-28,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-07-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-08-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-08-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-09-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-09-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,1.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,2.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,4.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,2.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,2.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2020-10-28,Georgian Labour Party,2.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+2019-09-28,Lelo for Georgia,3.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2019-10-28,Lelo for Georgia,4.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2019-10-28,Lelo for Georgia,7.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2019-12-28,Lelo for Georgia,5.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-01-28,Lelo for Georgia,6.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-02-28,Lelo for Georgia,8.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-02-28,Lelo for Georgia,7.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-07-28,Lelo for Georgia,3.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-08-28,Lelo for Georgia,4.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-08-28,Lelo for Georgia,5.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-09-28,Lelo for Georgia,3.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-09-28,Lelo for Georgia,2.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,3.4,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,2.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,2.7,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,5.1,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,4.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,3.9,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2020-10-28,Lelo for Georgia,3.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+2018-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-06-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-09-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-12-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-01-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-02-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-02-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-07-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-08-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-08-28,New Political Centre - Girchi,5.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-09-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-09-28,New Political Centre - Girchi,2.5,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,1.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,4.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2025-01-30,New Political Centre – Girchi,4.3,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+2025-06-29,New Political Centre – Girchi,2.3,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+2025-07-05,New Political Centre – Girchi,3.2,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+2014-06-15,State for the People,3.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2014-08-07,State for the People,16.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2015-01-01,State for the People,2.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2015-02-28,State for the People,1.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2015-04-19,State for the People,11.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2015-12-07,State for the People,2.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2015-12-17,State for the People,4.1,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2016-01-29,State for the People,2.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2016-03-14,State for the People,5.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2016-04-03,State for the People,12.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+2025-01-30,Strong Georgia,11.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
+2025-06-29,Strong Georgia,9.5,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
+2025-07-05,Strong Georgia,10.7,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
+2012-10-01,United National Movement,40.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2012-11-25,United National Movement,13.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2013-03-27,United National Movement,13.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2013-06-26,United National Movement,13.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2013-09-03,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2013-11-27,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2014-04-18,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2014-06-15,United National Movement,22.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2014-08-07,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-01-01,United National Movement,27.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-02-28,United National Movement,14.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-04-19,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-09-10,United National Movement,30.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-11-10,United National Movement,19.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-12-07,United National Movement,21.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2015-12-17,United National Movement,34.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2016-01-29,United National Movement,20.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2016-03-14,United National Movement,27.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2016-04-03,United National Movement,30.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2016-04-03,United National Movement,18.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2016-10-08,United National Movement,27.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2017-03-08,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2017-07-09,United National Movement,8.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2017-10-21,United National Movement,17.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2017-12-21,United National Movement,10.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2018-04-21,United National Movement,9.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2018-04-22,United National Movement,17.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2018-07-22,United National Movement,11.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2018-10-28,United National Movement,37.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2018-12-28,United National Movement,11.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-04-28,United National Movement,14.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-05-28,United National Movement,22.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-06-28,United National Movement,22.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-09-28,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-10-28,United National Movement,18.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-10-28,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2019-12-28,United National Movement,13.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-01-28,United National Movement,17.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-02-28,United National Movement,24.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-02-28,United National Movement,22.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-07-28,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-08-28,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-08-28,United National Movement,16.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-09-28,United National Movement,15.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-09-28,United National Movement,15.5,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,17.4,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,17.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,17.8,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,19.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,22.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,19.9,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2020-10-28,United National Movement,18.0,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+2025-01-30,Unity – National Movement,14.9,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
+2025-06-29,Unity – National Movement,16.6,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
+2025-07-05,Unity – National Movement,7.5,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement

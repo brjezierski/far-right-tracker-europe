@@ -1,24 +1,462 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2024-10-17,DZh,0.9,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
-2024-10-17,KEA,0.7,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
-2024-10-17,LB,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
-2025-01-30,LB,2.7,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
-2025-02-25,LB,2.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
-2024-10-17,LSHB,6.8,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
-2025-01-30,LSHB,7.9,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
-2025-02-25,LSHB,6.3,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
-2024-10-17,NTH,1.7,Big tent,Centrism Populism Anti-corruption,https://en.wikipedia.org/wiki/Nisma_Thurje
-2024-10-17,PD,30.2,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
-2025-01-30,PD,30.8,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
-2025-02-25,PD,34.3,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
-2024-10-17,PDIU,1.0,,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
-2024-10-17,PL,1.5,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
-2025-01-30,PL,1.7,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
-2025-02-25,PL,1.7,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
-2024-10-17,PM,3.1,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
-2025-01-30,PM,3.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
-2025-02-25,PM,4.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
-2024-10-17,PS,50.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
-2025-01-30,PS,50.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
-2025-02-25,PS,48.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
-2024-10-17,PSD,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-11,/w/index.php?title=Edmond Stojku&action=edit&redlink=1,0.3,,,
+2025-04-18,/w/index.php?title=Edmond Stojku&action=edit&redlink=1,0.1,,,
+2025-05-02,/w/index.php?title=Edmond Stojku&action=edit&redlink=1,0.1,,,
+2025-04-11,/w/index.php?title=Elena Kocaqi&action=edit&redlink=1,0.2,,,
+2025-04-18,/w/index.php?title=Elena Kocaqi&action=edit&redlink=1,0.1,,,
+2025-04-21,/w/index.php?title=Elena Kocaqi&action=edit&redlink=1,1.1,,,
+2025-04-25,/w/index.php?title=Elena Kocaqi&action=edit&redlink=1,0.4,,,
+2025-05-02,/w/index.php?title=Elena Kocaqi&action=edit&redlink=1,0.3,,,
+2025-04-11,/w/index.php?title=Kreshnik Osmani&action=edit&redlink=1,0.1,,,
+2025-04-18,/w/index.php?title=Kreshnik Osmani&action=edit&redlink=1,0.1,,,
+2025-05-02,/w/index.php?title=Kreshnik Osmani&action=edit&redlink=1,0.1,,,
+2025-04-11,Adriatik Lapaj,6.8,,,
+2025-04-18,Adriatik Lapaj,6.1,,,
+2025-04-21,Adriatik Lapaj,8.6,,,
+2025-04-24,Adriatik Lapaj,5.3,,,
+2025-04-25,Adriatik Lapaj,6.8,,,
+2025-05-02,Adriatik Lapaj,6.9,,,
+2025-04-11,Agron Shehaj,3.5,,,
+2025-04-18,Agron Shehaj,4.2,,,
+2025-04-21,Agron Shehaj,7.6,,,
+2025-04-24,Agron Shehaj,6.6,,,
+2025-04-25,Agron Shehaj,3.3,,,
+2025-05-02,Agron Shehaj,3.1,,,
+2021-04-24,Alliance for a Great Albania,36.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,36.1,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,30.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,39.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,33.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,30.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,38.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-04-28,Alliance for a Great Albania,38.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,35.6,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,26.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,55.8,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,44.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,47.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,31.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,32.6,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,26.4,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,34.8,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,33.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2021-05-05,Alliance for a Great Albania,33.8,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-03,Alliance for a Great Albania,30.7,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-06,Alliance for a Great Albania,55.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-15,Alliance for a Great Albania,58.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-22,Alliance for a Great Albania,30.6,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-24,Alliance for a Great Albania,34.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-24,Alliance for a Great Albania,43.5,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-24,Alliance for a Great Albania,43.1,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-28,Alliance for a Great Albania,33.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-28,Alliance for a Great Albania,61.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-04-28,Alliance for a Great Albania,45.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-05-04,Alliance for a Great Albania,32.1,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-05-05,Alliance for a Great Albania,32.2,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-05-05,Alliance for a Great Albania,34.6,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2022-05-05,Alliance for a Great Albania,42.8,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-03-13,Alliance for a Magnificent Albania,37.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-03-25,Alliance for a Magnificent Albania,37.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-03,Alliance for a Magnificent Albania,34.7,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-08,Alliance for a Magnificent Albania,35.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-13,Alliance for a Magnificent Albania,35.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-15,Alliance for a Magnificent Albania,35.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-20,Alliance for a Magnificent Albania,35.1,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-21,Alliance for a Magnificent Albania,33.7,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-22,Alliance for a Magnificent Albania,36.0,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-22,Alliance for a Magnificent Albania,36.8,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-24,Alliance for a Magnificent Albania,34.4,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-05-04,Alliance for a Magnificent Albania,31.9,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-05-05,Alliance for a Magnificent Albania,35.4,Centre-right to right-wing,Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Alliance_for_a_Great_Albania
+2025-04-11,Arlind Qori,7.0,,,
+2025-04-18,Arlind Qori,5.8,,,
+2025-04-21,Arlind Qori,2.1,,,
+2025-04-25,Arlind Qori,4.2,,,
+2025-05-02,Arlind Qori,4.2,,,
+2025-04-11,Dashamir Shehi,4.0,,,
+2025-04-18,Dashamir Shehi,3.5,,,
+2025-04-25,Dashamir Shehi,1.0,,,
+2025-05-02,Dashamir Shehi,0.9,,,
+2017-05-30,Democratic Party of Albania,36.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2017-05-30,Democratic Party of Albania,33.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2017-06-04,Democratic Party of Albania,29.2,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2017-06-07,Democratic Party of Albania,37.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2017-06-19,Democratic Party of Albania,33.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-01-13,Democratic Party of Albania,28.2,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-01-22,Democratic Party of Albania,31.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-02-12,Democratic Party of Albania,30.6,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-02-16,Democratic Party of Albania,39.3,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-02-18,Democratic Party of Albania,33.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-02-23,Democratic Party of Albania,34.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-08,Democratic Party of Albania,42.55,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-09,Democratic Party of Albania,40.6,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-09,Democratic Party of Albania,30.8,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-17,Democratic Party of Albania,37.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-22,Democratic Party of Albania,41.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-28,Democratic Party of Albania,38.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-31,Democratic Party of Albania,39.3,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-03-31,Democratic Party of Albania,35.4,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-06,Democratic Party of Albania,42.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-09,Democratic Party of Albania,44.7,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-15,Democratic Party of Albania,36.8,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-19,Democratic Party of Albania,47.1,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-19,Democratic Party of Albania,42.5,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-20,Democratic Party of Albania,43.6,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-04-23,Democratic Party of Albania,46.1,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2021-11-27,Democratic Party of Albania,30.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2022-02-13,Democratic Party of Albania,38.0,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2022-02-25,Democratic Party of Albania,32.2,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2024-10-17,Democratic Party of Albania,30.2,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2025-01-30,Democratic Party of Albania,30.8,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2025-02-25,Democratic Party of Albania,34.3,Centre-right to right-wing,Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Albania
+2024-10-17,Djathtas për Zhvillim,0.9,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-03-13,Djathtas për Zhvillim,0.25,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-03-25,Djathtas për Zhvillim,0.25,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-04-08,Djathtas për Zhvillim,0.25,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-04-13,Djathtas për Zhvillim,1.0,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-04-15,Djathtas për Zhvillim,0.25,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-04-21,Djathtas për Zhvillim,0.6,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-04-22,Djathtas për Zhvillim,0.5,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2025-05-05,Djathtas për Zhvillim,0.1,Centre-right to right-wing,Conservatism Pro-Europeanism Factions: Monarchism,https://en.wikipedia.org/wiki/Djathtas_p%C3%ABr_Zhvillim
+2024-10-17,Edi Rama,51.1,,,
+2025-04-08,Edi Rama,46.0,,,
+2025-04-11,Edi Rama,44.0,,,
+2025-04-18,Edi Rama,43.0,,,
+2025-04-21,Edi Rama,42.0,,,
+2025-04-24,Edi Rama,49.2,,,
+2025-04-25,Edi Rama,46.6,,,
+2025-05-02,Edi Rama,46.2,,,
+2021-04-24,Euroatlantic Democrats,1.7,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,1.8,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,1.5,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,1.7,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,0.5,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-04-28,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-05-05,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-06,Euroatlantic Democrats,3.8,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-15,Euroatlantic Democrats,4.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-24,Euroatlantic Democrats,0.25,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-24,Euroatlantic Democrats,1.6,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-25,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-28,Euroatlantic Democrats,3.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-04-28,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2022-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2024-10-17,Euroatlantic Democrats,0.7,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-03-13,Euroatlantic Democrats,0.25,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-03-25,Euroatlantic Democrats,0.25,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-03,Euroatlantic Democrats,1.3,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-08,Euroatlantic Democrats,0.75,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-13,Euroatlantic Democrats,2.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-15,Euroatlantic Democrats,0.75,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-20,Euroatlantic Democrats,0.7,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-21,Euroatlantic Democrats,0.8,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-22,Euroatlantic Democrats,1.0,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-22,Euroatlantic Democrats,1.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-04-24,Euroatlantic Democrats,0.9,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2025-05-05,Euroatlantic Democrats,0.1,Centre-right,Liberal conservatism Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Euroatlantic_Democrats
+2021-01-13,Freedom Party of Albania,10.3,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-01-22,Freedom Party of Albania,4.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-02-12,Freedom Party of Albania,9.1,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-02-16,Freedom Party of Albania,5.1,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-02-18,Freedom Party of Albania,4.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-02-23,Freedom Party of Albania,8.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-08,Freedom Party of Albania,8.8,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-09,Freedom Party of Albania,4.6,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-09,Freedom Party of Albania,7.6,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-17,Freedom Party of Albania,4.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-22,Freedom Party of Albania,6.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-28,Freedom Party of Albania,4.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-31,Freedom Party of Albania,5.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-03-31,Freedom Party of Albania,5.2,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-06,Freedom Party of Albania,6.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-09,Freedom Party of Albania,11.3,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-15,Freedom Party of Albania,5.8,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-19,Freedom Party of Albania,9.4,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-19,Freedom Party of Albania,4.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-20,Freedom Party of Albania,3.6,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-23,Freedom Party of Albania,10.4,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-04-28,Freedom Party of Albania,1.6,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2021-11-27,Freedom Party of Albania,2.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2022-02-25,Freedom Party of Albania,1.3,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2024-10-17,Freedom Party of Albania,1.5,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2025-01-30,Freedom Party of Albania,1.7,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2025-02-25,Freedom Party of Albania,1.7,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Party_of_Albania
+2017-05-30,Libra Party,2.3,Centre to centre-left,Social liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Libra_Party_(Albania)
+2017-05-30,Libra Party,6.0,Centre to centre-left,Social liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Libra_Party_(Albania)
+2017-06-04,Libra Party,0.7,Centre to centre-left,Social liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Libra_Party_(Albania)
+2017-06-07,Libra Party,2.0,Centre to centre-left,Social liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Libra_Party_(Albania)
+2017-06-19,Libra Party,2.3,Centre to centre-left,Social liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Libra_Party_(Albania)
+2025-04-11,Lulzim Basha,2.5,,,
+2025-04-18,Lulzim Basha,1.5,,,
+2025-04-25,Lulzim Basha,4.2,,,
+2025-05-02,Lulzim Basha,2.1,,,
+2021-04-24,Lëvizja Bashkë,0.7,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,1.3,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,4.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,1.1,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-04-28,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,1.6,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,1.8,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,1.9,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,0.7,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2021-05-05,Lëvizja Bashkë,0.3,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-02-13,Lëvizja Bashkë,4.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-02-25,Lëvizja Bashkë,3.7,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-03,Lëvizja Bashkë,4.1,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-22,Lëvizja Bashkë,4.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-24,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-24,Lëvizja Bashkë,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-24,Lëvizja Bashkë,0.3,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-25,Lëvizja Bashkë,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-28,Lëvizja Bashkë,2.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-04-28,Lëvizja Bashkë,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-05-02,Lëvizja Bashkë,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-05-04,Lëvizja Bashkë,3.9,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-05-05,Lëvizja Bashkë,2.2,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-05-05,Lëvizja Bashkë,2.2,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2022-05-05,Lëvizja Bashkë,0.9,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2024-10-17,Lëvizja Bashkë,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-01-30,Lëvizja Bashkë,2.7,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-02-25,Lëvizja Bashkë,2.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-03-13,Lëvizja Bashkë,1.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-03-25,Lëvizja Bashkë,1.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-03,Lëvizja Bashkë,2.1,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-08,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-13,Lëvizja Bashkë,1.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-15,Lëvizja Bashkë,1.5,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-20,Lëvizja Bashkë,1.6,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-21,Lëvizja Bashkë,2.4,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-22,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-22,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-04-24,Lëvizja Bashkë,1.1,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-05-04,Lëvizja Bashkë,2.0,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2025-05-05,Lëvizja Bashkë,1.4,Left-wing,Democratic socialism Progressivism Left-wing populism Social democracy,https://en.wikipedia.org/wiki/L%C3%ABvizja_Bashk%C3%AB
+2024-10-17,Lëvizja Shqipëria Bëhet,6.8,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
+2025-01-30,Lëvizja Shqipëria Bëhet,7.9,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
+2025-02-25,Lëvizja Shqipëria Bëhet,6.3,Centre-right,Populism Direct democracy Civic nationalism,https://en.wikipedia.org/wiki/L%C3%ABvizja_Shqip%C3%ABria_B%C3%ABhet
+2021-04-24,Opportunity Party,1.7,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,1.9,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,6.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,1.7,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,5.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,7.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,4.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-04-28,Opportunity Party,7.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,2.3,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,6.6,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,1.7,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,4.2,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,2.6,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,5.2,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,5.6,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,3.2,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,3.3,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,4.4,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2021-05-05,Opportunity Party,6.9,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-02-13,Opportunity Party,5.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-02-25,Opportunity Party,5.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-03,Opportunity Party,7.4,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-06,Opportunity Party,3.2,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-15,Opportunity Party,5.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-22,Opportunity Party,8.7,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-24,Opportunity Party,5.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-24,Opportunity Party,4.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-24,Opportunity Party,0.7,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-25,Opportunity Party,1.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-28,Opportunity Party,10.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-28,Opportunity Party,6.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-04-28,Opportunity Party,1.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-05-02,Opportunity Party,1.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-05-04,Opportunity Party,7.6,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-05-05,Opportunity Party,6.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-05-05,Opportunity Party,4.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2022-05-05,Opportunity Party,4.9,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2024-10-17,Opportunity Party,3.1,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-01-30,Opportunity Party,3.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-02-25,Opportunity Party,4.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-03-13,Opportunity Party,3.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-03-25,Opportunity Party,3.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-03,Opportunity Party,5.1,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-08,Opportunity Party,5.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-13,Opportunity Party,6.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-15,Opportunity Party,4.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-20,Opportunity Party,4.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-21,Opportunity Party,6.3,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-22,Opportunity Party,6.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-22,Opportunity Party,5.4,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-04-24,Opportunity Party,5.0,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-05-04,Opportunity Party,7.5,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2025-05-05,Opportunity Party,4.8,Centre-right,Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Opportunity_Party_(Albania)
+2017-05-30,"Party for Justice, Integration and Unity",1.8,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2017-05-30,"Party for Justice, Integration and Unity",1.0,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2017-06-04,"Party for Justice, Integration and Unity",7.1,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2017-06-07,"Party for Justice, Integration and Unity",1.5,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2017-06-19,"Party for Justice, Integration and Unity",1.8,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-01-13,"Party for Justice, Integration and Unity",1.5,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-01-22,"Party for Justice, Integration and Unity",2.0,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-02-12,"Party for Justice, Integration and Unity",1.6,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-02-16,"Party for Justice, Integration and Unity",0.2,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-02-18,"Party for Justice, Integration and Unity",2.0,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-02-23,"Party for Justice, Integration and Unity",1.0,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-03-09,"Party for Justice, Integration and Unity",1.3,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2021-11-27,"Party for Justice, Integration and Unity",1.0,Right-wing,Cham issue,"https://en.wikipedia.org/wiki/Party_for_Justice,_Integration_and_Unity"
+2024-10-17,Sali Berisha,27.2,,,
+2025-04-08,Sali Berisha,35.0,,,
+2025-04-11,Sali Berisha,31.6,,,
+2025-04-18,Sali Berisha,33.4,,,
+2025-04-21,Sali Berisha,24.1,,,
+2025-04-24,Sali Berisha,33.6,,,
+2025-04-25,Sali Berisha,33.7,,,
+2025-05-02,Sali Berisha,34.4,,,
+2017-05-30,Sfida për Shqipërinë,1.0,Centre to centre-right,Populism Direct democracy,https://en.wikipedia.org/wiki/Sfida_p%C3%ABr_Shqip%C3%ABrin%C3%AB
+2017-05-30,Sfida për Shqipërinë,1.5,Centre to centre-right,Populism Direct democracy,https://en.wikipedia.org/wiki/Sfida_p%C3%ABr_Shqip%C3%ABrin%C3%AB
+2017-06-07,Sfida për Shqipërinë,0.3,Centre to centre-right,Populism Direct democracy,https://en.wikipedia.org/wiki/Sfida_p%C3%ABr_Shqip%C3%ABrin%C3%AB
+2017-06-19,Sfida për Shqipërinë,0.5,Centre to centre-right,Populism Direct democracy,https://en.wikipedia.org/wiki/Sfida_p%C3%ABr_Shqip%C3%ABrin%C3%AB
+2021-02-16,Social Democratic Party of Albania,0.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-03-09,Social Democratic Party of Albania,0.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-03-31,Social Democratic Party of Albania,1.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-20,Social Democratic Party of Albania,0.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-24,Social Democratic Party of Albania,0.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,1.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,0.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,1.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,0.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-04-28,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,0.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,0.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,2.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,3.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2021-05-05,Social Democratic Party of Albania,1.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-06,Social Democratic Party of Albania,11.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-11,Social Democratic Party of Albania,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-15,Social Democratic Party of Albania,10.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-24,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-24,Social Democratic Party of Albania,8.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-24,Social Democratic Party of Albania,11.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-25,Social Democratic Party of Albania,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-28,Social Democratic Party of Albania,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-28,Social Democratic Party of Albania,8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-04-28,Social Democratic Party of Albania,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-05-04,Social Democratic Party of Albania,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-05-05,Social Democratic Party of Albania,1.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-05-05,Social Democratic Party of Albania,1.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2022-05-05,Social Democratic Party of Albania,8.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2024-10-17,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-03-13,Social Democratic Party of Albania,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-03-25,Social Democratic Party of Albania,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-03,Social Democratic Party of Albania,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-08,Social Democratic Party of Albania,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-13,Social Democratic Party of Albania,2.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-15,Social Democratic Party of Albania,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-20,Social Democratic Party of Albania,1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-21,Social Democratic Party of Albania,0.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-22,Social Democratic Party of Albania,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-22,Social Democratic Party of Albania,2.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-04-24,Social Democratic Party of Albania,2.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-05-04,Social Democratic Party of Albania,1.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2025-05-05,Social Democratic Party of Albania,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Albania
+2017-05-30,Socialist Movement for Integration,12.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Movement_for_Integration
+2017-05-30,Socialist Movement for Integration,14.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Movement_for_Integration
+2017-06-04,Socialist Movement for Integration,6.4,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Movement_for_Integration
+2017-06-07,Socialist Movement for Integration,13.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Movement_for_Integration
+2017-06-19,Socialist Movement for Integration,13.0,Centre,Social democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Movement_for_Integration
+2017-05-30,Socialist Party of Albania,43.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2017-05-30,Socialist Party of Albania,41.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2017-06-04,Socialist Party of Albania,46.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2017-06-07,Socialist Party of Albania,45.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2017-06-19,Socialist Party of Albania,48.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-01-13,Socialist Party of Albania,41.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-01-22,Socialist Party of Albania,48.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-02-12,Socialist Party of Albania,39.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-02-16,Socialist Party of Albania,49.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-02-18,Socialist Party of Albania,47.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-02-23,Socialist Party of Albania,41.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-08,Socialist Party of Albania,45.25,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-09,Socialist Party of Albania,48.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-09,Socialist Party of Albania,41.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-17,Socialist Party of Albania,47.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-22,Socialist Party of Albania,44.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-28,Socialist Party of Albania,47.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-31,Socialist Party of Albania,48.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-03-31,Socialist Party of Albania,43.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-06,Socialist Party of Albania,44.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-09,Socialist Party of Albania,42.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-15,Socialist Party of Albania,43.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-19,Socialist Party of Albania,42.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-19,Socialist Party of Albania,43.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-20,Socialist Party of Albania,48.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-23,Socialist Party of Albania,42.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-24,Socialist Party of Albania,50.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,58.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,51.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,57.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,50.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,54.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,45.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-04-28,Socialist Party of Albania,45.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,56.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,55.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,38.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,45.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,42.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,49.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,53.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,57.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,54.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,46.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-05-05,Socialist Party of Albania,48.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2021-11-27,Socialist Party of Albania,53.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-02-13,Socialist Party of Albania,46.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-02-25,Socialist Party of Albania,46.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-03,Socialist Party of Albania,47.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-06,Socialist Party of Albania,23.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-15,Socialist Party of Albania,21.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-22,Socialist Party of Albania,46.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-24,Socialist Party of Albania,48.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-24,Socialist Party of Albania,35.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-24,Socialist Party of Albania,36.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-28,Socialist Party of Albania,46.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-28,Socialist Party of Albania,21.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-04-28,Socialist Party of Albania,34.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-05-04,Socialist Party of Albania,44.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-05-05,Socialist Party of Albania,50.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-05-05,Socialist Party of Albania,48.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2022-05-05,Socialist Party of Albania,35.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2024-10-17,Socialist Party of Albania,50.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-01-30,Socialist Party of Albania,50.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-02-25,Socialist Party of Albania,48.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-03-13,Socialist Party of Albania,48.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-03-25,Socialist Party of Albania,48.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-03,Socialist Party of Albania,46.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-08,Socialist Party of Albania,48.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-13,Socialist Party of Albania,46.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-15,Socialist Party of Albania,48.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-20,Socialist Party of Albania,48.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-21,Socialist Party of Albania,47.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-22,Socialist Party of Albania,45.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-22,Socialist Party of Albania,51.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-24,Socialist Party of Albania,48.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-05-04,Socialist Party of Albania,48.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-05-05,Socialist Party of Albania,48.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Socialist_Party_of_Albania
+2025-04-11,Tom Doshi,1.0,,,
+2025-04-18,Tom Doshi,2.2,,,
+2025-04-21,Tom Doshi,1.0,,,
+2025-04-25,Tom Doshi,0.4,,,
+2025-05-02,Tom Doshi,1.7,,,

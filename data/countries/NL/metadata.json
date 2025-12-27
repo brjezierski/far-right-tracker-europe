@@ -2,10 +2,12 @@
   "country": "Netherlands",
   "iso2": "NL",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Next_Dutch_general_election"
   ],
-  "updatedAt": "2025-12-05T23:20:41Z"
+  "updatedAt": "2025-12-23T22:48:48Z",
+  "latestTotal": 41.666666666666664
 }

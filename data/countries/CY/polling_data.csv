@@ -1,85 +1,174 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2023-09-22,AKEL,28.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-01-11,AKEL,27.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-02-09,AKEL,29.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-02-16,AKEL,27.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-06-09,AKEL,21.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-10-05,AKEL,25.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-10-16,AKEL,11.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-11-01,AKEL,25.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-03-11,AKEL,21.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-03-21,AKEL,20.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-05-30,AKEL,22.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-06-28,AKEL,23.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-07-08,AKEL,20.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-08-11,AKEL,23.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2025-09-22,AKEL,23.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-2024-02-16,APC,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-2024-10-16,APC,1.2,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-2024-11-01,APC,0.9,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-2025-05-30,APC,1.0,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-2025-08-11,APC,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-2023-09-22,DIKO,10.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-01-11,DIKO,9.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-02-09,DIKO,13.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-02-16,DIKO,11.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-06-09,DIKO,9.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-10-05,DIKO,10.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-10-16,DIKO,3.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2024-11-01,DIKO,11.4,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-03-11,DIKO,8.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-03-21,DIKO,10.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-05-30,DIKO,11.3,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-06-28,DIKO,8.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-07-08,DIKO,8.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-08-11,DIKO,8.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2025-09-22,DIKO,9.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-2023-09-22,DIPA,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-01-11,DIPA,3.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-02-09,DIPA,3.7,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-02-16,DIPA,4.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-06-09,DIPA,2.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-10-05,DIPA,3.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2024-10-16,DIPA,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-03-11,DIPA,1.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-03-21,DIPA,1.25,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-05-30,DIPA,6.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-06-28,DIPA,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-07-08,DIPA,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-08-11,DIPA,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2025-09-22,DIPA,1.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-2023-09-22,DISY,26.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-01-11,DISY,25.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-02-09,DISY,30.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-02-16,DISY,29.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-06-09,DISY,24.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-10-05,DISY,28.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-10-16,DISY,23.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-11-01,DISY,27.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-03-11,DISY,24.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-03-21,DISY,25.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-05-30,DISY,27.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-06-28,DISY,22.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-07-08,DISY,23.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-08-11,DISY,21.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2025-09-22,DISY,22.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-2024-06-09,Direct Democracy,19.4,Direct Democracy (2025–present),,https://en.wikipedia.org/wiki/Fidias_Panayiotou
-2025-09-22,Direct Democracy,3.4,Direct Democracy (2025–present),,https://en.wikipedia.org/wiki/Fidias_Panayiotou
-2023-09-22,EDEK,2.9,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-01-11,EDEK,3.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-02-09,EDEK,3.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-02-16,EDEK,4.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-06-09,EDEK,5.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-10-05,EDEK,4.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-10-16,EDEK,1.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2024-11-01,EDEK,4.0,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-03-11,EDEK,2.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-03-21,EDEK,3.75,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-05-30,EDEK,6.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-06-28,EDEK,2.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-07-08,EDEK,4.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-08-11,EDEK,2.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-2025-09-22,EDEK,1.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2023-09-22,Active Citizens – Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2024-01-11,Active Citizens – Movement of Cypriot United Hunters,0.7,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2024-06-09,Active Citizens – Movement of Cypriot United Hunters,1.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2024-11-01,Active Citizens – Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-03-11,Active Citizens – Movement of Cypriot United Hunters,1.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-05-30,Active Citizens – Movement of Cypriot United Hunters,3.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-06-28,Active Citizens – Movement of Cypriot United Hunters,1.2,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-08-11,Active Citizens – Movement of Cypriot United Hunters,2.7,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-09-22,Active Citizens – Movement of Cypriot United Hunters,1.1,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-10-17,Active Citizens – Movement of Cypriot United Hunters,2.0,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-11-10,Active Citizens – Movement of Cypriot United Hunters,1.6,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-11-13,Active Citizens – Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2025-12-03,Active Citizens – Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2024-02-16,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2024-10-16,Animal Party Cyprus,1.2,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2024-11-01,Animal Party Cyprus,0.9,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2025-05-30,Animal Party Cyprus,1.0,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2025-08-11,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2025-10-17,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2020-10-23,Democratic Front,2.5,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-01-25,Democratic Front,4.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-02-06,Democratic Front,2.8,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-02-19,Democratic Front,3.9,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-03-02,Democratic Front,3.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-03-12,Democratic Front,3.0,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-03-18,Democratic Front,3.0,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-03-20,Democratic Front,4.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-04,Democratic Front,2.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-09,Democratic Front,2.6,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-09,Democratic Front,4.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-16,Democratic Front,4.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-16,Democratic Front,3.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-17,Democratic Front,2.5,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-04-23,Democratic Front,3.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-07,Democratic Front,3.5,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-12,Democratic Front,2.7,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-12,Democratic Front,2.8,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-13,Democratic Front,4.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-14,Democratic Front,3.5,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-15,Democratic Front,3.0,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-20,Democratic Front,4.9,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2021-05-26,Democratic Front,3.8,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2023-09-22,Democratic Front,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-01-11,Democratic Front,3.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-02-09,Democratic Front,3.7,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-02-16,Democratic Front,4.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-06-09,Democratic Front,2.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-10-05,Democratic Front,3.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2024-10-16,Democratic Front,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-03-11,Democratic Front,1.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-03-21,Democratic Front,1.25,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-05-30,Democratic Front,6.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-06-28,Democratic Front,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-07-08,Democratic Front,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-08-11,Democratic Front,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-09-22,Democratic Front,1.1,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-10-17,Democratic Front,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-11-10,Democratic Front,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-11-13,Democratic Front,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2025-12-03,Democratic Front,1.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2020-10-23,Democratic Party,13.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-01-25,Democratic Party,12.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-02-06,Democratic Party,13.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-02-19,Democratic Party,14.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-03-02,Democratic Party,13.8,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-03-12,Democratic Party,11.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-03-18,Democratic Party,13.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-03-20,Democratic Party,14.4,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-04,Democratic Party,14.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-09,Democratic Party,12.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-09,Democratic Party,14.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-16,Democratic Party,13.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-16,Democratic Party,13.3,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-17,Democratic Party,14.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-04-23,Democratic Party,12.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-07,Democratic Party,12.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-12,Democratic Party,14.3,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-12,Democratic Party,9.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-13,Democratic Party,10.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-14,Democratic Party,13.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-15,Democratic Party,9.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-20,Democratic Party,12.4,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-22,Democratic Party,14.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2021-05-26,Democratic Party,13.8,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2023-09-22,Democratic Party,10.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-01-11,Democratic Party,9.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-02-09,Democratic Party,13.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-02-16,Democratic Party,11.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-06-09,Democratic Party,9.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-10-05,Democratic Party,10.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-10-16,Democratic Party,3.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2024-11-01,Democratic Party,11.4,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-03-11,Democratic Party,8.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-03-21,Democratic Party,10.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-05-30,Democratic Party,11.3,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-06-28,Democratic Party,8.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-07-08,Democratic Party,8.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-08-11,Democratic Party,8.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-09-22,Democratic Party,9.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-10-17,Democratic Party,10.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-11-10,Democratic Party,8.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-11-13,Democratic Party,8.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2025-12-03,Democratic Party,8.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2020-10-23,Democratic Rally,30.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-01-25,Democratic Rally,30.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-02-06,Democratic Rally,28.4,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-02-19,Democratic Rally,26.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-03-02,Democratic Rally,28.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-03-12,Democratic Rally,23.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-03-18,Democratic Rally,25.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-03-20,Democratic Rally,26.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-04,Democratic Rally,26.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-09,Democratic Rally,28.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-09,Democratic Rally,26.4,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-16,Democratic Rally,27.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-16,Democratic Rally,26.3,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-17,Democratic Rally,25.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-04-23,Democratic Rally,28.4,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-07,Democratic Rally,25.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-12,Democratic Rally,26.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-12,Democratic Rally,18.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-13,Democratic Rally,26.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-14,Democratic Rally,25.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-15,Democratic Rally,21.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-20,Democratic Rally,26.3,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-22,Democratic Rally,30.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2021-05-26,Democratic Rally,29.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2023-09-22,Democratic Rally,26.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-01-11,Democratic Rally,25.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-02-09,Democratic Rally,30.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-02-16,Democratic Rally,29.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-06-09,Democratic Rally,24.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-10-05,Democratic Rally,28.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-10-16,Democratic Rally,23.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2024-11-01,Democratic Rally,27.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-03-11,Democratic Rally,24.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-03-21,Democratic Rally,25.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-05-30,Democratic Rally,27.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-06-28,Democratic Rally,22.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-07-08,Democratic Rally,23.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-08-11,Democratic Rally,21.9,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-09-22,Democratic Rally,22.7,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-10-17,Democratic Rally,23.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-11-10,Democratic Rally,22.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-11-13,Democratic Rally,23.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2025-12-03,Democratic Rally,23.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2020-10-23,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-01-25,ELAM,4.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-02-06,ELAM,6.7,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-02-19,ELAM,5.7,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-03-02,ELAM,9.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-03-12,ELAM,5.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-03-18,ELAM,4.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-03-20,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-04,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-09,ELAM,8.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-09,ELAM,5.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-16,ELAM,6.1,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-16,ELAM,6.6,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-17,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-04-23,ELAM,6.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-07,ELAM,7.0,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-12,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-12,ELAM,4.9,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-13,ELAM,8.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-14,ELAM,6.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-15,ELAM,5.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-20,ELAM,6.7,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-22,ELAM,3.7,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2021-05-26,ELAM,8.3,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2023-09-22,ELAM,17.4,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2024-01-11,ELAM,17.4,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2024-02-09,ELAM,10.9,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
@@ -95,41 +184,210 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-08,ELAM,16.4,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2025-08-11,ELAM,17.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2025-09-22,ELAM,15.9,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
-2023-09-22,EP,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2024-01-11,EP,0.7,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2024-06-09,EP,1.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2024-11-01,EP,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2025-03-11,EP,1.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2025-05-30,EP,3.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2025-06-28,EP,1.2,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2025-08-11,EP,2.7,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2025-09-22,EP,1.1,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-2023-09-22,KOSP,5.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-01-11,KOSP,4.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-02-09,KOSP,3.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-02-16,KOSP,2.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-06-09,KOSP,1.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-10-05,KOSP,3.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-10-16,KOSP,2.5,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-11-01,KOSP,1.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-03-11,KOSP,3.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-03-21,KOSP,5.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-05-30,KOSP,4.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-06-28,KOSP,3.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-07-08,KOSP,2.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-08-11,KOSP,2.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2025-09-22,KOSP,2.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2023-09-22,Volt,1.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-01-11,Volt,1.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-02-09,Volt,2.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-02-16,Volt,1.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-06-09,Volt,2.9,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-10-05,Volt,3.2,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-10-16,Volt,14.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2024-11-01,Volt,5.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-03-11,Volt,3.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-03-21,Volt,5.0,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-06-28,Volt,3.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-07-08,Volt,2.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-08-11,Volt,2.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-2025-09-22,Volt,2.3,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-10-17,ELAM,15.6,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2025-11-10,ELAM,16.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2025-11-13,ELAM,13.0,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2025-12-03,ELAM,16.4,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
+2020-10-23,Ecological and Environmental Movement,6.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-01-25,Ecological and Environmental Movement,4.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-02-06,Ecological and Environmental Movement,7.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-02-19,Ecological and Environmental Movement,7.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-03-02,Ecological and Environmental Movement,8.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-03-12,Ecological and Environmental Movement,6.1,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-03-18,Ecological and Environmental Movement,9.1,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-03-20,Ecological and Environmental Movement,8.2,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-04,Ecological and Environmental Movement,6.1,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-09,Ecological and Environmental Movement,6.5,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-09,Ecological and Environmental Movement,7.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-16,Ecological and Environmental Movement,6.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-16,Ecological and Environmental Movement,6.1,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-17,Ecological and Environmental Movement,7.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-04-23,Ecological and Environmental Movement,6.5,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-07,Ecological and Environmental Movement,7.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-12,Ecological and Environmental Movement,7.1,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-12,Ecological and Environmental Movement,4.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-13,Ecological and Environmental Movement,7.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-14,Ecological and Environmental Movement,5.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-15,Ecological and Environmental Movement,5.5,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-20,Ecological and Environmental Movement,6.2,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2021-05-22,Ecological and Environmental Movement,4.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2023-09-22,Ecological and Environmental Movement,5.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-01-11,Ecological and Environmental Movement,4.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-02-09,Ecological and Environmental Movement,3.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-02-16,Ecological and Environmental Movement,2.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-06-09,Ecological and Environmental Movement,1.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-10-05,Ecological and Environmental Movement,3.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-10-16,Ecological and Environmental Movement,2.5,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2024-11-01,Ecological and Environmental Movement,1.6,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-03-11,Ecological and Environmental Movement,3.8,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-03-21,Ecological and Environmental Movement,5.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-05-30,Ecological and Environmental Movement,4.4,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-06-28,Ecological and Environmental Movement,3.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-07-08,Ecological and Environmental Movement,2.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-08-11,Ecological and Environmental Movement,2.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-09-22,Ecological and Environmental Movement,2.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-10-17,Ecological and Environmental Movement,2.7,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-11-10,Ecological and Environmental Movement,3.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-11-13,Ecological and Environmental Movement,2.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-12-03,Ecological and Environmental Movement,2.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
+2025-09-22,Fidias Panayiotou,3.4,,,
+2025-10-17,Fidias Panayiotou,6.1,,,
+2025-11-10,Fidias Panayiotou,6.9,,,
+2025-11-13,Fidias Panayiotou,8.7,,,
+2025-12-03,Fidias Panayiotou,9.2,,,
+2021-02-06,Generation Change,3.3,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-02-19,Generation Change,3.0,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-03-02,Generation Change,3.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-03-12,Generation Change,1.9,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-03-18,Generation Change,4.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-03-20,Generation Change,6.8,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-04,Generation Change,8.3,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-09,Generation Change,5.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-09,Generation Change,5.8,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-16,Generation Change,5.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-16,Generation Change,4.6,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-17,Generation Change,6.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-04-23,Generation Change,3.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-07,Generation Change,3.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-12,Generation Change,3.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-12,Generation Change,2.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-13,Generation Change,4.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-14,Generation Change,3.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2021-05-15,Generation Change,2.5,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
+2020-10-23,Movement for Social Democracy,6.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-01-25,Movement for Social Democracy,4.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-02-06,Movement for Social Democracy,5.4,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-02-19,Movement for Social Democracy,5.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-03-02,Movement for Social Democracy,4.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-03-12,Movement for Social Democracy,4.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-03-18,Movement for Social Democracy,6.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-03-20,Movement for Social Democracy,5.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-04,Movement for Social Democracy,6.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-09,Movement for Social Democracy,4.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-09,Movement for Social Democracy,5.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-16,Movement for Social Democracy,6.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-16,Movement for Social Democracy,5.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-17,Movement for Social Democracy,6.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-04-23,Movement for Social Democracy,6.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-07,Movement for Social Democracy,6.0,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-12,Movement for Social Democracy,6.0,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-12,Movement for Social Democracy,4.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-13,Movement for Social Democracy,5.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-14,Movement for Social Democracy,5.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-15,Movement for Social Democracy,5.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-20,Movement for Social Democracy,6.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-22,Movement for Social Democracy,6.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2021-05-26,Movement for Social Democracy,10.6,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2023-09-22,Movement for Social Democracy,2.9,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-01-11,Movement for Social Democracy,3.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-02-09,Movement for Social Democracy,3.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-02-16,Movement for Social Democracy,4.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-06-09,Movement for Social Democracy,5.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-10-05,Movement for Social Democracy,4.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-10-16,Movement for Social Democracy,1.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-11-01,Movement for Social Democracy,4.0,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-03-11,Movement for Social Democracy,2.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-03-21,Movement for Social Democracy,3.75,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-05-30,Movement for Social Democracy,6.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-06-28,Movement for Social Democracy,2.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-07-08,Movement for Social Democracy,4.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-08-11,Movement for Social Democracy,2.7,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-09-22,Movement for Social Democracy,1.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-10-17,Movement for Social Democracy,3.4,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-11-10,Movement for Social Democracy,2.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-11-13,Movement for Social Democracy,2.9,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2025-12-03,Movement for Social Democracy,2.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2024-10-16,Odysseas Michaelides,20.1,,,
+2025-03-11,Odysseas Michaelides,13.9,,,
+2025-03-21,Odysseas Michaelides,11.25,,,
+2025-06-28,Odysseas Michaelides,14.8,,,
+2025-07-08,Odysseas Michaelides,15.1,,,
+2025-08-11,Odysseas Michaelides,12.3,,,
+2025-09-22,Odysseas Michaelides,12.5,,,
+2025-10-17,Odysseas Michaelides,8.2,,,
+2025-11-10,Odysseas Michaelides,12.2,,,
+2025-11-13,Odysseas Michaelides,10.1,,,
+2025-12-03,Odysseas Michaelides,10.0,,,
+2020-10-23,Progressive Party of Working People,26.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-01-25,Progressive Party of Working People,20.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-02-06,Progressive Party of Working People,24.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-02-19,Progressive Party of Working People,22.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-03-02,Progressive Party of Working People,26.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-03-12,Progressive Party of Working People,21.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-03-18,Progressive Party of Working People,21.2,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-03-20,Progressive Party of Working People,23.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-04,Progressive Party of Working People,22.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-09,Progressive Party of Working People,24.6,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-09,Progressive Party of Working People,23.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-16,Progressive Party of Working People,24.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-16,Progressive Party of Working People,24.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-17,Progressive Party of Working People,22.7,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-04-23,Progressive Party of Working People,26.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-07,Progressive Party of Working People,23.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-12,Progressive Party of Working People,22.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-12,Progressive Party of Working People,17.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-13,Progressive Party of Working People,24.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-14,Progressive Party of Working People,23.4,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-15,Progressive Party of Working People,19.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-20,Progressive Party of Working People,24.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-22,Progressive Party of Working People,25.7,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2021-05-26,Progressive Party of Working People,27.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2023-09-22,Progressive Party of Working People,28.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-01-11,Progressive Party of Working People,27.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-02-09,Progressive Party of Working People,29.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-02-16,Progressive Party of Working People,27.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-06-09,Progressive Party of Working People,21.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-10-05,Progressive Party of Working People,25.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-10-16,Progressive Party of Working People,11.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2024-11-01,Progressive Party of Working People,25.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-03-11,Progressive Party of Working People,21.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-03-21,Progressive Party of Working People,20.0,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-05-30,Progressive Party of Working People,22.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-06-28,Progressive Party of Working People,23.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-07-08,Progressive Party of Working People,20.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-08-11,Progressive Party of Working People,23.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-09-22,Progressive Party of Working People,23.9,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-10-17,Progressive Party of Working People,23.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-11-10,Progressive Party of Working People,21.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-11-13,Progressive Party of Working People,20.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2025-12-03,Progressive Party of Working People,22.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2020-10-23,Solidarity Movement,1.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-01-25,Solidarity Movement,4.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-02-06,Solidarity Movement,0.9,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-02-19,Solidarity Movement,2.0,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-03-02,Solidarity Movement,1.6,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-03-12,Solidarity Movement,1.9,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-03-18,Solidarity Movement,1.5,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-03-20,Solidarity Movement,2.1,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-04,Solidarity Movement,0.6,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-09,Solidarity Movement,0.7,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-09,Solidarity Movement,1.5,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-16,Solidarity Movement,1.4,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-16,Solidarity Movement,1.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-17,Solidarity Movement,2.9,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-04-23,Solidarity Movement,0.9,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-07,Solidarity Movement,3.0,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-12,Solidarity Movement,1.7,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-12,Solidarity Movement,1.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-13,Solidarity Movement,1.4,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-14,Solidarity Movement,1.5,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-15,Solidarity Movement,1.5,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2021-05-22,Solidarity Movement,5.2,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
+2023-09-22,Volt Cyprus,1.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-01-11,Volt Cyprus,1.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-02-09,Volt Cyprus,2.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-02-16,Volt Cyprus,1.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-06-09,Volt Cyprus,2.9,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-10-05,Volt Cyprus,3.2,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-10-16,Volt Cyprus,14.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2024-11-01,Volt Cyprus,5.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-03-11,Volt Cyprus,3.8,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-03-21,Volt Cyprus,5.0,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-06-28,Volt Cyprus,3.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-07-08,Volt Cyprus,2.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-08-11,Volt Cyprus,2.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-09-22,Volt Cyprus,2.3,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-10-17,Volt Cyprus,2.0,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-11-10,Volt Cyprus,3.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-11-13,Volt Cyprus,2.9,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2025-12-03,Volt Cyprus,2.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus

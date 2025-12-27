@@ -2,10 +2,7 @@
   "country": "Bosnia and Herzegovina",
   "iso2": "BA",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2022_Bosnian_general_election"
-    }
+    "https://en.wikipedia.org/wiki/2022_Bosnian_general_election"
   ],
-  "updatedAt": "2025-12-05T23:19:15Z"
+  "updatedAt": "2025-12-23T22:41:18Z"
 }

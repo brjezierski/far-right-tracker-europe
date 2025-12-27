@@ -2,10 +2,11 @@
   "country": "Ireland",
   "iso2": "IE",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Irish_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Irish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Irish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Irish_general_election",
+    "https://en.wikipedia.org/wiki/Next_Irish_general_election"
   ],
-  "updatedAt": "2025-12-05T23:20:07Z"
+  "updatedAt": "2025-12-23T22:45:59Z",
+  "latestTotal": 0.0
 }

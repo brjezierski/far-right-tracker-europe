@@ -1,63 +1,1086 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2024-12-25,DS,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-2025-07-30,DS,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-2025-08-02,DS,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-2025-09-02,DS,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-2025-10-29,DS,4.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-2024-09-27,KP,5.4,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2024-12-25,KP,5.7,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2025-07-30,KP,6.8,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2025-08-02,KP,3.8,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2025-09-02,KP,6.2,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2025-10-29,KP,5.6,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-2024-09-27,MI–SN,4.6,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2024-12-25,MI–SN,5.6,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2025-07-30,MI–SN,3.5,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2025-08-02,MI–SN,4.2,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2025-09-02,MI–SN,2.9,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2025-10-29,MI–SN,3.1,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
-2024-12-25,NADA,3.8,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
-2025-08-02,NADA,2.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
-2024-09-27,NDSS,4.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
-2025-07-30,NDSS,2.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
-2025-09-02,NDSS,2.6,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
-2025-10-29,NDSS,3.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
-2024-09-27,NPS,4.6,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2024-12-25,NPS,4.1,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2025-07-30,NPS,2.5,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2025-08-02,NPS,4.2,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2025-09-02,NPS,3.3,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2025-10-29,NPS,1.6,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-2025-07-30,POKS,0.7,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
-2025-09-02,POKS,0.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
-2025-10-29,POKS,1.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
-2024-09-27,SNS–led coalition,54.0,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2024-12-25,SNS–led coalition,51.1,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2025-07-30,SNS–led coalition,46.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2025-08-02,SNS–led coalition,47.8,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2025-09-02,SNS–led coalition,48.2,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2025-10-29,SNS–led coalition,49.1,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-2024-09-27,SPS – JS,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2024-12-25,SPS – JS,7.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2025-07-30,SPS – JS,6.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2025-08-02,SPS – JS,7.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2025-09-02,SPS – JS,5.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2025-10-29,SPS – JS,4.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-2024-09-27,SRCE,2.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2024-12-25,SRCE,2.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2025-07-30,SRCE,1.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2025-08-02,SRCE,1.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2025-09-02,SRCE,0.9,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2025-10-29,SRCE,0.6,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-2024-09-27,SSP,8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2024-12-25,SSP,7.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2025-07-30,SSP,4.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2025-08-02,SSP,4.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2025-09-02,SSP,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2025-10-29,SSP,2.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-2024-09-27,ZLF,2.7,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-2024-12-25,ZLF,3.0,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-2025-07-30,ZLF,2.1,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-2025-08-02,ZLF,2.5,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-2025-09-02,ZLF,2.0,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-2025-10-29,ZLF,1.4,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2021-12-10,Aleksandar Vučić,46.9,,,
+2022-02-09,Aleksandar Vučić,45.7,,,
+2022-03-28,Aleksandar Vučić,55.1,,,
+2022-03-31,Aleksandar Vučić,60.1,,,
+2018-07-06,Alliance for Serbia,5.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-07-19,Alliance for Serbia,6.3,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-08-08,Alliance for Serbia,9.6,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-09-07,Alliance for Serbia,9.7,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-09-20,Alliance for Serbia,15.3,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-10-11,Alliance for Serbia,11.7,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-11-09,Alliance for Serbia,13.1,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-11-23,Alliance for Serbia,17.3,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-12-06,Alliance for Serbia,13.9,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2018-12-26,Alliance for Serbia,14.4,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-01-20,Alliance for Serbia,14.0,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-02-01,Alliance for Serbia,13.6,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-03-08,Alliance for Serbia,12.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-03-13,Alliance for Serbia,10.0,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-03-16,Alliance for Serbia,13.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-04-05,Alliance for Serbia,9.8,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-04-11,Alliance for Serbia,11.8,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-04-27,Alliance for Serbia,14.5,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-05-08,Alliance for Serbia,10.5,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-06-05,Alliance for Serbia,10.6,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-07-04,Alliance for Serbia,11.1,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-07-07,Alliance for Serbia,11.3,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-07-09,Alliance for Serbia,15.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-08-01,Alliance for Serbia,11.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-09-11,Alliance for Serbia,11.5,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-09-22,Alliance for Serbia,14.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-10-15,Alliance for Serbia,11.2,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-11-04,Alliance for Serbia,8.5,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-12-09,Alliance for Serbia,10.1,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2019-12-24,Alliance for Serbia,14.0,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2020-01-04,Alliance for Serbia,6.0,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2020-01-04,Alliance for Serbia,10.0,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2020-02-04,Alliance for Serbia,10.3,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
+2021-12-10,Boško Obradović,4.0,,,
+2022-02-09,Boško Obradović,8.5,,,
+2022-03-28,Boško Obradović,3.0,,,
+2022-03-31,Boško Obradović,2.8,,,
+2016-05-30,Democratic Party,5.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-06-30,Democratic Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-07-22,Democratic Party,6.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-08-08,Democratic Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-09-08,Democratic Party,4.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-10-11,Democratic Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-11-16,Democratic Party,5.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-12-26,Democratic Party,6.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-12-30,Democratic Party,4.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-01-31,Democratic Party,6.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-03-07,Democratic Party,7.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-04-24,Democratic Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-05-17,Democratic Party,6.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-05-31,Democratic Party,7.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-07-06,Democratic Party,8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-07-28,Democratic Party,4.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-07-31,Democratic Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-08-10,Democratic Party,7.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-08-27,Democratic Party,4.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-10-08,Democratic Party,6.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-10-23,Democratic Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-11-09,Democratic Party,6.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-11-10,Democratic Party,5.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-12-05,Democratic Party,6.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2017-12-25,Democratic Party,7.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-01-04,Democratic Party,9.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-01-29,Democratic Party,6.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-03-08,Democratic Party,3.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-04-06,Democratic Party,3.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-05-06,Democratic Party,3.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-06-07,Democratic Party,3.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-07-06,Democratic Party,3.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2018-07-19,Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2020-12-19,Democratic Party,0.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-01-01,Democratic Party,1.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-06-27,Democratic Party,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-07-31,Democratic Party,1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-08-03,Democratic Party,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-09-29,Democratic Party,1.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2021-10-31,Democratic Party,1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2022-06-29,Democratic Party,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2022-07-27,Democratic Party,1.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2022-10-25,Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2022-11-01,Democratic Party,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2022-12-12,Democratic Party,1.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-02-13,Democratic Party,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-02-14,Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-02-22,Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-04-05,Democratic Party,1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-04-11,Democratic Party,1.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-04-27,Democratic Party,2.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-06-02,Democratic Party,2.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-07-23,Democratic Party,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-09-19,Democratic Party,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-09-28,Democratic Party,2.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-10-13,Democratic Party,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2023-10-22,Democratic Party,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2024-12-25,Democratic Party,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2025-07-30,Democratic Party,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2025-08-02,Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2025-09-02,Democratic Party,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
+2016-07-22,Democratic Party of Serbia,2.8,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2016-08-08,Democratic Party of Serbia,2.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2016-09-08,Democratic Party of Serbia,2.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2016-10-11,Democratic Party of Serbia,2.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2016-12-30,Democratic Party of Serbia,1.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-03-08,Democratic Party of Serbia,1.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-04-06,Democratic Party of Serbia,1.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-05-06,Democratic Party of Serbia,1.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-06-07,Democratic Party of Serbia,1.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-07-06,Democratic Party of Serbia,1.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-08-08,Democratic Party of Serbia,1.8,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-09-07,Democratic Party of Serbia,1.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-10-11,Democratic Party of Serbia,1.9,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-11-09,Democratic Party of Serbia,2.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-12-06,Democratic Party of Serbia,2.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2018-12-26,Democratic Party of Serbia,2.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-01-20,Democratic Party of Serbia,1.5,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-02-01,Democratic Party of Serbia,2.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-03-08,Democratic Party of Serbia,2.8,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-03-16,Democratic Party of Serbia,1.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-04-05,Democratic Party of Serbia,2.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-04-11,Democratic Party of Serbia,2.9,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-04-27,Democratic Party of Serbia,1.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-07-04,Democratic Party of Serbia,3.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-07-07,Democratic Party of Serbia,0.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-08-01,Democratic Party of Serbia,2.9,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-09-11,Democratic Party of Serbia,2.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-10-15,Democratic Party of Serbia,2.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-11-04,Democratic Party of Serbia,2.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-12-09,Democratic Party of Serbia,2.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2019-12-24,Democratic Party of Serbia,1.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-01-04,Democratic Party of Serbia,2.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-02-04,Democratic Party of Serbia,2.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-03-09,Democratic Party of Serbia,3.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-04,Democratic Party of Serbia,2.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-07,Democratic Party of Serbia,3.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-12,Democratic Party of Serbia,3.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-18,Democratic Party of Serbia,3.5,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-18,Democratic Party of Serbia,3.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-06-19,Democratic Party of Serbia,1.8,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2020-12-19,Democratic Party of Serbia,2.9,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2021-01-01,Democratic Party of Serbia,2.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2021-06-27,Democratic Party of Serbia,1.9,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
+2022-06-29,Do not let Belgrade drown,4.0,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2022-10-25,Do not let Belgrade drown,4.3,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2022-11-01,Do not let Belgrade drown,1.2,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2022-12-12,Do not let Belgrade drown,3.7,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-02-13,Do not let Belgrade drown,3.3,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-02-14,Do not let Belgrade drown,1.6,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-02-22,Do not let Belgrade drown,2.3,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-04-05,Do not let Belgrade drown,3.2,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-04-11,Do not let Belgrade drown,3.0,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-06-02,Do not let Belgrade drown,1.8,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-07-23,Do not let Belgrade drown,2.3,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-07-28,Do not let Belgrade drown,3.7,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-09-19,Do not let Belgrade drown,4.0,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-09-28,Do not let Belgrade drown,2.3,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-10-13,Do not let Belgrade drown,3.8,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-10-13,Do not let Belgrade drown,2.4,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2023-10-22,Do not let Belgrade drown,2.7,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
+2016-05-30,Dveri,5.6,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-06-30,Dveri,5.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-07-22,Dveri,4.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-08-08,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-09-08,Dveri,3.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-10-11,Dveri,3.2,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-11-16,Dveri,3.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2016-12-30,Dveri,4.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-01-31,Dveri,3.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-03-07,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-04-24,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-05-17,Dveri,3.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-05-31,Dveri,2.7,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-07-06,Dveri,2.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-07-28,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-07-31,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-08-10,Dveri,2.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-08-27,Dveri,4.4,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-10-08,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-10-23,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-11-09,Dveri,3.2,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-11-10,Dveri,5.2,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-12-05,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2017-12-25,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-01-04,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-01-29,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-03-08,Dveri,2.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-04-06,Dveri,2.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-05-06,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-06-07,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-07-06,Dveri,2.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2018-07-19,Dveri,2.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2020-09-04,Dveri,2.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2020-12-19,Dveri,2.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-01-01,Dveri,1.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-02-18,Dveri,1.5,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-06-27,Dveri,1.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-07-31,Dveri,1.6,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-08-03,Dveri,2.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-09-29,Dveri,1.7,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-10-31,Dveri,1.5,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-12-02,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-12-10,Dveri,1.2,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2021-12-20,Dveri,1.4,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-01-30,Dveri,1.7,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-02-09,Dveri,5.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-02-17,Dveri,2.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-07,Dveri,2.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-14,Dveri,2.6,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-28,Dveri,2.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-29,Dveri,2.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-29,Dveri,2.2,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-03-31,Dveri,2.4,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-06-29,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-07-27,Dveri,3.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-10-25,Dveri,3.4,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-11-01,Dveri,3.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2022-12-12,Dveri,3.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-02-13,Dveri,3.3,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-02-14,Dveri,3.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-02-22,Dveri,3.8,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-04-05,Dveri,4.5,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-04-11,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-04-27,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-06-02,Dveri,4.0,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-07-23,Dveri,3.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-07-28,Dveri,2.6,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-09-19,Dveri,2.6,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-09-28,Dveri,3.1,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-10-13,Dveri,3.9,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
+2023-02-14,Ecological Uprising,3.7,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-04-27,Ecological Uprising,3.8,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-06-02,Ecological Uprising,4.3,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-07-23,Ecological Uprising,3.4,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-09-19,Ecological Uprising,3.1,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-09-28,Ecological Uprising,2.6,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-10-13,Ecological Uprising,3.5,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-10-13,Ecological Uprising,2.3,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2023-10-22,Ecological Uprising,3.6,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
+2016-05-30,Enough is Enough,7.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-06-30,Enough is Enough,7.4,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-07-22,Enough is Enough,6.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-08-08,Enough is Enough,7.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-09-08,Enough is Enough,6.3,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-10-11,Enough is Enough,7.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-11-16,Enough is Enough,7.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-12-26,Enough is Enough,7.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2016-12-30,Enough is Enough,7.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-01-31,Enough is Enough,7.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-03-07,Enough is Enough,6.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-04-24,Enough is Enough,2.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-05-17,Enough is Enough,2.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-05-31,Enough is Enough,3.7,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-07-06,Enough is Enough,2.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-07-28,Enough is Enough,3.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-07-31,Enough is Enough,4.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-08-10,Enough is Enough,2.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-08-27,Enough is Enough,2.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-10-08,Enough is Enough,2.3,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-10-23,Enough is Enough,3.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-11-09,Enough is Enough,2.6,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-11-10,Enough is Enough,2.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-12-05,Enough is Enough,2.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2017-12-25,Enough is Enough,3.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-01-04,Enough is Enough,4.7,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-01-29,Enough is Enough,2.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-03-08,Enough is Enough,1.7,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-04-06,Enough is Enough,1.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-09-20,Enough is Enough,1.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2018-11-23,Enough is Enough,0.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-01-20,Enough is Enough,2.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-02-01,Enough is Enough,1.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-04-05,Enough is Enough,3.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-08-01,Enough is Enough,2.3,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-09-22,Enough is Enough,1.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2019-11-04,Enough is Enough,3.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-04-24,Enough is Enough,1.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-04,Enough is Enough,2.1,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-07,Enough is Enough,2.6,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-12,Enough is Enough,2.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-18,Enough is Enough,2.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-18,Enough is Enough,2.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-06-19,Enough is Enough,2.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2020-12-19,Enough is Enough,5.3,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-01-01,Enough is Enough,3.7,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-02-18,Enough is Enough,3.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-04-05,Enough is Enough,4.4,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-05-10,Enough is Enough,3.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-06-27,Enough is Enough,3.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-07-31,Enough is Enough,2.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-08-03,Enough is Enough,3.8,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-09-29,Enough is Enough,3.6,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-10-31,Enough is Enough,3.4,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-12-10,Enough is Enough,2.5,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2021-12-20,Enough is Enough,2.4,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2022-02-09,Enough is Enough,2.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
+2024-09-27,Green–Left Front,2.7,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2024-12-25,Green–Left Front,3.0,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2025-07-30,Green–Left Front,2.1,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2025-08-02,Green–Left Front,2.5,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2025-09-02,Green–Left Front,2.0,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
+2021-01-01,Healthy Serbia,0.8,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
+2021-06-27,Healthy Serbia,0.8,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
+2021-09-29,Healthy Serbia,1.2,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
+2021-12-10,Healthy Serbia,1.0,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
+2021-12-20,Healthy Serbia,1.2,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
+2024-09-27,Kreni-Promeni,5.4,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+2024-12-25,Kreni-Promeni,5.7,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+2025-07-30,Kreni-Promeni,6.8,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+2025-08-02,Kreni-Promeni,3.8,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+2025-09-02,Kreni-Promeni,6.2,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
+2021-12-10,Milica Đurđević,2.1,,,
+2022-02-09,Milica Đurđević,16.1,,,
+2022-03-28,Milica Đurđević,3.0,,,
+2022-03-31,Milica Đurđević,4.9,,,
+2021-12-10,Miloš Jovanović,5.6,,,
+2022-02-09,Miloš Jovanović,5.3,,,
+2022-03-28,Miloš Jovanović,4.4,,,
+2022-03-31,Miloš Jovanović,5.5,,,
+2020-03-09,Movement for the Restoration of the Kingdom of Serbia,2.1,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-04,Movement for the Restoration of the Kingdom of Serbia,1.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-07,Movement for the Restoration of the Kingdom of Serbia,2.1,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-12,Movement for the Restoration of the Kingdom of Serbia,2.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-18,Movement for the Restoration of the Kingdom of Serbia,1.8,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-18,Movement for the Restoration of the Kingdom of Serbia,2.5,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-06-19,Movement for the Restoration of the Kingdom of Serbia,2.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2021-01-01,Movement for the Restoration of the Kingdom of Serbia,2.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2017-04-24,Movement of Free Citizens,11.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-05-17,Movement of Free Citizens,10.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-05-31,Movement of Free Citizens,8.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-07-06,Movement of Free Citizens,7.9,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-07-28,Movement of Free Citizens,7.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-07-31,Movement of Free Citizens,11.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-08-10,Movement of Free Citizens,7.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-08-27,Movement of Free Citizens,10.3,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-10-08,Movement of Free Citizens,7.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-10-23,Movement of Free Citizens,8.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-11-09,Movement of Free Citizens,7.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-11-10,Movement of Free Citizens,16.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-12-05,Movement of Free Citizens,5.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2017-12-25,Movement of Free Citizens,5.7,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-01-04,Movement of Free Citizens,11.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-01-29,Movement of Free Citizens,4.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-03-08,Movement of Free Citizens,3.9,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-04-06,Movement of Free Citizens,2.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-05-06,Movement of Free Citizens,1.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-06-07,Movement of Free Citizens,1.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-07-06,Movement of Free Citizens,2.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-07-19,Movement of Free Citizens,1.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-08-08,Movement of Free Citizens,3.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-09-07,Movement of Free Citizens,3.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-09-20,Movement of Free Citizens,4.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-10-11,Movement of Free Citizens,3.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-11-09,Movement of Free Citizens,3.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-11-23,Movement of Free Citizens,1.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-12-06,Movement of Free Citizens,3.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2018-12-26,Movement of Free Citizens,1.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-01-20,Movement of Free Citizens,3.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-02-01,Movement of Free Citizens,2.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-03-08,Movement of Free Citizens,5.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-03-13,Movement of Free Citizens,8.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-03-16,Movement of Free Citizens,4.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-04-05,Movement of Free Citizens,6.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-04-11,Movement of Free Citizens,5.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-04-27,Movement of Free Citizens,4.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-05-08,Movement of Free Citizens,5.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-06-05,Movement of Free Citizens,5.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-07-04,Movement of Free Citizens,5.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-07-07,Movement of Free Citizens,3.7,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-07-09,Movement of Free Citizens,3.9,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-08-01,Movement of Free Citizens,5.3,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-09-11,Movement of Free Citizens,5.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-09-22,Movement of Free Citizens,4.3,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-10-15,Movement of Free Citizens,5.7,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-11-04,Movement of Free Citizens,5.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-12-09,Movement of Free Citizens,6.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2019-12-24,Movement of Free Citizens,3.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-01-04,Movement of Free Citizens,3.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-01-04,Movement of Free Citizens,6.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-02-04,Movement of Free Citizens,6.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-03-09,Movement of Free Citizens,2.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-04-24,Movement of Free Citizens,3.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-04,Movement of Free Citizens,3.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-07,Movement of Free Citizens,3.6,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-12,Movement of Free Citizens,3.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-18,Movement of Free Citizens,3.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-18,Movement of Free Citizens,3.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-06-19,Movement of Free Citizens,3.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2020-12-19,Movement of Free Citizens,2.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-01-01,Movement of Free Citizens,0.8,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-02-18,Movement of Free Citizens,1.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-06-27,Movement of Free Citizens,0.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-07-31,Movement of Free Citizens,1.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-08-03,Movement of Free Citizens,1.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-09-29,Movement of Free Citizens,1.3,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-10-31,Movement of Free Citizens,1.5,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2022-07-27,Movement of Free Citizens,1.4,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2022-10-25,Movement of Free Citizens,1.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2022-12-12,Movement of Free Citizens,1.0,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-02-13,Movement of Free Citizens,1.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-02-22,Movement of Free Citizens,2.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-04-05,Movement of Free Citizens,2.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-04-11,Movement of Free Citizens,1.2,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-09-19,Movement of Free Citizens,1.9,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2023-10-13,Movement of Free Citizens,1.1,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
+2021-02-18,National Democratic Alternative,3.7,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-05-10,National Democratic Alternative,3.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-07-31,National Democratic Alternative,3.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-08-03,National Democratic Alternative,4.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-09-29,National Democratic Alternative,4.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-10-31,National Democratic Alternative,4.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-12-10,National Democratic Alternative,2.2,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2021-12-20,National Democratic Alternative,4.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-01-30,National Democratic Alternative,4.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-02-04,National Democratic Alternative,3.2,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-02-09,National Democratic Alternative,2.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-02-17,National Democratic Alternative,2.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-07,National Democratic Alternative,3.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-14,National Democratic Alternative,3.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-28,National Democratic Alternative,3.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-29,National Democratic Alternative,2.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-29,National Democratic Alternative,3.8,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-03-31,National Democratic Alternative,4.2,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-10-25,National Democratic Alternative,5.7,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2022-12-12,National Democratic Alternative,4.5,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-02-13,National Democratic Alternative,4.7,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-04-11,National Democratic Alternative,4.5,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-10-13,National Democratic Alternative,4.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-10-22,National Democratic Alternative,4.2,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-11-15,National Democratic Alternative,4.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-12-12,National Democratic Alternative,5.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-12-14,National Democratic Alternative,5.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-12-14,National Democratic Alternative,4.9,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
+2023-10-13,National Gathering,11.0,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2023-10-22,National Gathering,5.6,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2023-11-15,National Gathering,5.1,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2023-12-12,National Gathering,6.5,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2023-12-14,National Gathering,6.1,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2023-12-14,National Gathering,3.2,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
+2022-06-29,New Democratic Party of Serbia,6.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2022-07-27,New Democratic Party of Serbia,6.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2022-11-01,New Democratic Party of Serbia,5.5,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-02-14,New Democratic Party of Serbia,5.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-02-22,New Democratic Party of Serbia,3.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-04-05,New Democratic Party of Serbia,5.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-04-27,New Democratic Party of Serbia,4.4,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-06-02,New Democratic Party of Serbia,4.6,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-07-23,New Democratic Party of Serbia,4.2,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-07-28,New Democratic Party of Serbia,3.6,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-09-19,New Democratic Party of Serbia,3.0,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-09-28,New Democratic Party of Serbia,3.6,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-10-13,New Democratic Party of Serbia,3.1,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2024-09-27,New Democratic Party of Serbia,4.3,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2025-07-30,New Democratic Party of Serbia,2.7,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2025-09-02,New Democratic Party of Serbia,2.6,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
+2023-02-22,POKS,2.4,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2023-04-05,POKS,1.7,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2023-04-27,POKS,1.0,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2023-06-02,POKS,1.3,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
+2020-09-04,Party of Freedom and Justice,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2020-12-19,Party of Freedom and Justice,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-01-01,Party of Freedom and Justice,1.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-02-18,Party of Freedom and Justice,3.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-04-05,Party of Freedom and Justice,3.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-05-10,Party of Freedom and Justice,3.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-06-27,Party of Freedom and Justice,4.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-07-31,Party of Freedom and Justice,6.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-08-03,Party of Freedom and Justice,4.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-09-29,Party of Freedom and Justice,5.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2021-10-31,Party of Freedom and Justice,5.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2022-06-29,Party of Freedom and Justice,10.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2022-07-27,Party of Freedom and Justice,5.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2022-10-25,Party of Freedom and Justice,6.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2022-11-01,Party of Freedom and Justice,4.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2022-12-12,Party of Freedom and Justice,7.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-02-13,Party of Freedom and Justice,7.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-02-14,Party of Freedom and Justice,4.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-02-22,Party of Freedom and Justice,4.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-04-05,Party of Freedom and Justice,4.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-04-11,Party of Freedom and Justice,6.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-04-27,Party of Freedom and Justice,4.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-06-02,Party of Freedom and Justice,3.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-07-23,Party of Freedom and Justice,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-07-28,Party of Freedom and Justice,9.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-09-19,Party of Freedom and Justice,9.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-09-28,Party of Freedom and Justice,4.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-10-13,Party of Freedom and Justice,8.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-10-13,Party of Freedom and Justice,8.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2024-09-27,Party of Freedom and Justice,8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2024-12-25,Party of Freedom and Justice,7.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2025-07-30,Party of Freedom and Justice,4.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2025-08-02,Party of Freedom and Justice,4.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2025-09-02,Party of Freedom and Justice,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
+2023-09-19,People's Movement of Serbia,5.5,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2023-09-28,People's Movement of Serbia,2.8,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2023-10-13,People's Movement of Serbia,7.7,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2023-10-13,People's Movement of Serbia,5.9,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2023-10-22,People's Movement of Serbia,3.1,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2024-09-27,People's Movement of Serbia,4.6,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2024-12-25,People's Movement of Serbia,4.1,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2025-07-30,People's Movement of Serbia,2.5,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2025-08-02,People's Movement of Serbia,4.2,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2025-09-02,People's Movement of Serbia,3.3,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
+2017-05-17,People's Party,4.9,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2017-08-27,People's Party,3.1,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2017-11-09,People's Party,3.3,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2017-11-10,People's Party,3.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2017-12-05,People's Party,3.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2017-12-25,People's Party,3.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-01-04,People's Party,3.1,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-01-29,People's Party,3.9,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-03-08,People's Party,3.0,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-04-06,People's Party,3.4,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-05-06,People's Party,3.6,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-06-07,People's Party,3.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-07-06,People's Party,3.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2018-07-19,People's Party,2.9,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2020-09-04,People's Party,2.3,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2020-12-19,People's Party,1.1,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-01-01,People's Party,0.3,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-02-18,People's Party,2.4,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-06-27,People's Party,1.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-07-31,People's Party,4.9,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-08-03,People's Party,2.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-09-29,People's Party,2.7,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2021-10-31,People's Party,2.7,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2022-07-27,People's Party,1.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2022-10-25,People's Party,2.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2022-11-01,People's Party,2.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2022-12-12,People's Party,2.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-02-13,People's Party,2.7,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-02-14,People's Party,3.1,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-02-22,People's Party,2.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-04-05,People's Party,2.6,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-04-11,People's Party,2.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-04-27,People's Party,3.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-06-02,People's Party,3.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-07-23,People's Party,3.4,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-07-28,People's Party,2.1,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-09-19,People's Party,0.5,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-09-28,People's Party,2.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-10-13,People's Party,1.7,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-10-22,People's Party,3.3,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-11-15,People's Party,3.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-12-12,People's Party,2.8,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-12-14,People's Party,1.3,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-12-14,People's Party,1.2,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
+2023-10-22,Serbia Against Violence,6.2,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
+2023-11-15,Serbia Against Violence,25.8,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
+2023-12-12,Serbia Against Violence,25.6,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
+2023-12-14,Serbia Against Violence,27.1,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
+2023-12-14,Serbia Against Violence,23.6,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
+2022-07-27,Serbia Centre,5.9,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2022-11-01,Serbia Centre,4.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2022-12-12,Serbia Centre,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-02-13,Serbia Centre,2.2,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-02-14,Serbia Centre,5.2,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-02-22,Serbia Centre,4.3,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-04-05,Serbia Centre,2.9,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-04-11,Serbia Centre,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-04-27,Serbia Centre,3.9,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-06-02,Serbia Centre,3.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-07-23,Serbia Centre,3.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-07-28,Serbia Centre,4.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-09-19,Serbia Centre,4.4,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-09-28,Serbia Centre,3.2,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-10-13,Serbia Centre,4.3,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-10-13,Serbia Centre,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2023-10-22,Serbia Centre,3.8,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2024-09-27,Serbia Centre,2.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2024-12-25,Serbia Centre,2.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2025-07-30,Serbia Centre,1.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2025-08-02,Serbia Centre,1.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2025-09-02,Serbia Centre,0.9,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
+2020-03-09,Serbia Must Not Stop,59.8,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-04-24,Serbia Must Not Stop,41.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-04,Serbia Must Not Stop,41.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-07,Serbia Must Not Stop,61.0,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-12,Serbia Must Not Stop,58.2,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-18,Serbia Must Not Stop,58.0,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-18,Serbia Must Not Stop,60.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-06-19,Serbia Must Not Stop,58.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2024-09-27,Serbia Must Not Stop,54.0,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2024-12-25,Serbia Must Not Stop,51.1,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2025-07-30,Serbia Must Not Stop,46.6,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2025-08-02,Serbia Must Not Stop,47.8,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2025-09-02,Serbia Must Not Stop,48.2,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
+2020-03-09,Serbian Party Oathkeepers,2.3,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-04,Serbian Party Oathkeepers,2.1,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-07,Serbian Party Oathkeepers,2.2,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-12,Serbian Party Oathkeepers,2.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-18,Serbian Party Oathkeepers,1.8,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-18,Serbian Party Oathkeepers,2.7,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2020-06-19,Serbian Party Oathkeepers,1.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-01-01,Serbian Party Oathkeepers,1.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-02-18,Serbian Party Oathkeepers,2.2,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-06-27,Serbian Party Oathkeepers,1.9,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-07-31,Serbian Party Oathkeepers,1.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-08-03,Serbian Party Oathkeepers,2.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-10-31,Serbian Party Oathkeepers,2.9,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-12-10,Serbian Party Oathkeepers,2.8,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2021-12-20,Serbian Party Oathkeepers,3.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-01-30,Serbian Party Oathkeepers,3.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-02-04,Serbian Party Oathkeepers,2.7,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-02-17,Serbian Party Oathkeepers,3.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-07,Serbian Party Oathkeepers,3.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-14,Serbian Party Oathkeepers,3.2,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-28,Serbian Party Oathkeepers,3.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-29,Serbian Party Oathkeepers,2.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-29,Serbian Party Oathkeepers,3.7,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-03-31,Serbian Party Oathkeepers,3.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-06-29,Serbian Party Oathkeepers,3.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-07-27,Serbian Party Oathkeepers,3.8,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-10-25,Serbian Party Oathkeepers,4.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-11-01,Serbian Party Oathkeepers,3.9,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2022-12-12,Serbian Party Oathkeepers,3.9,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-02-13,Serbian Party Oathkeepers,4.3,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-02-14,Serbian Party Oathkeepers,3.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-02-22,Serbian Party Oathkeepers,4.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-04-05,Serbian Party Oathkeepers,3.1,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-04-11,Serbian Party Oathkeepers,4.5,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-04-27,Serbian Party Oathkeepers,3.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-06-02,Serbian Party Oathkeepers,3.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-07-23,Serbian Party Oathkeepers,3.6,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-07-28,Serbian Party Oathkeepers,3.1,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-09-19,Serbian Party Oathkeepers,3.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-09-28,Serbian Party Oathkeepers,3.0,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2023-10-13,Serbian Party Oathkeepers,3.4,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
+2018-09-07,Serbian Patriotic Alliance,1.8,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-09-20,Serbian Patriotic Alliance,4.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-10-11,Serbian Patriotic Alliance,2.5,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-11-09,Serbian Patriotic Alliance,2.7,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-11-23,Serbian Patriotic Alliance,2.8,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-12-06,Serbian Patriotic Alliance,2.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2018-12-26,Serbian Patriotic Alliance,2.8,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-01-20,Serbian Patriotic Alliance,3.0,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-02-01,Serbian Patriotic Alliance,2.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-03-08,Serbian Patriotic Alliance,3.1,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-03-16,Serbian Patriotic Alliance,2.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-04-05,Serbian Patriotic Alliance,3.0,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-04-11,Serbian Patriotic Alliance,3.2,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-04-27,Serbian Patriotic Alliance,1.5,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-05-08,Serbian Patriotic Alliance,6.6,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-06-05,Serbian Patriotic Alliance,6.7,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-07-04,Serbian Patriotic Alliance,3.5,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-07-07,Serbian Patriotic Alliance,2.7,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-07-09,Serbian Patriotic Alliance,4.1,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-08-01,Serbian Patriotic Alliance,3.5,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-09-11,Serbian Patriotic Alliance,3.8,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-09-22,Serbian Patriotic Alliance,2.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-10-15,Serbian Patriotic Alliance,4.0,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-11-04,Serbian Patriotic Alliance,3.6,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-12-09,Serbian Patriotic Alliance,4.1,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2019-12-24,Serbian Patriotic Alliance,2.3,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-01-04,Serbian Patriotic Alliance,2.0,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-01-04,Serbian Patriotic Alliance,4.3,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-02-04,Serbian Patriotic Alliance,4.3,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-03-09,Serbian Patriotic Alliance,4.8,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-04-24,Serbian Patriotic Alliance,3.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-04,Serbian Patriotic Alliance,4.3,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-07,Serbian Patriotic Alliance,4.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-12,Serbian Patriotic Alliance,4.9,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-18,Serbian Patriotic Alliance,4.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-18,Serbian Patriotic Alliance,5.1,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-06-19,Serbian Patriotic Alliance,4.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-09-04,Serbian Patriotic Alliance,5.1,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2020-12-19,Serbian Patriotic Alliance,6.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2021-01-01,Serbian Patriotic Alliance,3.6,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2021-02-18,Serbian Patriotic Alliance,4.2,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2021-04-05,Serbian Patriotic Alliance,3.6,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2021-05-10,Serbian Patriotic Alliance,3.4,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
+2016-05-30,Serbian Progressive Party,50.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-06-30,Serbian Progressive Party,51.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-07-22,Serbian Progressive Party,47.5,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-08-08,Serbian Progressive Party,51.9,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-09-08,Serbian Progressive Party,51.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-10-11,Serbian Progressive Party,51.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-11-16,Serbian Progressive Party,51.5,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-12-26,Serbian Progressive Party,51.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-12-30,Serbian Progressive Party,51.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-01-31,Serbian Progressive Party,51.2,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-03-07,Serbian Progressive Party,50.6,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-04-24,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-05-17,Serbian Progressive Party,47.7,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-05-31,Serbian Progressive Party,52.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-07-06,Serbian Progressive Party,52.2,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-07-28,Serbian Progressive Party,52.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-07-31,Serbian Progressive Party,54.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-08-10,Serbian Progressive Party,52.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-08-27,Serbian Progressive Party,46.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-10-08,Serbian Progressive Party,52.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-10-23,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-11-09,Serbian Progressive Party,52.9,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-11-10,Serbian Progressive Party,44.2,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-12-05,Serbian Progressive Party,53.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2017-12-25,Serbian Progressive Party,53.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-01-04,Serbian Progressive Party,45.6,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-01-29,Serbian Progressive Party,53.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-03-08,Serbian Progressive Party,54.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-04-06,Serbian Progressive Party,56.7,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-05-06,Serbian Progressive Party,56.9,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-06-07,Serbian Progressive Party,55.3,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-07-06,Serbian Progressive Party,54.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-07-19,Serbian Progressive Party,50.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-08-08,Serbian Progressive Party,54.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-09-07,Serbian Progressive Party,54.7,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-09-20,Serbian Progressive Party,53.3,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-10-11,Serbian Progressive Party,54.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-11-09,Serbian Progressive Party,53.6,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-11-23,Serbian Progressive Party,48.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-12-06,Serbian Progressive Party,53.5,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2018-12-26,Serbian Progressive Party,53.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-01-20,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-02-01,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-03-08,Serbian Progressive Party,55.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-03-13,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-03-16,Serbian Progressive Party,43.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-04-05,Serbian Progressive Party,53.9,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-04-11,Serbian Progressive Party,54.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-04-27,Serbian Progressive Party,44.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-05-08,Serbian Progressive Party,55.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-06-05,Serbian Progressive Party,51.3,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-07-04,Serbian Progressive Party,53.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-07-07,Serbian Progressive Party,44.5,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-07-09,Serbian Progressive Party,50.7,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-08-01,Serbian Progressive Party,52.3,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-09-11,Serbian Progressive Party,52.4,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-09-22,Serbian Progressive Party,43.8,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-10-15,Serbian Progressive Party,52.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-11-04,Serbian Progressive Party,56.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-12-09,Serbian Progressive Party,52.9,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2019-12-24,Serbian Progressive Party,43.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2020-01-04,Serbian Progressive Party,34.0,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2020-01-04,Serbian Progressive Party,53.1,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2020-02-04,Serbian Progressive Party,53.6,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
+2016-05-30,Serbian Radical Party,8.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-06-30,Serbian Radical Party,7.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-07-22,Serbian Radical Party,7.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-08-08,Serbian Radical Party,7.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-09-08,Serbian Radical Party,8.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-10-11,Serbian Radical Party,8.9,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-11-16,Serbian Radical Party,8.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-12-26,Serbian Radical Party,8.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2016-12-30,Serbian Radical Party,7.9,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-01-31,Serbian Radical Party,8.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-03-07,Serbian Radical Party,8.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-04-24,Serbian Radical Party,5.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-05-17,Serbian Radical Party,5.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-05-31,Serbian Radical Party,5.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-07-06,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-07-28,Serbian Radical Party,5.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-07-31,Serbian Radical Party,5.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-08-10,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-08-27,Serbian Radical Party,5.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-10-08,Serbian Radical Party,4.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-10-23,Serbian Radical Party,6.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-11-09,Serbian Radical Party,4.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-11-10,Serbian Radical Party,5.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-12-05,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2017-12-25,Serbian Radical Party,5.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-01-04,Serbian Radical Party,4.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-01-29,Serbian Radical Party,4.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-03-08,Serbian Radical Party,2.9,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-04-06,Serbian Radical Party,2.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-05-06,Serbian Radical Party,2.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-06-07,Serbian Radical Party,2.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-07-06,Serbian Radical Party,4.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-07-19,Serbian Radical Party,3.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-08-08,Serbian Radical Party,4.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-09-07,Serbian Radical Party,4.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-09-20,Serbian Radical Party,4.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-10-11,Serbian Radical Party,3.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-11-09,Serbian Radical Party,4.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-11-23,Serbian Radical Party,2.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-12-06,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2018-12-26,Serbian Radical Party,4.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-01-20,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-02-01,Serbian Radical Party,4.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-03-08,Serbian Radical Party,3.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-03-13,Serbian Radical Party,4.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-03-16,Serbian Radical Party,2.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-04-05,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-04-11,Serbian Radical Party,3.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-04-27,Serbian Radical Party,2.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-05-08,Serbian Radical Party,3.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-06-05,Serbian Radical Party,5.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-07-04,Serbian Radical Party,5.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-07-07,Serbian Radical Party,2.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-08-01,Serbian Radical Party,4.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-09-11,Serbian Radical Party,4.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-09-22,Serbian Radical Party,2.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-10-15,Serbian Radical Party,3.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-11-04,Serbian Radical Party,5.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-12-09,Serbian Radical Party,3.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2019-12-24,Serbian Radical Party,2.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-01-04,Serbian Radical Party,3.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-01-04,Serbian Radical Party,3.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-02-04,Serbian Radical Party,3.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-03-09,Serbian Radical Party,3.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-04-24,Serbian Radical Party,3.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-04,Serbian Radical Party,2.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-07,Serbian Radical Party,3.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-12,Serbian Radical Party,3.4,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-18,Serbian Radical Party,2.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-18,Serbian Radical Party,3.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-06-19,Serbian Radical Party,2.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-12-19,Serbian Radical Party,3.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-01-01,Serbian Radical Party,2.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-02-18,Serbian Radical Party,1.4,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-06-27,Serbian Radical Party,1.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-07-31,Serbian Radical Party,1.4,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-08-03,Serbian Radical Party,1.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-09-29,Serbian Radical Party,1.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-10-31,Serbian Radical Party,1.4,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-12-10,Serbian Radical Party,0.6,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2021-12-20,Serbian Radical Party,1.4,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-01-30,Serbian Radical Party,1.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-02-04,Serbian Radical Party,2.5,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-02-09,Serbian Radical Party,2.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-02-17,Serbian Radical Party,2.1,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-07,Serbian Radical Party,1.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-14,Serbian Radical Party,1.3,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-28,Serbian Radical Party,1.2,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-29,Serbian Radical Party,1.8,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-29,Serbian Radical Party,2.0,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2022-03-31,Serbian Radical Party,1.7,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
+2020-03-09,Serbian protests,2.8,,,
+2020-04-24,Serbian protests,2.5,,,
+2020-06-04,Serbian protests,1.0,,,
+2020-06-07,Serbian protests,1.3,,,
+2020-06-18,Serbian protests,0.9,,,
+2020-06-19,Serbian protests,2.2,,,
+2021-01-01,Social Democratic Party,0.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2021-06-27,Social Democratic Party,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2021-12-10,Social Democratic Party,0.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-02-04,Social Democratic Party,1.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-02-17,Social Democratic Party,2.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-07,Social Democratic Party,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-14,Social Democratic Party,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-28,Social Democratic Party,2.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-29,Social Democratic Party,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-29,Social Democratic Party,2.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2022-03-31,Social Democratic Party,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
+2016-05-30,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-06-30,Socialist Party of Serbia,10.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-07-22,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-08-08,Socialist Party of Serbia,10.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-09-08,Socialist Party of Serbia,10.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-10-11,Socialist Party of Serbia,10.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-11-16,Socialist Party of Serbia,10.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-12-26,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2016-12-30,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-01-31,Socialist Party of Serbia,10.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-03-07,Socialist Party of Serbia,10.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-04-24,Socialist Party of Serbia,8.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-05-17,Socialist Party of Serbia,10.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-05-31,Socialist Party of Serbia,9.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-07-06,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-07-28,Socialist Party of Serbia,8.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-07-31,Socialist Party of Serbia,8.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-08-10,Socialist Party of Serbia,9.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-08-27,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-10-08,Socialist Party of Serbia,9.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-10-23,Socialist Party of Serbia,8.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-11-09,Socialist Party of Serbia,9.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-11-10,Socialist Party of Serbia,8.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-12-05,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2017-12-25,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-01-04,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-01-29,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-03-08,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-04-06,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-05-06,Socialist Party of Serbia,9.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-06-07,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-07-06,Socialist Party of Serbia,8.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-07-19,Socialist Party of Serbia,9.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-08-08,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-09-07,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-09-20,Socialist Party of Serbia,8.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-10-11,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-11-09,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-11-23,Socialist Party of Serbia,11.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-12-06,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2018-12-26,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-01-20,Socialist Party of Serbia,12.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-02-01,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-03-08,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-03-13,Socialist Party of Serbia,12.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-03-16,Socialist Party of Serbia,8.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-04-05,Socialist Party of Serbia,12.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-04-11,Socialist Party of Serbia,10.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-04-27,Socialist Party of Serbia,9.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-05-08,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-06-05,Socialist Party of Serbia,9.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-07-04,Socialist Party of Serbia,9.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-07-07,Socialist Party of Serbia,8.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-07-09,Socialist Party of Serbia,6.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-08-01,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-09-11,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-09-22,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-10-15,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-11-04,Socialist Party of Serbia,12.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-12-09,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2019-12-24,Socialist Party of Serbia,11.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-01-04,Socialist Party of Serbia,7.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-01-04,Socialist Party of Serbia,9.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-02-04,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-03-09,Socialist Party of Serbia,15.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-04-24,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-04,Socialist Party of Serbia,10.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-07,Socialist Party of Serbia,13.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-12,Socialist Party of Serbia,12.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-18,Socialist Party of Serbia,12.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-18,Socialist Party of Serbia,13.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-06-19,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-09-04,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2020-12-19,Socialist Party of Serbia,11.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-01-01,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-02-18,Socialist Party of Serbia,8.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-04-05,Socialist Party of Serbia,7.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-05-10,Socialist Party of Serbia,8.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-06-27,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-07-31,Socialist Party of Serbia,7.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-08-03,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-09-29,Socialist Party of Serbia,10.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-10-31,Socialist Party of Serbia,10.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-12-10,Socialist Party of Serbia,7.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2021-12-20,Socialist Party of Serbia,10.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-01-30,Socialist Party of Serbia,10.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-02-04,Socialist Party of Serbia,9.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-02-17,Socialist Party of Serbia,7.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-07,Socialist Party of Serbia,10.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-14,Socialist Party of Serbia,6.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-28,Socialist Party of Serbia,5.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-29,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-29,Socialist Party of Serbia,10.2,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-03-31,Socialist Party of Serbia,8.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-06-29,Socialist Party of Serbia,9.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-07-27,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-10-25,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-11-01,Socialist Party of Serbia,9.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-12-12,Socialist Party of Serbia,10.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-02-13,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-02-14,Socialist Party of Serbia,10.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-02-22,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-04-05,Socialist Party of Serbia,8.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-04-11,Socialist Party of Serbia,10.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-04-27,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-06-02,Socialist Party of Serbia,8.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-07-23,Socialist Party of Serbia,9.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-07-28,Socialist Party of Serbia,8.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-09-19,Socialist Party of Serbia,7.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-09-28,Socialist Party of Serbia,9.5,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-10-13,Socialist Party of Serbia,7.0,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-10-13,Socialist Party of Serbia,10.8,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-10-22,Socialist Party of Serbia,9.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-11-15,Socialist Party of Serbia,8.1,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-12-12,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-12-14,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2023-12-14,Socialist Party of Serbia,8.7,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2024-09-27,Socialist Party of Serbia,8.9,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2024-12-25,Socialist Party of Serbia,7.6,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2025-07-30,Socialist Party of Serbia,6.4,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2025-08-02,Socialist Party of Serbia,7.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2025-09-02,Socialist Party of Serbia,5.3,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
+2022-01-30,Sovereignists,3.0,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-02-04,Sovereignists,3.7,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-02-17,Sovereignists,2.4,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-07,Sovereignists,3.0,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-14,Sovereignists,1.7,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-28,Sovereignists,3.1,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-29,Sovereignists,1.9,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-29,Sovereignists,3.1,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-03-31,Sovereignists,2.6,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
+2022-07-27,Together,4.8,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2022-10-25,Together,2.5,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2022-11-01,Together,3.4,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2022-12-12,Together,1.6,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-02-13,Together,2.2,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-02-22,Together,3.9,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-04-05,Together,3.9,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-04-11,Together,2.4,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-04-27,Together,1.4,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-06-02,Together,1.6,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-07-23,Together,1.3,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-07-28,Together,6.0,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-09-19,Together,0.6,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-09-28,Together,1.3,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2023-10-13,Together,1.2,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
+2020-09-04,Together We Can Do Everything,59.1,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2020-12-19,Together We Can Do Everything,46.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-01-01,Together We Can Do Everything,61.9,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-02-18,Together We Can Do Everything,60.3,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-04-05,Together We Can Do Everything,58.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-05-10,Together We Can Do Everything,60.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-06-27,Together We Can Do Everything,61.2,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-07-31,Together We Can Do Everything,53.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-08-03,Together We Can Do Everything,58.2,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-09-29,Together We Can Do Everything,58.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-10-31,Together We Can Do Everything,58.3,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-12-02,Together We Can Do Everything,55.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-12-10,Together We Can Do Everything,49.9,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2021-12-20,Together We Can Do Everything,57.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-01-30,Together We Can Do Everything,55.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-02-04,Together We Can Do Everything,43.4,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-02-09,Together We Can Do Everything,55.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-02-17,Together We Can Do Everything,41.4,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-07,Together We Can Do Everything,53.4,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-14,Together We Can Do Everything,53.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-28,Together We Can Do Everything,44.7,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-29,Together We Can Do Everything,51.7,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-29,Together We Can Do Everything,53.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-03-31,Together We Can Do Everything,51.4,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-06-29,Together We Can Do Everything,48.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-07-27,Together We Can Do Everything,42.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-10-25,Together We Can Do Everything,46.3,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-11-01,Together We Can Do Everything,42.5,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2022-12-12,Together We Can Do Everything,46.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-02-13,Together We Can Do Everything,46.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-02-14,Together We Can Do Everything,39.1,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-02-22,Together We Can Do Everything,44.5,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-04-05,Together We Can Do Everything,42.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-04-11,Together We Can Do Everything,45.5,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-04-27,Together We Can Do Everything,38.0,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-06-02,Together We Can Do Everything,36.2,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-07-23,Together We Can Do Everything,37.2,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-07-28,Together We Can Do Everything,37.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-09-19,Together We Can Do Everything,36.3,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-09-28,Together We Can Do Everything,37.3,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-10-13,Together We Can Do Everything,36.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-10-13,Together We Can Do Everything,44.5,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-10-22,Together We Can Do Everything,38.5,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-11-15,Together We Can Do Everything,39.2,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-12-12,Together We Can Do Everything,39.8,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-12-14,Together We Can Do Everything,38.7,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2023-12-14,Together We Can Do Everything,44.6,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
+2020-03-09,United Democratic Serbia,3.0,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-04-24,United Democratic Serbia,2.0,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-04,United Democratic Serbia,1.0,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-07,United Democratic Serbia,2.4,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-12,United Democratic Serbia,2.7,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-18,United Democratic Serbia,1.4,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-18,United Democratic Serbia,2.8,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2020-06-19,United Democratic Serbia,1.6,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
+2021-12-02,United for the Victory of Serbia,16.0,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2021-12-10,United for the Victory of Serbia,17.9,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2021-12-20,United for the Victory of Serbia,12.0,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-01-30,United for the Victory of Serbia,13.3,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-02-04,United for the Victory of Serbia,14.8,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-02-09,United for the Victory of Serbia,13.5,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-02-17,United for the Victory of Serbia,16.6,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-07,United for the Victory of Serbia,14.0,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-14,United for the Victory of Serbia,13.2,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-28,United for the Victory of Serbia,20.1,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-29,United for the Victory of Serbia,17.0,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-29,United for the Victory of Serbia,13.7,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2022-03-31,United for the Victory of Serbia,13.8,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
+2021-07-31,We Must,9.4,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-08-03,We Must,2.7,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-09-29,We Must,2.0,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-10-31,We Must,3.0,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-12-02,We Must,9.0,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-12-10,We Must,8.8,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2021-12-20,We Must,7.0,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-01-30,We Must,7.5,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-02-04,We Must,13.1,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-02-09,We Must,7.5,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-02-17,We Must,12.1,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-07,We Must,5.0,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-14,We Must,8.1,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-28,We Must,5.8,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-29,We Must,7.3,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-29,We Must,4.7,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2022-03-31,We Must,4.5,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
+2024-09-27,We – Power of the People,4.6,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+2024-12-25,We – Power of the People,5.6,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+2025-07-30,We – Power of the People,3.5,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+2025-08-02,We – Power of the People,4.2,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+2025-09-02,We – Power of the People,2.9,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+2021-12-10,Zdravko Ponoš,11.6,,,
+2022-02-09,Zdravko Ponoš,10.8,,,
+2022-03-28,Zdravko Ponoš,27.0,,,
+2022-03-31,Zdravko Ponoš,16.4,,,

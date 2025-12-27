@@ -2,10 +2,10 @@
   "country": "Slovenia",
   "iso2": "SI",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:21:16Z"
+  "updatedAt": "2025-12-23T22:51:13Z",
+  "latestTotal": 22.166666666666668
 }

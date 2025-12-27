@@ -2,10 +2,10 @@
   "country": "Sweden",
   "iso2": "SE",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
   ],
-  "updatedAt": "2025-12-05T23:21:24Z"
+  "updatedAt": "2025-12-23T22:52:19Z",
+  "latestTotal": 21.466666666666665
 }

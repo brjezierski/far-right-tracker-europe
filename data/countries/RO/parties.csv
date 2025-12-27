@@ -1,14 +1,22 @@
 party,political_position,ideology,wikipedia_url
-PSD,Centre-left,Social democracy Social conservatism Economic nationalism Left-wing nationalism Left-wing populism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-AUR,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
-PNL,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-USR,Centre to centre-right,Liberalism ( Romanian ) Anti-socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-SOS,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-POT,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
-UDMR,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-PMP,Centre-right to right-wing,National conservatism Social conservatism Monarchism Right-wing populism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
-REPER,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-SENS,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
-DREPT,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
-Others,,,
-FD,Centre-right to right-wing,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Force_of_the_Right
+Social Democratic Party,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
+National Liberal Party,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
+Save Romania Union,Centre to centre-right,Liberalism ( Romanian ) Anti-socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
+Alliance for the Union of Romanians,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
+Democratic Alliance of Hungarians in Romania,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
+People's Movement Party,Centre-right to right-wing,National conservatism Social conservatism Monarchism Right-wing populism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
+PRO Romania,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
+Social Liberal Humanist Party,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
+Ecologist Party of Romania,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
+Green Party,Centre-left to left-wing Faction : Centre-right,Green politics Progressivism Pro-Europeanism Big tent Faction : Green conservatism,https://en.wikipedia.org/wiki/Green_Party_(Romania)
+List of political parties in Romania,,,
+Renewing Romania's European Project,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
+Force of the Right,Centre-right to right-wing,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Force_of_the_Right
+S.O.S. Romania,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
+Romanian Sovereigntist Bloc,,Romanian nationalism Sovereigntism National populism Social conservatism,https://en.wikipedia.org/wiki/Romanian_Sovereigntist_Bloc
+USR PLUS,Centre,Anti-corruption Progressivism Liberalism Economic liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/USR_PLUS
+Alliance for the Homeland,Right-wing to Far-right,Economic nationalism Protectionism National conservatism Social conservatism Euroscepticism Sovereigntism Right-wing Populism,https://en.wikipedia.org/wiki/Alliance_for_the_Homeland
+Alliance of Liberals and Democrats,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
+Party of Young People,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
+Health Education Nature Sustainability Party,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
+Justice and Respect in Europe for All Party,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party

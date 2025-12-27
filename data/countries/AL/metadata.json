@@ -2,10 +2,10 @@
   "country": "Albania",
   "iso2": "AL",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/2017_Albanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2021_Albanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:19:02Z"
+  "updatedAt": "2025-12-23T22:40:28Z",
+  "latestTotal": 0.0
 }

@@ -2,10 +2,12 @@
   "country": "Greece",
   "iso2": "GR",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_May_2023_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/June_2023_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:19:56Z"
+  "updatedAt": "2025-12-23T22:45:08Z",
+  "latestTotal": 17.066666666666666
 }

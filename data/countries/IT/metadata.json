@@ -2,10 +2,10 @@
   "country": "Italy",
   "iso2": "IT",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
   ],
-  "updatedAt": "2025-12-05T23:20:13Z"
+  "updatedAt": "2025-12-23T22:46:21Z",
+  "latestTotal": 38.800000000000004
 }

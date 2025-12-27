@@ -1,107 +1,247 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2022-02-12,Alliance_for_the_Future_of_Kosovo,7.7,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-03-15,Alliance_for_the_Future_of_Kosovo,7.2,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-05-15,Alliance_for_the_Future_of_Kosovo,6.5,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-06-18,Alliance_for_the_Future_of_Kosovo,6.7,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-07-07,Alliance_for_the_Future_of_Kosovo,11.9,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-08-07,Alliance_for_the_Future_of_Kosovo,10.1,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-09-07,Alliance_for_the_Future_of_Kosovo,7.7,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-12-07,Alliance_for_the_Future_of_Kosovo,6.0,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-12-23,Alliance_for_the_Future_of_Kosovo,7.3,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2023-12-23,Alliance_for_the_Future_of_Kosovo,6.8,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-02-22,Alliance_for_the_Future_of_Kosovo,9.0,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-04-05,Alliance_for_the_Future_of_Kosovo,6.9,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-05-06,Alliance_for_the_Future_of_Kosovo,12.4,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-06-10,Alliance_for_the_Future_of_Kosovo,5.8,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-06-15,Alliance_for_the_Future_of_Kosovo,8.6,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2024-12-17,Alliance_for_the_Future_of_Kosovo,6.5,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2025-02-05,Alliance_for_the_Future_of_Kosovo,7.6,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2025-02-09,Alliance_for_the_Future_of_Kosovo,6.3,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2025-02-09,Alliance_for_the_Future_of_Kosovo,8.0,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2025-02-09,Alliance_for_the_Future_of_Kosovo,7.6,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2025-02-09,Alliance_for_the_Future_of_Kosovo,7.2,Centre-right to right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-2022-02-12,Democratic_League_of_Kosovo,24.1,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-03-15,Democratic_League_of_Kosovo,19.4,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-05-15,Democratic_League_of_Kosovo,17.7,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-06-18,Democratic_League_of_Kosovo,20.3,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-07-07,Democratic_League_of_Kosovo,25.1,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-08-07,Democratic_League_of_Kosovo,21.6,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-09-07,Democratic_League_of_Kosovo,22.3,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-12-07,Democratic_League_of_Kosovo,22.2,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-12-23,Democratic_League_of_Kosovo,19.8,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2023-12-23,Democratic_League_of_Kosovo,17.9,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-02-22,Democratic_League_of_Kosovo,21.5,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-04-05,Democratic_League_of_Kosovo,16.0,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-05-06,Democratic_League_of_Kosovo,18.2,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-06-10,Democratic_League_of_Kosovo,19.2,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-06-15,Democratic_League_of_Kosovo,15.5,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2024-12-17,Democratic_League_of_Kosovo,17.7,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2025-02-05,Democratic_League_of_Kosovo,14.2,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2025-02-09,Democratic_League_of_Kosovo,20.4,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2025-02-09,Democratic_League_of_Kosovo,20.0,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2025-02-09,Democratic_League_of_Kosovo,20.1,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2025-02-09,Democratic_League_of_Kosovo,19.3,Centre-right,Liberal conservatism Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-2022-02-12,Democratic_Party_of_Kosovo,21.3,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-03-15,Democratic_Party_of_Kosovo,21.6,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-05-15,Democratic_Party_of_Kosovo,19.7,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-06-18,Democratic_Party_of_Kosovo,21.9,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-07-07,Democratic_Party_of_Kosovo,21.3,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-08-07,Democratic_Party_of_Kosovo,18.3,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-09-07,Democratic_Party_of_Kosovo,21.7,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-12-07,Democratic_Party_of_Kosovo,21.5,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2022-12-23,Democratic_Party_of_Kosovo,19.0,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2023-12-23,Democratic_Party_of_Kosovo,18.2,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-02-22,Democratic_Party_of_Kosovo,20.4,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-04-05,Democratic_Party_of_Kosovo,17.1,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-05-06,Democratic_Party_of_Kosovo,17.2,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-06-10,Democratic_Party_of_Kosovo,19.6,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-06-15,Democratic_Party_of_Kosovo,17.0,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2024-12-17,Democratic_Party_of_Kosovo,19.5,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-05,Democratic_Party_of_Kosovo,16.8,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-09,Democratic_Party_of_Kosovo,21.3,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-09,Democratic_Party_of_Kosovo,23.0,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-09,Democratic_Party_of_Kosovo,22.4,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-09,Democratic_Party_of_Kosovo,21.4,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism Until c. 2013 : Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-2025-02-05,Justice_Party_(Kosovo),3.5,Centre-right to right-wing,Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)
-2025-02-09,Justice_Party_(Kosovo),2.1,Centre-right to right-wing,Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)
-2025-02-09,Justice_Party_(Kosovo),1.0,Centre-right to right-wing,Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)
-2025-02-09,Justice_Party_(Kosovo),1.0,Centre-right to right-wing,Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)
-2025-02-09,Justice_Party_(Kosovo),1.8,Centre-right to right-wing,Islamism Islamic democracy Religious conservatism Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Justice_Party_(Kosovo)
-2022-03-15,New_Kosovo_Alliance,0.4,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2022-08-07,New_Kosovo_Alliance,0.2,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2022-09-07,New_Kosovo_Alliance,0.3,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2022-12-07,New_Kosovo_Alliance,0.4,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2022-12-23,New_Kosovo_Alliance,0.2,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2024-05-06,New_Kosovo_Alliance,1.7,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2025-02-05,New_Kosovo_Alliance,3.5,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2025-02-09,New_Kosovo_Alliance,2.1,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2025-02-09,New_Kosovo_Alliance,1.0,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2025-02-09,New_Kosovo_Alliance,1.0,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2025-02-09,New_Kosovo_Alliance,1.8,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-2022-03-15,Serb_List_(Kosovo),4.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2022-06-18,Serb_List_(Kosovo),4.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2022-09-07,Serb_List_(Kosovo),5.1,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2022-12-23,Serb_List_(Kosovo),4.3,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2023-12-23,Serb_List_(Kosovo),3.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2024-04-05,Serb_List_(Kosovo),5.6,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2024-06-15,Serb_List_(Kosovo),3.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-2022-02-12,Social_Democratic_Initiative_(Kosovo),0.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-03-15,Social_Democratic_Initiative_(Kosovo),1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-06-18,Social_Democratic_Initiative_(Kosovo),1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-07-07,Social_Democratic_Initiative_(Kosovo),2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-08-07,Social_Democratic_Initiative_(Kosovo),1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-09-07,Social_Democratic_Initiative_(Kosovo),1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-12-07,Social_Democratic_Initiative_(Kosovo),2.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2022-12-23,Social_Democratic_Initiative_(Kosovo),2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2023-12-23,Social_Democratic_Initiative_(Kosovo),1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-02-22,Social_Democratic_Initiative_(Kosovo),9.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-04-05,Social_Democratic_Initiative_(Kosovo),6.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-05-06,Social_Democratic_Initiative_(Kosovo),12.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-06-10,Social_Democratic_Initiative_(Kosovo),5.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-06-15,Social_Democratic_Initiative_(Kosovo),8.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2024-12-17,Social_Democratic_Initiative_(Kosovo),6.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2025-02-05,Social_Democratic_Initiative_(Kosovo),7.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2025-02-09,Social_Democratic_Initiative_(Kosovo),6.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2025-02-09,Social_Democratic_Initiative_(Kosovo),8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2025-02-09,Social_Democratic_Initiative_(Kosovo),7.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-2025-02-09,Social_Democratic_Initiative_(Kosovo),7.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-02-02,Alliance for the Future of Kosovo,14.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-04-02,Alliance for the Future of Kosovo,12.1,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-04-25,Alliance for the Future of Kosovo,17.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-06-05,Alliance for the Future of Kosovo,10.4,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-09-05,Alliance for the Future of Kosovo,8.8,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-09-28,Alliance for the Future of Kosovo,10.1,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-12-18,Alliance for the Future of Kosovo,12.6,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2019-10-04,Alliance for the Future of Kosovo,11.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2019-10-06,Alliance for the Future of Kosovo,10.58,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2019-10-06,Alliance for the Future of Kosovo,12.3,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2020-12-23,Alliance for the Future of Kosovo,7.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-07,Alliance for the Future of Kosovo,8.6,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-15,Alliance for the Future of Kosovo,7.5,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-17,Alliance for the Future of Kosovo,6.4,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-22,Alliance for the Future of Kosovo,7.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-22,Alliance for the Future of Kosovo,7.2,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-29,Alliance for the Future of Kosovo,7.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-01-30,Alliance for the Future of Kosovo,7.2,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-02-02,Alliance for the Future of Kosovo,5.5,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2021-02-12,Alliance for the Future of Kosovo,7.8,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-02-12,Alliance for the Future of Kosovo,7.7,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-03-15,Alliance for the Future of Kosovo,7.2,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-05-15,Alliance for the Future of Kosovo,6.5,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-06-18,Alliance for the Future of Kosovo,6.7,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-07-07,Alliance for the Future of Kosovo,11.9,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-08-07,Alliance for the Future of Kosovo,10.1,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-09-07,Alliance for the Future of Kosovo,7.7,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-12-07,Alliance for the Future of Kosovo,6.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2022-12-23,Alliance for the Future of Kosovo,7.3,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2025-02-09,Alliance for the Future of Kosovo,8.0,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2025-03-09,Alliance for the Future of Kosovo,3.8,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2025-06-09,Alliance for the Future of Kosovo,4.6,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
+2018-02-02,Alternativa,1.0,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2018-04-02,Alternativa,0.2,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2018-09-05,Alternativa,0.6,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2018-09-28,Alternativa,0.6,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2022-08-07,Alternativa,0.2,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2022-09-07,Alternativa,0.3,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2022-12-23,Alternativa,0.2,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2023-12-23,Alternativa,0.1,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
+2018-02-02,Democratic League of Kosovo,24.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-04-02,Democratic League of Kosovo,21.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-04-25,Democratic League of Kosovo,25.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-06-05,Democratic League of Kosovo,30.8,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-09-05,Democratic League of Kosovo,23.8,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-09-28,Democratic League of Kosovo,28.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-12-18,Democratic League of Kosovo,27.1,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2019-10-04,Democratic League of Kosovo,32.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2019-10-06,Democratic League of Kosovo,30.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2019-10-06,Democratic League of Kosovo,27.9,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2020-12-23,Democratic League of Kosovo,14.9,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-07,Democratic League of Kosovo,15.7,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-15,Democratic League of Kosovo,16.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-17,Democratic League of Kosovo,10.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-22,Democratic League of Kosovo,16.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-22,Democratic League of Kosovo,17.4,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-29,Democratic League of Kosovo,17.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-01-30,Democratic League of Kosovo,16.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-02-02,Democratic League of Kosovo,15.5,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2021-02-12,Democratic League of Kosovo,19.35,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-02-12,Democratic League of Kosovo,24.1,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-03-15,Democratic League of Kosovo,19.4,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-05-15,Democratic League of Kosovo,17.7,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-06-18,Democratic League of Kosovo,20.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-07-07,Democratic League of Kosovo,25.1,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-08-07,Democratic League of Kosovo,21.6,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-09-07,Democratic League of Kosovo,22.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-12-07,Democratic League of Kosovo,22.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2022-12-23,Democratic League of Kosovo,19.8,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2023-12-23,Democratic League of Kosovo,17.9,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-02-22,Democratic League of Kosovo,21.5,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-04-05,Democratic League of Kosovo,16.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-05-06,Democratic League of Kosovo,18.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-06-10,Democratic League of Kosovo,19.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-06-15,Democratic League of Kosovo,15.5,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2024-12-17,Democratic League of Kosovo,17.7,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-05,Democratic League of Kosovo,14.2,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-09,Democratic League of Kosovo,20.4,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-09,Democratic League of Kosovo,20.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-09,Democratic League of Kosovo,20.1,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-09,Democratic League of Kosovo,19.3,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-02-09,Democratic League of Kosovo,20.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-03-09,Democratic League of Kosovo,15.7,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-03-09,Democratic League of Kosovo,20.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-06-09,Democratic League of Kosovo,16.8,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2025-06-09,Democratic League of Kosovo,22.0,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
+2018-02-02,Democratic Party of Kosovo,26.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-04-02,Democratic Party of Kosovo,16.1,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-04-25,Democratic Party of Kosovo,16.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-06-05,Democratic Party of Kosovo,23.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-09-05,Democratic Party of Kosovo,18.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-09-28,Democratic Party of Kosovo,22.9,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2018-12-18,Democratic Party of Kosovo,20.5,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2019-10-04,Democratic Party of Kosovo,19.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2019-10-06,Democratic Party of Kosovo,22.28,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2019-10-06,Democratic Party of Kosovo,25.8,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2020-12-23,Democratic Party of Kosovo,16.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-07,Democratic Party of Kosovo,20.8,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-15,Democratic Party of Kosovo,20.1,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-17,Democratic Party of Kosovo,14.9,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-22,Democratic Party of Kosovo,16.9,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-22,Democratic Party of Kosovo,20.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-29,Democratic Party of Kosovo,21.1,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-01-30,Democratic Party of Kosovo,17.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-02-02,Democratic Party of Kosovo,13.2,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2021-02-12,Democratic Party of Kosovo,22.3,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-02-12,Democratic Party of Kosovo,21.3,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-03-15,Democratic Party of Kosovo,21.6,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-05-15,Democratic Party of Kosovo,19.7,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-06-18,Democratic Party of Kosovo,21.9,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-07-07,Democratic Party of Kosovo,21.3,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-08-07,Democratic Party of Kosovo,18.3,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-09-07,Democratic Party of Kosovo,21.7,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-12-07,Democratic Party of Kosovo,21.5,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-12-23,Democratic Party of Kosovo,19.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2023-12-23,Democratic Party of Kosovo,18.2,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-02-22,Democratic Party of Kosovo,20.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-04-05,Democratic Party of Kosovo,17.1,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-05-06,Democratic Party of Kosovo,17.2,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-06-10,Democratic Party of Kosovo,19.6,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-06-15,Democratic Party of Kosovo,17.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2024-12-17,Democratic Party of Kosovo,19.5,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-05,Democratic Party of Kosovo,16.8,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-09,Democratic Party of Kosovo,21.3,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-09,Democratic Party of Kosovo,23.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-09,Democratic Party of Kosovo,22.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-09,Democratic Party of Kosovo,21.4,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-02-09,Democratic Party of Kosovo,24.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-03-09,Democratic Party of Kosovo,20.9,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-03-09,Democratic Party of Kosovo,27.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-06-09,Democratic Party of Kosovo,20.6,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2025-06-09,Democratic Party of Kosovo,28.0,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
+2022-03-15,Guxo,1.1,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-06-18,Guxo,1.3,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-07-07,Guxo,1.2,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-08-07,Guxo,0.9,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-09-07,Guxo,1.5,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-12-07,Guxo,1.0,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2022-12-23,Guxo,1.3,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2023-12-23,Guxo,0.8,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2024-02-22,Guxo,0.4,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2024-04-05,Guxo,0.6,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2024-05-06,Guxo,1.5,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2024-06-15,Guxo,0.7,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+2018-02-02,New Kosovo Alliance,3.0,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2018-04-02,New Kosovo Alliance,1.6,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2018-09-05,New Kosovo Alliance,1.7,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2018-09-28,New Kosovo Alliance,1.6,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2022-03-15,New Kosovo Alliance,0.4,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2022-08-07,New Kosovo Alliance,0.2,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2022-09-07,New Kosovo Alliance,0.3,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2022-12-07,New Kosovo Alliance,0.4,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2022-12-23,New Kosovo Alliance,0.2,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
+2018-04-02,Serb List,1.1,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2018-06-05,Serb List,2.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2018-09-05,Serb List,4.1,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2022-03-15,Serb List,4.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2022-06-18,Serb List,4.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2022-09-07,Serb List,5.1,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2022-12-23,Serb List,4.3,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2023-12-23,Serb List,3.2,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2024-04-05,Serb List,5.6,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2024-06-15,Serb List,3.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2025-02-09,Serb List,9.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2025-03-09,Serb List,3.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2025-03-09,Serb List,10.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2025-06-09,Serb List,3.8,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2025-06-09,Serb List,10.0,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
+2018-02-02,Social Democratic Initiative,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-04-02,Social Democratic Initiative,5.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-06-05,Social Democratic Initiative,6.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-09-05,Social Democratic Initiative,4.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-09-28,Social Democratic Initiative,5.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-12-18,Social Democratic Initiative,6.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2019-10-04,Social Democratic Initiative,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2019-10-06,Social Democratic Initiative,4.41,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2019-10-06,Social Democratic Initiative,5.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2020-12-23,Social Democratic Initiative,3.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-07,Social Democratic Initiative,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-15,Social Democratic Initiative,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-17,Social Democratic Initiative,1.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-22,Social Democratic Initiative,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-22,Social Democratic Initiative,3.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-29,Social Democratic Initiative,2.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-01-30,Social Democratic Initiative,3.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-02-02,Social Democratic Initiative,1.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2021-02-12,Social Democratic Initiative,3.15,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-02-12,Social Democratic Initiative,0.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-03-15,Social Democratic Initiative,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-06-18,Social Democratic Initiative,1.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-07-07,Social Democratic Initiative,2.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-08-07,Social Democratic Initiative,1.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-09-07,Social Democratic Initiative,1.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-12-07,Social Democratic Initiative,2.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2022-12-23,Social Democratic Initiative,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
+2018-02-02,Social Democratic Party of Kosovo,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
+2018-04-02,Social Democratic Party of Kosovo,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
+2018-06-05,Social Democratic Party of Kosovo,2.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
+2018-09-05,Social Democratic Party of Kosovo,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
+2018-09-28,Social Democratic Party of Kosovo,2.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
+2018-02-02,Vetëvendosje,19.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-04-02,Vetëvendosje,19.7,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-04-25,Vetëvendosje,20.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-06-05,Vetëvendosje,21.2,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-09-05,Vetëvendosje,17.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-09-28,Vetëvendosje,23.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2018-12-18,Vetëvendosje,22.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2019-10-04,Vetëvendosje,28.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2019-10-06,Vetëvendosje,30.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2019-10-06,Vetëvendosje,28.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2020-12-23,Vetëvendosje,46.2,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-07,Vetëvendosje,41.4,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-15,Vetëvendosje,41.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-17,Vetëvendosje,54.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-22,Vetëvendosje,50.8,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-22,Vetëvendosje,44.2,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-29,Vetëvendosje,43.8,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-01-30,Vetëvendosje,53.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-02-02,Vetëvendosje,51.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2021-02-12,Vetëvendosje,40.95,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-02-12,Vetëvendosje,34.7,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-03-15,Vetëvendosje,41.9,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-05-15,Vetëvendosje,38.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-06-18,Vetëvendosje,39.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-07-07,Vetëvendosje,38.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-08-07,Vetëvendosje,33.2,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-09-07,Vetëvendosje,37.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-12-07,Vetëvendosje,35.5,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2022-12-23,Vetëvendosje,42.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2023-12-23,Vetëvendosje,48.5,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-02-22,Vetëvendosje,40.9,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-04-05,Vetëvendosje,49.5,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-05-06,Vetëvendosje,38.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-06-10,Vetëvendosje,41.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-06-15,Vetëvendosje,49.6,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2024-12-17,Vetëvendosje,47.1,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-05,Vetëvendosje,52.7,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-09,Vetëvendosje,42.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-09,Vetëvendosje,37.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-09,Vetëvendosje,38.2,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-09,Vetëvendosje,40.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-02-09,Vetëvendosje,48.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-03-09,Vetëvendosje,40.8,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-03-09,Vetëvendosje,53.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-06-09,Vetëvendosje,37.3,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
+2025-06-09,Vetëvendosje,50.0,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje

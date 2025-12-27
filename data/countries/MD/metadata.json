@@ -2,10 +2,10 @@
   "country": "Moldova",
   "iso2": "MD",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/2019_Moldovan_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Moldovan_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:20:33Z"
+  "updatedAt": "2025-12-23T22:48:08Z",
+  "latestTotal": 0.0
 }

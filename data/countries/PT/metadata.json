@@ -2,10 +2,12 @@
   "country": "Portugal",
   "iso2": "PT",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Portuguese_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Portuguese_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
   ],
-  "updatedAt": "2025-12-05T23:20:57Z"
+  "updatedAt": "2025-12-23T22:50:09Z",
+  "latestTotal": 23.7
 }

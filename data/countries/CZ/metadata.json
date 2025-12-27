@@ -2,10 +2,10 @@
   "country": "Czech Republic",
   "iso2": "CZ",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
   ],
-  "updatedAt": "2025-12-05T23:19:30Z"
+  "updatedAt": "2025-12-23T22:42:48Z",
+  "latestTotal": 11.133333333333333
 }

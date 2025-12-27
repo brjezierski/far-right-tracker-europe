@@ -2,10 +2,12 @@
   "country": "United Kingdom",
   "iso2": "GB",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_United_Kingdom_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_United_Kingdom_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
   ],
-  "updatedAt": "2025-12-05T23:21:41Z"
+  "updatedAt": "2025-12-23T22:53:09Z",
+  "latestTotal": 29.0
 }

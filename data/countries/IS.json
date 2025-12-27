@@ -1,71 +1,15 @@
 {
   "country": "Iceland",
   "iso2": "IS",
-  "parties": [
-    "M"
-  ],
-  "latestSupport": 12.1,
-  "seriesByParty": {
-    "M": [
-      {
-        "date": "2024-10-03",
-        "value": 18.0
-      },
-      {
-        "date": "2024-10-18",
-        "value": 16.4
-      },
-      {
-        "date": "2024-10-24",
-        "value": 16.1
-      },
-      {
-        "date": "2024-10-28",
-        "value": 15.9
-      },
-      {
-        "date": "2024-10-31",
-        "value": 15.45
-      },
-      {
-        "date": "2024-11-06",
-        "value": 14.9
-      },
-      {
-        "date": "2024-11-07",
-        "value": 15.1
-      },
-      {
-        "date": "2024-11-13",
-        "value": 12.6
-      },
-      {
-        "date": "2024-11-14",
-        "value": 14.9
-      },
-      {
-        "date": "2024-11-20",
-        "value": 12.6
-      },
-      {
-        "date": "2024-11-21",
-        "value": 12.85
-      },
-      {
-        "date": "2024-11-28",
-        "value": 11.8
-      },
-      {
-        "date": "2024-11-29",
-        "value": 11.2
-      }
-    ]
-  },
-  "latestUpdate": "2025-12-05T23:20:03Z",
+  "parties": [],
+  "latestSupport": 0.0,
+  "seriesByParty": {},
+  "latestUpdate": "2025-12-23T22:45:44Z",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election"
-    }
+    "https://en.wikipedia.org/wiki/2016_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2017_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Next_Icelandic_parliamentary_election"
   ]
 }

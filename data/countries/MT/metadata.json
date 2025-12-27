@@ -2,10 +2,10 @@
   "country": "Malta",
   "iso2": "MT",
   "sources": [
-    {
-      "type": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election"
-    }
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Maltese_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Maltese_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election"
   ],
-  "updatedAt": "2025-12-05T23:20:29Z"
+  "updatedAt": "2025-12-23T22:47:47Z",
+  "latestTotal": 0.0
 }

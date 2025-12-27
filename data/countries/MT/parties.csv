@@ -1,6 +1,13 @@
 party,political_position,ideology,wikipedia_url
-PL,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
-PN,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
-AD+PD,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD+PD
-Not voting [ nb 1 ],,,
-M,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+Labour Party,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+Nationalist Party,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+Democratic Alternative,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)
+Democratic Party,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta)
+Moviment Patrijotti Maltin,Far-right,Right-wing populism Social conservatism Anti-Islam,https://en.wikipedia.org/wiki/Moviment_Patrijotti_Maltin
+Robert Abela,,,
+Bernard Grech,,,
+Adrian Delia,,,
+Joseph Muscat,,,
+AD+PD,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+#cite note-1,,,
+Momentum,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
