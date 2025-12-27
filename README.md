@@ -138,6 +138,9 @@ python -m pipeline.update --no-scraping
 
 # Rebuild summary for specific country from CSV data
 python -m pipeline.update Germany --no-scraping
+
+# Enable debug mode (saves debug CSV files and prints detailed parsing info)
+python -m pipeline.update Netherlands --debug
 ```
 
 ## Dynamic Far-Right Classification
@@ -145,15 +148,46 @@ python -m pipeline.update Germany --no-scraping
 The system now determines far-right classification dynamically when generating `summary.json`:
 
 1. **No Pre-stored Classification**: The CSV files no longer store `is_far_right` flags
-2. **Dynamic Evaluation**: Far-right status is determined by checking if any of the defined categories (`far-right`, `right-wing-populism`, `nationalism`) appear in the party's political position or ideology
+2. **Dynamic Evaluation**: Far-right status is determined by checking if any of the defined categories (`far-right`, `national-conservatism`) appear in the party's political position or ideology
 3. **Flexible Categories**: You can modify the `CATEGORIES` list and rebuild the summary without re-scraping data
 4. **No-Scraping Mode**: Use `--no-scraping` to rebuild `summary.json` from existing CSV data with current category definitions
 
 
+# Issues
 
-COUNTRY_TABLE_HEADERS = {
-    "Albania": ["Nationwide"],
-    "Armenia": ["Opinion polls"],
-    "Czech Republic": ["Polls"],
-    "Ireland": ["National polls"],
-}
+Data processing:
+Franbce - add party labels to politicians
+Weird data points:
+- Spain
+- Austria
+- Poland
+- Czechia
+- Portugal
+Missing latest data:
+- Norway
+- Denmark
+- Serbia
+- Montenegro?
+Party names issue:
+- Turkey - Turkish to English 
+- is Reform far right? UKIP vs UK Independence Party
+- Croatia also party names - Homeland Movement
+- Slovakia
+
+Data display:
+- Add cumulative option
+- Only display latest parties in thumbnail 
+- Lithuania 2024 latest polling not matching
+
+
+# Past
+  "Russia": {
+    "links": [
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Russian_legislative_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Russian_legislative_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
+    ],
+    "headers": ["Pre-campaign polls"]
+  },
+
+

@@ -8,8 +8,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from pathlib import Path
 from .utils import (
-    DATA_DIR,
-    save_json,
+    COUNTRIES_DIR,
+    get_country_iso_code,
     get_polling_value,
     get_latest_polling_value,
     parse_html_table_with_hierarchy,
@@ -25,42 +25,15 @@ from dateparser import parse
 # Load polling sources from JSON file
 _SOURCES_PATH = Path(__file__).resolve().parent / "polling_sources.json"
 try:
-    WIKI_POLLING_PAGES: Dict[str, List[str]] = json.loads(
+    WIKI_POLLING_PAGES: Dict[str, Dict] = json.loads(
         _SOURCES_PATH.read_text(encoding="utf-8")
     )
 except Exception:
     WIKI_POLLING_PAGES = {}
 
-COUNTRY_TABLE_HEADERS = {
-    "Albania": ["Nationwide"],
-    "Armenia": ["Opinion polls"],
-    "Belgium": ["Federal"],
-    "Czech Republic": ["Polls"],
-    "Denmark": ["Opinion polls"],
-    "France": ["Opinion polling"],
-    "Hungary": ["Polling"],
-    "Iceland": ["Opinion polls"],
-    "Ireland": ["National polls"],
-    "Italy": ["Party vote"],
-    "Kosovo": ["National polls"],
-    "Latvia": ["Opinion polls"],
-    "Luxembourg": ["Voting intention"],
-    "Malta": ["Expressing a Preference"],
-    "Norway": ["National poll results"],
-    "Poland": ["Poll results"],
-    "Portugal": ["Nationwide polling"],
-    "Romania": ["Party polls"],
-    "Russia": ["Pre-campaign polls"],
-    "Serbia": ["Poll results"],
-    "Slovakia": ["Electoral polling"],
-    "Sweden": ["Opinion polls"],
-    "Switzerland": ["Nationwide polling"],
-    "Turkey": ["Party vote"],
-    "Ukraine": ["Poll results"],
-    "United Kingdom": ["National poll results"],
-}
 COUNTRY_EXCLUDED_HEADERS = {
     "Denmark": ["Constituency polling"],
+    "Poland": ["Alternative scenarios", "Parties"],
 }
 HISTORICAL_SEPERATORS = ["Formerly:", "Historical"]
 DEBUG = False
@@ -78,10 +51,19 @@ def normalize_party_name(s: str) -> str:
 
 def parse_date(
     s: str | tuple,
+    url: str,
     prev_date: Optional[pd.Timestamp] = None,
     prev_date_year_given: bool = False,
     table_header_key: str = "",
 ) -> Tuple[Optional[pd.Timestamp], bool]:
+    # get year from url if possible
+    # e.g. "https://en.wikipedia.org/wiki/2024_Slovak_parliamentary_election" or "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election"
+    # extract 4 digit year from anywhere in url
+    election_year = re.search(r"(\d{4})", url)
+    if election_year:
+        cutoff_date = datetime(int(election_year.group(1)), 12, 31)
+    else:
+        cutoff_date = datetime.utcnow()
     # parse date ranges as well, e.g. "1–2 January 2024" or "1/2 January 2024" by extracting the last part
     if isinstance(s, tuple):
         for item in s:
@@ -89,11 +71,19 @@ def parse_date(
                 s = item
                 break
 
-    s = s.strip()  # type: ignore
-    if "–" in s or "/" in s or "-" in s:
+    s = s.strip().replace("-", "–")  # type: ignore
+    # if s has format dddd-dd-dd read as yyyy-mm-dd
+    if re.fullmatch(r"\d{4}–\d{2}–\d{2}", s):
+        year, month, day = map(int, s.split("–"))
+        return pd.Timestamp(year=year, month=month, day=day), True
+
+    if ("–" in s or "/" in s) and s.count("–") != 2 and s.count("/") != 2:
         # Split by the last occurrence of '–' or '/' and take the last part
-        parts = re.split(r"[–/-]", s)
+        parts = re.split(r"[–/]", s)
         s = parts[-1].strip()
+
+    if not isinstance(s, str):
+        return None, False
 
     # if table_header_key is a year, and s does not contain a 4-digit year, then append the year to s
     if (
@@ -104,8 +94,26 @@ def parse_date(
         s = f"{s} {table_header_key}"
 
     settings = {"DATE_ORDER": "DMY"}
+    if "%" in s:
+        return None, False
+    # if s contains only the year return 1st of Jan of that year
+    if isinstance(s, str) and re.fullmatch(r"\d{4}", s):
+        year = int(s)
+        return pd.Timestamp(year=year, month=1, day=1), True
+
+    # if no fallback date other than the one from the url
+    if prev_date is None and not _contains_year(s) and election_year:
+        prev_date = pd.Timestamp(int(election_year.group(1)), 1, 1)
+
     if prev_date:
+        # if s does not contain a 4-digit year and has Jan as substring and the month of prev_date is December, then set  prev_date to 01.01 of next year
+        if (
+            "jan" in s.lower() and prev_date.month == 12 and not _contains_year(s)  # type: ignore
+        ):
+            print("WARNING: Niche use case!! Check.")
+            prev_date = pd.Timestamp(year=prev_date.year + 1, month=1, day=1)
         settings["RELATIVE_BASE"] = prev_date.to_pydatetime()  # type: ignore # .strftime("%Y-%m-%d")
+
     try:
         parsed_date = parse(s, settings=settings)  # type: ignore
         if parsed_date:
@@ -120,19 +128,25 @@ def parse_date(
             # if s contains a 4-digit year, then we assume the year is given
             prev_date_year_given = bool(re.search(r"\b\d{4}\b", s))
             # if parsed_date is after today return None
-            if parsed_date > datetime.utcnow():
+            if parsed_date > cutoff_date:
                 return None, prev_date_year_given
             return pd.Timestamp(parsed_date), prev_date_year_given
         else:
             return None, False
 
     except Exception:
+        print(f"Error parsing date: {s} from {url}")
         return None, False
 
 
+def _contains_year(s: str) -> bool:
+    return bool(re.search(r"\b\d{4}\b", s))
+
+
 class WikipediaPollingFetcher:
-    def __init__(self, url: str):
+    def __init__(self, url: str, headers: Optional[List[str]] = None):
         self.url = url
+        self.headers = headers
 
     def fetch_tables(self, country: str) -> Dict[str, List[pd.DataFrame]]:
         """Prefer the first table under the section whose heading equals the current year.
@@ -140,9 +154,7 @@ class WikipediaPollingFetcher:
         """
         try:
             headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-                "Accept-Language": "en-US,en;q=0.5",
-                "Referer": "http://google.com",
+                "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)"
             }
 
             r = requests.get(self.url, timeout=30, headers=headers)
@@ -152,16 +164,15 @@ class WikipediaPollingFetcher:
             # get years between current year and current year -10
             for y in range(datetime.utcnow().year, datetime.utcnow().year - 10, -1):
                 years.append(str(y))
-            specific_headers = (
-                COUNTRY_TABLE_HEADERS[country]
-                if country in COUNTRY_TABLE_HEADERS
-                else years
-            )
+            # Use headers from constructor if provided, otherwise fall back to years
+            specific_headers = self.headers if self.headers else years
             excluded_headers = (
                 COUNTRY_EXCLUDED_HEADERS[country]
                 if country in COUNTRY_EXCLUDED_HEADERS
                 else []
             )
+            if type(specific_headers) is str:
+                specific_headers = [specific_headers]
             possible_headers = ["h1", "h2", "h3", "h4", "h5"]
 
             for specific_header in specific_headers:
@@ -173,7 +184,7 @@ class WikipediaPollingFetcher:
                         if span
                         else header.get_text(strip=True)
                     )
-                    if text != specific_header:
+                    if text != specific_header or text in excluded_headers:
                         continue
 
                     # Find the first table following this header, before the next heading at the same or higher level
@@ -183,6 +194,7 @@ class WikipediaPollingFetcher:
 
                     df_dict = {}
                     node_header_text = ""
+                    table_counter = 0
                     while True:
                         # get child node
                         node = node.find_next()
@@ -212,8 +224,14 @@ class WikipediaPollingFetcher:
                             break
                         if node.name == "table":
                             try:
+                                # Create table name for debug output
+                                table_name_for_debug = f"{country}_{specific_header}_{node_header_text if node_header_text else f'table_{table_counter}'}"
+                                table_counter += 1
+
                                 # Use custom parser to preserve hierarchy
-                                df = parse_html_table_with_hierarchy(str(node))
+                                df = parse_html_table_with_hierarchy(
+                                    str(node), self.url, table_name_for_debug
+                                )
                                 dfs = [df] if not df.empty else []
 
                                 # save node as html for debugging
@@ -224,6 +242,9 @@ class WikipediaPollingFetcher:
                                         encoding="utf-8",
                                     ) as f:
                                         f.write(str(node))
+                                if node_header_text in excluded_headers:
+                                    continue
+
                                 if node_header_text not in df_dict:
                                     df_dict[node_header_text] = dfs
                                 else:
@@ -240,6 +261,15 @@ class WikipediaPollingFetcher:
             print("No specific year tables found, returning all tables.")
             # Parse all tables with custom parser
             fallback_dfs = parse_all_tables_from_soup(soup)
+            # if debug save these tables as html
+            if DEBUG:
+                for i, table in enumerate(soup.find_all("table")):
+                    with open(
+                        f"debug_{country}_fallback_table_{i}.html",
+                        "w",
+                        encoding="utf-8",
+                    ) as f:
+                        f.write(str(table))
             return {"": fallback_dfs}
         except Exception as e:
             # Last resort: try custom parser on all tables
@@ -277,6 +307,7 @@ class WikipediaPollingFetcher:
 
         # Heuristic: find the first table that looks like a poll list (has a date column and multiple party columns)
         for tables_key in tables_dict:
+            # print(f"Processing table: {tables_key}")  # --- DEBUG ---
             for df in tables_dict[tables_key]:
                 # save df locally for debugging
                 if DEBUG:
@@ -299,10 +330,9 @@ class WikipediaPollingFetcher:
                     if col_info["column_link"]:
                         column_name = col_info["column_name"]
                         # If name is empty, extract it from the link
-                        if not column_name or column_name.strip() == "":
-                            column_name = extract_party_name_from_link(
-                                col_info["column_link"]
-                            )
+                        column_name = extract_party_name_from_link(
+                            col_info["column_link"]
+                        )
                         # Clean party name (remove references like [b])
                         column_name = _clean_text(column_name)
                         # Update the column_name in cols_info so it's used later
@@ -317,6 +347,7 @@ class WikipediaPollingFetcher:
                 )
                 selected_parties = all_parties_with_positions["selected_parties"]
                 all_party_metadata = all_parties_with_positions["party_metadata"]
+                party_name_mapping = all_parties_with_positions["party_name_mapping"]
 
                 # Process all parties that have polling data
                 potential_party_cols = [
@@ -349,22 +380,29 @@ class WikipediaPollingFetcher:
                     pollster_raw = row[pollster_col] if pollster_col else ""
                     pollster = extract_value_from_hierarchical_tuple(pollster_raw, "")
 
-                    # Skip election results
-                    if "election" in pollster.lower():
-                        continue
-
                     date, prev_date_year_given = parse_date(
-                        date_str, prev_date, prev_date_year_given, tables_key
+                        date_str, self.url, prev_date, prev_date_year_given, tables_key
                     )
+                    if DEBUG:
+                        print("Parsed date:", date_str, "->", date)
                     if date:
                         prev_date = date
 
                     if date is None:
                         continue
 
+                    # Skip election results
+                    if "election" in pollster.lower() or "result" in pollster.lower():
+                        continue
+
                     for party_col_info in potential_party_cols:
                         try:
-                            party_name = party_col_info["column_name"]
+                            party_name_from_table = party_col_info["column_name"]
+                            # Use canonical name if available from mapping
+
+                            party_name = party_name_mapping.get(
+                                party_name_from_table, party_name_from_table
+                            )
                             is_parent = party_col_info.get("is_parent", False)
                             is_hierarchical = party_col_info.get(
                                 "is_hierarchical", False
@@ -384,13 +422,13 @@ class WikipediaPollingFetcher:
                                 continue
 
                             polling_value = get_polling_value(
-                                polling_value_str, party_name, country
+                                polling_value_str, party_name_from_table, country
                             )
 
                             if (
                                 pd.isna(polling_value)
                                 or polling_value > 100
-                                or polling_value < 0
+                                or polling_value <= 0
                             ):
                                 continue
 
@@ -566,8 +604,15 @@ def calculate_latest_total_support(
 def get_polling_source(country: str) -> List[str]:
     """Return urls for the polling source. Currently uses Wikipedia pages mapping."""
     if country in WIKI_POLLING_PAGES:
-        return WIKI_POLLING_PAGES[country]
+        return WIKI_POLLING_PAGES[country].get("links", [])
     return []
+
+
+def get_polling_headers(country: str) -> Optional[List[str]]:
+    """Return the list of headers for the given country."""
+    if country in WIKI_POLLING_PAGES:
+        return WIKI_POLLING_PAGES[country].get("headers")
+    return None
 
 
 def _load_json(path: Path) -> dict:
@@ -595,22 +640,39 @@ def _clean_text(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def _extract_party_name(soup: BeautifulSoup) -> Optional[str]:
+    h1 = soup.find("h1")
+    if h1:
+        party_name_from_article = h1.get_text(" ", strip=True)
+        # remove anything in parentheses
+        party_name_from_article = (
+            re.sub(r"\s*\(.*?\)\s*", "", party_name_from_article)
+            .strip()
+            .replace("–", "-")
+        )
+        return party_name_from_article
+    return None
+
+
 def _fetch_political_position(url: str) -> Optional[dict]:
     try:
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
-            "Accept-Language": "en-US,en;q=0.5",
-            "Referer": "http://google.com",
+            "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)",
         }
         r = requests.get(url, timeout=30, headers=headers)
         r.raise_for_status()
     except Exception:
+        print(f"Error fetching URL: {url}")
         return None
     soup = BeautifulSoup(r.text, "lxml")
+    # extract party_name from h1 header
+    party_name_from_article = _extract_party_name(soup)
+
     # retrieve the following table <table class="infobox vcard">
     table = soup.select_one("table.infobox.vcard") or soup.select_one("table.infobox")
     if not table:
-        print(f"No infobox found in {url}")
+        if DEBUG:
+            print(f"No infobox found in {url}")
         return None
     # Find row with header 'Political position'
     political_position = None
@@ -637,6 +699,7 @@ def _fetch_political_position(url: str) -> Optional[dict]:
 
     if political_position or ideology:
         return {
+            "name": party_name_from_article,
             "political_position": political_position,
             "ideology": ideology,
             "url": url,
@@ -650,32 +713,46 @@ def annotate_parties_positions(
     """
     For a given country (name), and a list of party dicts containing at least 'name' and optionally 'link',
     fetch the 'Political position' from each party's Wikipedia infobox (infobox vcard).
-    Cache results in data/all_parties.json so subsequent runs only fetch missing entries.
+    Cache results in data/countries/{ISO2}/parties.csv so subsequent runs only fetch missing entries.
     Returns a dict with:
     - 'selected_parties': list of party names whose political position matches categories
     - 'party_metadata': dict of {party_name: {political_position, ideology, url, is_far_right}}
-    Also updates data/all_parties.json with all positions.
+    Also updates parties.csv with all positions.
     """
-    cache_path = DATA_DIR / "all_parties.json"
-    cache = _load_json(cache_path)
-    if "countries" not in cache:
-        cache["countries"] = {}
-    if country and country not in cache["countries"]:
-        cache["countries"][country] = {}
+    # Get ISO2 code for the country
+    iso2 = get_country_iso_code(country)
+    country_dir = COUNTRIES_DIR / iso2
+    country_dir.mkdir(exist_ok=True)
 
-    country_cache: Dict[str, Dict[str, str]] = (
-        cache["countries"].get(country, {}) if country else {}
-    )
+    # Load cache from parties.csv
+    cache_path = country_dir / "parties.csv"
+    country_cache: Dict[str, Dict[str, str]] = {}
+
+    if cache_path.exists():
+        try:
+            df_cache = pd.read_csv(cache_path)
+            for _, row in df_cache.iterrows():
+                party_name = row.get("party", "")
+                if party_name:
+                    country_cache[party_name] = {
+                        "name": party_name,
+                        "political_position": row.get("political_position"),
+                        "ideology": row.get("ideology"),
+                        "url": row.get("wikipedia_url"),
+                    }
+        except Exception as e:
+            print(f"Error loading cache from {cache_path}: {e}")
 
     far_right: List[str] = []
     party_metadata: Dict[str, Dict] = {}
+    party_name_mapping: Dict[str, str] = {}  # maps table name to article name
 
     for p in parties:
-        name = str(p.get("name") or "").strip()
+        party_name_from_table = str(p.get("name") or "").strip()
         link = (p.get("link") or "").strip()
-        if not name:
+        if not party_name_from_table:
             continue
-        party_description = country_cache.get(name)
+        party_description = country_cache.get(party_name_from_table)
 
         if not party_description:
             # Build URL if link provided
@@ -686,23 +763,36 @@ def annotate_parties_positions(
                 else:
                     # ensure single slash between host and path
                     url = f"https://en.wikipedia.org/{link.lstrip('/')}"
+
             if url:
                 party_description = _fetch_political_position(url)
+
                 if party_description:
-                    country_cache[name] = party_description
+                    country_cache[party_name_from_table] = party_description
+
+        # Determine the canonical party name (prefer article name if available)
+        party_name_canonical = party_name_from_table
+        if party_description and party_description.get("name"):
+            party_name_from_article = party_description.get("name")
+            if (
+                party_name_from_article
+                and party_name_from_table not in party_name_mapping
+            ):
+                party_name_canonical = party_name_from_article
+                party_name_mapping[party_name_from_table] = party_name_from_article
 
         # Store party metadata
         is_far_right = False
         if party_description:
             political_position = party_description.get("political_position")
-            if political_position:
+            if political_position and isinstance(political_position, str):
                 political_position = (
                     political_position.strip().lower().replace(" ", "-")
                 )
             else:
                 political_position = ""
             ideology = party_description.get("ideology")
-            if ideology:
+            if ideology and isinstance(ideology, str):
                 ideology = ideology.strip().lower().replace(" ", "-")
             else:
                 ideology = ""
@@ -710,40 +800,44 @@ def annotate_parties_positions(
             # Check if selected
             for category in categories:
                 if category in political_position or category in ideology:
-                    far_right.append(name)
+                    far_right.append(party_name_canonical)
                     is_far_right = True
                     break
 
-            party_metadata[name] = {
+            party_metadata[party_name_canonical] = {
                 "political_position": party_description.get("political_position"),
                 "ideology": party_description.get("ideology"),
                 "url": party_description.get("url"),
                 "is_far_right": is_far_right,
             }
         else:
-            party_metadata[name] = {
+            party_metadata[party_name_canonical] = {
                 "political_position": None,
                 "ideology": None,
                 "url": None,
                 "is_far_right": False,
             }
 
-    if country:
-        cache["countries"][country] = country_cache
-    cache["updatedAt"] = datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
-
-    try:
-        save_json(cache_path, cache)  # type: ignore[arg-type]
-    except Exception:
-        # fallback save
+    # Save updated cache to parties.csv
+    if country_cache:
         try:
-            import json
+            cache_rows = []
+            for party_name, info in country_cache.items():
+                cache_rows.append(
+                    {
+                        "party": party_name,
+                        "political_position": info.get("political_position"),
+                        "ideology": info.get("ideology"),
+                        "wikipedia_url": info.get("url"),
+                    }
+                )
+            df_cache = pd.DataFrame(cache_rows)
+            df_cache.to_csv(cache_path, index=False)
+        except Exception as e:
+            print(f"Error saving cache to {cache_path}: {e}")
 
-            cache_path.parent.mkdir(parents=True, exist_ok=True)
-            cache_path.write_text(
-                json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8"
-            )
-        except Exception:
-            pass
-
-    return {"selected_parties": far_right, "party_metadata": party_metadata}
+    return {
+        "selected_parties": far_right,
+        "party_metadata": party_metadata,
+        "party_name_mapping": party_name_mapping,
+    }

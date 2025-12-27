@@ -14,13 +14,19 @@ from .utils import (
 from .polling import (
     WikipediaPollingFetcher,
     get_polling_source,
+    get_polling_headers,
     calculate_latest_total_support,
 )
+from .postprocessing import remove_isolated_datapoints
 import time
 
 
 ROOT = Path(__file__).resolve().parents[2]
-CATEGORIES = ["far-right", "right-wing-populism"]
+CATEGORIES = [
+    "far-right",
+    "national-conservatism",
+    "serbian-nationalism",
+]
 
 
 def is_party_far_right(
@@ -57,6 +63,7 @@ def save_country_polling_csv(
     latest_total: Optional[float] = None,
 ) -> None:
     """Save country polling data as CSV files."""
+    print(f"Saving polling CSV data for {country} ({iso2})...")
     # Create country-specific directory
     country_dir = COUNTRIES_DIR / iso2
     country_dir.mkdir(exist_ok=True)
@@ -82,7 +89,19 @@ def save_country_polling_csv(
             df = pd.DataFrame(polling_data)
             df["date"] = pd.to_datetime(df["date"])
             df = df.sort_values(["party", "date"])
-            df.to_csv(country_dir / "polling_data.csv", index=False)
+
+            # Remove isolated datapoints
+            print(f"Removing isolated datapoints for {country}...")
+            df = remove_isolated_datapoints(df, min_neighbors=2)
+
+            if not df.empty:
+                df.to_csv(country_dir / "polling_data.csv", index=False)
+            else:
+                print(
+                    f"Warning: All datapoints were removed for {country}, not saving empty CSV"
+                )
+        else:
+            print(f"Warning: No polling data to save for {country}")
 
     # Save party metadata
     if party_metadata:
@@ -328,9 +347,9 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
     for country in countries:
         if selected_country and country != selected_country:
             continue
-        if not selected_country:
-            # wait 5 seconds between countries to avoid overwhelming the server
-            time.sleep(3)
+        # if not selected_country:
+        #     # wait 5 seconds between countries to avoid overwhelming the server
+        #     time.sleep(3)
         print(f"\nProcessing {country}...")
 
         urls = get_polling_source(country)
@@ -340,9 +359,15 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
         latest_total = None
 
         if urls:
+            # Get headers for this country (applies to all URLs)
+            headers = get_polling_headers(country)
+
             # Process each URL and merge the data
             for url in urls:
-                fetcher = WikipediaPollingFetcher(url)
+                # wait 3 seconds between countries to avoid overwhelming the server
+                time.sleep(3)
+
+                fetcher = WikipediaPollingFetcher(url, headers)
                 print(f"Fetching latest support data from {url} for {country}...")
                 url_latest_total, url_series_by_party, url_party_metadata = (
                     fetcher.fetch_latest_and_series(country, CATEGORIES)
@@ -429,15 +454,23 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
 if __name__ == "__main__":
     # retrieve country as an argument if needed
     import sys
+    from .polling import set_debug_mode
 
     no_scraping = False
     country_arg = None
+    debug_mode = False
 
     # Parse arguments
     args = sys.argv[1:]
     if "--no-scraping" in args:
         no_scraping = True
         args.remove("--no-scraping")
+
+    if "--debug" in args:
+        debug_mode = True
+        args.remove("--debug")
+        set_debug_mode(True)
+        print("Debug mode enabled")
 
     if args:
         country_arg = args[0]

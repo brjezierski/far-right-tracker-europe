@@ -8,6 +8,15 @@ import pycountry
 import urllib.parse
 from bs4 import BeautifulSoup
 
+# Debug flag - set to True to save intermediate table HTML files
+DEBUG = False
+
+
+def set_debug_mode(enabled: bool):
+    """Enable or disable debug mode."""
+    global DEBUG
+    DEBUG = enabled
+
 
 # Function to get ISO alpha-2 code for a country name
 def get_country_iso_code(country_name):
@@ -191,10 +200,11 @@ def get_latest_polling_value(pts: List[Dict]) -> float:
 
 def _convert_subsequent_header_rows_to_td(table):
     """
-    Convert <th> elements to <td> in all header rows except the first.
+    Convert <th> elements to <td> in header rows after the rowspan range.
 
-    When a table has multiple rows of headers, only the first row should use <th> elements.
-    Subsequent header rows should use <td> elements for proper hierarchical parsing.
+    When a table has multiple rows of headers with rowspan in the first header row,
+    we need to keep all rows within the rowspan range as headers. Only rows after
+    this range should have their <th> elements converted to <td>.
 
     Args:
         table: BeautifulSoup table element (modified in-place)
@@ -205,25 +215,144 @@ def _convert_subsequent_header_rows_to_td(table):
 
     # Find the first row that contains <th> elements
     first_header_row_idx = None
+    max_rowspan = 1
+
     for idx, row in enumerate(rows):
-        if row.find("th"):
+        th_cells = row.find_all("th")
+        if th_cells:
             first_header_row_idx = idx
+            # Check for rowspan in first header row
+            for th_cell in th_cells:
+                rowspan = int(th_cell.get("rowspan", 1))
+                max_rowspan = max(max_rowspan, rowspan)
             break
 
     if first_header_row_idx is None:
         return
 
-    # Convert <th> to <td> in all subsequent rows that contain headers
-    for idx in range(first_header_row_idx + 1, len(rows)):
+    # Calculate the last row index that is part of the header structure
+    last_header_row_idx = first_header_row_idx + max_rowspan - 1
+
+    # Convert <th> to <td> in all rows after the rowspan range
+    for idx in range(last_header_row_idx + 1, len(rows)):
         row = rows[idx]
         th_cells = row.find_all("th")
 
-        # Check if this row looks like a header row (has mostly <th> and no substantial data)
-        # or if it has any <th> elements at all in positions other than the first column
         if th_cells:
             for th_cell in th_cells:
                 # Convert <th> to <td>
                 th_cell.name = "td"
+
+
+def _preprocess_norway_2029_table(table):
+    """
+    Special preprocessing for Norway 2029 table.
+    - Deletes the first header row
+    - Deletes the third header row
+    - Deletes the fifth header row
+    - Changes rowspan from 4 to 2 for cells in row 2 that have rowspan
+
+    Args:
+        table: BeautifulSoup table element (modified in-place)
+    """
+    rows = table.find_all("tr")
+    if not rows or len(rows) < 5:
+        return
+
+    # Delete first row (index 0)
+    if rows[0].find("th"):
+        rows[0].decompose()
+
+    # Re-fetch rows after first deletion
+    rows = table.find_all("tr")
+    if len(rows) < 4:
+        return
+
+    # Change rowspan from 4 to 2 in the first row (was originally row 2)
+    row_1 = rows[0]
+    th_cells = row_1.find_all("th")
+    for cell in th_cells:
+        if cell.get("rowspan"):
+            current_rowspan = int(cell.get("rowspan"))
+            if current_rowspan == 4:
+                cell["rowspan"] = "2"
+
+    # Delete third row (now index 2, was originally row 4)
+    if rows[1]:
+        rows[1].decompose()
+
+    # Re-fetch rows after second deletion
+    rows = table.find_all("tr")
+    if len(rows) < 3:
+        return
+
+    # delete columns starting from the one with index 13
+    for row in rows:
+        cells = row.find_all(["th", "td"])
+        for cell in cells[13:]:
+            cell.decompose()
+
+
+def _convert_linkless_header_rows_to_td(table):
+    """
+    Delete all header rows that don't contain any links, except for the last header row.
+    The last linkless header row is converted to <td> elements instead of being deleted.
+
+    However, cells with rowspan > 1 are never deleted, as they are structural elements
+    that span multiple rows (like "Polling firm", "Fieldwork date", etc.).
+
+    This helps distinguish between substantive header rows (with links to party pages)
+    and styling/grouping rows (colored cells, empty cells, etc.) that should be
+    treated as non-substantive.
+
+    Args:
+        table: BeautifulSoup table element (modified in-place)
+    """
+    rows = table.find_all("tr")
+    if not rows:
+        return
+
+    # Find all header rows (rows with <th> elements)
+    header_rows_info = []
+    for idx, row in enumerate(rows):
+        th_cells = row.find_all("th")
+        if th_cells:
+            has_any_links = any(cell.find("a") for cell in th_cells)
+            # Check if row has cells with rowspan > 1
+            has_rowspan = any(
+                cell.get("rowspan") and int(cell.get("rowspan", 1)) > 1
+                for cell in th_cells
+            )
+            header_rows_info.append(
+                {
+                    "row": row,
+                    "index": idx,
+                    "has_links": has_any_links,
+                    "has_rowspan": has_rowspan,
+                    "th_cells": th_cells,
+                }
+            )
+
+    if not header_rows_info:
+        return
+
+    # Find the last header row index
+    last_header_idx = len(header_rows_info) - 1
+
+    # Process header rows: delete linkless ones except the last, convert last to <td>
+    for i, header_info in enumerate(header_rows_info):
+        # Never delete rows with rowspan cells - they are structural
+        if header_info["has_rowspan"]:
+            continue
+
+        if not header_info["has_links"]:
+            if i == last_header_idx:
+                # Last header row: convert <th> to <td>
+                for th_cell in header_info["th_cells"]:
+                    th_cell.name = "td"
+            # else:
+            #     # Not the last header row: delete it
+            #     header_info["row"].decompose()
 
 
 def _insert_rowspan_placeholders(table):
@@ -245,7 +374,7 @@ def _insert_rowspan_placeholders(table):
     active_rowspans = {}
 
     for row_idx, row in enumerate(rows):
-        cells = row.find_all(["td", "th"])
+        cells = row.find_all(["td"])
 
         # Build a map of column positions for this row
         col_idx = 0
@@ -281,7 +410,7 @@ def _insert_rowspan_placeholders(table):
 
         # Insert placeholder cells in order
         if cells_to_insert:
-            cells_list = list(row.find_all(["td", "th"]))
+            cells_list = list(row.find_all(["td"]))  # , "th"
             for target_col_idx, placeholder in reversed(cells_to_insert):
                 # Find the cell before which to insert
                 current_col = 0
@@ -299,7 +428,9 @@ def _insert_rowspan_placeholders(table):
                     row.append(placeholder)
 
 
-def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
+def parse_html_table_with_hierarchy(
+    table_html: str, source_url: str = "", table_name: str = ""
+) -> pd.DataFrame:
     """
     Parse an HTML table preserving hierarchical header structure with colspan/rowspan.
 
@@ -312,6 +443,7 @@ def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
 
     Args:
         table_html: HTML string of the table
+        source_url: URL of the source page (optional, for special preprocessing)
 
     Returns:
         DataFrame with hierarchical tuple column names and structured values
@@ -321,11 +453,39 @@ def parse_html_table_with_hierarchy(table_html: str) -> pd.DataFrame:
     if not table:
         return pd.DataFrame()
 
-    # Preprocess: Convert subsequent header rows from <th> to <td>
-    _convert_subsequent_header_rows_to_td(table)
+    # Special preprocessing: Delete rows and adjust rowspan for Norway 2029
+    if (
+        source_url
+        == "https://en.wikipedia.org/wiki/2029_Norwegian_parliamentary_election"
+    ):
+        print("Applying special preprocessing for Norway 2029 table...")
+        _preprocess_norway_2029_table(table)
+    else:
+        # Preprocess: Convert header rows without links from <th> to <td>
+        _convert_linkless_header_rows_to_td(table)
+    # # Preprocess: Convert subsequent header rows from <th> to <td>
+    # _convert_subsequent_header_rows_to_td(table)
 
     # Preprocess table to insert placeholder td elements for rowspan-covered cells
-    _insert_rowspan_placeholders(table)
+    # _insert_rowspan_placeholders(table)
+
+    if DEBUG:
+        print("Saving debug table HTML...")
+        # Sanitize table_name for filesystem - remove or replace invalid characters
+        safe_table_name = (
+            table_name.replace("/", "_")
+            .replace(":", "_")
+            .replace("?", "_")
+            .replace("&", "_")
+            if table_name
+            else "table"
+        )
+        with open(
+            f"a_table_{safe_table_name}.html",
+            "w",
+            encoding="utf-8",
+        ) as f:
+            f.write(str(table))
 
     # Extract all rows
     rows = table.find_all("tr")
@@ -526,16 +686,17 @@ def _build_hierarchical_columns(
                 # This is a parent if:
                 # 1. It has colspan > 1 (covers multiple children)
                 # 2. It doesn't span all the way to the last row
-                # 3. It's different from current cell
+                # 3. It's different from current cell (check both text and link)
+                is_different = (p_text != text) or (p_link != link)
                 if (
                     p_colspan > 1
                     and (row_idx + p_rowspan) <= len(grid) - 1
-                    and p_text != text
+                    and is_different
                 ):
                     parent_text, parent_link = p_text, p_link
                     break
 
-        if parent_text is not None:
+        if parent_text is not None or parent_link is not None:
             # Has a parent - hierarchical column
             columns.append(((parent_text, parent_link), (text, link)))
         else:
@@ -673,6 +834,7 @@ def find_date_column(cols_info: List[Dict]) -> Optional[Dict]:
             or "conducted" in column_name_lower
             or "tarih" in column_name_lower
             or "period" in column_name_lower
+            or "history" in column_name_lower
         ):
             return col_info
     return None
