@@ -896,8 +896,216 @@
         "value": 15.0
       },
       {
-        "date": "2024-05-26",
-        "value": 2.8
+        "date": "2024-04-23",
+        "value": 15.6
+      },
+      {
+        "date": "2024-05-18",
+        "value": 19.0
+      },
+      {
+        "date": "2024-05-20",
+        "value": 17.4
+      },
+      {
+        "date": "2024-06-04",
+        "value": 16.1
+      },
+      {
+        "date": "2024-07-08",
+        "value": 17.5
+      },
+      {
+        "date": "2024-07-13",
+        "value": 14.0
+      },
+      {
+        "date": "2024-07-26",
+        "value": 15.5
+      },
+      {
+        "date": "2024-09-04",
+        "value": 14.8
+      },
+      {
+        "date": "2024-10-05",
+        "value": 15.1
+      },
+      {
+        "date": "2024-10-10",
+        "value": 14.1
+      },
+      {
+        "date": "2024-10-23",
+        "value": 18.0
+      },
+      {
+        "date": "2024-11-19",
+        "value": 18.2
+      },
+      {
+        "date": "2024-11-22",
+        "value": 20.9
+      },
+      {
+        "date": "2024-11-27",
+        "value": 16.2
+      },
+      {
+        "date": "2025-01-05",
+        "value": 16.3
+      },
+      {
+        "date": "2025-01-20",
+        "value": 17.0
+      },
+      {
+        "date": "2025-01-21",
+        "value": 20.5
+      },
+      {
+        "date": "2025-01-26",
+        "value": 17.05
+      },
+      {
+        "date": "2025-01-28",
+        "value": 18.4
+      },
+      {
+        "date": "2025-02-27",
+        "value": 17.4
+      },
+      {
+        "date": "2025-03-06",
+        "value": 13.5
+      },
+      {
+        "date": "2025-03-08",
+        "value": 17.3
+      },
+      {
+        "date": "2025-03-10",
+        "value": 17.4
+      },
+      {
+        "date": "2025-03-12",
+        "value": 16.5
+      },
+      {
+        "date": "2025-03-13",
+        "value": 18.5
+      },
+      {
+        "date": "2025-03-17",
+        "value": 16.2
+      },
+      {
+        "date": "2025-03-21",
+        "value": 20.2
+      },
+      {
+        "date": "2025-03-24",
+        "value": 18.0
+      },
+      {
+        "date": "2025-03-26",
+        "value": 15.65
+      },
+      {
+        "date": "2025-03-29",
+        "value": 14.9
+      },
+      {
+        "date": "2025-04-03",
+        "value": 13.5
+      },
+      {
+        "date": "2025-04-06",
+        "value": 20.4
+      },
+      {
+        "date": "2025-04-08",
+        "value": 18.6
+      },
+      {
+        "date": "2025-04-09",
+        "value": 17.2
+      },
+      {
+        "date": "2025-04-14",
+        "value": 21.0
+      },
+      {
+        "date": "2025-04-21",
+        "value": 15.2
+      },
+      {
+        "date": "2025-04-22",
+        "value": 15.2
+      },
+      {
+        "date": "2025-04-24",
+        "value": 19.0
+      },
+      {
+        "date": "2025-05-01",
+        "value": 16.6
+      },
+      {
+        "date": "2025-05-02",
+        "value": 15.7
+      },
+      {
+        "date": "2025-05-03",
+        "value": 16.2
+      },
+      {
+        "date": "2025-05-04",
+        "value": 16.5
+      },
+      {
+        "date": "2025-05-05",
+        "value": 17.82
+      },
+      {
+        "date": "2025-05-06",
+        "value": 18.35
+      },
+      {
+        "date": "2025-05-07",
+        "value": 16.0
+      },
+      {
+        "date": "2025-05-08",
+        "value": 15.7
+      },
+      {
+        "date": "2025-05-09",
+        "value": 15.3
+      },
+      {
+        "date": "2025-05-10",
+        "value": 16.0
+      },
+      {
+        "date": "2025-05-11",
+        "value": 19.0
+      },
+      {
+        "date": "2025-05-12",
+        "value": 17.8
+      },
+      {
+        "date": "2025-05-13",
+        "value": 17.67
+      },
+      {
+        "date": "2025-05-14",
+        "value": 19.1
+      },
+      {
+        "date": "2025-05-15",
+        "value": 19.2
       },
       {
         "date": "2025-06-15",
@@ -949,12 +1157,13 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-23T22:50:10Z",
+  "latestUpdate": "2025-12-27T22:08:34Z",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Portuguese_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
   ]
 }

@@ -8,3 +8,5 @@ tests/
 settings.json
 .python-version
 uv.lock
+debug*
+a_table*

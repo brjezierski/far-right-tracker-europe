@@ -143,7 +143,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-05-03,Andrej Babiš' Second Cabinet,46.5,,,
 2018-05-05,Andrej Babiš' Second Cabinet,47.0,,,
 2018-05-23,Andrej Babiš' Second Cabinet,42.4,,,
-2018-05-24,Andrej Babiš' Second Cabinet,52.5,,,
 2018-06-01,Andrej Babiš' Second Cabinet,41.5,,,
 2018-06-13,Andrej Babiš' Second Cabinet,42.1,,,
 2018-06-22,Andrej Babiš' Second Cabinet,43.5,,,
@@ -156,7 +155,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-08-26,Andrej Babiš' Second Cabinet,42.5,,,
 2018-08-28,Andrej Babiš' Second Cabinet,48.5,,,
 2018-09-12,Andrej Babiš' Second Cabinet,41.7,,,
-2018-09-20,Andrej Babiš' Second Cabinet,52.5,,,
 2018-09-21,Andrej Babiš' Second Cabinet,42.0,,,
 2018-10-10,Andrej Babiš' Second Cabinet,34.9,,,
 2018-10-22,Andrej Babiš' Second Cabinet,39.0,,,
@@ -164,7 +162,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-25,Andrej Babiš' Second Cabinet,46.5,,,
 2018-10-26,Andrej Babiš' Second Cabinet,39.0,,,
 2018-10-26,Andrej Babiš' Second Cabinet,47.5,,,
-2018-11-07,Andrej Babiš' Second Cabinet,35.4,,,
 2018-11-15,Andrej Babiš' Second Cabinet,48.5,,,
 2018-11-25,Andrej Babiš' Second Cabinet,43.5,,,
 2018-11-28,Andrej Babiš' Second Cabinet,41.2,,,
@@ -211,7 +208,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2019-10-28,Andrej Babiš' Second Cabinet,45.0,,,
 2019-11-01,Andrej Babiš' Second Cabinet,43.0,,,
 2019-11-15,Andrej Babiš' Second Cabinet,48.0,,,
-2019-11-18,Andrej Babiš' Second Cabinet,37.0,,,
 2019-11-26,Andrej Babiš' Second Cabinet,48.4,,,
 2019-11-27,Andrej Babiš' Second Cabinet,40.8,,,
 2019-11-29,Andrej Babiš' Second Cabinet,39.5,,,
@@ -936,7 +932,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Green Party,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2020-03-11,Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2020-05-13,Green Party,0.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2020-05-19,Green Party,33.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2020-06-01,Green Party,1.4,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2020-06-10,Green Party,0.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2020-07-02,Green Party,1.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -1249,7 +1244,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2019-01-24,Opposition,50.5,,,
 2019-02-02,Opposition,52.5,,,
 2019-02-06,Opposition,47.0,,,
-2019-02-12,Opposition,61.8,,,
 2019-02-13,Opposition,46.0,,,
 2019-02-20,Opposition,52.5,,,
 2019-02-24,Opposition,48.0,,,
@@ -1290,7 +1284,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2019-12-10,Opposition,47.9,,,
 2019-12-11,Opposition,48.5,,,
 2020-01-12,Opposition,50.0,,,
-2020-01-15,Opposition,34.4,,,
 2020-01-22,Opposition,44.5,,,
 2020-01-31,Opposition,52.0,,,
 2020-02-13,Opposition,38.0,,,
@@ -1300,8 +1293,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-04-30,Opposition,40.0,,,
 2020-05-13,Opposition,41.5,,,
 2020-06-01,Opposition,36.8,,,
-2020-06-05,Opposition,53.0,,,
-2020-06-10,Opposition,35.3,,,
 2020-07-02,Opposition,45.5,,,
 2020-07-03,Opposition,52.5,,,
 2020-07-27,Opposition,44.5,,,
@@ -1517,7 +1508,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-03-11,Tricolour Citizens' Movement,2.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-04-30,Tricolour Citizens' Movement,3.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-05-13,Tricolour Citizens' Movement,5.2,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
-2020-05-19,Tricolour Citizens' Movement,50.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-06-01,Tricolour Citizens' Movement,3.5,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-06-05,Tricolour Citizens' Movement,2.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-06-10,Tricolour Citizens' Movement,5.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement

@@ -157,16 +157,7 @@ The system now determines far-right classification dynamically when generating `
 
 Data processing:
 Franbce - add party labels to politicians
-Weird data points:
-- Spain
-- Austria
-- Poland
-- Czechia
-- Portugal
 Missing latest data:
-- Norway
-- Denmark
-- Serbia
 - Montenegro?
 Party names issue:
 - Turkey - Turkish to English 

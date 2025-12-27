@@ -257,15 +257,19 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Portuguese_legislative_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Portuguese_legislative_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Portuguese_legislative_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
     ],
     "headers": ["Nationwide polling"]
   },
   "Romania": {
     "links": [
-      "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election"
+      "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Romanian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
     ],
-    "headers": ["Party polls", "Party vote", "Polls", "Opinion polls"]
+    "headers": ["Party polls", "Party vote", "Polls"]
   },
   "Serbia": {
     "links": [

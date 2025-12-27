@@ -17,16 +17,16 @@ from .polling import (
     get_polling_headers,
     calculate_latest_total_support,
 )
-from .postprocessing import remove_isolated_datapoints
+from .postprocessing import (
+    remove_isolated_datapoints,
+    remove_anomalous_values,
+    filter_pre_2010_datapoints,
+)
 import time
 
 
 ROOT = Path(__file__).resolve().parents[2]
-CATEGORIES = [
-    "far-right",
-    "national-conservatism",
-    "serbian-nationalism",
-]
+CATEGORIES = ["far-right", "national-conservatism"]
 
 
 def is_party_far_right(
@@ -90,9 +90,25 @@ def save_country_polling_csv(
             df["date"] = pd.to_datetime(df["date"])
             df = df.sort_values(["party", "date"])
 
+            # Filter out pre-2010 datapoints
+            print(f"Filtering pre-2010 datapoints for {country}...")
+            df = filter_pre_2010_datapoints(df, cutoff_year=2010)
+
             # Remove isolated datapoints
             print(f"Removing isolated datapoints for {country}...")
             df = remove_isolated_datapoints(df, min_neighbors=2)
+
+            # Remove anomalous values for specific countries
+            countries_for_anomaly_removal = [
+                "Spain",
+                "Austria",
+                "Poland",
+                "Czech Republic",
+                "Portugal",
+            ]
+            if country in countries_for_anomaly_removal:
+                print(f"Removing anomalous values for {country}...")
+                df = remove_anomalous_values(df, threshold=10.0, debug=True)
 
             if not df.empty:
                 df.to_csv(country_dir / "polling_data.csv", index=False)
@@ -454,7 +470,8 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
 if __name__ == "__main__":
     # retrieve country as an argument if needed
     import sys
-    from .polling import set_debug_mode
+    from .polling import set_debug_mode as set_polling_debug
+    from .utils import set_debug_mode as set_utils_debug
 
     no_scraping = False
     country_arg = None
@@ -469,7 +486,8 @@ if __name__ == "__main__":
     if "--debug" in args:
         debug_mode = True
         args.remove("--debug")
-        set_debug_mode(True)
+        set_polling_debug(True)
+        set_utils_debug(True)
         print("Debug mode enabled")
 
     if args:
