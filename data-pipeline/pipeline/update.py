@@ -74,20 +74,50 @@ def save_country_polling_csv(
         for party_name, time_series in series_by_party.items():
             party_info = party_metadata.get(party_name, {})
             for point in time_series:
-                polling_data.append(
-                    {
-                        "date": point["date"],
-                        "party": party_name,
-                        "polling_value": point["value"],
-                        "political_position": party_info.get("political_position"),
-                        "ideology": party_info.get("ideology"),
-                        "wikipedia_url": party_info.get("url"),
-                    }
-                )
+                row_data = {
+                    "date": point["date"],
+                    "party": party_name,
+                    "polling_value": point["value"],
+                    "political_position": party_info.get("political_position"),
+                    "ideology": party_info.get("ideology"),
+                    "wikipedia_url": party_info.get("url"),
+                }
+                # For France, add party_affiliation column
+                if country == "France":
+                    row_data["party_affiliation"] = party_info.get(
+                        "party_affiliation", ""
+                    )
+                polling_data.append(row_data)
 
         if polling_data:
             df = pd.DataFrame(polling_data)
             df["date"] = pd.to_datetime(df["date"])
+
+            # For France, swap party (candidate) with party_affiliation for display
+            if country == "France" and "party_affiliation" in df.columns:
+                # Keep candidate name in a separate column
+                df["candidate"] = df["party"]
+                # Use party_affiliation as the main party column
+                df["party"] = df["party_affiliation"]
+                # Remove the party_affiliation column
+                df = df.drop(columns=["party_affiliation"])
+
+                # Aggregate duplicate entries (same party on same date) by averaging
+                print(f"Aggregating duplicate entries for {country}...")
+                df = (
+                    df.groupby(["date", "party"])
+                    .agg(
+                        {
+                            "polling_value": "mean",
+                            "political_position": "first",
+                            "ideology": "first",
+                            "wikipedia_url": "first",
+                            "candidate": "first",
+                        }
+                    )
+                    .reset_index()
+                )
+
             df = df.sort_values(["party", "date"])
 
             # Filter out pre-2010 datapoints
@@ -123,17 +153,29 @@ def save_country_polling_csv(
     if party_metadata:
         parties_data = []
         for party_name, info in party_metadata.items():
-            parties_data.append(
-                {
-                    "party": party_name,
-                    "political_position": info.get("political_position"),
-                    "ideology": info.get("ideology"),
-                    "wikipedia_url": info.get("url"),
-                }
-            )
+            row_data = {
+                "party": party_name,
+                "political_position": info.get("political_position"),
+                "ideology": info.get("ideology"),
+                "wikipedia_url": info.get("url"),
+            }
+            # For France, add party_affiliation column
+            if country == "France":
+                row_data["party_affiliation"] = info.get("party_affiliation", "")
+            parties_data.append(row_data)
 
         if parties_data:
             df_parties = pd.DataFrame(parties_data)
+
+            # For France, swap party (candidate) with party_affiliation
+            if country == "France" and "party_affiliation" in df_parties.columns:
+                df_parties["candidate"] = df_parties["party"]
+                df_parties["party"] = df_parties["party_affiliation"]
+                df_parties = df_parties.drop(columns=["party_affiliation"])
+
+                # Deduplicate parties (keep first occurrence)
+                df_parties = df_parties.drop_duplicates(subset=["party"], keep="first")
+
             df_parties.to_csv(country_dir / "parties.csv", index=False)
 
     # Save metadata as JSON for backward compatibility
@@ -174,6 +216,9 @@ def read_country_data_from_csv(
         # Read polling data
         df_polling = pd.read_csv(polling_csv)
         df_polling["date"] = pd.to_datetime(df_polling["date"])
+
+        # For France, the data is already saved with party_affiliation in the party column
+        # No need to aggregate anymore as it's already done during save
 
         # Get latest data per party
         latest_data = df_polling.loc[df_polling.groupby("party")["date"].idxmax()]
@@ -221,27 +266,26 @@ def read_country_data_from_csv(
 
         # Generate seriesByParty for far-right parties
         series_by_party = {}
+        latest_update = None
         for party in selected_parties:
             party_data = df_polling[df_polling["party"] == party].copy()
             party_data = party_data.sort_values("date")
-            series_by_party[party] = [
-                {
-                    "date": row["date"].strftime("%Y-%m-%d"),
-                    "value": row["polling_value"],
-                }
-                for _, row in party_data.iterrows()
-            ]
-            # for each party if there is a more than one row with the same date take the average
-            # (to handle cases where multiple polls are conducted on the same date)
+
+            # Aggregate by date (average if multiple polls on same date)
+            aggregated = party_data.groupby("date")["polling_value"].mean()
             series_by_party[party] = [
                 {
                     "date": date.strftime("%Y-%m-%d"),
                     "value": float(f"{value:.2f}"),
                 }
-                for date, value in party_data.groupby("date")["polling_value"]
-                .mean()
-                .items()
+                for date, value in aggregated.items()
             ]
+
+            # Track the latest date across all parties
+            if not party_data.empty:
+                party_latest = party_data["date"].max()
+                if latest_update is None or party_latest > latest_update:
+                    latest_update = party_latest
 
         # Read metadata
         country_name = iso2  # fallback
@@ -256,7 +300,9 @@ def read_country_data_from_csv(
             "parties": selected_parties,
             "latestSupport": float(latest_far_right_support),
             "seriesByParty": series_by_party,
-            "latestUpdate": now_iso(),
+            "latestUpdate": latest_update.strftime("%Y-%m-%d")
+            if latest_update
+            else None,
         }
 
     except Exception as e:
