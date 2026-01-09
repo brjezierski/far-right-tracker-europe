@@ -70,53 +70,76 @@ def save_country_polling_csv(
 
     # Save polling time series data
     if series_by_party:
+        # For France, load the manually maintained parties.csv to get candidate->party mapping
+        candidate_to_party = {}
+        party_to_metadata = {}  # Store metadata by party name for France
+        if country == "France":
+            parties_csv_path = country_dir / "parties.csv"
+            if parties_csv_path.exists():
+                try:
+                    df_parties_ref = pd.read_csv(parties_csv_path)
+                    if (
+                        "candidate" in df_parties_ref.columns
+                        and "party" in df_parties_ref.columns
+                    ):
+                        # Create mapping from candidate name to party name
+                        for _, row in df_parties_ref.iterrows():
+                            candidate = row.get("candidate", "")
+                            party = row.get("party", "")
+                            if (
+                                candidate
+                                and party
+                                and pd.notna(candidate)
+                                and pd.notna(party)
+                            ):
+                                candidate_to_party[candidate] = party
+                                # Also store party metadata indexed by party name
+                                if party not in party_to_metadata:
+                                    party_to_metadata[party] = {
+                                        "political_position": row.get(
+                                            "political_position", ""
+                                        ),
+                                        "ideology": row.get("ideology", ""),
+                                        "wikipedia_url": row.get("wikipedia_url", ""),
+                                    }
+                        print(
+                            f"Loaded {len(candidate_to_party)} candidate->party mappings for France"
+                        )
+                except Exception as e:
+                    print(f"Warning: Could not load parties.csv for France: {e}")
+
         polling_data = []
         for party_name, time_series in series_by_party.items():
             party_info = party_metadata.get(party_name, {})
+
+            # For France, map candidate name to party name
+            actual_party_name = party_name
+            candidate_name = None
+            if country == "France" and party_name in candidate_to_party:
+                candidate_name = party_name
+                actual_party_name = candidate_to_party[party_name]
+                # Get party info from the parties.csv metadata
+                if actual_party_name in party_to_metadata:
+                    party_info = party_to_metadata[actual_party_name]
+
             for point in time_series:
                 row_data = {
                     "date": point["date"],
-                    "party": party_name,
+                    "party": actual_party_name,
                     "polling_value": point["value"],
                     "political_position": party_info.get("political_position"),
                     "ideology": party_info.get("ideology"),
-                    "wikipedia_url": party_info.get("url"),
+                    "wikipedia_url": party_info.get("url")
+                    or party_info.get("wikipedia_url"),
                 }
-                # For France, add party_affiliation column
+                # For France, add candidate column
                 if country == "France":
-                    row_data["party_affiliation"] = party_info.get(
-                        "party_affiliation", ""
-                    )
+                    row_data["candidate"] = candidate_name if candidate_name else ""
                 polling_data.append(row_data)
 
         if polling_data:
             df = pd.DataFrame(polling_data)
             df["date"] = pd.to_datetime(df["date"])
-
-            # For France, swap party (candidate) with party_affiliation for display
-            if country == "France" and "party_affiliation" in df.columns:
-                # Keep candidate name in a separate column
-                df["candidate"] = df["party"]
-                # Use party_affiliation as the main party column
-                df["party"] = df["party_affiliation"]
-                # Remove the party_affiliation column
-                df = df.drop(columns=["party_affiliation"])
-
-                # Aggregate duplicate entries (same party on same date) by averaging
-                print(f"Aggregating duplicate entries for {country}...")
-                df = (
-                    df.groupby(["date", "party"])
-                    .agg(
-                        {
-                            "polling_value": "mean",
-                            "political_position": "first",
-                            "ideology": "first",
-                            "wikipedia_url": "first",
-                            "candidate": "first",
-                        }
-                    )
-                    .reset_index()
-                )
 
             df = df.sort_values(["party", "date"])
 
@@ -158,6 +181,7 @@ def save_country_polling_csv(
                 "political_position": info.get("political_position"),
                 "ideology": info.get("ideology"),
                 "wikipedia_url": info.get("url"),
+                "party_display_name": info.get("party_display_name", ""),
             }
             # For France, add party_affiliation column
             if country == "France":
@@ -167,16 +191,9 @@ def save_country_polling_csv(
         if parties_data:
             df_parties = pd.DataFrame(parties_data)
 
-            # For France, swap party (candidate) with party_affiliation
-            if country == "France" and "party_affiliation" in df_parties.columns:
-                df_parties["candidate"] = df_parties["party"]
-                df_parties["party"] = df_parties["party_affiliation"]
-                df_parties = df_parties.drop(columns=["party_affiliation"])
-
-                # Deduplicate parties (keep first occurrence)
-                df_parties = df_parties.drop_duplicates(subset=["party"], keep="first")
-
-            df_parties.to_csv(country_dir / "parties.csv", index=False)
+            # Skip saving parties.csv for France (manually maintained)
+            if country != "France":
+                df_parties.to_csv(country_dir / "parties.csv", index=False)
 
     # Save metadata as JSON for backward compatibility
     metadata = {

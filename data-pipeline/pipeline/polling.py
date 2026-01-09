@@ -820,8 +820,8 @@ def annotate_parties_positions(
                 "is_far_right": False,
             }
 
-    # Save updated cache to parties.csv
-    if country_cache:
+    # Save updated cache to parties.csv (skip for France as it's manually maintained)
+    if country_cache and country != "France":
         try:
             cache_rows = []
             for party_name, info in country_cache.items():
@@ -837,8 +837,13 @@ def annotate_parties_positions(
                 )
             df_cache = pd.DataFrame(cache_rows)
             df_cache.to_csv(cache_path, index=False)
+            if DEBUG:
+                print(f"Saved parties.csv for {country}")
         except Exception as e:
             print(f"Error saving cache to {cache_path}: {e}")
+    elif country == "France":
+        if DEBUG:
+            print("Skipping parties.csv save for France (manually maintained)")
 
     return {
         "selected_parties": selected_parties,
