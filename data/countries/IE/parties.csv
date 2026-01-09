@@ -1,19 +1,17 @@
-party,political_position,ideology,wikipedia_url
-Fine Gael,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-Labour Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-Fianna Fáil,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-Sinn Féin,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-Anti-Austerity Alliance–People Before Profit,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/Anti-Austerity_Alliance%E2%80%93People_Before_Profit
-Green Party,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-Renua,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
-Social Democrats,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
-Solidarity–People Before Profit,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/Solidarity%E2%80%93People_Before_Profit
-Independent Alliance,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland)
-#cite note-i4cpoll01-1,,,
-Leo Varadkar,,,
-Micheál Martin,,,
-People Before Profit–Solidarity,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-Aontú,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
-#cite note-remainder-3,,,
-Independent Ireland,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
-#cite note-remainder-9,,,
+party,political_position,ideology,wikipedia_url,party_display_name
+Fine Gael,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael,Fine Gael
+Fianna Fáil,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il,Fianna Fáil
+Sinn Féin,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in,Sinn Féin
+Labour Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland),Labour Party
+People Before Profit-Solidarity,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity,People Before Profit-Solidarity
+Social Democrats,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland),Social Democrats
+Green Party,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland),Green Party
+Renua,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua,Renua
+Independent Alliance,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland),Independent Alliance
+#cite note-i4cpoll01-1,,,,
+Leo Varadkar,,,,
+Micheál Martin,,,,
+Aontú,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA,Aontú
+#cite note-remainder-3,,,,
+Independent Ireland,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland,Independent Ireland
+#cite note-remainder-9,,,,

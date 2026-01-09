@@ -1,42 +1,42 @@
-party,political_position,ideology,wikipedia_url
-Democratic Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
-More Europe,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
-Together,Centre-left,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Together_(Italy)
-Popular Civic List,Centre,Christian democracy,https://en.wikipedia.org/wiki/Popular_Civic_List
-Forza Italia,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
-Lega Nord,Right-wing to far-right,Federalism Regionalism Conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Lega_Nord
-Brothers of Italy,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
-Us with Italy,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_with_Italy
-Five Star Movement,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
-Free and Equal,Left-wing,Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Free_and_Equal_(Italy)
-Centre-left coalition,Centre to left-wing,,https://en.wikipedia.org/wiki/Centre-left_coalition_(Italy)
-Power to the People,Left-wing to far-left,Left-wing populism Euroscepticism Anti-capitalism Communism Socialism of the 21st century,https://en.wikipedia.org/wiki/Power_to_the_People_(Italy)
-CasaPound,Far-right,Neo-fascism Italian nationalism Hard Euroscepticism Souverainism Anti-capitalism Laicism,https://en.wikipedia.org/wiki/CasaPound
-Italian Left,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Italian_Left
-Popular Alternative,Centre to centre-right,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Popular_Alternative
-Article One,Centre-left to left-wing,Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Article_One_(political_party)
-Progressive Camp,Left-wing,Democratic socialism Progressivism,https://en.wikipedia.org/wiki/Progressive_Camp
-Popular Area,Centre to centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Popular_Area
-Left Ecology Freedom,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Ecology_Freedom
-Union of the Centre,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Union_of_the_Centre_(2002)
-New Centre-Right,Centre-right,Conservatism Christian democracy,https://en.wikipedia.org/wiki/New_Centre-Right
-Civic Choice,Centre,Liberalism,https://en.wikipedia.org/wiki/Civic_Choice
-The People of Freedom,Centre-right,Liberal conservatism Christian democracy Liberalism Conservatism,https://en.wikipedia.org/wiki/The_People_of_Freedom
-Lega,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
-Greens and Left Alliance,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
-Action,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
-Italexit,Big tent or far-right,Hard Euroscepticism Populism Sovereigntism,https://en.wikipedia.org/wiki/Italexit_(political_party)
-Civic Commitment,Centre,Reformism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Commitment
-Us Moderates,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
-People's Union,Left-wing to far-left,Left-wing populism Socialism Factions : Democratic socialism Communism,https://en.wikipedia.org/wiki/People%27s_Union_(Italy)
-Green Europe,Left-wing [ citation needed ],Green politics,https://en.wikipedia.org/wiki/Green_Europe
-Italia Viva,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
-Coraggio Italia,Centre to centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/Coraggio_Italia
-Cambiamo!,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/Cambiamo!
-Peace Land Dignity,Left-wing,Pacifism Environmentalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Peace_Land_Dignity
-South calls North,Big tent,Regionalism Populism,https://en.wikipedia.org/wiki/South_calls_North
-United States of Europe,Centre,Liberalism European federalism,https://en.wikipedia.org/wiki/United_States_of_Europe_(electoral_list)
-Freedom,Big tent,Populism Regionalism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Freedom_(electoral_list)
-Sovereign Popular Democracy,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
-Action - Italia Viva,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Action_%E2%80%93_Italia_Viva
-Sovereign and Popular Italy,Big tent,Populism Sovereigntism Euroscepticism Factions: Communism,https://en.wikipedia.org/wiki/Sovereign_and_Popular_Italy
+party,political_position,ideology,wikipedia_url,party_display_name
+Democratic Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy),Democratic Party
+More Europe,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe,More Europe
+Together,Centre-left,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Together_(Italy),Together
+Popular Civic List,Centre,Christian democracy,https://en.wikipedia.org/wiki/Popular_Civic_List,Popular Civic List
+Forza Italia,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013),Forza Italia
+Lega Nord,Right-wing to far-right,Federalism Regionalism Conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Lega_Nord,Lega Nord
+Brothers of Italy,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy,Brothers of Italy
+Us with Italy,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_with_Italy,Us with Italy
+Five Star Movement,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement,Five Star Movement
+Free and Equal,Left-wing,Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Free_and_Equal_(Italy),Free and Equal
+Centre-left coalition,Centre to left-wing,,https://en.wikipedia.org/wiki/Centre-left_coalition_(Italy),Centre-left coalition
+Power to the People,Left-wing to far-left,Left-wing populism Euroscepticism Anti-capitalism Communism Socialism of the 21st century,https://en.wikipedia.org/wiki/Power_to_the_People_(Italy),Power to the People
+CasaPound,,,,
+Italian Left,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Italian_Left,Italian Left
+Popular Alternative,Centre to centre-right,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Popular_Alternative,Popular Alternative
+Article One,Centre-left to left-wing,Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Article_One_(political_party),Article One
+Progressive Camp,Left-wing,Democratic socialism Progressivism,https://en.wikipedia.org/wiki/Progressive_Camp,Progressive Camp
+Popular Area,Centre to centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Popular_Area,Popular Area
+Left Ecology Freedom,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Ecology_Freedom,Left Ecology Freedom
+Union of the Centre,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Union_of_the_Centre_(2002),Union of the Centre
+New Centre-Right,Centre-right,Conservatism Christian democracy,https://en.wikipedia.org/wiki/New_Centre-Right,New Centre-Right
+Civic Choice,Centre,Liberalism,https://en.wikipedia.org/wiki/Civic_Choice,Civic Choice
+The People of Freedom,Centre-right,Liberal conservatism Christian democracy Liberalism Conservatism,https://en.wikipedia.org/wiki/The_People_of_Freedom,The People of Freedom
+Lega,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party),Lega
+Greens and Left Alliance,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance,Greens and Left Alliance
+Action,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party),Action
+Italexit,Big tent or far-right,Hard Euroscepticism Populism Sovereigntism,https://en.wikipedia.org/wiki/Italexit_(political_party),Italexit
+Civic Commitment,Centre,Reformism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Commitment,Civic Commitment
+Us Moderates,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates,Us Moderates
+People's Union,Left-wing to far-left,Left-wing populism Socialism Factions : Democratic socialism Communism,https://en.wikipedia.org/wiki/People%27s_Union_(Italy),People's Union
+Green Europe,Left-wing [ citation needed ],Green politics,https://en.wikipedia.org/wiki/Green_Europe,Green Europe
+Italia Viva,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva,Italia Viva
+Coraggio Italia,,,,
+Cambiamo!,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/Cambiamo!,Cambiamo!
+Peace Land Dignity,Left-wing,Pacifism Environmentalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Peace_Land_Dignity,Peace Land Dignity
+South calls North,Big tent,Regionalism Populism,https://en.wikipedia.org/wiki/South_calls_North,South calls North
+United States of Europe,Centre,Liberalism European federalism,https://en.wikipedia.org/wiki/United_States_of_Europe_(electoral_list),United States of Europe
+Freedom,Big tent,Populism Regionalism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Freedom_(electoral_list),Freedom
+Sovereign Popular Democracy,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy,Sovereign Popular Democracy
+Action - Italia Viva,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Action_%E2%80%93_Italia_Viva,Action - Italia Viva
+Sovereign and Popular Italy,Big tent,Populism Sovereigntism Euroscepticism Factions: Communism,https://en.wikipedia.org/wiki/Sovereign_and_Popular_Italy,Sovereign and Popular Italy

@@ -1,16 +1,12 @@
-party,political_position,ideology,wikipedia_url
-Conservative Party,Centre-right to right-wing,Conservatism ( British ) British unionism Economic liberalism,https://en.wikipedia.org/wiki/Conservative_Party_(UK)
-Labour Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Labour_Party_(UK)
-Lib Dem,Centre to centre-left,Liberalism ( British ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lib_Dem
-UKIP,Far-right,British nationalism Economic liberalism Euroscepticism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/UKIP
-Green Party of England and Wales,Left-wing,Green politics Progressivism Factions: Anti-capitalism Eco-socialism,https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales
-UK Independence Party,Far-right,British nationalism Economic liberalism Euroscepticism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/UK_Independence_Party
-Liberal Democrats,Centre to centre-left,Liberalism ( British ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Liberal_Democrats_(UK)
-Scottish National Party,Centre-left,Scottish nationalism Scottish independence Social democracy,https://en.wikipedia.org/wiki/Scottish_National_Party
-Green Parties in the United Kingdom,,,
-Green parties in the United Kingdom,,,
-Plaid Cymru,Centre-left,Welsh nationalism Welsh independence Social democracy,https://en.wikipedia.org/wiki/Plaid_Cymru
-Change UK,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Change_UK
-Brexit Party,Right-wing,Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Brexit_Party
-Lib Dems,Centre to centre-left,Liberalism ( British ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lib_Dems
-Reform UK,Right-wing,Right-wing populism Hard Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Reform_UK
+party,political_position,ideology,wikipedia_url,party_display_name
+Conservative Party,Centre-right to right-wing,Conservatism ( British ) British unionism Economic liberalism,https://en.wikipedia.org/wiki/Conservative_Party_(UK),Conservative Party
+Labour Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Labour_Party_(UK),Labour Party
+Liberal Democrats,Centre to centre-left,Liberalism ( British ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Liberal_Democrats_(UK),Liberal Democrats
+UK Independence Party,Far-right,British nationalism Economic liberalism Euroscepticism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/UK_Independence_Party,UK Independence Party
+Green Party of England and Wales,Left-wing,Green politics Progressivism Factions: Anti-capitalism Eco-socialism,https://en.wikipedia.org/wiki/Green_Party_of_England_and_Wales,Green Party of England and Wales
+Scottish National Party,Centre-left,Scottish nationalism Scottish independence Social democracy,https://en.wikipedia.org/wiki/Scottish_National_Party,Scottish National Party
+Green Parties in the United Kingdom,,,,
+Green parties in the United Kingdom,,,,
+Plaid Cymru,Centre-left,Welsh nationalism Welsh independence Social democracy,https://en.wikipedia.org/wiki/Plaid_Cymru,Plaid Cymru
+Change UK,Centre,Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Change_UK,Change UK
+Reform UK,Right-wing,Right-wing populism Hard Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Reform_UK,Reform UK

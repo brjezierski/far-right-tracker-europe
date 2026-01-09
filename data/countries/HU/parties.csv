@@ -1,19 +1,17 @@
-party,political_position,ideology,wikipedia_url
-Fidesz-KDNP,Right-wing to far-right,Hungarian nationalism National conservatism Christian democracy Christian right Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
-Hungarian Socialist Party,Centre-left to left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Socialist_Party
-Jobbik,Centre-right to right-wing 2003–2014: Right-wing to far-right,Conservatism Hungarian nationalism 2003–2014: Hungarian irredentism Ethnic nationalism,https://en.wikipedia.org/wiki/Jobbik
-Politics Can Be Different,Centre to centre-left,Green liberalism Syncretic politics,https://en.wikipedia.org/wiki/Politics_Can_Be_Different
-Democratic Coalition,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
-Together,Centre to Centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Together_(Hungary)
-Dialogue for Hungary,Centre-left to left-wing,Green politics Social liberalism,https://en.wikipedia.org/wiki/Dialogue_for_Hungary
-Hungarian Liberal Party,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Liberal_Party
-Hungarian Two Tailed Dog Party,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
-Momentum Movement,Centre,Liberalism,https://en.wikipedia.org/wiki/Momentum_Movement
-LMP – Hungary's Green Party,Centre to centre-left,Green liberalism Syncretic politics,https://en.wikipedia.org/wiki/LMP_%E2%80%93_Hungary%27s_Green_Party
-Hungarian Two-Tailed Dog Party,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/MKKP
-Our Homeland Movement,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
-Dialogue - The Greens' Party,Centre-left to left-wing,Green politics Social liberalism,https://en.wikipedia.org/wiki/Dialogue_%E2%80%93_The_Greens%27_Party
-Everybody's Hungary People's Party,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party
-/w/index.php?title=On the People's Side&action=edit&redlink=1,,,
-Second Reform Era Party,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-Tisza Party,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
+party,political_position,ideology,wikipedia_url,party_display_name
+Fidesz-KDNP,Right-wing to far-right,Hungarian nationalism National conservatism Christian democracy Christian right Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP,Fidesz-KDNP
+Hungarian Socialist Party,Centre-left to left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Socialist_Party,Hungarian Socialist Party
+Jobbik,Centre-right to right-wing 2003–2014: Right-wing to far-right,Conservatism Hungarian nationalism 2003–2014: Hungarian irredentism Ethnic nationalism,https://en.wikipedia.org/wiki/Jobbik,Jobbik
+Politics Can Be Different,,,,
+Democratic Coalition,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary),Democratic Coalition
+Together,Centre to Centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Together_(Hungary),Together
+Dialogue - The Greens' Party,Centre-left to left-wing,Green politics Social liberalism,https://en.wikipedia.org/wiki/Dialogue_%E2%80%93_The_Greens%27_Party,Dialogue - The Greens' Party
+Hungarian Liberal Party,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Liberal_Party,Hungarian Liberal Party
+Hungarian Two-Tailed Dog Party,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party,Hungarian Two-Tailed Dog Party
+Momentum Movement,Centre,Liberalism,https://en.wikipedia.org/wiki/Momentum_Movement,Momentum Movement
+LMP - Hungary's Green Party,Centre to centre-left,Green liberalism Syncretic politics,https://en.wikipedia.org/wiki/LMP_%E2%80%93_Hungary%27s_Green_Party,LMP - Hungary's Green Party
+Our Homeland Movement,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement,Our Homeland Movement
+Everybody's Hungary People's Party,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party,Everybody's Hungary People's Party
+/w/index.php?title=On the People's Side&action=edit&redlink=1,,,,
+Second Reform Era Party,,,,
+Tisza Party,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party,Tisza Party

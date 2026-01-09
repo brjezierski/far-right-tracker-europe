@@ -266,17 +266,17 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-03-24,Chance Political Party,18.8,Centre-left,Russophilia Liberalism (self-declared) Social democracy Christian democracy,https://en.wikipedia.org/wiki/Chance_Political_Party
 2024-04-13,Chance Political Party,8.5,Centre-left,Russophilia Liberalism (self-declared) Social democracy Christian democracy,https://en.wikipedia.org/wiki/Chance_Political_Party
 2024-04-26,Chance Political Party,19.1,Centre-left,Russophilia Liberalism (self-declared) Social democracy Christian democracy,https://en.wikipedia.org/wiki/Chance_Political_Party
-2021-11-15,Common Action Party - Civil Congress,0.7,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2021-11-20,Common Action Party - Civil Congress,0.74,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2021-12-18,Common Action Party - Civil Congress,0.73,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2022-03-28,Common Action Party - Civil Congress,0.3,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2022-10-11,Common Action Party - Civil Congress,0.5,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2022-11-10,Common Action Party - Civil Congress,0.7,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2022-12-26,Common Action Party - Civil Congress,0.1,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2023-01-26,Common Action Party - Civil Congress,0.2,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2023-08-01,Common Action Party - Civil Congress,1.5,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2023-08-23,Common Action Party - Civil Congress,0.5,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
-2024-02-12,Common Action Party - Civil Congress,0.3,Left-wing,Democratic socialism Progressivism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2021-11-15,Common Action Party - Civil Congress,0.7,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2021-11-20,Common Action Party - Civil Congress,0.74,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2021-12-18,Common Action Party - Civil Congress,0.73,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2022-03-28,Common Action Party - Civil Congress,0.3,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2022-10-11,Common Action Party - Civil Congress,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2022-11-10,Common Action Party - Civil Congress,0.7,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2022-12-26,Common Action Party - Civil Congress,0.1,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2023-01-26,Common Action Party - Civil Congress,0.2,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2023-08-01,Common Action Party - Civil Congress,1.5,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2023-08-23,Common Action Party - Civil Congress,0.5,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
+2024-02-12,Common Action Party - Civil Congress,0.3,Left-wing,Democratic socialism Progressivism Left-wing populism Euroscepticism Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Common_Action_Party_%E2%80%93_Civil_Congress
 2021-10-18,Democracy at Home Party,0.7,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
 2021-11-01,Democracy at Home Party,1.6,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
 2021-11-15,Democracy at Home Party,2.2,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
@@ -321,135 +321,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-13,Democracy at Home Party,3.8,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
 2025-09-19,Democracy at Home Party,3.1,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
 2025-09-22,Democracy at Home Party,3.12,Right-wing,Right-wing populism Moldovan–Romanian unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Democracy_at_Home_Party
-2014-11-30,Democratic Party of Moldova,15.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-01-30,Democratic Party of Moldova,14.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-03-04,Democratic Party of Moldova,8.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-03-26,Democratic Party of Moldova,11.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-04-12,Democratic Party of Moldova,11.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-05-18,Democratic Party of Moldova,6.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-06-14,Democratic Party of Moldova,17.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-09-18,Democratic Party of Moldova,6.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-10-21,Democratic Party of Moldova,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-11-18,Democratic Party of Moldova,9.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-11-30,Democratic Party of Moldova,5.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2015-12-01,Democratic Party of Moldova,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-01-16,Democratic Party of Moldova,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-02-13,Democratic Party of Moldova,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-02-21,Democratic Party of Moldova,8.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-03-20,Democratic Party of Moldova,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-03-25,Democratic Party of Moldova,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-04-10,Democratic Party of Moldova,7.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-04-23,Democratic Party of Moldova,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-05-23,Democratic Party of Moldova,8.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-06-15,Democratic Party of Moldova,8.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-06-24,Democratic Party of Moldova,10.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-09-10,Democratic Party of Moldova,11.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-09-23,Democratic Party of Moldova,12.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-09-25,Democratic Party of Moldova,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-09-28,Democratic Party of Moldova,14.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-10-05,Democratic Party of Moldova,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-10-08,Democratic Party of Moldova,15.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-10-09,Democratic Party of Moldova,16.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2016-10-16,Democratic Party of Moldova,11.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-01-10,Democratic Party of Moldova,9.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-01-27,Democratic Party of Moldova,4.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-03-07,Democratic Party of Moldova,4.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-03-19,Democratic Party of Moldova,4.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-04-17,Democratic Party of Moldova,4.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-04-25,Democratic Party of Moldova,3.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-07-09,Democratic Party of Moldova,11.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-09-20,Democratic Party of Moldova,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-10-17,Democratic Party of Moldova,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-10-29,Democratic Party of Moldova,6.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-12-02,Democratic Party of Moldova,6.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2017-12-05,Democratic Party of Moldova,5.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-01-18,Democratic Party of Moldova,10.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-03-06,Democratic Party of Moldova,16.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-03-07,Democratic Party of Moldova,9.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-03-28,Democratic Party of Moldova,10.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-07-07,Democratic Party of Moldova,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-09-12,Democratic Party of Moldova,14.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-10-16,Democratic Party of Moldova,13.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-11-09,Democratic Party of Moldova,20.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-11-20,Democratic Party of Moldova,15.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-11-23,Democratic Party of Moldova,15.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-12-10,Democratic Party of Moldova,17.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2018-12-23,Democratic Party of Moldova,20.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-01-16,Democratic Party of Moldova,15.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-01-19,Democratic Party of Moldova,19.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-01-26,Democratic Party of Moldova,20.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-01-31,Democratic Party of Moldova,19.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-01-31,Democratic Party of Moldova,22.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-02-16,Democratic Party of Moldova,25.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-04-05,Democratic Party of Moldova,26.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-05-10,Democratic Party of Moldova,23.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-06-13,Democratic Party of Moldova,11.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-06-22,Democratic Party of Moldova,7.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-07-28,Democratic Party of Moldova,8.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-08-14,Democratic Party of Moldova,6.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-09-20,Democratic Party of Moldova,9.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-09-22,Democratic Party of Moldova,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-11-30,Democratic Party of Moldova,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-12-08,Democratic Party of Moldova,13.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-12-14,Democratic Party of Moldova,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2019-12-23,Democratic Party of Moldova,10.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-01-13,Democratic Party of Moldova,10.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-01-23,Democratic Party of Moldova,10.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-02-16,Democratic Party of Moldova,11.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-02-19,Democratic Party of Moldova,9.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-03-07,Democratic Party of Moldova,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-03-15,Democratic Party of Moldova,4.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-04-04,Democratic Party of Moldova,8.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-04-12,Democratic Party of Moldova,7.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-05-04,Democratic Party of Moldova,8.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-05-07,Democratic Party of Moldova,8.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-05-11,Democratic Party of Moldova,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-05-31,Democratic Party of Moldova,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-06-23,Democratic Party of Moldova,5.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-06-27,Democratic Party of Moldova,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-06-27,Democratic Party of Moldova,3.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-07-04,Democratic Party of Moldova,3.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-07-09,Democratic Party of Moldova,3.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-07-24,Democratic Party of Moldova,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-07-26,Democratic Party of Moldova,5.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-07-27,Democratic Party of Moldova,3.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-08-20,Democratic Party of Moldova,5.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-08-23,Democratic Party of Moldova,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-08-27,Democratic Party of Moldova,2.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-09-02,Democratic Party of Moldova,2.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-09-22,Democratic Party of Moldova,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-05,Democratic Party of Moldova,2.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-08,Democratic Party of Moldova,3.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-09,Democratic Party of Moldova,3.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-17,Democratic Party of Moldova,1.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-20,Democratic Party of Moldova,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-20,Democratic Party of Moldova,3.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-24,Democratic Party of Moldova,1.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-10-24,Democratic Party of Moldova,0.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-11-07,Democratic Party of Moldova,3.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-11-07,Democratic Party of Moldova,1.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2020-12-14,Democratic Party of Moldova,0.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-01-23,Democratic Party of Moldova,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-01-31,Democratic Party of Moldova,0.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-02-14,Democratic Party of Moldova,0.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-02-16,Democratic Party of Moldova,5.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-02-20,Democratic Party of Moldova,2.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-02-27,Democratic Party of Moldova,0.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-03-16,Democratic Party of Moldova,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-03-23,Democratic Party of Moldova,2.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-03-31,Democratic Party of Moldova,1.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-05-22,Democratic Party of Moldova,2.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-05-28,Democratic Party of Moldova,1.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-05-28,Democratic Party of Moldova,2.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-05,Democratic Party of Moldova,2.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-08,Democratic Party of Moldova,0.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-19,Democratic Party of Moldova,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-20,Democratic Party of Moldova,1.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-27,Democratic Party of Moldova,1.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-06-30,Democratic Party of Moldova,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-07-02,Democratic Party of Moldova,1.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-07-11,Democratic Party of Moldova,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
-2021-07-11,Democratic Party of Moldova,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova
 2015-03-26,Dignity and Truth Platform,7.0,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Dignity_and_Truth_Platform
 2015-09-18,Dignity and Truth Platform,7.0,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Dignity_and_Truth_Platform
 2015-10-21,Dignity and Truth Platform,7.0,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Dignity_and_Truth_Platform
@@ -599,6 +470,135 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-11-09,European People's Party of Moldova,1.6,Centre-right,Liberal conservatism Pro-Europeanism Moldovan-Romanian unionism,https://en.wikipedia.org/wiki/European_People%27s_Party_of_Moldova
 2018-11-23,European People's Party of Moldova,0.2,Centre-right,Liberal conservatism Pro-Europeanism Moldovan-Romanian unionism,https://en.wikipedia.org/wiki/European_People%27s_Party_of_Moldova
 2018-12-23,European People's Party of Moldova,0.7,Centre-right,Liberal conservatism Pro-Europeanism Moldovan-Romanian unionism,https://en.wikipedia.org/wiki/European_People%27s_Party_of_Moldova
+2014-11-30,European Social Democratic Party,15.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-01-30,European Social Democratic Party,14.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-03-04,European Social Democratic Party,8.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-03-26,European Social Democratic Party,11.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-04-12,European Social Democratic Party,11.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-05-18,European Social Democratic Party,6.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-06-14,European Social Democratic Party,17.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-09-18,European Social Democratic Party,6.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-10-21,European Social Democratic Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-11-18,European Social Democratic Party,9.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-11-30,European Social Democratic Party,5.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2015-12-01,European Social Democratic Party,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-01-16,European Social Democratic Party,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-02-13,European Social Democratic Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-02-21,European Social Democratic Party,8.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-03-20,European Social Democratic Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-03-25,European Social Democratic Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-04-10,European Social Democratic Party,7.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-04-23,European Social Democratic Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-05-23,European Social Democratic Party,8.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-06-15,European Social Democratic Party,8.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-06-24,European Social Democratic Party,10.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-09-10,European Social Democratic Party,11.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-09-23,European Social Democratic Party,12.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-09-25,European Social Democratic Party,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-09-28,European Social Democratic Party,14.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-10-05,European Social Democratic Party,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-10-08,European Social Democratic Party,15.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-10-09,European Social Democratic Party,16.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2016-10-16,European Social Democratic Party,11.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-01-10,European Social Democratic Party,9.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-01-27,European Social Democratic Party,4.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-03-07,European Social Democratic Party,4.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-03-19,European Social Democratic Party,4.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-04-17,European Social Democratic Party,4.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-04-25,European Social Democratic Party,3.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-07-09,European Social Democratic Party,11.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-09-20,European Social Democratic Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-10-17,European Social Democratic Party,9.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-10-29,European Social Democratic Party,6.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-12-02,European Social Democratic Party,6.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2017-12-05,European Social Democratic Party,5.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-01-18,European Social Democratic Party,10.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-03-06,European Social Democratic Party,16.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-03-07,European Social Democratic Party,9.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-03-28,European Social Democratic Party,10.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-07-07,European Social Democratic Party,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-09-12,European Social Democratic Party,14.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-10-16,European Social Democratic Party,13.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-11-09,European Social Democratic Party,20.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-11-20,European Social Democratic Party,15.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-11-23,European Social Democratic Party,15.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-12-10,European Social Democratic Party,17.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2018-12-23,European Social Democratic Party,20.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-01-16,European Social Democratic Party,15.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-01-19,European Social Democratic Party,19.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-01-26,European Social Democratic Party,20.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-01-31,European Social Democratic Party,19.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-01-31,European Social Democratic Party,22.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-02-16,European Social Democratic Party,25.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-04-05,European Social Democratic Party,26.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-05-10,European Social Democratic Party,23.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-06-13,European Social Democratic Party,11.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-06-22,European Social Democratic Party,7.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-07-28,European Social Democratic Party,8.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-08-14,European Social Democratic Party,6.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-09-20,European Social Democratic Party,9.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-09-22,European Social Democratic Party,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-11-30,European Social Democratic Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-12-08,European Social Democratic Party,13.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-12-14,European Social Democratic Party,13.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2019-12-23,European Social Democratic Party,10.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-01-13,European Social Democratic Party,10.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-01-23,European Social Democratic Party,10.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-02-16,European Social Democratic Party,11.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-02-19,European Social Democratic Party,9.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-03-07,European Social Democratic Party,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-03-15,European Social Democratic Party,4.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-04-04,European Social Democratic Party,8.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-04-12,European Social Democratic Party,7.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-05-04,European Social Democratic Party,8.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-05-07,European Social Democratic Party,8.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-05-11,European Social Democratic Party,11.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-05-31,European Social Democratic Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-06-23,European Social Democratic Party,5.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-06-27,European Social Democratic Party,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-06-27,European Social Democratic Party,3.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-07-04,European Social Democratic Party,3.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-07-09,European Social Democratic Party,3.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-07-24,European Social Democratic Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-07-26,European Social Democratic Party,5.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-07-27,European Social Democratic Party,3.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-08-20,European Social Democratic Party,5.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-08-23,European Social Democratic Party,5.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-08-27,European Social Democratic Party,2.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-09-02,European Social Democratic Party,2.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-09-22,European Social Democratic Party,4.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-05,European Social Democratic Party,2.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-08,European Social Democratic Party,3.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-09,European Social Democratic Party,3.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-17,European Social Democratic Party,1.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-20,European Social Democratic Party,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-20,European Social Democratic Party,3.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-24,European Social Democratic Party,1.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-10-24,European Social Democratic Party,0.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-11-07,European Social Democratic Party,3.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-11-07,European Social Democratic Party,1.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2020-12-14,European Social Democratic Party,0.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-01-23,European Social Democratic Party,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-01-31,European Social Democratic Party,0.9,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-02-14,European Social Democratic Party,0.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-02-16,European Social Democratic Party,5.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-02-20,European Social Democratic Party,2.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-02-27,European Social Democratic Party,0.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-03-16,European Social Democratic Party,3.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-03-23,European Social Democratic Party,2.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-03-31,European Social Democratic Party,1.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-05-22,European Social Democratic Party,2.5,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-05-28,European Social Democratic Party,1.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-05-28,European Social Democratic Party,2.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-05,European Social Democratic Party,2.2,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-08,European Social Democratic Party,0.8,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-19,European Social Democratic Party,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-20,European Social Democratic Party,1.4,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-27,European Social Democratic Party,1.7,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-06-30,European Social Democratic Party,1.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-07-02,European Social Democratic Party,1.3,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-07-11,European Social Democratic Party,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
+2021-07-11,European Social Democratic Party,1.1,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
 2021-11-01,European Social Democratic Party,1.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
 2021-11-15,European Social Democratic Party,1.6,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
 2021-11-20,European Social Democratic Party,1.77,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/European_Social_Democratic_Party
@@ -1368,244 +1368,244 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-13,Our Party,12.3,Left-wing,Left-wing populism Social conservatism Moldovenism Soft Euroscepticism Soft Russophilia,https://en.wikipedia.org/wiki/Our_Party_(Moldova)
 2025-09-19,Our Party,7.4,Left-wing,Left-wing populism Social conservatism Moldovenism Soft Euroscepticism Soft Russophilia,https://en.wikipedia.org/wiki/Our_Party_(Moldova)
 2025-09-22,Our Party,8.8,Left-wing,Left-wing populism Social conservatism Moldovenism Soft Euroscepticism Soft Russophilia,https://en.wikipedia.org/wiki/Our_Party_(Moldova)
-2016-02-13,Party of Action and Solidarity,10.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-03-20,Party of Action and Solidarity,14.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-03-25,Party of Action and Solidarity,12.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-04-10,Party of Action and Solidarity,9.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-04-23,Party of Action and Solidarity,17.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-05-23,Party of Action and Solidarity,16.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-06-15,Party of Action and Solidarity,16.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-06-24,Party of Action and Solidarity,16.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-09-10,Party of Action and Solidarity,13.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-09-23,Party of Action and Solidarity,14.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-09-25,Party of Action and Solidarity,9.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-09-28,Party of Action and Solidarity,15.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-10-05,Party of Action and Solidarity,12.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-10-08,Party of Action and Solidarity,19.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-10-09,Party of Action and Solidarity,15.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2016-10-16,Party of Action and Solidarity,14.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-01-10,Party of Action and Solidarity,11.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-01-27,Party of Action and Solidarity,28.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-03-07,Party of Action and Solidarity,29.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-03-19,Party of Action and Solidarity,28.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-04-17,Party of Action and Solidarity,32.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-04-25,Party of Action and Solidarity,26.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-07-09,Party of Action and Solidarity,19.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-09-20,Party of Action and Solidarity,24.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-10-17,Party of Action and Solidarity,23.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-10-29,Party of Action and Solidarity,25.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-12-02,Party of Action and Solidarity,25.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2017-12-05,Party of Action and Solidarity,22.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-01-18,Party of Action and Solidarity,24.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-03-06,Party of Action and Solidarity,16.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-03-07,Party of Action and Solidarity,24.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-03-28,Party of Action and Solidarity,19.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-07-07,Party of Action and Solidarity,11.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-09-12,Party of Action and Solidarity,15.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-10-16,Party of Action and Solidarity,13.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-11-09,Party of Action and Solidarity,8.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-11-20,Party of Action and Solidarity,14.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-11-23,Party of Action and Solidarity,14.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-12-10,Party of Action and Solidarity,12.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2018-12-23,Party of Action and Solidarity,11.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2019-01-16,Party of Action and Solidarity,14.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-09-24,Party of Action and Solidarity,50.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-10-18,Party of Action and Solidarity,51.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-11-01,Party of Action and Solidarity,56.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-11-15,Party of Action and Solidarity,38.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-11-20,Party of Action and Solidarity,53.69,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-11-25,Party of Action and Solidarity,45.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-12-15,Party of Action and Solidarity,37.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-12-18,Party of Action and Solidarity,53.79,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2021-12-19,Party of Action and Solidarity,43.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-01-23,Party of Action and Solidarity,39.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-02-05,Party of Action and Solidarity,36.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-02-14,Party of Action and Solidarity,35.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-02-24,Party of Action and Solidarity,32.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-03-28,Party of Action and Solidarity,40.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-03-30,Party of Action and Solidarity,46.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-04-10,Party of Action and Solidarity,34.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-04-18,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-04-18,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-05-06,Party of Action and Solidarity,39.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-05-28,Party of Action and Solidarity,35.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-06-23,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-07-18,Party of Action and Solidarity,30.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-09-12,Party of Action and Solidarity,29.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-09-25,Party of Action and Solidarity,33.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-10-10,Party of Action and Solidarity,31.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-10-11,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-11-10,Party of Action and Solidarity,40.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-11-15,Party of Action and Solidarity,36.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-11-23,Party of Action and Solidarity,36.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-11-29,Party of Action and Solidarity,34.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-12-20,Party of Action and Solidarity,41.55,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2022-12-26,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-01-26,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-02-06,Party of Action and Solidarity,40.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-02-22,Party of Action and Solidarity,38.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-02-23,Party of Action and Solidarity,32.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-02-24,Party of Action and Solidarity,34.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-03-03,Party of Action and Solidarity,46.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-03-26,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-04-13,Party of Action and Solidarity,47.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-05-08,Party of Action and Solidarity,36.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-05-30,Party of Action and Solidarity,38.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-06-19,Party of Action and Solidarity,44.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-06-19,Party of Action and Solidarity,38.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-06-28,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-08-01,Party of Action and Solidarity,41.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-08-23,Party of Action and Solidarity,42.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-09-07,Party of Action and Solidarity,49.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-09-24,Party of Action and Solidarity,39.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-09-30,Party of Action and Solidarity,45.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-10-29,Party of Action and Solidarity,35.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-12-15,Party of Action and Solidarity,35.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2023-12-16,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-01-30,Party of Action and Solidarity,37.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-02-12,Party of Action and Solidarity,34.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-02-22,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-02-27,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-03-24,Party of Action and Solidarity,36.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-04-13,Party of Action and Solidarity,41.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-04-26,Party of Action and Solidarity,37.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-05-19,Party of Action and Solidarity,42.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-05-27,Party of Action and Solidarity,38.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-06-13,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-07-18,Party of Action and Solidarity,40.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-07-21,Party of Action and Solidarity,41.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-08-23,Party of Action and Solidarity,44.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-08-25,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-09-18,Party of Action and Solidarity,37.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-09-22,Party of Action and Solidarity,51.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-10-10,Party of Action and Solidarity,36.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-10-15,Party of Action and Solidarity,40.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-10-16,Party of Action and Solidarity,58.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-12-01,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2024-12-08,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-02-01,Party of Action and Solidarity,33.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-02-21,Party of Action and Solidarity,43.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-02-24,Party of Action and Solidarity,37.3,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-03-25,Party of Action and Solidarity,35.0,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-04-08,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-04-13,Party of Action and Solidarity,41.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-04-28,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-05-18,Party of Action and Solidarity,43.9,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-05-24,Party of Action and Solidarity,39.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-06-23,Party of Action and Solidarity,40.4,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-06-28,Party of Action and Solidarity,31.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-07-07,Party of Action and Solidarity,39.1,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-08-16,Party of Action and Solidarity,33.8,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-08-27,Party of Action and Solidarity,43.2,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-09-03,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-09-13,Party of Action and Solidarity,48.7,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-09-19,Party of Action and Solidarity,33.6,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2025-09-22,Party of Action and Solidarity,49.5,Centre to centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
-2014-11-30,Party of Communists of the Republic of Moldova,17.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-01-30,Party of Communists of the Republic of Moldova,22.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-03-04,Party of Communists of the Republic of Moldova,20.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-03-26,Party of Communists of the Republic of Moldova,15.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-04-12,Party of Communists of the Republic of Moldova,15.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-05-18,Party of Communists of the Republic of Moldova,15.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-06-14,Party of Communists of the Republic of Moldova,10.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-09-18,Party of Communists of the Republic of Moldova,10.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-10-21,Party of Communists of the Republic of Moldova,7.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-11-18,Party of Communists of the Republic of Moldova,7.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-11-30,Party of Communists of the Republic of Moldova,12.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2015-12-01,Party of Communists of the Republic of Moldova,11.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-01-16,Party of Communists of the Republic of Moldova,7.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-02-13,Party of Communists of the Republic of Moldova,5.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-02-21,Party of Communists of the Republic of Moldova,8.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-03-20,Party of Communists of the Republic of Moldova,10.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-03-25,Party of Communists of the Republic of Moldova,6.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-04-10,Party of Communists of the Republic of Moldova,7.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-04-23,Party of Communists of the Republic of Moldova,8.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-05-23,Party of Communists of the Republic of Moldova,12.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-06-15,Party of Communists of the Republic of Moldova,8.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-06-24,Party of Communists of the Republic of Moldova,11.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-09-10,Party of Communists of the Republic of Moldova,8.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-09-23,Party of Communists of the Republic of Moldova,5.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-09-25,Party of Communists of the Republic of Moldova,7.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-09-28,Party of Communists of the Republic of Moldova,7.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-10-05,Party of Communists of the Republic of Moldova,6.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-10-08,Party of Communists of the Republic of Moldova,3.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-10-09,Party of Communists of the Republic of Moldova,6.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2016-10-16,Party of Communists of the Republic of Moldova,4.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-01-10,Party of Communists of the Republic of Moldova,3.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-01-27,Party of Communists of the Republic of Moldova,4.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-03-07,Party of Communists of the Republic of Moldova,4.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-03-19,Party of Communists of the Republic of Moldova,2.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-04-17,Party of Communists of the Republic of Moldova,4.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-04-25,Party of Communists of the Republic of Moldova,3.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-07-09,Party of Communists of the Republic of Moldova,6.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-09-20,Party of Communists of the Republic of Moldova,4.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-10-17,Party of Communists of the Republic of Moldova,4.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-10-29,Party of Communists of the Republic of Moldova,3.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-12-02,Party of Communists of the Republic of Moldova,2.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2017-12-05,Party of Communists of the Republic of Moldova,4.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-01-18,Party of Communists of the Republic of Moldova,2.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-03-06,Party of Communists of the Republic of Moldova,7.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-03-07,Party of Communists of the Republic of Moldova,4.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-03-28,Party of Communists of the Republic of Moldova,2.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-07-07,Party of Communists of the Republic of Moldova,2.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-09-12,Party of Communists of the Republic of Moldova,2.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-10-16,Party of Communists of the Republic of Moldova,4.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-11-09,Party of Communists of the Republic of Moldova,7.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-11-20,Party of Communists of the Republic of Moldova,2.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-11-23,Party of Communists of the Republic of Moldova,3.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-12-10,Party of Communists of the Republic of Moldova,3.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2018-12-23,Party of Communists of the Republic of Moldova,6.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-01-16,Party of Communists of the Republic of Moldova,3.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-01-19,Party of Communists of the Republic of Moldova,3.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-01-26,Party of Communists of the Republic of Moldova,3.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-01-31,Party of Communists of the Republic of Moldova,2.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-01-31,Party of Communists of the Republic of Moldova,6.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2019-02-16,Party of Communists of the Republic of Moldova,4.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2021-11-01,Party of Communists of the Republic of Moldova,7.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2021-12-19,Party of Communists of the Republic of Moldova,5.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-01-23,Party of Communists of the Republic of Moldova,4.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-02-24,Party of Communists of the Republic of Moldova,8.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-03-30,Party of Communists of the Republic of Moldova,6.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-05-06,Party of Communists of the Republic of Moldova,7.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-09-25,Party of Communists of the Republic of Moldova,14.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-10-10,Party of Communists of the Republic of Moldova,6.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-10-11,Party of Communists of the Republic of Moldova,6.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-11-10,Party of Communists of the Republic of Moldova,6.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-11-15,Party of Communists of the Republic of Moldova,7.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-11-23,Party of Communists of the Republic of Moldova,6.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2022-12-20,Party of Communists of the Republic of Moldova,6.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-02-06,Party of Communists of the Republic of Moldova,4.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-02-22,Party of Communists of the Republic of Moldova,10.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-06-19,Party of Communists of the Republic of Moldova,9.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-08-01,Party of Communists of the Republic of Moldova,4.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-08-23,Party of Communists of the Republic of Moldova,6.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-10-29,Party of Communists of the Republic of Moldova,2.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2023-12-15,Party of Communists of the Republic of Moldova,2.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-01-30,Party of Communists of the Republic of Moldova,3.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-02-22,Party of Communists of the Republic of Moldova,5.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-03-24,Party of Communists of the Republic of Moldova,7.6,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-04-13,Party of Communists of the Republic of Moldova,6.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-04-26,Party of Communists of the Republic of Moldova,4.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-05-27,Party of Communists of the Republic of Moldova,3.7,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-06-13,Party of Communists of the Republic of Moldova,4.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-08-23,Party of Communists of the Republic of Moldova,6.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-08-25,Party of Communists of the Republic of Moldova,4.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-09-18,Party of Communists of the Republic of Moldova,1.8,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-09-22,Party of Communists of the Republic of Moldova,6.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-10-10,Party of Communists of the Republic of Moldova,3.3,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-10-15,Party of Communists of the Republic of Moldova,4.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-10-16,Party of Communists of the Republic of Moldova,2.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2024-12-08,Party of Communists of the Republic of Moldova,2.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-02-21,Party of Communists of the Republic of Moldova,2.1,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-02-24,Party of Communists of the Republic of Moldova,5.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-03-25,Party of Communists of the Republic of Moldova,3.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-04-08,Party of Communists of the Republic of Moldova,3.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-04-13,Party of Communists of the Republic of Moldova,3.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-04-28,Party of Communists of the Republic of Moldova,2.9,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-05-24,Party of Communists of the Republic of Moldova,3.4,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-06-23,Party of Communists of the Republic of Moldova,3.5,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-06-28,Party of Communists of the Republic of Moldova,3.2,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
-2025-07-07,Party of Communists of the Republic of Moldova,4.0,Far-left,Communism Marxism–Leninism Soviet patriotism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-02-13,Party of Action and Solidarity,10.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-03-20,Party of Action and Solidarity,14.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-03-25,Party of Action and Solidarity,12.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-04-10,Party of Action and Solidarity,9.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-04-23,Party of Action and Solidarity,17.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-05-23,Party of Action and Solidarity,16.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-06-15,Party of Action and Solidarity,16.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-06-24,Party of Action and Solidarity,16.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-09-10,Party of Action and Solidarity,13.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-09-23,Party of Action and Solidarity,14.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-09-25,Party of Action and Solidarity,9.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-09-28,Party of Action and Solidarity,15.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-10-05,Party of Action and Solidarity,12.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-10-08,Party of Action and Solidarity,19.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-10-09,Party of Action and Solidarity,15.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2016-10-16,Party of Action and Solidarity,14.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-01-10,Party of Action and Solidarity,11.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-01-27,Party of Action and Solidarity,28.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-03-07,Party of Action and Solidarity,29.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-03-19,Party of Action and Solidarity,28.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-04-17,Party of Action and Solidarity,32.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-04-25,Party of Action and Solidarity,26.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-07-09,Party of Action and Solidarity,19.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-09-20,Party of Action and Solidarity,24.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-10-17,Party of Action and Solidarity,23.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-10-29,Party of Action and Solidarity,25.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-12-02,Party of Action and Solidarity,25.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2017-12-05,Party of Action and Solidarity,22.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-01-18,Party of Action and Solidarity,24.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-03-06,Party of Action and Solidarity,16.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-03-07,Party of Action and Solidarity,24.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-03-28,Party of Action and Solidarity,19.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-07-07,Party of Action and Solidarity,11.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-09-12,Party of Action and Solidarity,15.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-10-16,Party of Action and Solidarity,13.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-11-09,Party of Action and Solidarity,8.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-11-20,Party of Action and Solidarity,14.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-11-23,Party of Action and Solidarity,14.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-12-10,Party of Action and Solidarity,12.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2018-12-23,Party of Action and Solidarity,11.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2019-01-16,Party of Action and Solidarity,14.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-09-24,Party of Action and Solidarity,50.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-10-18,Party of Action and Solidarity,51.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-11-01,Party of Action and Solidarity,56.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-11-15,Party of Action and Solidarity,38.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-11-20,Party of Action and Solidarity,53.69,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-11-25,Party of Action and Solidarity,45.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-12-15,Party of Action and Solidarity,37.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-12-18,Party of Action and Solidarity,53.79,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2021-12-19,Party of Action and Solidarity,43.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-01-23,Party of Action and Solidarity,39.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-02-05,Party of Action and Solidarity,36.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-02-14,Party of Action and Solidarity,35.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-02-24,Party of Action and Solidarity,32.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-03-28,Party of Action and Solidarity,40.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-03-30,Party of Action and Solidarity,46.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-04-10,Party of Action and Solidarity,34.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-04-18,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-04-18,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-05-06,Party of Action and Solidarity,39.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-05-28,Party of Action and Solidarity,35.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-06-23,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-07-18,Party of Action and Solidarity,30.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-09-12,Party of Action and Solidarity,29.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-09-25,Party of Action and Solidarity,33.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-10-10,Party of Action and Solidarity,31.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-10-11,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-11-10,Party of Action and Solidarity,40.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-11-15,Party of Action and Solidarity,36.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-11-23,Party of Action and Solidarity,36.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-11-29,Party of Action and Solidarity,34.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-12-20,Party of Action and Solidarity,41.55,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2022-12-26,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-01-26,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-02-06,Party of Action and Solidarity,40.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-02-22,Party of Action and Solidarity,38.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-02-23,Party of Action and Solidarity,32.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-02-24,Party of Action and Solidarity,34.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-03-03,Party of Action and Solidarity,46.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-03-26,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-04-13,Party of Action and Solidarity,47.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-05-08,Party of Action and Solidarity,36.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-05-30,Party of Action and Solidarity,38.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-06-19,Party of Action and Solidarity,44.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-06-19,Party of Action and Solidarity,38.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-06-28,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-08-01,Party of Action and Solidarity,41.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-08-23,Party of Action and Solidarity,42.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-09-07,Party of Action and Solidarity,49.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-09-24,Party of Action and Solidarity,39.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-09-30,Party of Action and Solidarity,45.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-10-29,Party of Action and Solidarity,35.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-12-15,Party of Action and Solidarity,35.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2023-12-16,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-01-30,Party of Action and Solidarity,37.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-02-12,Party of Action and Solidarity,34.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-02-22,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-02-27,Party of Action and Solidarity,38.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-03-24,Party of Action and Solidarity,36.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-04-13,Party of Action and Solidarity,41.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-04-26,Party of Action and Solidarity,37.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-05-19,Party of Action and Solidarity,42.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-05-27,Party of Action and Solidarity,38.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-06-13,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-07-18,Party of Action and Solidarity,40.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-07-21,Party of Action and Solidarity,41.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-08-23,Party of Action and Solidarity,44.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-08-25,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-09-18,Party of Action and Solidarity,37.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-09-22,Party of Action and Solidarity,51.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-10-10,Party of Action and Solidarity,36.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-10-15,Party of Action and Solidarity,40.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-10-16,Party of Action and Solidarity,58.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-12-01,Party of Action and Solidarity,37.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2024-12-08,Party of Action and Solidarity,44.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-02-01,Party of Action and Solidarity,33.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-02-21,Party of Action and Solidarity,43.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-02-24,Party of Action and Solidarity,37.3,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-03-25,Party of Action and Solidarity,35.0,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-04-08,Party of Action and Solidarity,33.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-04-13,Party of Action and Solidarity,41.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-04-28,Party of Action and Solidarity,38.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-05-18,Party of Action and Solidarity,43.9,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-05-24,Party of Action and Solidarity,39.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-06-23,Party of Action and Solidarity,40.4,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-06-28,Party of Action and Solidarity,31.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-07-07,Party of Action and Solidarity,39.1,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-08-16,Party of Action and Solidarity,33.8,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-08-27,Party of Action and Solidarity,43.2,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-09-03,Party of Action and Solidarity,34.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-09-13,Party of Action and Solidarity,48.7,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-09-19,Party of Action and Solidarity,33.6,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2025-09-22,Party of Action and Solidarity,49.5,Centre to centre-right,Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/Party_of_Action_and_Solidarity
+2014-11-30,Party of Communists of the Republic of Moldova,17.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-01-30,Party of Communists of the Republic of Moldova,22.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-03-04,Party of Communists of the Republic of Moldova,20.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-03-26,Party of Communists of the Republic of Moldova,15.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-04-12,Party of Communists of the Republic of Moldova,15.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-05-18,Party of Communists of the Republic of Moldova,15.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-06-14,Party of Communists of the Republic of Moldova,10.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-09-18,Party of Communists of the Republic of Moldova,10.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-10-21,Party of Communists of the Republic of Moldova,7.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-11-18,Party of Communists of the Republic of Moldova,7.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-11-30,Party of Communists of the Republic of Moldova,12.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2015-12-01,Party of Communists of the Republic of Moldova,11.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-01-16,Party of Communists of the Republic of Moldova,7.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-02-13,Party of Communists of the Republic of Moldova,5.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-02-21,Party of Communists of the Republic of Moldova,8.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-03-20,Party of Communists of the Republic of Moldova,10.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-03-25,Party of Communists of the Republic of Moldova,6.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-04-10,Party of Communists of the Republic of Moldova,7.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-04-23,Party of Communists of the Republic of Moldova,8.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-05-23,Party of Communists of the Republic of Moldova,12.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-06-15,Party of Communists of the Republic of Moldova,8.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-06-24,Party of Communists of the Republic of Moldova,11.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-09-10,Party of Communists of the Republic of Moldova,8.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-09-23,Party of Communists of the Republic of Moldova,5.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-09-25,Party of Communists of the Republic of Moldova,7.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-09-28,Party of Communists of the Republic of Moldova,7.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-10-05,Party of Communists of the Republic of Moldova,6.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-10-08,Party of Communists of the Republic of Moldova,3.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-10-09,Party of Communists of the Republic of Moldova,6.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2016-10-16,Party of Communists of the Republic of Moldova,4.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-01-10,Party of Communists of the Republic of Moldova,3.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-01-27,Party of Communists of the Republic of Moldova,4.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-03-07,Party of Communists of the Republic of Moldova,4.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-03-19,Party of Communists of the Republic of Moldova,2.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-04-17,Party of Communists of the Republic of Moldova,4.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-04-25,Party of Communists of the Republic of Moldova,3.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-07-09,Party of Communists of the Republic of Moldova,6.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-09-20,Party of Communists of the Republic of Moldova,4.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-10-17,Party of Communists of the Republic of Moldova,4.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-10-29,Party of Communists of the Republic of Moldova,3.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-12-02,Party of Communists of the Republic of Moldova,2.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2017-12-05,Party of Communists of the Republic of Moldova,4.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-01-18,Party of Communists of the Republic of Moldova,2.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-03-06,Party of Communists of the Republic of Moldova,7.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-03-07,Party of Communists of the Republic of Moldova,4.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-03-28,Party of Communists of the Republic of Moldova,2.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-07-07,Party of Communists of the Republic of Moldova,2.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-09-12,Party of Communists of the Republic of Moldova,2.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-10-16,Party of Communists of the Republic of Moldova,4.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-11-09,Party of Communists of the Republic of Moldova,7.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-11-20,Party of Communists of the Republic of Moldova,2.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-11-23,Party of Communists of the Republic of Moldova,3.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-12-10,Party of Communists of the Republic of Moldova,3.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2018-12-23,Party of Communists of the Republic of Moldova,6.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-01-16,Party of Communists of the Republic of Moldova,3.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-01-19,Party of Communists of the Republic of Moldova,3.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-01-26,Party of Communists of the Republic of Moldova,3.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-01-31,Party of Communists of the Republic of Moldova,2.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-01-31,Party of Communists of the Republic of Moldova,6.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2019-02-16,Party of Communists of the Republic of Moldova,4.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2021-11-01,Party of Communists of the Republic of Moldova,7.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2021-12-19,Party of Communists of the Republic of Moldova,5.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-01-23,Party of Communists of the Republic of Moldova,4.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-02-24,Party of Communists of the Republic of Moldova,8.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-03-30,Party of Communists of the Republic of Moldova,6.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-05-06,Party of Communists of the Republic of Moldova,7.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-09-25,Party of Communists of the Republic of Moldova,14.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-10-10,Party of Communists of the Republic of Moldova,6.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-10-11,Party of Communists of the Republic of Moldova,6.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-11-10,Party of Communists of the Republic of Moldova,6.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-11-15,Party of Communists of the Republic of Moldova,7.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-11-23,Party of Communists of the Republic of Moldova,6.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2022-12-20,Party of Communists of the Republic of Moldova,6.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-02-06,Party of Communists of the Republic of Moldova,4.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-02-22,Party of Communists of the Republic of Moldova,10.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-06-19,Party of Communists of the Republic of Moldova,9.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-08-01,Party of Communists of the Republic of Moldova,4.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-08-23,Party of Communists of the Republic of Moldova,6.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-10-29,Party of Communists of the Republic of Moldova,2.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2023-12-15,Party of Communists of the Republic of Moldova,2.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-01-30,Party of Communists of the Republic of Moldova,3.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-02-22,Party of Communists of the Republic of Moldova,5.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-03-24,Party of Communists of the Republic of Moldova,7.6,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-04-13,Party of Communists of the Republic of Moldova,6.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-04-26,Party of Communists of the Republic of Moldova,4.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-05-27,Party of Communists of the Republic of Moldova,3.7,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-06-13,Party of Communists of the Republic of Moldova,4.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-08-23,Party of Communists of the Republic of Moldova,6.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-08-25,Party of Communists of the Republic of Moldova,4.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-09-18,Party of Communists of the Republic of Moldova,1.8,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-09-22,Party of Communists of the Republic of Moldova,6.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-10-10,Party of Communists of the Republic of Moldova,3.3,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-10-15,Party of Communists of the Republic of Moldova,4.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-10-16,Party of Communists of the Republic of Moldova,2.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2024-12-08,Party of Communists of the Republic of Moldova,2.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-02-21,Party of Communists of the Republic of Moldova,2.1,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-02-24,Party of Communists of the Republic of Moldova,5.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-03-25,Party of Communists of the Republic of Moldova,3.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-04-08,Party of Communists of the Republic of Moldova,3.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-04-13,Party of Communists of the Republic of Moldova,3.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-04-28,Party of Communists of the Republic of Moldova,2.9,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-05-24,Party of Communists of the Republic of Moldova,3.4,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-06-23,Party of Communists of the Republic of Moldova,3.5,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-06-28,Party of Communists of the Republic of Moldova,3.2,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
+2025-07-07,Party of Communists of the Republic of Moldova,4.0,,Communism Marxism–Leninism Social conservatism Moldovenism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova
 2021-11-20,Party of Development and Consolidation of Moldova,0.39,Centre to centre-right,Christian democracy Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Party_of_Development_and_Consolidation_of_Moldova
 2021-12-18,Party of Development and Consolidation of Moldova,0.38,Centre to centre-right,Christian democracy Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Party_of_Development_and_Consolidation_of_Moldova
 2022-02-14,Party of Development and Consolidation of Moldova,0.7,Centre to centre-right,Christian democracy Pro-Europeanism (claimed),https://en.wikipedia.org/wiki/Party_of_Development_and_Consolidation_of_Moldova

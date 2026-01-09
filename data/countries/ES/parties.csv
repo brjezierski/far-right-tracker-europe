@@ -1,37 +1,37 @@
-party,political_position,ideology,wikipedia_url
-People's Party,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-Spanish Socialist Workers' Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-Popular Unity,Left-wing,Socialism Republicanism Feminism Anti-capitalism,https://en.wikipedia.org/wiki/Popular_Unity_(Spain)
-"Union, Progress and Democracy",Centre,Social liberalism Progressivism Radical centrism Centralism Pro-Europeanism,"https://en.wikipedia.org/wiki/Union,_Progress_and_Democracy"
-Convergence and Union,Centre to centre-right,Catalan nationalism Factions: Populism Christian democracy Liberalism Conservatism Catalan independentism Social democracy,https://en.wikipedia.org/wiki/Convergence_and_Union
-Republican Left of Catalonia–Catalonia Yes,Centre-left to left-wing,Catalan independence,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Catalonia_Yes
-Citizens,Centre to centre-right,Liberalism ( Spanish ) Pro-Europeanism Autonomism,https://en.wikipedia.org/wiki/Citizens_(Spanish_political_party)
-Podemos,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
-EH Bildu,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
-Basque Nationalist Party,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
-Galician Nationalist Bloc,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
-Canarian Coalition,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
-Coalició Compromís,Left-wing,Valencianism Progressivism Republicanism ( Spanish ) Green politics Faction: Valencian nationalism,https://en.wikipedia.org/wiki/Coalici%C3%B3_Comprom%C3%ADs
-Democratic Convergence of Catalonia,Centre-right,Catalan independence Catalan nationalism Liberalism Conservative liberalism Minority: Social democracy,https://en.wikipedia.org/wiki/Democratic_Convergence_of_Catalonia
-Plural Left,Left-wing,Democratic socialism Eco-socialism Anti-capitalism Ecologism Federalism,"https://en.wikipedia.org/wiki/Plural_Left_(Spain,_2011)"
-Amaiur,Left-wing,Basque nationalism Left-wing nationalism ( Abertzale left ) Basque independence Socialism,https://en.wikipedia.org/wiki/Amaiur
-Democracy and Freedom,Centre-right,Catalan independence Liberalism Christian democracy,https://en.wikipedia.org/wiki/Democracy_and_Freedom
-Animalist Party Against Mistreatment of Animals,Centre-left,Animal welfare Animal rights Social justice,https://en.wikipedia.org/wiki/Animalist_Party_Against_Mistreatment_of_Animals
-Unidos Podemos,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidos_Podemos
-Unidas Podemos,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidas_Podemos
-Republican Left of Catalonia–Sovereigntists,Centre-left to left-wing,Catalan independence Republicanism Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Sovereigntists
-Catalan European Democratic Party,Centre to centre-right,Catalan independence Catalan nationalism Liberalism,https://en.wikipedia.org/wiki/Catalan_European_Democratic_Party
-Vox,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-Together for Catalonia,Centre-right,Catalan independence Populism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2020)
-Navarra Suma,Centre-right to right-wing,Regionalism Christian democracy Conservatism Liberalism,https://en.wikipedia.org/wiki/Navarra_Suma
-Republican Left of Catalonia,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
-Regionalist Party of Cantabria,Centre to centre-left,Autonomism Cantabrian regionalism Progressivism Populism,https://en.wikipedia.org/wiki/Regionalist_Party_of_Cantabria
-Más País,Left-wing,Green politics Direct democracy Anti-globalization Progressivism Republicanism Federalism,https://en.wikipedia.org/wiki/M%C3%A1s_Pa%C3%ADs
-Popular Unity Candidacy,Left-wing to far-left,Catalan independence Socialism Direct democracy Anti-capitalism Pancatalanism Euroscepticism,https://en.wikipedia.org/wiki/Popular_Unity_Candidacy
-Gomera Socialist Group,Centre-left to left-wing,Social democracy Insularism,https://en.wikipedia.org/wiki/Gomera_Socialist_Group
-Canarian Coalition–New Canaries,Centre to centre-right,Regionalism Canarian nationalism Factions: Liberalism Federalism,https://en.wikipedia.org/wiki/Canarian_Coalition%E2%80%93New_Canaries
-Empty Spain,Big tent,Localism Agrarianism Anti- depopulation Rural development,https://en.wikipedia.org/wiki/Empty_Spain
-Teruel Existe,Big tent,Regionalism,https://en.wikipedia.org/wiki/Teruel_Existe
-Sumar,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
-Navarrese People's Union,Centre-right to right-wing,Conservatism Christian democracy Navarrese regionalism Spanish unionism,https://en.wikipedia.org/wiki/Navarrese_People%27s_Union
-Se Acabó La Fiesta,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
+party,political_position,ideology,wikipedia_url,party_display_name
+People's Party,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain),People's Party
+Spanish Socialist Workers' Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party,Spanish Socialist Workers' Party
+Popular Unity,Left-wing,Socialism Republicanism Feminism Anti-capitalism,https://en.wikipedia.org/wiki/Popular_Unity_(Spain),Popular Unity
+"Union, Progress and Democracy",Centre,Social liberalism Progressivism Radical centrism Centralism Pro-Europeanism,"https://en.wikipedia.org/wiki/Union,_Progress_and_Democracy","Union, Progress and Democracy"
+Convergence and Union,Centre to centre-right,Catalan nationalism Factions: Populism Christian democracy Liberalism Conservatism Catalan independentism Social democracy,https://en.wikipedia.org/wiki/Convergence_and_Union,Convergence and Union
+Republican Left of Catalonia-Catalonia Yes,Centre-left to left-wing,Catalan independence,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Catalonia_Yes,Republican Left of Catalonia-Catalonia Yes
+Citizens,Centre to centre-right,Liberalism ( Spanish ) Pro-Europeanism Autonomism,https://en.wikipedia.org/wiki/Citizens_(Spanish_political_party),Citizens
+Podemos,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party),Podemos
+EH Bildu,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu,EH Bildu
+Basque Nationalist Party,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party,Basque Nationalist Party
+Galician Nationalist Bloc,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc,Galician Nationalist Bloc
+Canarian Coalition,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition,Canarian Coalition
+Coalició Compromís,Left-wing,Valencianism Progressivism Republicanism ( Spanish ) Green politics Faction: Valencian nationalism,https://en.wikipedia.org/wiki/Coalici%C3%B3_Comprom%C3%ADs,Coalició Compromís
+Democratic Convergence of Catalonia,Centre-right,Catalan independence Catalan nationalism Liberalism Conservative liberalism Minority: Social democracy,https://en.wikipedia.org/wiki/Democratic_Convergence_of_Catalonia,Democratic Convergence of Catalonia
+Plural Left,Left-wing,Democratic socialism Eco-socialism Anti-capitalism Ecologism Federalism,"https://en.wikipedia.org/wiki/Plural_Left_(Spain,_2011)",Plural Left
+Amaiur,Left-wing,Basque nationalism Left-wing nationalism ( Abertzale left ) Basque independence Socialism,https://en.wikipedia.org/wiki/Amaiur,Amaiur
+Democracy and Freedom,Centre-right,Catalan independence Liberalism Christian democracy,https://en.wikipedia.org/wiki/Democracy_and_Freedom,Democracy and Freedom
+Animalist Party with the Environment,Centre-left,Animal welfare Animal rights Social justice,https://en.wikipedia.org/wiki/Animalist_Party_Against_Mistreatment_of_Animals,Animalist Party with the Environment
+Unidas Podemos,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidas_Podemos,Unidas Podemos
+Republican Left of Catalonia-Sovereigntists,Centre-left to left-wing,Catalan independence Republicanism Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Sovereigntists,Republican Left of Catalonia-Sovereigntists
+Catalan European Democratic Party,Centre to centre-right,Catalan independence Catalan nationalism Liberalism,https://en.wikipedia.org/wiki/Catalan_European_Democratic_Party,Catalan European Democratic Party
+Vox,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party),Vox
+Together for Catalonia,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017),Together for Catalonia
+Navarra Suma,Centre-right to right-wing,Regionalism Christian democracy Conservatism Liberalism,https://en.wikipedia.org/wiki/Navarra_Suma,Navarra Suma
+Republican Left of Catalonia,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia,Republican Left of Catalonia
+Regionalist Party of Cantabria,Centre to centre-left,Autonomism Cantabrian regionalism Progressivism Populism,https://en.wikipedia.org/wiki/Regionalist_Party_of_Cantabria,Regionalist Party of Cantabria
+Más País,Left-wing,Green politics Direct democracy Anti-globalization Progressivism Republicanism Federalism,https://en.wikipedia.org/wiki/M%C3%A1s_Pa%C3%ADs,Más País
+Popular Unity Candidacy,Left-wing to far-left,Catalan independence Socialism Direct democracy Anti-capitalism Pancatalanism Euroscepticism,https://en.wikipedia.org/wiki/Popular_Unity_Candidacy,Popular Unity Candidacy
+Gomera Socialist Group,Centre-left to left-wing,Social democracy Insularism,https://en.wikipedia.org/wiki/Gomera_Socialist_Group,Gomera Socialist Group
+Agreement of Nationalist Unity,Centre to centre-right,Regionalism Canarian nationalism Factions: Liberalism Federalism,https://en.wikipedia.org/wiki/Canarian_Coalition%E2%80%93New_Canaries,Agreement of Nationalist Unity
+Empty Spain,Big tent,Localism Agrarianism Anti- depopulation Rural development,https://en.wikipedia.org/wiki/Empty_Spain,Empty Spain
+Teruel Existe,Big tent,Regionalism,https://en.wikipedia.org/wiki/Teruel_Existe,Teruel Existe
+Sumar,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform),Sumar
+Navarrese People's Union,Centre-right to right-wing,Conservatism Christian democracy Navarrese regionalism Spanish unionism,https://en.wikipedia.org/wiki/Navarrese_People%27s_Union,Navarrese People's Union
+Se Acabó La Fiesta,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta,Se Acabó La Fiesta
+Catalan Alliance,Far-right,Catalan independence Hispanophobia Right-wing populism Islamophobia Nativism,https://en.wikipedia.org/wiki/Catalan_Alliance,Catalan Alliance

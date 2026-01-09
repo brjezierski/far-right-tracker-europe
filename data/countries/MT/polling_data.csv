@@ -25,6 +25,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-08,AD+PD,1.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2025-06-06,AD+PD,1.6,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2025-10-02,AD+PD,2.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+2025-11-13,AD+PD,4.1,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+2025-11-20,AD+PD,1.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2017-10-05,Adrian Delia,22.1,,,
 2017-11-16,Adrian Delia,15.2,,,
 2017-12-14,Adrian Delia,7.2,,,
@@ -428,10 +430,13 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-08,Labour Party,51.6,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2025-06-06,Labour Party,53.3,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2025-10-02,Labour Party,48.8,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-11-13,Labour Party,48.7,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2025-11-20,Labour Party,52.3,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2025-02-13,Momentum,4.0,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2025-04-08,Momentum,2.2,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2025-06-06,Momentum,3.1,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2025-10-02,Momentum,2.0,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+2025-11-13,Momentum,1.2,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2013-04-30,Nationalist Party,46.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2013-05-31,Nationalist Party,47.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2013-06-29,Nationalist Party,47.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
@@ -602,6 +607,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-08,Nationalist Party,42.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2025-06-06,Nationalist Party,39.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2025-10-02,Nationalist Party,45.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-11-13,Nationalist Party,46.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2025-11-20,Nationalist Party,43.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2020-01-28,Robert Abela,62.5,,,
 2020-03-10,Robert Abela,55.9,,,
 2020-04-09,Robert Abela,62.4,,,

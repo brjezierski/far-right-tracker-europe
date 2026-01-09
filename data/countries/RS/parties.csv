@@ -1,51 +1,48 @@
-party,political_position,ideology,wikipedia_url
-Serbia Must Not Stop,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop
-Socialist Party of Serbia,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia
-Serbian Radical Party,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party
-New Democratic Party of Serbia,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia
-Serbian Patriotic Alliance,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance
-Movement of Free Citizens,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia)
-Serbian protests,,,
-United Democratic Serbia,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia
-Movement for the Restoration of the Kingdom of Serbia,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/Movement_for_the_Restoration_of_the_Kingdom_of_Serbia
-Serbian Party Oathkeepers,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers
-Enough is Enough,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party)
-Serbian Progressive Party,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party
-Democratic Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia)
-Dveri,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri
-Democratic Party of Serbia,Right-wing,National conservatism,https://en.wikipedia.org/wiki/Democratic_Party_of_Serbia
-People's Party,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)"
-Alliance for Serbia,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia
-United for the Victory of Serbia,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia
-We Must,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia)
-National Democratic Alternative,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia)
-Sovereignists,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia)
-Social Democratic Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia)
-Aleksandar Vučić,,,
-Zdravko Ponoš,,,
-Miloš Jovanović,,,
-Boško Obradović,,,
-Milica Đurđević,,,
-Biljana Stojković,Together (2022–2024) DS (2024–present),,https://en.wikipedia.org/wiki/Biljana_Stojkovi%C4%87
-Branka Stamenković,,,
-Miša Vacić,,,
-Together We Can Do Everything,Big tent,Populism,https://en.wikipedia.org/wiki/Together_We_Can_Do_Everything
-Party of Freedom and Justice,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice
-POKS,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS
-Healthy Serbia,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia
-Don't Let Belgrade Drown,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
-Together for Serbia,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Together_for_Serbia
-Saša Janković,,,
-Vuk Jeremić,,,
-Ljubiša Preletačević,,,
-Vojislav Šešelj,,,
-Together,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia)
-Serbia Centre,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre
-Do not let Belgrade drown,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown
-Ecological Uprising,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising
-People's Movement of Serbia,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia
-National Gathering,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia)
-Serbia Against Violence,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition)
-Green–Left Front,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front
-Kreni-Promeni,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni
-We – Power of the People,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People
+party,political_position,ideology,wikipedia_url,party_display_name
+Serbian Progressive Party,Big tent,Populism Neoliberalism,https://en.wikipedia.org/wiki/Serbian_Progressive_Party,Serbian Progressive Party
+Socialist Party of Serbia,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Socialist_Party_of_Serbia,Socialist Party of Serbia
+Democratic Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Serbia),Democratic Party
+Serbian Radical Party,Far-right,Ultranationalism Serbian irredentism Right-wing populism Russophilia,https://en.wikipedia.org/wiki/Serbian_Radical_Party,Serbian Radical Party
+Dveri,Right-wing to far-right,Serbian nationalism Economic nationalism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Dveri,Dveri
+New Democratic Party of Serbia,Right-wing,National conservatism,https://en.wikipedia.org/wiki/New_Democratic_Party_of_Serbia,New Democratic Party of Serbia
+Social Democratic Party,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Serbia),Social Democratic Party
+Liberal Democratic Party,Centre,Liberalism Classical liberalism Progressivism,https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Serbia),Liberal Democratic Party
+Enough is Enough,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Enough_is_Enough_(party),Enough is Enough
+Serbia Must Not Stop,Big tent,Populism,https://en.wikipedia.org/wiki/Serbia_Must_Not_Stop,Serbia Must Not Stop
+Serbian Patriotic Alliance,Right-wing,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Serbian_Patriotic_Alliance,Serbian Patriotic Alliance
+Movement of Free Citizens,Centre,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_of_Free_Citizens_(Serbia),Movement of Free Citizens
+Serbian protests,,,,
+United Democratic Serbia,Center-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/United_Democratic_Serbia,United Democratic Serbia
+Movement for the Restoration of the Kingdom of Serbia,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/POKS,Movement for the Restoration of the Kingdom of Serbia
+Serbian Party Oathkeepers,Far-right,Ultranationalism Social conservatism Russophilia,https://en.wikipedia.org/wiki/Serbian_Party_Oathkeepers,Serbian Party Oathkeepers
+People's Party,Right-wing,Conservatism Serbian nationalism,"https://en.wikipedia.org/wiki/People%27s_Party_(Serbia,_2017)",People's Party
+Alliance for Serbia,Big tent,,https://en.wikipedia.org/wiki/Alliance_for_Serbia,Alliance for Serbia
+United for the Victory of Serbia,Centre,,https://en.wikipedia.org/wiki/United_for_the_Victory_of_Serbia,United for the Victory of Serbia
+We Must,Centre-left to left-wing,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/We_Must_(Serbia),We Must
+National Democratic Alternative,Right-wing,National conservatism Monarchism,https://en.wikipedia.org/wiki/National_Democratic_Alternative_(Serbia),National Democratic Alternative
+Sovereignists,Right-wing to far-right,Right-wing populism,https://en.wikipedia.org/wiki/Sovereignists_(Serbia),Sovereignists
+Aleksandar Vučić,,,,
+Zdravko Ponoš,,,,
+Miloš Jovanović,,,,
+Boško Obradović,,,,
+Milica Đurđević,,,,
+Biljana Stojković,Together (2022–2024) DS (2024–present),,https://en.wikipedia.org/wiki/Biljana_Stojkovi%C4%87,Biljana Stojković
+Branka Stamenković,,,,
+Miša Vacić,,,,
+Party of Freedom and Justice,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Freedom_and_Justice,Party of Freedom and Justice
+Healthy Serbia,Right-wing,Populism National conservatism,https://en.wikipedia.org/wiki/Healthy_Serbia,Healthy Serbia
+Don't Let Belgrade Drown,Left-wing,Green politics Social democracy Left-wing populism Progressivism,https://en.wikipedia.org/wiki/Do_not_let_Belgrade_drown,Don't Let Belgrade Drown
+Together for Serbia,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Together_for_Serbia,Together for Serbia
+Saša Janković,,,,
+Vuk Jeremić,,,,
+Ljubiša Preletačević,,,,
+Vojislav Šešelj,,,,
+Together,Left-wing,Green politics Regionalism,https://en.wikipedia.org/wiki/Together_(Serbia),Together
+Serbia Centre,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Centre,Serbia Centre
+Ecological Uprising,,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Ecological_Uprising,Ecological Uprising
+People's Movement of Serbia,Centre-right,Anti-corruption Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_of_Serbia,People's Movement of Serbia
+National Gathering,Far-right,Ultranationalism Ultraconservatism,https://en.wikipedia.org/wiki/National_Gathering_(Serbia),National Gathering
+Serbia Against Violence,Big tent,Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Serbia_Against_Violence_(coalition),Serbia Against Violence
+Green-Left Front,Left-wing,Green politics Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Green%E2%80%93Left_Front,Green-Left Front
+Kreni-Promeni,Centre-right,Localism Environmentalism Animal rights Animal welfare,https://en.wikipedia.org/wiki/Kreni-Promeni,Kreni-Promeni
+We - Power of the People,Right-wing,Nationalism Populism Conspiracy theorism,https://en.wikipedia.org/wiki/We_%E2%80%93_Power_of_the_People,We - Power of the People

@@ -1,16 +1,16 @@
-party,political_position,ideology,wikipedia_url
-Democratic Rally,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
-Progressive Party of Working People,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
-Democratic Party,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
-Movement for Social Democracy,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
-Citizens' Alliance,Centre to centre-left,Social democracy Euroscepticism Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Citizens%27_Alliance_(Cyprus)
-Solidarity Movement,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
-Ecological and Environmental Movement,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-ELAM,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
-Democratic Front,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
-Generation Change,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
-Active Citizens – Movement of Cypriot United Hunters,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
-Animal Party Cyprus,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
-Volt Cyprus,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
-Fidias Panayiotou,,,
-Odysseas Michaelides,,,
+party,political_position,ideology,wikipedia_url,party_display_name
+Democratic Rally,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally,Democratic Rally
+Progressive Party of Working People,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People,Progressive Party of Working People
+Democratic Party,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus),Democratic Party
+EDEK Socialist Party,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy,EDEK Socialist Party
+Citizens' Alliance,Centre to centre-left,Social democracy Euroscepticism Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Citizens%27_Alliance_(Cyprus),Citizens' Alliance
+Solidarity Movement,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus),Solidarity Movement
+Movement of Ecologists - Citizens' Cooperation,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement,Movement of Ecologists - Citizens' Cooperation
+ELAM,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus),ELAM
+Democratic Alignment,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus),Democratic Alignment
+Generation Change,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change,Generation Change
+Volt Cyprus,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus,Volt Cyprus
+Active Citizens - Movement of Cypriot United Hunters,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters,Active Citizens - Movement of Cypriot United Hunters
+Animal Party Cyprus,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus,Animal Party Cyprus
+Fidias Panayiotou,,,,
+Odysseas Michaelides,,,,

@@ -1,20 +1,16 @@
-party,political_position,ideology,wikipedia_url
-Homeland Union,Centre-right,Liberal conservatism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Homeland_Union
-Lithuanian Farmers and Greens Union,Centre-left to left-wing,Green conservatism Left-wing populism Christian democracy Social conservatism Agrarianism Environmentalism,https://en.wikipedia.org/wiki/Lithuanian_Farmers_and_Greens_Union
-Social Democratic Party of Lithuania,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Lithuania
-Social Democratic Labour Party of Lithuania,Left-wing,Social democracy Regionalism Social conservatism,https://en.wikipedia.org/wiki/Social_Democratic_Labour_Party_of_Lithuania
-Freedom and Justice,Centre-right to right-wing,Conservative liberalism National liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Freedom_and_Justice
-Liberal Movement,Centre to centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/Liberal_Movement_(Lithuania)
-Electoral Action of Poles in Lithuania – Christian Families Alliance,Centre-right,Polish minority interests Christian democracy Conservatism,https://en.wikipedia.org/wiki/Electoral_Action_of_Poles_in_Lithuania_%E2%80%93_Christian_Families_Alliance
-Lithuanian Centre Party,Far-right,Localism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Lithuanian_Centre_Party
-Labour Party,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Lithuania)
-Freedom Party,Centre,Liberalism,https://en.wikipedia.org/wiki/Freedom_Party_(Lithuania)
-Order and Justice,Right-wing,Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Order_and_Justice
-Lithuanian Green Party,Centre,Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lithuanian_Green_Party
-Liberals' Movement,Centre to centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/Liberals%27_Movement_(Lithuania)
-Lithuanian Regions Party,Left-wing,Social democracy Regionalism Social conservatism,https://en.wikipedia.org/wiki/Lithuanian_Regions_Party
-People and Justice Union,Far-right,Localism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/People_and_Justice_Union
-Dawn of Nemunas,,,
-National Alliance,Far-right,Nationalism Right-wing populism National conservatism,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania)
-"Union of Democrats ""For Lithuania""",Centre-left,Green politics Green conservatism Social democracy,https://en.wikipedia.org/wiki/Union_of_Democrats_%22For_Lithuania%22
-Centre-Right Union,Centre-right to right-wing,Conservative liberalism National liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Center-Right_Union
+party,political_position,ideology,wikipedia_url,party_display_name
+Homeland Union,Centre-right,Liberal conservatism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Homeland_Union,Homeland Union
+Lithuanian Farmers and Greens Union,Centre-left to left-wing,Green conservatism Left-wing populism Christian democracy Social conservatism Agrarianism Environmentalism,https://en.wikipedia.org/wiki/Lithuanian_Farmers_and_Greens_Union,Lithuanian Farmers and Greens Union
+Social Democratic Party of Lithuania,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Lithuania,Social Democratic Party of Lithuania
+Lithuanian Regions Party,Left-wing,Social democracy Regionalism Social conservatism,https://en.wikipedia.org/wiki/Lithuanian_Regions_Party,Lithuanian Regions Party
+Centre-Right Union,Centre-right to right-wing,Conservative liberalism National liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Center-Right_Union,Centre-Right Union
+Liberals' Movement,Centre to centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/Liberals%27_Movement_(Lithuania),Liberals' Movement
+Electoral Action of Poles in Lithuania - Christian Families Alliance,Centre-right,Polish minority interests Christian democracy Conservatism,https://en.wikipedia.org/wiki/Electoral_Action_of_Poles_in_Lithuania_%E2%80%93_Christian_Families_Alliance,Electoral Action of Poles in Lithuania - Christian Families Alliance
+People and Justice Union,Far-right,Localism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/People_and_Justice_Union,People and Justice Union
+Labour Party,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Lithuania),Labour Party
+Freedom Party,Centre,Liberalism,https://en.wikipedia.org/wiki/Freedom_Party_(Lithuania),Freedom Party
+Order and Justice,Right-wing,Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Order_and_Justice,Order and Justice
+Lithuanian Green Party,Centre,Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lithuanian_Green_Party,Lithuanian Green Party
+Dawn of Nemunas,,,,
+National Alliance,Far-right,Nationalism Right-wing populism National conservatism,https://en.wikipedia.org/wiki/National_Alliance_(Lithuania),National Alliance
+"Union of Democrats ""For Lithuania""",Centre-left,Green politics Green conservatism Social democracy,https://en.wikipedia.org/wiki/Union_of_Democrats_%22For_Lithuania%22,"Union of Democrats ""For Lithuania"""

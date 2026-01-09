@@ -1,30 +1,27 @@
-party,political_position,ideology,wikipedia_url
-Venstre,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark)
-Social Democrats,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
-Danish People's Party,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism Hard Euroscepticism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
-Danish Social Liberal Party,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
-Socialist People's Party,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Socialist_People%27s_Party_(Denmark)
-Red–Green Alliance,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark)
-Liberal Alliance,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
-Conservative People's Party,Centre-right,Conservatism Liberal conservatism Social conservatism National conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
-Christian Democrats,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Denmark)
-The Alternative,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party)
-Red-Green Alliance,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red-Green_Alliance_(Denmark)
-The New Right,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/The_New_Right_(Denmark)
-The Citizen List,Centre to centre-right,Populism Paternalistic conservatism Social liberalism Tax reform,https://en.wikipedia.org/wiki/The_Citizen_List
-Hard Line,Far-right,Ethnic nationalism Identitarianism Anti-immigration Islamophobia Hard Euroscepticism,https://en.wikipedia.org/wiki/Hard_Line_(party)
-Republic,Left-wing,Democratic socialism Left-wing nationalism Faroese independence Republicanism Euroscepticism,https://en.wikipedia.org/wiki/Republic_(Faroe_Islands)
-Social Democratic Party,Centre-left,Social democracy Danish unionism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Faroe_Islands)
-Union Party,Centre-right,Conservative liberalism Agrarianism ( Nordic ) Social liberalism Danish unionism,https://en.wikipedia.org/wiki/Union_Party_(Faroe_Islands)
-People's Party,Centre-right,Conservatism Social conservatism Economic liberalism Faroese independence,https://en.wikipedia.org/wiki/People%27s_Party_(Faroe_Islands)
-Progress,,Liberalism Faroese independence,https://en.wikipedia.org/wiki/Progress_(Faroe_Islands)
-Centre Party,Right-wing,Christian democracy Social conservatism Christian right Anti-LGBT Regionalism,https://en.wikipedia.org/wiki/Centre_Party_(Faroe_Islands)
-Self-Government,Centre [ citation needed ],Liberalism Social liberalism Regionalism Autonomism,https://en.wikipedia.org/wiki/Self-Government_(Faroe_Islands)
-Green Left,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
-New Right,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/New_Right_(Denmark)
-Independent Greens,Left-wing,Green politics,https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)
-Denmark Democrats,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
-Vegan Party,,Veganism Green politics Ecocentrism Single-issue politics,https://en.wikipedia.org/wiki/Vegan_Party
-Moderates,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
-Electoral threshold,,,
-Citizens' Party,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark)
+party,political_position,ideology,wikipedia_url,party_display_name
+Venstre,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark),Venstre
+Social Democrats,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark),Social Democrats
+Danish People's Party,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party,Danish People's Party
+Danish Social Liberal Party,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party,Danish Social Liberal Party
+Green Left,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark),Green Left
+Red-Green Alliance,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark),Red-Green Alliance
+Liberal Alliance,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark),Liberal Alliance
+Conservative People's Party,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark),Conservative People's Party
+Christian Democrats,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Denmark),Christian Democrats
+The Alternative,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party),The Alternative
+New Right,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/New_Right_(Denmark),New Right
+The Citizen List,Centre to centre-right,Populism Paternalistic conservatism Social liberalism Tax reform,https://en.wikipedia.org/wiki/The_Citizen_List,The Citizen List
+Stram Kurs,Far-right,Ethnic nationalism Identitarianism Anti-immigration Islamophobia Hard Euroscepticism,https://en.wikipedia.org/wiki/Hard_Line_(party),Stram Kurs
+Republic,Left-wing,Democratic socialism Left-wing nationalism Faroese independence Republicanism Euroscepticism,https://en.wikipedia.org/wiki/Republic_(Faroe_Islands),Republic
+Social Democratic Party,Centre-left,Social democracy Danish unionism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Faroe_Islands),Social Democratic Party
+Union Party,Centre-right,Conservative liberalism Agrarianism ( Nordic ) Social liberalism Danish unionism,https://en.wikipedia.org/wiki/Union_Party_(Faroe_Islands),Union Party
+People's Party,Centre-right,Conservatism Social conservatism Economic liberalism Faroese independence,https://en.wikipedia.org/wiki/People%27s_Party_(Faroe_Islands),People's Party
+Progress,Centre-right,Liberalism Faroese independence,https://en.wikipedia.org/wiki/Progress_(Faroe_Islands),Progress
+Centre Party,Right-wing,Christian democracy Social conservatism Christian right Anti-LGBT Regionalism,https://en.wikipedia.org/wiki/Centre_Party_(Faroe_Islands),Centre Party
+Sjálvstýri,Centre [ citation needed ],Liberalism Social liberalism Regionalism Autonomism,https://en.wikipedia.org/wiki/Self-Government_(Faroe_Islands),Sjálvstýri
+Independent Greens,Left-wing,Green politics,https://en.wikipedia.org/wiki/Independent_Greens_(Denmark),Independent Greens
+Denmark Democrats,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats,Denmark Democrats
+Vegan Party,,Veganism Green politics Ecocentrism Single-issue politics,https://en.wikipedia.org/wiki/Vegan_Party,Vegan Party
+Moderates,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark),Moderates
+Electoral threshold,,,,
+Citizens' Party,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark),Citizens' Party

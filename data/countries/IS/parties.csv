@@ -1,14 +1,13 @@
-party,political_position,ideology,wikipedia_url
-Left-Green Movement,Centre-left to left-wing,Eco-socialism Democratic socialism Feminism Pacifism,https://en.wikipedia.org/wiki/Left-Green_Movement
-Social Democratic Alliance,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Alliance
-Pirate Party,,Pirate politics Direct democracy Open government,https://en.wikipedia.org/wiki/Pirate_Party_(Iceland)
-Bright Future,Centre,Liberalism Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Future_(Iceland)
-Progressive Party,Centre to centre-right,Agrarianism ( Nordic ) Liberal conservatism,https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)
-Independence Party,Centre-right,Conservatism ( Icelandic ) Economic liberalism,https://en.wikipedia.org/wiki/Independence_Party_(Iceland)
-Viðreisn,Centre to centre-right,Liberalism Economic liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Vi%C3%B0reisn
-People's Party,Centre-left,Populism Left-wing populism Socialism,https://en.wikipedia.org/wiki/People%27s_Party_(Iceland)
-Centre Party,Right-wing,Conservatism Agrarianism ( Nordic ) Right-wing populism,https://en.wikipedia.org/wiki/Centre_Party_(Iceland)
-Icelandic Socialist Party,Left-wing,Socialism Democratic socialism Anti-neoliberalism,https://en.wikipedia.org/wiki/Icelandic_Socialist_Party
-Responsible Future,Right-wing,Right-libertarianism Anti-vaccination,https://en.wikipedia.org/wiki/Responsible_Future_(Iceland)
-Democratic Party,Right-wing,Libertarian conservatism Right-libertarianism Euroscepticism,https://en.wikipedia.org/wiki/Democratic_Party_(Iceland)
-Socialist Party of Iceland,Left-wing,Socialism Democratic socialism Anti-neoliberalism,https://en.wikipedia.org/wiki/Socialist_Party_of_Iceland
+party,political_position,ideology,wikipedia_url,party_display_name
+Left-Green Movement,Centre-left to left-wing,Eco-socialism Democratic socialism Feminism Pacifism,https://en.wikipedia.org/wiki/Left-Green_Movement,Left-Green Movement
+Social Democratic Alliance,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Alliance,Social Democratic Alliance
+Pirate Party,,Pirate politics Direct democracy Open government,https://en.wikipedia.org/wiki/Pirate_Party_(Iceland),Pirate Party
+Bright Future,Centre,Liberalism Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Future_(Iceland),Bright Future
+Progressive Party,Centre to centre-right,Agrarianism ( Nordic ) Liberal conservatism,https://en.wikipedia.org/wiki/Progressive_Party_(Iceland),Progressive Party
+Independence Party,Centre-right,Conservatism ( Icelandic ) Economic liberalism,https://en.wikipedia.org/wiki/Independence_Party_(Iceland),Independence Party
+Viðreisn,Centre to centre-right,Liberalism Economic liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Vi%C3%B0reisn,Viðreisn
+People's Party,Centre-left,Populism Left-wing populism Socialism,https://en.wikipedia.org/wiki/People%27s_Party_(Iceland),People's Party
+Centre Party,Right-wing,Conservatism Agrarianism ( Nordic ) Right-wing populism,https://en.wikipedia.org/wiki/Centre_Party_(Iceland),Centre Party
+Socialist Party of Iceland,Left-wing,Socialism Democratic socialism Anti-neoliberalism,https://en.wikipedia.org/wiki/Socialist_Party_of_Iceland,Socialist Party of Iceland
+Responsible Future,Right-wing,Right-libertarianism Anti-vaccination,https://en.wikipedia.org/wiki/Responsible_Future_(Iceland),Responsible Future
+Democratic Party,Right-wing,Libertarian conservatism Right-libertarianism Euroscepticism,https://en.wikipedia.org/wiki/Democratic_Party_(Iceland),Democratic Party

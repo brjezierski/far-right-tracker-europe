@@ -1,19 +1,19 @@
-party,political_position,ideology,wikipedia_url
-Republican Party of Armenia,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia
-Tsarukyan Alliance,,Liberalism,https://en.wikipedia.org/wiki/Tsarukyan_Alliance
-Way Out Alliance,Centre,Liberalism Pro-Europeanism Anti- EAEU Anti-Russian sentiment Armenian civic nationalism,https://en.wikipedia.org/wiki/Way_Out_Alliance
-Armenian Revolutionary Federation,Centre-left to left-wing,Armenian nationalism United Armenia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation
-Free Democrats,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia)
-Orinats Yerkir,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_Renaissance_(party)
-Armenian National Congress,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_National_Congress
-ORO Alliance,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
-Armenian Communist Party,Left-wing to far-left,Communism Marxism–Leninism Russophilia Euroscepticism Soviet patriotism,https://en.wikipedia.org/wiki/Armenian_Communist_Party
-Prosperous Armenia,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-Heritage,Centre to centre-right,National liberalism (self-proclaimed) Liberalism Armenian nationalism Pro-Europeanism Pro-Western,https://en.wikipedia.org/wiki/Heritage_(Armenia)
-My Step Alliance,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-Bright Armenia,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
-Sasna Tsrer Pan-Armenian Party,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
-I Have Honor Alliance,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-National Democratic Alliance,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-Hanrapetutyun Party,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-Armenia Alliance,Centre-left,Armenian nationalism Social market economy,https://en.wikipedia.org/wiki/Armenia_Alliance
+party,political_position,ideology,wikipedia_url,party_display_name
+Republican Party of Armenia,Right-wing,National conservatism Tseghakronism,https://en.wikipedia.org/wiki/Republican_Party_of_Armenia,Republican Party of Armenia
+Tsarukyan Alliance,,Liberalism,https://en.wikipedia.org/wiki/Tsarukyan_Alliance,Tsarukyan Alliance
+Way Out Alliance,Centre,Liberalism Pro-Europeanism Anti- EAEU Anti-Russian sentiment Armenian civic nationalism,https://en.wikipedia.org/wiki/Way_Out_Alliance,Way Out Alliance
+Armenian Revolutionary Federation,Centre-left to left-wing,Armenian nationalism United Armenia Russophilia Social market economy Populism,https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation,Armenian Revolutionary Federation
+Free Democrats,Centre,Liberalism Pro-Europeanism Pro-Western Anti- EAEU,https://en.wikipedia.org/wiki/Free_Democrats_(Armenia),Free Democrats
+Orinats Yerkir,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_Renaissance_(party),Orinats Yerkir
+Armenian National Congress,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Armenian_National_Congress,Armenian National Congress
+ORO Alliance,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance,ORO Alliance
+Armenian Communist Party,Left-wing to far-left,Communism Marxism–Leninism Russophilia Euroscepticism Soviet patriotism,https://en.wikipedia.org/wiki/Armenian_Communist_Party,Armenian Communist Party
+Prosperous Armenia,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia,Prosperous Armenia
+Heritage,Centre to centre-right,National liberalism (self-proclaimed) Liberalism Armenian nationalism Pro-Europeanism Pro-Western,https://en.wikipedia.org/wiki/Heritage_(Armenia),Heritage
+My Step Alliance,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance,My Step Alliance
+Bright Armenia,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia,Bright Armenia
+Sasna Tsrer Pan-Armenian Party,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party,Sasna Tsrer Pan-Armenian Party
+I Have Honor Alliance,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance,I Have Honor Alliance
+National Democratic Alliance,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole,National Democratic Alliance
+Hanrapetutyun Party,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party,Hanrapetutyun Party
+Armenia Alliance,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance,Armenia Alliance

@@ -45,35 +45,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-25,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
 2023-09-26,Evangelical People's Party of Switzerland,2.2,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
 2023-10-05,Evangelical People's Party of Switzerland,2.1,Economic: Centre to centre-left Social: Centre-right,Christian democracy Social conservatism Stewardship theology,https://en.wikipedia.org/wiki/Evangelical_People%27s_Party_of_Switzerland
-2016-05-04,FDP.The Liberals,16.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2016-10-08,FDP.The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2017-03-23,FDP.The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2017-10-02,FDP.The Liberals,17.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2018-01-05,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2018-06-22,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2018-09-18,FDP.The Liberals,17.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2018-09-19,FDP.The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2018-09-25,FDP.The Liberals,17.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-02-07,FDP.The Liberals,17.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-02-20,FDP.The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-05-23,FDP.The Liberals,15.5,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-05-27,FDP.The Liberals,16.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-08-25,FDP.The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-09-24,FDP.The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-10-02,FDP.The Liberals,15.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2019-10-04,FDP.The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2021-10-03,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2021-12-09,FDP.The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2022-08-16,FDP.The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2022-10-07,FDP.The Liberals,16.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-02-17,FDP.The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-03-05,FDP.The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-06-22,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-07-11,FDP.The Liberals,14.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-08-25,FDP.The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-09-20,FDP.The Liberals,13.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-09-26,FDP.The Liberals,14.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
-2023-10-05,FDP.The Liberals,14.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
 2016-05-04,Green Liberal Party of Switzerland,5.4,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
 2016-10-08,Green Liberal Party of Switzerland,5.6,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
 2017-03-23,Green Liberal Party of Switzerland,4.9,Centre,Green liberalism,https://en.wikipedia.org/wiki/Green_Liberal_Party_of_Switzerland
@@ -202,3 +173,32 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-09-20,The Centre,13.6,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
 2023-09-26,The Centre,14.1,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
 2023-10-05,The Centre,14.3,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/The_Centre_(political_party)
+2016-05-04,The Liberals,16.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2016-10-08,The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2017-03-23,The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2017-10-02,The Liberals,17.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-01-05,The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-06-22,The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-18,The Liberals,17.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-19,The Liberals,17.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2018-09-25,The Liberals,17.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-02-07,The Liberals,17.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-02-20,The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-05-23,The Liberals,15.5,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-05-27,The Liberals,16.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-08-25,The Liberals,16.7,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-09-24,The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-10-02,The Liberals,15.2,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2019-10-04,The Liberals,15.9,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2021-10-03,The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2021-12-09,The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2022-08-16,The Liberals,16.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2022-10-07,The Liberals,16.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-02-17,The Liberals,15.4,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-03-05,The Liberals,15.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-06-22,The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-07-11,The Liberals,14.3,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-08-25,The Liberals,14.6,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-09-20,The Liberals,13.8,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-09-26,The Liberals,14.0,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals
+2023-10-05,The Liberals,14.1,Centre to centre-right,Liberalism ( Swiss ) Conservative liberalism Classical liberalism,https://en.wikipedia.org/wiki/FDP.The_Liberals

@@ -1,28 +1,24 @@
-party,political_position,ideology,wikipedia_url
-People's Party for Freedom and Democracy,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/People%27s_Party_for_Freedom_and_Democracy
-Labour Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Labour_Party_(Netherlands)
-Party for Freedom,Far-right,Nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Party_for_Freedom
-Socialist Party,Left-wing,Democratic socialism Left-wing populism Social democracy Cultural conservatism,https://en.wikipedia.org/wiki/Socialist_Party_(Netherlands)
-Christian Democratic Appeal,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Appeal
-Democrats 66,Centre to centre-left,Social liberalism Progressivism,https://en.wikipedia.org/wiki/Democrats_66
-Christian Union,Economic : Centre to centre-left Social : Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Netherlands)
-GroenLinks,Centre-left to left-wing,Green politics Progressivism Social democracy,https://en.wikipedia.org/wiki/GroenLinks
-Reformed Political Party,Right-wing,Christian right Social conservatism Theocracy,https://en.wikipedia.org/wiki/Reformed_Political_Party
-Party for the Animals,Left-wing to far-left,Animal rights Animal welfare Anti-capitalism Environmentalism,https://en.wikipedia.org/wiki/Party_for_the_Animals
-50PLUS,Centre,Pensioners' interests Populism,https://en.wikipedia.org/wiki/50PLUS
-List of political parties in the Netherlands,,,
-Denk,Centre-left,Social democracy Social conservatism Minority interests,https://en.wikipedia.org/wiki/Denk_(political_party)
-VoorNederland,Right-wing,Classical liberalism Liberal conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/VoorNederland
-Forum for Democracy,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Forum_for_Democracy
-DENK,Centre-left,Social democracy Social conservatism Minority interests,https://en.wikipedia.org/wiki/DENK_(political_party)
-JA21,Right-wing to far-right,Right-wing populism Conservative liberalism Fortuynism,https://en.wikipedia.org/wiki/JA21
-BIJ1,Left-wing to far-left,Socialism Anti-racism Feminism,https://en.wikipedia.org/wiki/BIJ1
-Volt Netherlands,Centre-left,Social liberalism European federalism Pro-Europeanism Progressivism,https://en.wikipedia.org/wiki/Volt_Netherlands
-Farmer–Citizen Movement,Centre-right to right-wing,Agrarianism Right-wing populism,https://en.wikipedia.org/wiki/Farmer%E2%80%93Citizen_Movement
-Belang van Nederland,Right-wing to far-right,Right-wing populism Conservative liberalism Classical liberalism Direct democracy Euroscepticism,https://en.wikipedia.org/wiki/Belang_van_Nederland
-GroenLinks–PvdA,Centre-left to left-wing,Social democracy Green politics Progressivism,https://en.wikipedia.org/wiki/GroenLinks%E2%80%93PvdA
-New Social Contract,Centre to centre-right,Christian democracy,https://en.wikipedia.org/wiki/New_Social_Contract
-GroenLinks-PvdA,Centre-left to left-wing,Social democracy Green politics Progressivism,https://en.wikipedia.org/wiki/GroenLinks%E2%80%93Labour_Party
-GroenLinks–Labour Party,Centre-left to left-wing,Social democracy Green politics Progressivism,https://en.wikipedia.org/wiki/GroenLinks%E2%80%93Labour_Party
-Pieter Omtzigt,,,
-50Plus,Centre,Pensioners' interests Populism,https://en.wikipedia.org/wiki/50Plus
+party,political_position,ideology,wikipedia_url,party_display_name
+People's Party for Freedom and Democracy,Centre-right,Conservative liberalism,https://en.wikipedia.org/wiki/People%27s_Party_for_Freedom_and_Democracy,People's Party for Freedom and Democracy
+Labour Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Labour_Party_(Netherlands),Labour Party
+Party for Freedom,Far-right,Nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Party_for_Freedom,Party for Freedom
+Socialist Party,Left-wing,Democratic socialism Left-wing populism Social democracy Cultural conservatism,https://en.wikipedia.org/wiki/Socialist_Party_(Netherlands),Socialist Party
+Christian Democratic Appeal,Centre to centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Democratic_Appeal,Christian Democratic Appeal
+Democrats 66,Centre to centre-left,Social liberalism Progressivism,https://en.wikipedia.org/wiki/Democrats_66,Democrats 66
+Christian Union,Economic : Centre to centre-left Social : Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Netherlands),Christian Union
+GroenLinks,Centre-left to left-wing,Green politics Progressivism Social democracy,https://en.wikipedia.org/wiki/GroenLinks,GroenLinks
+Reformed Political Party,Right-wing,Christian right Social conservatism Theocracy,https://en.wikipedia.org/wiki/Reformed_Political_Party,Reformed Political Party
+Party for the Animals,Left-wing to far-left,Animal rights Animal welfare Anti-capitalism Environmentalism,https://en.wikipedia.org/wiki/Party_for_the_Animals,Party for the Animals
+50Plus,Centre,Pensioners' interests Populism,https://en.wikipedia.org/wiki/50Plus,50Plus
+List of political parties in the Netherlands,,,,
+Denk,Centre-left,Social democracy Social conservatism Minority interests,https://en.wikipedia.org/wiki/Denk_(political_party),Denk
+VoorNederland,Right-wing,Classical liberalism Liberal conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/VoorNederland,VoorNederland
+Forum for Democracy,Far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Forum_for_Democracy,Forum for Democracy
+JA21,Right-wing to far-right,Right-wing populism Conservative liberalism Fortuynism,https://en.wikipedia.org/wiki/JA21,JA21
+Bij1,Left-wing to far-left,Socialism Anti-racism Feminism,https://en.wikipedia.org/wiki/BIJ1,Bij1
+Volt Netherlands,Centre-left,Social liberalism European federalism Pro-Europeanism Progressivism,https://en.wikipedia.org/wiki/Volt_Netherlands,Volt Netherlands
+Farmer-Citizen Movement,Centre-right to right-wing,Agrarianism Right-wing populism,https://en.wikipedia.org/wiki/Farmer%E2%80%93Citizen_Movement,Farmer-Citizen Movement
+Belang van Nederland,Right-wing to far-right,Right-wing populism Conservative liberalism Classical liberalism Direct democracy Euroscepticism,https://en.wikipedia.org/wiki/Belang_van_Nederland,Belang van Nederland
+GroenLinks-PvdA,Centre-left to left-wing,Social democracy Green politics Progressivism,https://en.wikipedia.org/wiki/GroenLinks%E2%80%93PvdA,GroenLinks-PvdA
+New Social Contract,Centre to centre-right,Christian democracy,https://en.wikipedia.org/wiki/New_Social_Contract,New Social Contract
+Pieter Omtzigt,,,,

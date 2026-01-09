@@ -1,53 +1,53 @@
-party,political_position,ideology,wikipedia_url,candidate
-Lutte Ouvrière,,Trotskyism,,Nathalie Arthaud
-Nouveau Parti Anticapitaliste,,Trotskyism,,Philippe Poutou
-La France Insoumise,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
-Parti Socialiste,,Social democracy; Eco-socialism,,Benoît Hamon
-La République En Marche,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
-Résistons!,,Agrarianism; Regionalism; Populism,,Jean Lassalle
-Les Républicains,,Conservatism; Liberal conservatism,,François Fillon
-Debout la France,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
-Union Populaire Républicaine,,Euroscepticism; Sovereigntism; Gaullism,,François Asselineau
-Rassemblement National,,Far-right; Nationalism,,Marine Le Pen
-Solidarité et Progrès,Solidarité et progrès (1996–present),LaRouchism; Anti-globalism,https://en.wikipedia.org/wiki/Jacques_Cheminade,Jacques Cheminade
-Europe Écologie Les Verts,,Green politics; Environmentalism,,Yannick Jadot
-Mouvement Démocrate,,Centrism; Christian democracy,,François Bayrou
-Independent,,,,/w/index.php?title=Charlotte Marchandise&action=edit&redlink=1
-Les Républicains,,Liberal conservatism; Human rights advocacy,,Rama Yade
-Les Républicains,,Gaullism; Conservatism,,Michèle Alliot-Marie
-Parti Socialiste,,Social democracy,,François Hollande
-Parti Radical de Gauche,,Social liberalism; Radicalism,,Sylvia Pinel
-Parti Socialiste,,Social liberalism; Third Way,,Manuel Valls
-Europe Écologie Les Verts,,Green politics; Ecofeminism,,Cécile Duflot
-Les Républicains,,Moderate conservatism; Liberal conservatism,,Alain Juppé
-Europe Écologie Les Verts,,Environmentalism; Green politics,,Nicolas Hulot
-Parti Socialiste,,Left-wing nationalism; Protectionism,,Arnaud Montebourg
-Les Républicains,,Conservatism; Right-wing populism,,Nicolas Sarkozy
-Les Républicains,,Gaullism; Sovereigntism,,Henri Guaino
-Europe Écologie Les Verts,,Green politics; Anti-corruption,,Eva Joly
-Nouveau Parti Anticapitaliste,,Trotskyism; Anti-capitalism,,Olivier Besancenot
-Parti Communiste Français,,Communism,,Fabien Roussel
-Parti Socialiste,,Social democracy; Progressivism,,Anne Hidalgo
-Les Républicains,,Liberal conservatism,,Valérie Pécresse
-Reconquête,,Far-right nationalism; Identitarianism,,Éric Zemmour
-Parti Radical de Gauche,,Left-wing humanism; Social justice,,Christiane Taubira
-Parti Animaliste,,Animal rights; Green politics,,Hélène Thouy
-Les Patriotes,,Nationalism; Sovereigntism,,Florian Philippot
-Union des Démocrates et Indépendants,,Centrism; Christian democracy,,Jean-Christophe Lagarde
-Les Républicains,,Centre-right liberalism,,Xavier Bertrand
-Europe Écologie Les Verts,,Green politics; Eco-socialism,,Éric Piolle
-Les Républicains,,Social conservatism; Christian democracy,,Jean-Frédéric Poisson
-Les Républicains,,Christian democracy; Pro-Europeanism,,Michel Barnier
-Les Républicains,,Conservatism; Liberal conservatism,,François Baroin
-Les Républicains,,Right-wing conservatism,,Laurent Wauquiez
-Parti Socialiste,,Social democracy,,Olivier Faure
-Parti Socialiste,,Social democracy,,Bernard Cazeneuve
-Europe Écologie Les Verts,,Green politics; Ecofeminism,,Marine Tondelier
-Horizons,,Liberal conservatism; Centrism,,Édouard Philippe
-Rassemblement National,,Far-right populism; Nationalism,,Jordan Bardella
-Les Républicains,,Social conservatism; National conservatism,,Bruno Retailleau
-La France Insoumise,,Left-wing populism; Democratic socialism,,François Ruffin
-Parti Socialiste,,Social democracy; Pro-Europeanism,,Raphaël Glucksmann
+party,political_position,ideology,wikipedia_url,party_display_name,candidate
+Lutte Ouvrière,,Trotskyism,,Lutte Ouvrière,Nathalie Arthaud
+Nouveau Parti Anticapitaliste,,Trotskyism,,Nouveau Parti Anticapitaliste,Philippe Poutou
+La France Insoumise,,Democratic socialism; Left-wing populism,,La France Insoumise,Jean-Luc Mélenchon
+Parti Socialiste,,Social democracy; Eco-socialism,,Parti Socialiste,Benoît Hamon
+La République En Marche,,Liberalism; Centrism; Pro-Europeanism,,La République En Marche,Emmanuel Macron
+Résistons!,,Agrarianism; Regionalism; Populism,,Résistons!,Jean Lassalle
+Les Républicains,,Conservatism; Liberal conservatism,,Les Républicains,François Fillon
+Debout la France,,Gaullism; National conservatism; Sovereigntism,,Debout la France,Nicolas Dupont-Aignan
+Union Populaire Républicaine,,Euroscepticism; Sovereigntism; Gaullism,,Union Populaire Républicaine,François Asselineau
+Rassemblement National,,Far-right; Nationalism,,Rassemblement National,Marine Le Pen
+Solidarité et Progrès,Solidarité et progrès (1996–present),LaRouchism; Anti-globalism,https://en.wikipedia.org/wiki/Jacques_Cheminade,Solidarité et Progrès,Jacques Cheminade
+Europe Écologie Les Verts,,Green politics; Environmentalism,,Europe Écologie Les Verts,Yannick Jadot
+Mouvement Démocrate,,Centrism; Christian democracy,,Mouvement Démocrate,François Bayrou
+Independent,,,,Independent,/w/index.php?title=Charlotte Marchandise&action=edit&redlink=1
+Les Républicains,,Liberal conservatism; Human rights advocacy,,Les Républicains,Rama Yade
+Les Républicains,,Gaullism; Conservatism,,Les Républicains,Michèle Alliot-Marie
+Parti Socialiste,,Social democracy,,Parti Socialiste,François Hollande
+Parti Radical de Gauche,,Social liberalism; Radicalism,,Parti Radical de Gauche,Sylvia Pinel
+Parti Socialiste,,Social liberalism; Third Way,,Parti Socialiste,Manuel Valls
+Europe Écologie Les Verts,,Green politics; Ecofeminism,,Europe Écologie Les Verts,Cécile Duflot
+Les Républicains,,Moderate conservatism; Liberal conservatism,,Les Républicains,Alain Juppé
+Europe Écologie Les Verts,,Environmentalism; Green politics,,Europe Écologie Les Verts,Nicolas Hulot
+Parti Socialiste,,Left-wing nationalism; Protectionism,,Parti Socialiste,Arnaud Montebourg
+Les Républicains,,Conservatism; Right-wing populism,,Les Républicains,Nicolas Sarkozy
+Les Républicains,,Gaullism; Sovereigntism,,Les Républicains,Henri Guaino
+Europe Écologie Les Verts,,Green politics; Anti-corruption,,Europe Écologie Les Verts,Eva Joly
+Nouveau Parti Anticapitaliste,,Trotskyism; Anti-capitalism,,Nouveau Parti Anticapitaliste,Olivier Besancenot
+Parti Communiste Français,,Communism,,Parti Communiste Français,Fabien Roussel
+Parti Socialiste,,Social democracy; Progressivism,,Parti Socialiste,Anne Hidalgo
+Les Républicains,,Liberal conservatism,,Les Républicains,Valérie Pécresse
+Reconquête,,Far-right nationalism; Identitarianism,,Reconquête,Éric Zemmour
+Parti Radical de Gauche,,Left-wing humanism; Social justice,,Parti Radical de Gauche,Christiane Taubira
+Parti Animaliste,,Animal rights; Green politics,,Parti Animaliste,Hélène Thouy
+Les Patriotes,,Nationalism; Sovereigntism,,Les Patriotes,Florian Philippot
+Union des Démocrates et Indépendants,,Centrism; Christian democracy,,Union des Démocrates et Indépendants,Jean-Christophe Lagarde
+Les Républicains,,Centre-right liberalism,,Les Républicains,Xavier Bertrand
+Europe Écologie Les Verts,,Green politics; Eco-socialism,,Europe Écologie Les Verts,Éric Piolle
+Les Républicains,,Social conservatism; Christian democracy,,Les Républicains,Jean-Frédéric Poisson
+Les Républicains,,Christian democracy; Pro-Europeanism,,Les Républicains,Michel Barnier
+Les Républicains,,Conservatism; Liberal conservatism,,Les Républicains,François Baroin
+Les Républicains,,Right-wing conservatism,,Les Républicains,Laurent Wauquiez
+Parti Socialiste,,Social democracy,,Parti Socialiste,Olivier Faure
+Parti Socialiste,,Social democracy,,Parti Socialiste,Bernard Cazeneuve
+Europe Écologie Les Verts,,Green politics; Ecofeminism,,Europe Écologie Les Verts,Marine Tondelier
+Horizons,,Liberal conservatism; Centrism,,Horizons,Édouard Philippe
+Rassemblement National,,Far-right populism; Nationalism,,Rassemblement National,Jordan Bardella
+Les Républicains,,Social conservatism; National conservatism,,Les Républicains,Bruno Retailleau
+La France Insoumise,,Left-wing populism; Democratic socialism,,La France Insoumise,François Ruffin
+Parti Socialiste,,Social democracy; Pro-Europeanism,,Parti Socialiste,Raphaël Glucksmann
 Renaissance,,Social liberalism; Progressivism,,Gabriel Attal
 Independent,,Gaullism; Diplomacy multilateralism,,Dominique de Villepin
 Europe Écologie Les Verts,,Ecofeminism; Green radicalism,,Sandrine Rousseau

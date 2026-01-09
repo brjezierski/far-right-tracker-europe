@@ -1,29 +1,27 @@
-party,political_position,ideology,wikipedia_url
-"Social Democratic Party ""Harmony""",Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22
-New Unity,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity
-Union of Greens and Farmers,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers
-National Alliance,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia)
-Latvian Association of Regions,Centre,Regionalism,https://en.wikipedia.org/wiki/Latvian_Association_of_Regions
-Awakening,Right-wing,Conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/For_Latvia_from_the_Heart
-Latvian Russian Union,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union
-For Latvia's Development,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development
-United for Latvia,Centre to centre-right,Economic liberalism Populism,https://en.wikipedia.org/wiki/United_for_Latvia
-New Conservative Party,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-/w/index.php?title=Proud to Serve Latvia&action=edit&redlink=1,,,
-For a Humane Latvia,Centre-right to right-wing,Right-wing populism Conservatism,https://en.wikipedia.org/wiki/For_a_Humane_Latvia
-Movement For!,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!
-The Progressives,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia)
-The Conservatives,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia)
-Development/For!,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!
-United List,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia)
-Platform 21,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21
-Latvia First,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First
-Republic,Centre,,https://en.wikipedia.org/wiki/Republic_(Latvia)
-For Stability!,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!
-Sovereign Power,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia)
-People's Servants for Latvia,,Populism Anti-lockdown,https://en.wikipedia.org/wiki/People%27s_Servants_for_Latvia
-/w/index.php?title=Progressive Christian Party&action=edit&redlink=1,,,
-Force of People's Power,,Conservative populism (originally) Currently: Russian minority politics Populism,https://en.wikipedia.org/wiki/Force_of_People%27s_Power
-Law and Order,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Law_and_Order_(Latvia)
-National Power Unity,Far-right,Ultranationalism Anti-Zionism Antisemitism Ethnic nationalism Anti-capitalism,https://en.wikipedia.org/wiki/National_Power_Unity
-/w/index.php?title=Pamats-LV&action=edit&redlink=1,,,
+party,political_position,ideology,wikipedia_url,party_display_name
+"Social Democratic Party ""Harmony""",Centre-left,Social democracy Russian minority politics,https://en.wikipedia.org/wiki/Social_Democratic_Party_%22Harmony%22,"Social Democratic Party ""Harmony"""
+New Unity,Centre-right,Liberalism ( Latvian ) Liberal conservatism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Unity,New Unity
+Union of Greens and Farmers,Centre,Agrarianism Green conservatism Economic nationalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Union_of_Greens_and_Farmers,Union of Greens and Farmers
+National Alliance,Right-wing,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/National_Alliance_(Latvia),National Alliance
+Latvian Association of Regions,Centre,Regionalism,https://en.wikipedia.org/wiki/Latvian_Association_of_Regions,Latvian Association of Regions
+Awakening,Right-wing,Conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/For_Latvia_from_the_Heart,Awakening
+Latvian Russian Union,,Russian minority politics Russophilia,https://en.wikipedia.org/wiki/Latvian_Russian_Union,Latvian Russian Union
+For Latvia's Development,Centre-right,Classical liberalism,https://en.wikipedia.org/wiki/For_Latvia%27s_Development,For Latvia's Development
+United for Latvia,Centre to centre-right,Economic liberalism Populism,https://en.wikipedia.org/wiki/United_for_Latvia,United for Latvia
+New Conservative Party,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/The_Conservatives_(Latvia),New Conservative Party
+/w/index.php?title=Proud to Serve Latvia&action=edit&redlink=1,,,,
+For a Humane Latvia,Centre-right to right-wing,Right-wing populism Conservatism,https://en.wikipedia.org/wiki/For_a_Humane_Latvia,For a Humane Latvia
+Movement For!,Centre,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Movement_For!,Movement For!
+The Progressives,Centre-left to left-wing,Social democracy Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/The_Progressives_(Latvia),The Progressives
+Development/For!,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Development/For!,Development/For!
+United List,Centre to centre-right,Regionalism Green conservatism,https://en.wikipedia.org/wiki/United_List_(Latvia),United List
+Platform 21,Centre,Moderate nationalism,https://en.wikipedia.org/wiki/Platform_21,Platform 21
+Latvia First,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Latvia_First,Latvia First
+Republic,Centre,,https://en.wikipedia.org/wiki/Republic_(Latvia),Republic
+For Stability!,Centre,Populism Russian minority politics Euroscepticism,https://en.wikipedia.org/wiki/For_Stability!,For Stability!
+Sovereign Power,Right-wing,Christian right Direct democracy Russian minority politics,https://en.wikipedia.org/wiki/Sovereign_Power_(Latvia),Sovereign Power
+People's Servants for Latvia,,Populism Anti-lockdown,https://en.wikipedia.org/wiki/People%27s_Servants_for_Latvia,People's Servants for Latvia
+/w/index.php?title=Progressive Christian Party&action=edit&redlink=1,,,,
+Force of People's Power,,Conservative populism (originally) Currently: Russian minority politics Populism,https://en.wikipedia.org/wiki/Force_of_People%27s_Power,Force of People's Power
+National Power Unity,Far-right,Ultranationalism Anti-Zionism Antisemitism Ethnic nationalism Anti-capitalism,https://en.wikipedia.org/wiki/National_Power_Unity,National Power Unity
+/w/index.php?title=Pamats-LV&action=edit&redlink=1,,,,

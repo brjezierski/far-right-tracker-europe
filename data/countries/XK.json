@@ -5,7 +5,7 @@
     "Alliance for the Future of Kosovo",
     "Democratic Party of Kosovo"
   ],
-  "latestSupport": 26.400000000000002,
+  "latestSupport": 26.900000000000002,
   "seriesByParty": {
     "Alliance for the Future of Kosovo": [
       {
@@ -127,6 +127,10 @@
       {
         "date": "2025-06-09",
         "value": 4.6
+      },
+      {
+        "date": "2025-12-28",
+        "value": 6.1
       }
     ],
     "Democratic Party of Kosovo": [
@@ -281,10 +285,14 @@
       {
         "date": "2025-06-09",
         "value": 24.3
+      },
+      {
+        "date": "2025-12-28",
+        "value": 23.17
       }
     ]
   },
-  "latestUpdate": "2025-12-23T22:46:45Z",
+  "latestUpdate": "2025-12-28",
   "sources": [
     "https://en.wikipedia.org/wiki/2019_Kosovan_parliamentary_election",
     "https://en.wikipedia.org/wiki/2021_Kosovan_parliamentary_election",

@@ -1,17 +1,25 @@
-party,political_position,ideology,wikipedia_url
-ANO 2011,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/ANO_2011
-Civic Democratic Party,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-KDU-ČSL,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-TOP 09,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-Czech Pirate Party,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-Mayors and Independents,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-Freedom and Direct Democracy,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-Communist Party of Bohemia and Moravia,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-Czech Social Democratic Party,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-Tricolour Citizens' Movement,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
-Andrej Babiš' Second Cabinet,,,
-Opposition,,,
-Green Party,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-Svobodní,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-Spolu,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/SPOLU_(Czech_Republic)
-Pirates and Mayors,Centre,Liberalism Progressivism Decentralization Environmentalism Direct democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Pirates_and_Mayors
+party,political_position,ideology,wikipedia_url,party_display_name
+Social Democracy,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party,Social Democracy
+ANO 2011,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/ANO_2011,ANO 2011
+Communist Party of Bohemia and Moravia,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia,Communist Party of Bohemia and Moravia
+TOP 09,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09,TOP 09
+Civic Democratic Party,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic),Civic Democratic Party
+Dawn - National Coalition,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition,Dawn - National Coalition
+KDU-ČSL,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL,KDU-ČSL
+Green Party,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic),Green Party
+Czech Pirate Party,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party,Czech Pirate Party
+Svobodní,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD,Svobodní
+Mayors and Independents,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents,Mayors and Independents
+Freedom and Direct Democracy,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy,Freedom and Direct Democracy
+Realists,Right-wing,National conservatism Liberal conservatism Economic liberalism Euroscepticism,https://en.wikipedia.org/wiki/Realists_(political_party),Realists
+Spolu,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/SPOLU_(Czech_Republic),Spolu
+Pirates and Mayors,Centre,Liberalism Progressivism Decentralization Environmentalism Direct democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Pirates_and_Mayors,Pirates and Mayors
+Tricolour,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement,Tricolour
+Andrej Babiš' Second Cabinet,,,,
+Opposition,,,,
+Alliance for the Future,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic),Alliance for the Future
+Czech Sovereignty of Social Democracy,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy,Czech Sovereignty of Social Democracy
+Přísaha,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha,Přísaha
+File:SPOLU-kampan-2025.png,,,,
+Stačilo!,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!,Stačilo!
+Motorists for Themselves,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves,Motorists for Themselves

@@ -5,7 +5,7 @@
     "Freedom Party of Austria",
     "Team HC Strache - Alliance for Austria"
   ],
-  "latestSupport": 37.666666666666664,
+  "latestSupport": 37.333333333333336,
   "seriesByParty": {
     "Freedom Party of Austria": [
       {
@@ -3015,6 +3015,10 @@
       {
         "date": "2025-12-09",
         "value": 38.0
+      },
+      {
+        "date": "2026-01-05",
+        "value": 36.0
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -3100,7 +3104,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-27T21:58:45Z",
+  "latestUpdate": "2026-01-05",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",

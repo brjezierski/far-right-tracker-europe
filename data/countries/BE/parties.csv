@@ -1,18 +1,17 @@
-party,political_position,ideology,wikipedia_url
-New Flemish Alliance,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-Parti Socialiste,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Parti_Socialiste_(Belgium)
-Vlaams Belang,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-Mouvement Réformateur,Centre-right to right-wing,Liberalism ( Belgian ),https://en.wikipedia.org/wiki/Mouvement_R%C3%A9formateur
-Ecolo,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Ecolo
-Christen-Democratisch en Vlaams,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-Open Vlaamse Liberalen en Democraten,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Open_Vlaamse_Liberalen_en_Democraten
-Workers' Party of Belgium,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
-Socialistische Partij Anders,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Socialistische_Partij_Anders
-Groen,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-Centre démocrate humaniste,Centre to centre-right,Christian democracy Christian humanism Pro-Europeanism Factions: Conservatism Christian left,https://en.wikipedia.org/wiki/Centre_d%C3%A9mocrate_humaniste
-DéFI,Centre to centre-left,Regionalism Liberalism ( Belgian ) Social liberalism,https://en.wikipedia.org/wiki/D%C3%A9FI
-People's Party,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/People%27s_Party_(Belgium)
-Forward,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-Les Engagés,Centre,Social liberalism,https://en.wikipedia.org/wiki/Les_Engag%C3%A9s
-The Committed,Centre,Social liberalism,https://en.wikipedia.org/wiki/The_Committed_(political_party)
-#cite note-67,,,
+party,political_position,ideology,wikipedia_url,party_display_name
+New Flemish Alliance,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance,New Flemish Alliance
+Vlaams Belang,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang,Vlaams Belang
+Christian Democratic and Flemish,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams,Christian Democratic and Flemish
+Open Flemish Liberals and Democrats,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Open_Vlaamse_Liberalen_en_Democraten,Open Flemish Liberals and Democrats
+Vooruit,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium),Vooruit
+Groen,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party),Groen
+Workers' Party of Belgium,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium,Workers' Party of Belgium
+Socialist Party,Centre-left to left-wing,Social democracy,https://en.wikipedia.org/wiki/Parti_Socialiste_(Belgium),Socialist Party
+Reformist Movement,Centre-right to right-wing,Liberalism ( Belgian ),https://en.wikipedia.org/wiki/Mouvement_R%C3%A9formateur,Reformist Movement
+Ecolo,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/Ecolo,Ecolo
+Humanist Democratic Centre,Centre to centre-right,Christian democracy Christian humanism Pro-Europeanism Factions: Conservatism Christian left,https://en.wikipedia.org/wiki/Centre_d%C3%A9mocrate_humaniste,Humanist Democratic Centre
+DéFI,Centre to centre-left,Regionalism Liberalism ( Belgian ) Social liberalism,https://en.wikipedia.org/wiki/D%C3%A9FI,DéFI
+People's Party,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/People%27s_Party_(Belgium),People's Party
+/w/index.php?title=Droite Citoyenne&action=edit&redlink=1,,,,
+Les Engagés,Centre,Social liberalism,https://en.wikipedia.org/wiki/Les_Engag%C3%A9s,Les Engagés
+#cite note-67,,,,

@@ -1,24 +1,24 @@
-party,political_position,ideology,wikipedia_url
-Centre Party,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
-National Coalition Party,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
-Finns Party,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Finns_Party
-Social Democratic Party of Finland,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
-Green League,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
-Left Alliance,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
-Swedish People's Party of Finland,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland
-Christian Democrats,Centre-right,Christian democracy Conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Finland)
-Finnish Reform Movement,Right-wing,Economic liberalism National conservatism,https://en.wikipedia.org/wiki/Blue_Reform
-Juha Sipilä,,,
-Petteri Orpo,,,
-Timo Soini,,,
-Antti Rinne,,,
-Ville Niinistö,,,
-Anna-Maja Henriksson,,,
-Paavo Väyrynen,,,
-Jussi Halla-aho,,,
-Touko Aalto,,,
-Li Andersson,,,
-Sari Essayah,,,
-Sampo Terho,,,
-Pekka Haavisto,,,
-Movement Now,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now
+party,political_position,ideology,wikipedia_url,party_display_name
+Centre Party,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland),Centre Party
+National Coalition Party,Centre-right to right-wing,Liberal conservatism Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party,National Coalition Party
+Finns Party,Right-wing to far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Finns_Party,Finns Party
+Social Democratic Party of Finland,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland,Social Democratic Party of Finland
+Green League,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League,Green League
+Left Alliance,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland),Left Alliance
+Swedish People's Party of Finland,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland,Swedish People's Party of Finland
+Christian Democrats,Centre-right,Christian democracy Conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Democrats_(Finland),Christian Democrats
+Finnish Reform Movement,Right-wing,Economic liberalism National conservatism,https://en.wikipedia.org/wiki/Blue_Reform,Finnish Reform Movement
+Juha Sipilä,,,,
+Petteri Orpo,,,,
+Timo Soini,,,,
+Antti Rinne,,,,
+Ville Niinistö,,,,
+Anna-Maja Henriksson,,,,
+Paavo Väyrynen,,,,
+Jussi Halla-aho,,,,
+Touko Aalto,,,,
+Li Andersson,,,,
+Sari Essayah,,,,
+Sampo Terho,,,,
+Pekka Haavisto,,,,
+Movement Now,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now,Movement Now

@@ -1,37 +1,31 @@
-party,political_position,ideology,wikipedia_url
-Croatian Democratic Union,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union
-Social Democratic Party of Croatia,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia
-Bridge of Independent Lists,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Bridge_of_Independent_Lists
-Human Shield,,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Human_Shield_(political_party)
-Bandić Milan 365 - Labour and Solidarity Party,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Bandi%C4%87_Milan_365_-_Labour_and_Solidarity_Party
-Istrian Democratic Assembly,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly
-Pametno,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Pametno
-Croatian People's Party – Liberal Democrats,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats
-Croatian Peasant Party,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party
-Independents for Croatia,Right-wing to far-right,Social conservatism Anti-communism Croatian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Independents_for_Croatia
-Civic Liberal Alliance,Centre to centre-left,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Liberal_Alliance
-Party with a First and Last Name,Centre to centre-left,Liberalism Anti-corruption Reformism,https://en.wikipedia.org/wiki/Party_with_a_First_and_Last_Name
-Mislav Kolakušić,,,
-Croatian Growth,Right-wing,Christian right National conservatism Social conservatism Political Catholicism,https://en.wikipedia.org/wiki/Croatian_Growth
-Croatian Souverainists,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Souverainists
-Miroslav Škoro Homeland Movement,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Miroslav_%C5%A0koro_Homeland_Movement
-Homeland Movement,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia)
-The Bridge,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia)
-We can!,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_can!_(Croatia)
-The Key of Croatia,,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/The_Key_of_Croatia
-Croatian Party of Pensioners,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners
-Workers' Front,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia)
-Focus,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party)
-Croatian Sovereignists,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists
-Social Democrats,Centre-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/Social_Democrats_(Croatia)
-Restart Coalition,Centre to centre-left,Social democracy Social liberalism Progressivism,https://en.wikipedia.org/wiki/Restart_Coalition
-/w/index.php?title=Independent platform North &action=edit&redlink=1,,,
-Andrej Plenković,,,
-Peđa Grbin,,,
-Nino Raspudić,,,
-Zoran Milanović,,,
-We Can!,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia)
-Independent Platform of the North,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North
-Law and Justice,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia)
-Centre,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party)
-Home and National Rally,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally
+party,political_position,ideology,wikipedia_url,party_display_name
+Croatian Democratic Union,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/Croatian_Democratic_Union,Croatian Democratic Union
+Social Democratic Party of Croatia,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Croatia,Social Democratic Party of Croatia
+The Bridge,Right-wing,National conservatism Right-wing populism Economic liberalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/The_Bridge_(Croatia),The Bridge
+The Key of Croatia,,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/The_Key_of_Croatia,The Key of Croatia
+Bandić Milan 365 - Labour and Solidarity Party,Centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Bandi%C4%87_Milan_365_-_Labour_and_Solidarity_Party,Bandić Milan 365 - Labour and Solidarity Party
+Istrian Democratic Assembly,Centre to centre-left,Regionalism ( Istrian ) Liberalism ( Croatian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Istrian_Democratic_Assembly,Istrian Democratic Assembly
+Centre,Centre,Social liberalism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Centre_(Croatian_political_party),Centre
+Croatian People's Party - Liberal Democrats,Centre,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_People%27s_Party_%E2%80%93_Liberal_Democrats,Croatian People's Party - Liberal Democrats
+Croatian Peasant Party,Centre to centre-left,Agrarianism Social liberalism National liberalism Green politics Republicanism Pro-Europeanism,https://en.wikipedia.org/wiki/Croatian_Peasant_Party,Croatian Peasant Party
+Independents for Croatia,Right-wing to far-right,Social conservatism Anti-communism Croatian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Independents_for_Croatia,Independents for Croatia
+Civic Liberal Alliance,Centre to centre-left,Liberalism Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Liberal_Alliance,Civic Liberal Alliance
+Dalija Orešković and People with a First and Last Name,Centre to centre-left,Liberalism Anti-corruption Reformism,https://en.wikipedia.org/wiki/Party_with_a_First_and_Last_Name,Dalija Orešković and People with a First and Last Name
+Mislav Kolakušić,,,,
+Croatian Growth,Right-wing,Christian right National conservatism Social conservatism Political Catholicism,https://en.wikipedia.org/wiki/Croatian_Growth,Croatian Growth
+Croatian Sovereignists,Right-wing,National conservatism Christian fundamentalism,https://en.wikipedia.org/wiki/Croatian_Sovereignists,Croatian Sovereignists
+Homeland Movement,Right-wing to far-right,Croatian nationalism National conservatism Social conservatism Right-wing populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Homeland_Movement_(Croatia),Homeland Movement
+We Can!,Centre-left to left-wing,Green politics Progressivism Eco-socialism Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/We_Can!_(Croatia),We Can!
+Croatian Party of Pensioners,Centre-left,Pensioners ' interests ( single-issue politics ),https://en.wikipedia.org/wiki/Croatian_Party_of_Pensioners,Croatian Party of Pensioners
+Workers' Front,Left-wing to far-left,Democratic socialism Social progressivism Labour rights Anti-fascism Anti-clericalism Eco-socialism Left-wing populism Antimilitarism,https://en.wikipedia.org/wiki/Workers%27_Front_(Croatia),Workers' Front
+Focus,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Focus_(Croatian_political_party),Focus
+Social Democrats,Centre-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/Social_Democrats_(Croatia),Social Democrats
+Rivers of Justice,Centre to centre-left,Social democracy Social liberalism Progressivism,https://en.wikipedia.org/wiki/Restart_Coalition,Rivers of Justice
+/w/index.php?title=Independent platform North &action=edit&redlink=1,,,,
+Andrej Plenković,,,,
+Peđa Grbin,,,,
+Nino Raspudić,,,,
+Zoran Milanović,,,,
+Independent Platform of the North,Centre,Regionalism,https://en.wikipedia.org/wiki/Independent_Platform_of_the_North,Independent Platform of the North
+Law and Justice,Right-wing,Populism Euroscepticism Anti-establishment,https://en.wikipedia.org/wiki/Law_and_Justice_(Croatia),Law and Justice
+Home and National Rally,Right-wing,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Home_and_National_Rally,Home and National Rally

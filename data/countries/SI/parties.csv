@@ -1,30 +1,32 @@
-party,political_position,ideology,wikipedia_url
-Slovenian Democratic Party,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-Social Democrats,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-Modern Centre Party,Centre to centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_Centre_Party
-The Left,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
-New Slovenia,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-Party of Alenka Bratušek,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-Democratic Party of Pensioners of Slovenia,Centre,Pensioners' interests Single-issue politics Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Pensioners_of_Slovenia
-Slovenian National Party,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
-Slovenian People's Party,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-Positive Slovenia,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
-Civic List,Centre to centre-right,Classical liberalism,https://en.wikipedia.org/wiki/Civic_List_(Slovenia)
-Voice for Children and Families,Right-wing,Christian democracy Political Catholicism Social conservatism Populism,https://en.wikipedia.org/wiki/Voice_for_Children_and_Families
-New People's Party of Slovenia,Centre-right,Conservatism Agrarianism,https://en.wikipedia.org/wiki/New_People%27s_Party_of_Slovenia
-List of Marjan Šarec,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-Pirate Party,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-Good State,,,
-Andrej Čuš and Greens of Slovenia,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
-Freedom Movement,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-Vesna – Green Party,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-Resni.ca,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-Party of Generations,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-Democrats,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
-Pavel Rupar's Voice of Pensioners,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
-"We, Socialists!",,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
-Greens of Slovenia,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
-Focus of Marko Lotrič,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
-Prerod,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
-Our Country,Centre [ citation needed ] to centre-right,Decentralization Pro-Europeanism Agrarianism,https://en.wikipedia.org/wiki/Our_Country_(Slovenia)
-Concretely,Centre,Liberalism Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Concretely
+party,political_position,ideology,wikipedia_url,party_display_name
+Slovenian Democratic Party,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party,Slovenian Democratic Party
+Social Democrats,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia),Social Democrats
+Modern Centre Party,Centre to centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_Centre_Party,Modern Centre Party
+The Left,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia),The Left
+New Slovenia,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia,New Slovenia
+Party of Alenka Bratušek,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek,Party of Alenka Bratušek
+Democratic Party of Pensioners of Slovenia,Centre,Pensioners' interests Single-issue politics Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Pensioners_of_Slovenia,Democratic Party of Pensioners of Slovenia
+Slovenian National Party,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party,Slovenian National Party
+Slovenian People's Party,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party,Slovenian People's Party
+Positive Slovenia,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia,Positive Slovenia
+Civic List,Centre to centre-right,Classical liberalism,https://en.wikipedia.org/wiki/Civic_List_(Slovenia),Civic List
+Voice for Children and Families,Right-wing,Christian democracy Political Catholicism Social conservatism Populism,https://en.wikipedia.org/wiki/Voice_for_Children_and_Families,Voice for Children and Families
+New People's Party of Slovenia,Centre-right,Conservatism Agrarianism,https://en.wikipedia.org/wiki/New_People%27s_Party_of_Slovenia,New People's Party of Slovenia
+List of Marjan Šarec,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec,List of Marjan Šarec
+Let's Connect Slovenia,Centre to centre-right,Big tent,https://en.wikipedia.org/wiki/Let%27s_Connect_Slovenia,Let's Connect Slovenia
+Pirate Party,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia),Pirate Party
+/w/index.php?title=Our Future &action=edit&redlink=1,,,,
+Our Country,Centre [ citation needed ] to centre-right,Decentralization Pro-Europeanism Agrarianism,https://en.wikipedia.org/wiki/Our_Country_(Slovenia),Our Country
+Freedom Movement,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia),Freedom Movement
+Vesna - Green Party,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party,Vesna - Green Party
+Liberal Democrats,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Liberal_Democrats_(Slovenia),Liberal Democrats
+Resni.ca,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca,Resni.ca
+Good State,,,,
+Andrej Čuš and Greens of Slovenia,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia,Andrej Čuš and Greens of Slovenia
+Party of Generations,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations,Party of Generations
+Democrats,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia),Democrats
+Pavel Rupar's Voice of Pensioners,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners,Pavel Rupar's Voice of Pensioners
+"We, Socialists!",,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!","We, Socialists!"
+Focus of Marko Lotrič,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D,Focus of Marko Lotrič
+Prerod,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod,Prerod
+Concretely,Centre,Liberalism Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Concretely,Concretely

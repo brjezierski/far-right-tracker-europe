@@ -27,27 +27,27 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-30,Alternative Democratic Reform Party,10.7,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
 2025-04-24,Alternative Democratic Reform Party,9.3,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
 2025-09-29,Alternative Democratic Reform Party,11.6,Right-wing to far-right,Social conservatism Soft Euroscepticism Luxembourgish language interests,https://en.wikipedia.org/wiki/Alternative_Democratic_Reform_Party
-2016-01-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2016-12-20,Christian Social People's Party,28.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2017-05-20,Christian Social People's Party,29.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2017-12-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2018-06-20,Christian Social People's Party,26.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2018-10-14,Christian Social People's Party,28.31,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2020-06-24,Christian Social People's Party,27.5,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2020-11-24,Christian Social People's Party,25.7,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2021-06-09,Christian Social People's Party,24.6,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2021-11-11,Christian Social People's Party,21.6,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2022-11-14,Christian Social People's Party,23.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2023-06-11,Christian Social People's Party,26.06,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2023-08-16,Christian Social People's Party,28.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2024-06-09,Christian Social People's Party,22.91,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2024-09-30,Christian Social People's Party,28.9,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2025-04-24,Christian Social People's Party,29.1,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
-2025-09-29,Christian Social People's Party,25.3,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-01-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-06-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2016-12-20,Christian Social People's Party,28.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2017-05-20,Christian Social People's Party,29.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2017-12-20,Christian Social People's Party,27.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2018-06-20,Christian Social People's Party,26.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2018-10-14,Christian Social People's Party,28.31,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2020-06-24,Christian Social People's Party,27.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2020-11-24,Christian Social People's Party,25.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2021-06-09,Christian Social People's Party,24.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2021-11-11,Christian Social People's Party,21.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2022-11-14,Christian Social People's Party,23.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-06-11,Christian Social People's Party,26.06,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-08-16,Christian Social People's Party,28.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2023-10-08,Christian Social People's Party,29.22,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2024-06-09,Christian Social People's Party,22.91,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2024-09-30,Christian Social People's Party,28.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2025-04-24,Christian Social People's Party,29.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
+2025-09-29,Christian Social People's Party,25.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Christian_Social_People%27s_Party
 2020-06-24,Communist Party of Luxembourg,1.1,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
 2020-11-24,Communist Party of Luxembourg,0.9,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg
 2021-06-09,Communist Party of Luxembourg,1.0,Far-left,Communism Marxism–Leninism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Luxembourg

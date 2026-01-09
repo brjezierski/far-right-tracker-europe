@@ -1,16 +1,14 @@
-party,political_position,ideology,wikipedia_url
-Social Democratic Party of Austria,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
-Austrian People's Party,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-Freedom Party of Austria,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
-The Greens – The Green Alternative,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_%E2%80%93_The_Green_Alternative
-NEOS – The New Austria and Liberal Forum,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_%E2%80%93_The_New_Austria_and_Liberal_Forum
-Peter Pilz List,Centre-left to left-wing,Green politics Left-wing populism,https://en.wikipedia.org/wiki/Peter_Pilz_List
-My Vote Counts!,,Sortition Anti-establishment,https://en.wikipedia.org/wiki/My_Vote_Counts!
-Communist Party of Austria,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
-The Beer Party,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
-Madeleine Petrovic List,Centre-left,Green politics Anti-vaccination COVID-19 scepticism,https://en.wikipedia.org/wiki/Madeleine_Petrovic_List
-Der Wandel,Left-wing,Progressivism Egalitarianism Post-capitalism Environmentalism Pro-Europeanism,https://en.wikipedia.org/wiki/None_of_the_Above_(Austria)
-MFG Austria – People Freedom Fundamental Rights,Syncretic,Anti-lockdown Vaccine hesitancy,https://en.wikipedia.org/wiki/MFG_Austria_%E2%80%93_People_Freedom_Fundamental_Rights
-Team HC Strache - Alliance for Austria,Far-right,Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Team_HC_Strache_%E2%80%93_Alliance_for_Austria
-NEOS,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
-The Greens,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
+party,political_position,ideology,wikipedia_url,party_display_name
+Social Democratic Party of Austria,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria,Social Democratic Party of Austria
+Austrian People's Party,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party,Austrian People's Party
+Freedom Party of Austria,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria,Freedom Party of Austria
+The Greens,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria),The Greens
+NEOS,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria),NEOS
+JETZT,Centre-left to left-wing,Green politics Left-wing populism,https://en.wikipedia.org/wiki/Peter_Pilz_List,JETZT
+My Vote Counts!,,Sortition Anti-establishment,https://en.wikipedia.org/wiki/My_Vote_Counts!,My Vote Counts!
+Communist Party of Austria,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria,Communist Party of Austria
+The Beer Party,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria),The Beer Party
+Madeleine Petrovic List,Centre-left,Green politics Anti-vaccination COVID-19 scepticism,https://en.wikipedia.org/wiki/Madeleine_Petrovic_List,Madeleine Petrovic List
+Der Wandel,Left-wing,Progressivism Egalitarianism Post-capitalism Environmentalism Pro-Europeanism,https://en.wikipedia.org/wiki/None_of_the_Above_(Austria),Der Wandel
+MFG Austria - People Freedom Fundamental Rights,Syncretic,Anti-lockdown Vaccine hesitancy,https://en.wikipedia.org/wiki/MFG_Austria_%E2%80%93_People_Freedom_Fundamental_Rights,MFG Austria - People Freedom Fundamental Rights
+Team HC Strache - Alliance for Austria,Far-right,Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Team_HC_Strache_%E2%80%93_Alliance_for_Austria,Team HC Strache - Alliance for Austria

@@ -155,15 +155,8 @@ The system now determines far-right classification dynamically when generating `
 
 # Issues
 
-Data processing:
-Franbce - add party labels to politicians
-Missing latest data:
-- Montenegro?
-Party names issue:
-- Turkey - Turkish to English 
-- is Reform far right? UKIP vs UK Independence Party
-- Croatia also party names - Homeland Movement
-- Slovakia
+Clicking on Bosnia
+Error: Page "/country/[iso2]/page" is missing param "/country/BA" in "generateStaticParams()", which is required with "output: export" config.
 
 Data display:
 - Add cumulative option

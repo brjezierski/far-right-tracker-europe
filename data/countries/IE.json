@@ -8,48 +8,8 @@
   "seriesByParty": {
     "Renua": [
       {
-        "date": "2016-01-16",
-        "value": 2.0
-      },
-      {
-        "date": "2016-01-30",
-        "value": 1.0
-      },
-      {
-        "date": "2016-02-04",
-        "value": 1.0
-      },
-      {
-        "date": "2016-02-06",
-        "value": 1.33
-      },
-      {
-        "date": "2016-02-10",
-        "value": 2.0
-      },
-      {
-        "date": "2016-02-13",
-        "value": 1.0
-      },
-      {
-        "date": "2016-02-16",
-        "value": 2.0
-      },
-      {
-        "date": "2016-02-21",
-        "value": 2.33
-      },
-      {
-        "date": "2016-02-22",
-        "value": 2.0
-      },
-      {
-        "date": "2016-02-23",
-        "value": 2.0
-      },
-      {
         "date": "2016-02-26",
-        "value": 2.27
+        "value": 2.2
       },
       {
         "date": "2016-03-10",
@@ -173,7 +133,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-23T22:45:59Z",
+  "latestUpdate": "2020-02-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Irish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Irish_general_election",

@@ -133,10 +133,6 @@
         "value": 16.25
       },
       {
-        "date": "2025-05-30",
-        "value": 6.8
-      },
-      {
         "date": "2025-06-28",
         "value": 16.0
       },
@@ -248,7 +244,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-23T22:42:36Z",
+  "latestUpdate": "2025-12-03",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
     "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",

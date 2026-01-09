@@ -1,11 +1,11 @@
-party,political_position,ideology,wikipedia_url
-Democratic Party of Kosovo,Centre-right to right-wing,National conservatism Liberalism Social conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo
-Alliance for the Future of Kosovo,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo
-Social Democratic Initiative,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo)
-Democratic League of Kosovo,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism Pro-Europeanism 1989–2014: Albanian nationalism ( Right-wing nationalism ),https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo
-Vetëvendosje,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje
-Social Democratic Party of Kosovo,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo
-Serb List,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo)
-New Kosovo Alliance,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance
-Alternativa,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo)
-Guxo,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo
+party,political_position,ideology,wikipedia_url,party_display_name
+Democratic Party of Kosovo,Centre-right to right-wing,National conservatism Social conservatism Economic liberalism Kosovo–Albania unionism 1999–2013: Social democracy Social liberalism,https://en.wikipedia.org/wiki/Democratic_Party_of_Kosovo,Democratic Party of Kosovo
+Alliance for the Future of Kosovo,Right-wing,National conservatism Economic liberalism Kosovo–Albania unionism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_of_Kosovo,Alliance for the Future of Kosovo
+Social Democratic Initiative,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Initiative_(Kosovo),Social Democratic Initiative
+Democratic League of Kosovo,Centre-right 1989–2014: Right-wing,Liberal conservatism Social conservatism Economic liberalism 1989–2014: Albanian nationalism,https://en.wikipedia.org/wiki/Democratic_League_of_Kosovo,Democratic League of Kosovo
+Vetëvendosje,Centre-left to left-wing,Albanian nationalism Democratic socialism,https://en.wikipedia.org/wiki/Vet%C3%ABvendosje,Vetëvendosje
+Social Democratic Party of Kosovo,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Kosovo,Social Democratic Party of Kosovo
+Serb List,,Serb minority politics,https://en.wikipedia.org/wiki/Serb_List_(Kosovo),Serb List
+New Kosovo Alliance,Centre to centre-left,Liberalism,https://en.wikipedia.org/wiki/New_Kosovo_Alliance,New Kosovo Alliance
+Alternativa,Centre,Liberalism,https://en.wikipedia.org/wiki/Alternativa_(Kosovo),Alternativa
+Guxo,Centre-right,Conservative liberalism [ citation needed ] Liberal conservatism [ citation needed ] Pro-Europeanism [ citation needed ],https://en.wikipedia.org/wiki/Guxo,Guxo
