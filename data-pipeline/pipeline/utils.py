@@ -513,8 +513,56 @@ def parse_html_table_with_hierarchy(
                 data_rows.append(row)
                 in_header_section = False
             else:
-                # Likely a header row
-                if in_header_section:
+                # Check if this looks like a data row despite having <th> elements
+                # Data rows often have dates, numbers, or pollster names in first cells
+                is_likely_data_row = False
+                if in_header_section and len(all_header_rows) > 0:
+                    # Check first few th elements for data-like content
+                    for cell in th_elements[:3]:
+                        text = cell.get_text(strip=True)
+                        # Look for patterns that suggest this is data, not a header:
+                        # - Contains dates like "24 June 2018" or "14–20 Jun 2018"
+                        # - Contains mostly numbers (polling values)
+                        # - Contains "Election" or "Result" as pollster
+                        if text and (
+                            any(
+                                month in text
+                                for month in [
+                                    "Jan",
+                                    "Feb",
+                                    "Mar",
+                                    "Apr",
+                                    "May",
+                                    "Jun",
+                                    "Jul",
+                                    "Aug",
+                                    "Sep",
+                                    "Oct",
+                                    "Nov",
+                                    "Dec",
+                                ]
+                            )
+                            or (
+                                text.replace(".", "")
+                                .replace("–", "")
+                                .replace("-", "")
+                                .replace(" ", "")
+                                .replace(",", "")
+                                .isdigit()
+                                and len(text) > 2
+                            )
+                            or "election" in text.lower()
+                            or "result" in text.lower()
+                        ):
+                            is_likely_data_row = True
+                            break
+
+                if is_likely_data_row:
+                    # This is actually a data row, not a header
+                    data_rows.append(row)
+                    in_header_section = False
+                elif in_header_section:
+                    # Likely a header row
                     all_header_rows.append(row)
                     # Check if substantive (has text or links)
                     has_any_text = any(

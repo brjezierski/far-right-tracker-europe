@@ -643,14 +643,12 @@ def _clean_text(s: str) -> str:
 def _extract_party_name(soup: BeautifulSoup) -> Optional[str]:
     h1 = soup.find("h1")
     if h1:
-        party_name_from_article = h1.get_text(" ", strip=True)
+        party_display_name = h1.get_text(" ", strip=True)
         # remove anything in parentheses
-        party_name_from_article = (
-            re.sub(r"\s*\(.*?\)\s*", "", party_name_from_article)
-            .strip()
-            .replace("–", "-")
+        party_display_name = (
+            re.sub(r"\s*\(.*?\)\s*", "", party_display_name).strip().replace("–", "-")
         )
-        return party_name_from_article
+        return party_display_name
     return None
 
 
@@ -666,7 +664,7 @@ def _fetch_political_position(url: str) -> Optional[dict]:
         return None
     soup = BeautifulSoup(r.text, "lxml")
     # extract party_name from h1 header
-    party_name_from_article = _extract_party_name(soup)
+    party_display_name = _extract_party_name(soup)
 
     # retrieve the following table <table class="infobox vcard">
     table = soup.select_one("table.infobox.vcard") or soup.select_one("table.infobox")
@@ -699,7 +697,7 @@ def _fetch_political_position(url: str) -> Optional[dict]:
 
     if political_position or ideology:
         return {
-            "name": party_name_from_article,
+            "party_display_name": party_display_name,
             "political_position": political_position,
             "ideology": ideology,
             "url": url,
@@ -736,6 +734,7 @@ def annotate_parties_positions(
                 if party_name:
                     country_cache[party_name] = {
                         "name": party_name,
+                        "party_display_name": row.get("party_display_name"),
                         "political_position": row.get("political_position"),
                         "ideology": row.get("ideology"),
                         "url": row.get("wikipedia_url"),
@@ -743,7 +742,7 @@ def annotate_parties_positions(
         except Exception as e:
             print(f"Error loading cache from {cache_path}: {e}")
 
-    far_right: List[str] = []
+    selected_parties: List[str] = []
     party_metadata: Dict[str, Dict] = {}
     party_name_mapping: Dict[str, str] = {}  # maps table name to article name
 
@@ -772,14 +771,15 @@ def annotate_parties_positions(
 
         # Determine the canonical party name (prefer article name if available)
         party_name_canonical = party_name_from_table
-        if party_description and party_description.get("name"):
-            party_name_from_article = party_description.get("name")
-            if (
-                party_name_from_article
-                and party_name_from_table not in party_name_mapping
-            ):
-                party_name_canonical = party_name_from_article
-                party_name_mapping[party_name_from_table] = party_name_from_article
+        if party_description and party_description.get("party_display_name"):
+            party_display_name = party_description.get("party_display_name")
+            if party_display_name and party_name_from_table not in party_name_mapping:
+                party_name_canonical = party_display_name
+                if DEBUG:
+                    print(
+                        f"Mapping party name: {party_name_from_table} -> {party_display_name}"
+                    )
+                party_name_mapping[party_name_from_table] = party_display_name
 
         # Store party metadata
         is_far_right = False
@@ -800,11 +800,12 @@ def annotate_parties_positions(
             # Check if selected
             for category in categories:
                 if category in political_position or category in ideology:
-                    far_right.append(party_name_canonical)
+                    selected_parties.append(party_name_canonical)
                     is_far_right = True
                     break
 
             party_metadata[party_name_canonical] = {
+                "party_display_name": party_description.get("party_display_name"),
                 "political_position": party_description.get("political_position"),
                 "ideology": party_description.get("ideology"),
                 "url": party_description.get("url"),
@@ -812,6 +813,7 @@ def annotate_parties_positions(
             }
         else:
             party_metadata[party_name_canonical] = {
+                "party_display_name": None,
                 "political_position": None,
                 "ideology": None,
                 "url": None,
@@ -826,6 +828,8 @@ def annotate_parties_positions(
                 cache_rows.append(
                     {
                         "party": party_name,
+                        "party_display_name": info.get("party_display_name"),
+                        "display_name": info.get("display_name"),
                         "political_position": info.get("political_position"),
                         "ideology": info.get("ideology"),
                         "wikipedia_url": info.get("url"),
@@ -837,7 +841,7 @@ def annotate_parties_positions(
             print(f"Error saving cache to {cache_path}: {e}")
 
     return {
-        "selected_parties": far_right,
+        "selected_parties": selected_parties,
         "party_metadata": party_metadata,
         "party_name_mapping": party_name_mapping,
     }
