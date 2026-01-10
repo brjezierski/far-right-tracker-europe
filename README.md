@@ -27,21 +27,22 @@ Install and run:
    cd frontend
    npm install
    ```
-2. Install data pipeline deps and fetch data
+2. Set up uv environment and activate
+  ```
+  source .venv/bin/activate
+  ```
+3. Install data pipeline deps and fetch data
    ```bash
    cd ../data-pipeline
-   python -m venv .venv
-   source .venv/bin/activate
-   pip install -r requirements.txt
    python -m pipeline.update
    ```
-3. Start the frontend (in another terminal)
+4. Start the frontend (in another terminal)
    ```bash
    cd ../frontend
    npm run dev
    ```
-4. Open http://localhost:3000
-5. Alternatively, to generate the new static website run
+5. Open http://localhost:3000
+6. Alternatively, to generate the new static website run
    ```
    cd ../frontend
    npm run build 

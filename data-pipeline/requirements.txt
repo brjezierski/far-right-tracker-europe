@@ -1,8 +1,0 @@
-requests
-beautifulsoup4
-pandas
-lxml
-pyyaml
-python-dateutil
-pycountry
-dateparser
