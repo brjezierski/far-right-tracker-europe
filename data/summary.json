@@ -7671,7 +7671,7 @@
         "Reform UK",
         "UK Independence Party"
       ],
-      "latestSupport": 29.666666666666668,
+      "latestSupport": 31.333333333333332,
       "seriesByParty": {
         "Reform UK": [
           {
@@ -12569,6 +12569,10 @@
           {
             "date": "2026-01-08",
             "value": 32.0
+          },
+          {
+            "date": "2026-01-09",
+            "value": 31.0
           }
         ],
         "UK Independence Party": [
@@ -20098,7 +20102,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-08"
+      "latestUpdate": "2026-01-09"
     },
     "MK": {
       "country": "North Macedonia",
@@ -85039,6 +85043,7 @@
       "iso2": "IT",
       "parties": [
         "Brothers of Italy",
+        "CasaPound",
         "Italexit",
         "Lega",
         "Lega Nord"
@@ -94721,6 +94726,64 @@
           {
             "date": "2025-12-22",
             "value": 31.3
+          }
+        ],
+        "CasaPound": [
+          {
+            "date": "2018-01-09",
+            "value": 0.6
+          },
+          {
+            "date": "2018-01-15",
+            "value": 0.6
+          },
+          {
+            "date": "2018-01-25",
+            "value": 0.5
+          },
+          {
+            "date": "2018-02-01",
+            "value": 0.6
+          },
+          {
+            "date": "2018-02-02",
+            "value": 1.35
+          },
+          {
+            "date": "2018-02-04",
+            "value": 1.1
+          },
+          {
+            "date": "2018-02-05",
+            "value": 0.2
+          },
+          {
+            "date": "2018-02-08",
+            "value": 1.9
+          },
+          {
+            "date": "2018-02-11",
+            "value": 1.05
+          },
+          {
+            "date": "2018-02-12",
+            "value": 0.95
+          },
+          {
+            "date": "2018-02-13",
+            "value": 0.5
+          },
+          {
+            "date": "2018-02-14",
+            "value": 0.57
+          },
+          {
+            "date": "2018-02-16",
+            "value": 1.8
+          },
+          {
+            "date": "2018-03-04",
+            "value": 0.9
           }
         ],
         "Italexit": [
@@ -139107,5 +139170,5 @@
     }
   },
   "parties": {},
-  "updatedAt": "2026-01-10T19:43:02Z"
+  "updatedAt": "2026-01-10T23:38:55Z"
 }
