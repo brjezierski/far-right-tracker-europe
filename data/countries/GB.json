@@ -5,7 +5,7 @@
     "Reform UK",
     "UK Independence Party"
   ],
-  "latestSupport": 31.333333333333332,
+  "latestSupport": 32.0,
   "seriesByParty": {
     "Reform UK": [
       {
@@ -4907,6 +4907,10 @@
       {
         "date": "2026-01-09",
         "value": 31.0
+      },
+      {
+        "date": "2026-01-11",
+        "value": 33.0
       }
     ],
     "UK Independence Party": [
@@ -12436,7 +12440,7 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-09",
+  "latestUpdate": "2026-01-11",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",

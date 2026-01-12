@@ -11,7 +11,7 @@
     "VMRO - Bulgarian National Movement",
     "Velichie"
   ],
-  "latestSupport": 23.03333333333333,
+  "latestSupport": 22.7,
   "seriesByParty": {
     "Bulgarian Patriots": [
       {
@@ -467,6 +467,10 @@
       {
         "date": "2025-12-12",
         "value": 4.8
+      },
+      {
+        "date": "2025-12-29",
+        "value": 7.1
       }
     ],
     "Revival": [
@@ -1073,6 +1077,10 @@
       {
         "date": "2025-12-12",
         "value": 13.4
+      },
+      {
+        "date": "2025-12-29",
+        "value": 12.4
       }
     ],
     "United Patriots": [
@@ -1595,10 +1603,14 @@
       {
         "date": "2025-12-12",
         "value": 2.4
+      },
+      {
+        "date": "2025-12-29",
+        "value": 3.6
       }
     ]
   },
-  "latestUpdate": "2025-12-12",
+  "latestUpdate": "2025-12-29",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",

@@ -5,7 +5,7 @@
     "Slovenian Democratic Party",
     "Slovenian National Party"
   ],
-  "latestSupport": 24.46666666666667,
+  "latestSupport": 25.3,
   "seriesByParty": {
     "Slovenian Democratic Party": [
       {
@@ -1823,6 +1823,10 @@
       {
         "date": "2025-12-28",
         "value": 23.9
+      },
+      {
+        "date": "2026-01-08",
+        "value": 21.3
       }
     ],
     "Slovenian National Party": [
@@ -3193,10 +3197,14 @@
       {
         "date": "2025-12-28",
         "value": 4.4
+      },
+      {
+        "date": "2026-01-08",
+        "value": 3.3
       }
     ]
   },
-  "latestUpdate": "2025-12-28",
+  "latestUpdate": "2026-01-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
