@@ -21,10 +21,22 @@ jobs:
         run: uv sync
       - name: Run update
         run: uv run python -m data-pipeline.pipeline.update
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install frontend dependencies
+        run: |
+          cd frontend
+          npm ci
+      - name: Build static site
+        run: |
+          cd frontend
+          npm run build
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json data/countries/
+          git add data/*.json data/countries/ docs/
           git commit -m "chore(data): daily refresh" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
