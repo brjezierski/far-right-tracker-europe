@@ -20,6 +20,24 @@ function filterByRange(
   return data.filter((d) => new Date(d.date) >= cutoff);
 }
 
+function calculateRollingAverage(
+  data: Array<{ date: string; value: number }>,
+  windowSize: number = 5
+): Array<[string, number]> {
+  if (data.length < windowSize) {
+    // If not enough data points, return empty array
+    return [];
+  }
+  
+  const result: Array<[string, number]> = [];
+  for (let i = windowSize - 1; i < data.length; i++) {
+    const window = data.slice(i - windowSize + 1, i + 1);
+    const avg = window.reduce((sum, d) => sum + d.value, 0) / windowSize;
+    result.push([data[i].date, avg]);
+  }
+  return result;
+}
+
 export default function TimeSeriesChart({
   seriesByParty,
 }: {
@@ -28,16 +46,52 @@ export default function TimeSeriesChart({
   const [range, setRange] = useState<"3m" | "6m" | "1y" | "all">("all");
 
   const option = useMemo(() => {
-    const series = Object.entries(seriesByParty || {}).map(([name, arr]) => ({
-      name,
-      type: "line",
-      smooth: true,
-      showSymbol: false,
-      data: filterByRange(arr, range).map((d) => [d.date, d.value]),
-    }));
+    const series: any[] = [];
+    const colors = [
+      '#5470c6', '#91cc75', '#fac858', '#ee6666', '#73c0de',
+      '#3ba272', '#fc8452', '#9a60b4', '#ea7ccc', '#d48265',
+    ];
+    
+    Object.entries(seriesByParty || {}).forEach(([name, arr], index) => {
+      const filteredData = filterByRange(arr, range);
+      const rollingAvg = calculateRollingAverage(filteredData, 5);
+      const color = colors[index % colors.length];
+      
+      // Add scatter series for individual poll points
+      series.push({
+        name: `${name}`,
+        type: "scatter",
+        symbolSize: 6,
+        itemStyle: { 
+          color: color,
+          opacity: 0.6 
+        },
+        data: filteredData.map((d) => [d.date, d.value]),
+        // Hide from legend
+        legendHoverLink: true,
+        legend: { show: false },
+      });
+      
+      // Add line series for rolling average
+      series.push({
+        name,
+        type: "line",
+        smooth: false,
+        showSymbol: false,
+        lineStyle: { width: 2, color: color },
+        itemStyle: { color: color },
+        data: rollingAvg,
+      });
+    });
+    
     return {
-      tooltip: { trigger: "axis" },
-      legend: { type: "scroll" },
+      tooltip: { 
+        trigger: "axis",
+        axisPointer: { type: "cross" },
+      },
+      legend: { 
+        type: "scroll",
+      },
       xAxis: { type: "time" },
       yAxis: { type: "value", axisLabel: { formatter: "{value} %" } },
       dataZoom: [{ type: "slider" }, { type: "inside" }],

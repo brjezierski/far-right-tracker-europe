@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Europe Nationalist Support Map",
+  title: "Suport for Far-Right and National Conservative Parties",
   description: "Choropleth of nationalist party support across Europe",
 };
 
