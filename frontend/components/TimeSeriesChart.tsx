@@ -67,9 +67,10 @@ export default function TimeSeriesChart({
           opacity: 0.6 
         },
         data: filteredData.map((d) => [d.date, d.value]),
-        // Hide from legend
+        // Hide from legend and tooltip
         legendHoverLink: true,
         legend: { show: false },
+        tooltip: { show: false },
       });
       
       // Add line series for rolling average
@@ -88,6 +89,7 @@ export default function TimeSeriesChart({
       tooltip: { 
         trigger: "axis",
         axisPointer: { type: "cross" },
+        valueFormatter: (value: any) => `${Number(value).toFixed(1)}%`,
       },
       legend: { 
         type: "scroll",
