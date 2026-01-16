@@ -2,12 +2,8 @@
   "country": "Malta",
   "iso2": "MT",
   "parties": [],
+  "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {},
-  "latestUpdate": null,
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Maltese_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Maltese_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election"
-  ]
+  "latestUpdate": null
 }

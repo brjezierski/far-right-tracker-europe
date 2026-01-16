@@ -4,6 +4,7 @@
   "parties": [
     "Șor Party"
   ],
+  "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {
     "Șor Party": [
@@ -533,10 +534,5 @@
       }
     ]
   },
-  "latestUpdate": "2023-08-01",
-  "sources": [
-    "https://en.wikipedia.org/wiki/2019_Moldovan_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Moldovan_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
-  ]
+  "latestUpdate": "2023-08-01"
 }

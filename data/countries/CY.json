@@ -5,6 +5,9 @@
     "ELAM",
     "Solidarity Movement"
   ],
+  "activeParties": [
+    "ELAM"
+  ],
   "latestSupport": 15.199999999999998,
   "seriesByParty": {
     "ELAM": [
@@ -244,10 +247,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-03",
-  "sources": [
-    "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
-    "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",
-    "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
-  ]
+  "latestUpdate": "2025-12-03"
 }

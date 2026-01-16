@@ -2,12 +2,8 @@
   "country": "North Macedonia",
   "iso2": "MK",
   "parties": [],
+  "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {},
-  "latestUpdate": null,
-  "sources": [
-    "https://en.wikipedia.org/wiki/2016_Macedonian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2020_North_Macedonian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election"
-  ]
+  "latestUpdate": null
 }

@@ -8,7 +8,14 @@
     "New Welfare Party",
     "Victory Party"
   ],
-  "latestSupport": 50.56666666666666,
+  "activeParties": [
+    "Good Party",
+    "Justice and Development Party",
+    "Nationalist Movement Party",
+    "New Welfare Party",
+    "Victory Party"
+  ],
+  "latestSupport": 52.29999999999999,
   "seriesByParty": {
     "Good Party": [
       {
@@ -4489,12 +4496,5 @@
       }
     ]
   },
-  "latestUpdate": "2024-12-28",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_June_2015_Turkish_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2015_Turkish_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Turkish_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Turkish_general_election",
-    "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler"
-  ]
+  "latestUpdate": "2024-12-28"
 }

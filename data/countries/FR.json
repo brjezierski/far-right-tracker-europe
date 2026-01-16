@@ -6,7 +6,12 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 0.0,
+  "activeParties": [
+    "Debout la France",
+    "Rassemblement National",
+    "Reconquête"
+  ],
+  "latestSupport": 42.0,
   "seriesByParty": {
     "Debout la France": [
       {
@@ -3167,10 +3172,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-11-20",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
-  ]
+  "latestUpdate": "2025-11-20"
 }

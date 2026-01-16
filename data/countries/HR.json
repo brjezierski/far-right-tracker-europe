@@ -9,6 +9,12 @@
     "Independents for Croatia",
     "The Bridge"
   ],
+  "activeParties": [
+    "Croatian Sovereignists",
+    "Home and National Rally",
+    "Homeland Movement",
+    "The Bridge"
+  ],
   "latestSupport": 10.266666666666667,
   "seriesByParty": {
     "Croatian Growth": [
@@ -3004,10 +3010,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-25",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Croatian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Croatian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Croatian_parliamentary_election"
-  ]
+  "latestUpdate": "2025-12-25"
 }

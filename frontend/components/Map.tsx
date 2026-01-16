@@ -17,6 +17,7 @@ type Summary = {
       country: string;
       iso2: string;
       parties: string[];
+      activeParties?: string[];
       latestSupport: number | null;
     }
   >;
@@ -147,12 +148,18 @@ export default function MapComponent({
             let html = `<strong>${countryName || ""}</strong>`;
             if (iso2 && summary && summary.countries[iso2]) {
               const c = summary.countries[iso2];
-              const parties = c.parties.slice(0, 6).join(", ");
+              // Use activeParties if available, otherwise fall back to parties
+              const partiesToShow = c.activeParties || c.parties || [];
+              const parties = partiesToShow.slice(0, 6).join(", ");
               const support =
                 c.latestSupport != null
                   ? `${c.latestSupport.toFixed(1)}%`
                   : "N/A";
-              html += `<br/>Parties: ${parties}<br/>Support: ${support}`;
+              if (parties) {
+                html += `<br/>Parties: ${parties}<br/>Support: ${support}`;
+              } else {
+                html += `<br/>Support: ${support}`;
+              }
             }
             popup.setLngLat(e.lngLat).setHTML(html).addTo(m);
             setHoverHtml(html);

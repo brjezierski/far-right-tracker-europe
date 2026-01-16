@@ -8,6 +8,11 @@
     "New Hope",
     "There is One Poland"
   ],
+  "activeParties": [
+    "Confederation Liberty and Independence",
+    "Confederation of the Polish Crown",
+    "Law and Justice"
+  ],
   "latestSupport": 47.18333333333334,
   "seriesByParty": {
     "Confederation Liberty and Independence": [
@@ -9297,10 +9302,5 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-04",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
-  ]
+  "latestUpdate": "2026-01-04"
 }

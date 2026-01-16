@@ -4,6 +4,7 @@
   "parties": [
     "Renua"
   ],
+  "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {
     "Renua": [
@@ -173,11 +174,5 @@
       }
     ]
   },
-  "latestUpdate": "2020-02-08",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Irish_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Irish_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Irish_general_election",
-    "https://en.wikipedia.org/wiki/Next_Irish_general_election"
-  ]
+  "latestUpdate": "2020-02-08"
 }

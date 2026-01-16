@@ -8,7 +8,11 @@
     "Lega",
     "Lega Nord"
   ],
-  "latestSupport": 38.63333333333333,
+  "activeParties": [
+    "Brothers of Italy",
+    "Lega"
+  ],
+  "latestSupport": 39.13333333333333,
   "seriesByParty": {
     "Brothers of Italy": [
       {
@@ -21029,10 +21033,5 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-12",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
-  ]
+  "latestUpdate": "2026-01-12"
 }

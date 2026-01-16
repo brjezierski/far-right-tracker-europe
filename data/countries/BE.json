@@ -5,7 +5,10 @@
     "People's Party",
     "Vlaams Belang"
   ],
-  "latestSupport": 24.933333333333334,
+  "activeParties": [
+    "Vlaams Belang"
+  ],
+  "latestSupport": 24.53333333333333,
   "seriesByParty": {
     "People's Party": [
       {
@@ -508,9 +511,5 @@
       }
     ]
   },
-  "latestUpdate": "2024-06-09",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Belgian_federal_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
-  ]
+  "latestUpdate": "2024-06-09"
 }

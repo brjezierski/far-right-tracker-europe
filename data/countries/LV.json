@@ -6,6 +6,10 @@
     "National Alliance",
     "National Power Unity"
   ],
+  "activeParties": [
+    "Latvia First",
+    "National Alliance"
+  ],
   "latestSupport": 25.366666666666664,
   "seriesByParty": {
     "Latvia First": [
@@ -875,10 +879,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-04",
-  "sources": [
-    "https://en.wikipedia.org/wiki/2018_Latvian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Latvian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Next_Latvian_parliamentary_election"
-  ]
+  "latestUpdate": "2025-12-04"
 }

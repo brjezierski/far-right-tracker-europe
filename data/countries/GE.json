@@ -5,6 +5,9 @@
     "Alliance of Patriots of Georgia",
     "Democratic Movement - United Georgia"
   ],
+  "activeParties": [
+    "Alliance of Patriots of Georgia"
+  ],
   "latestSupport": 2.0666666666666664,
   "seriesByParty": {
     "Alliance of Patriots of Georgia": [
@@ -208,10 +211,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-07-05",
-  "sources": [
-    "https://en.wikipedia.org/wiki/2016_Georgian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2020_Georgian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Next_Georgian_parliamentary_election"
-  ]
+  "latestUpdate": "2025-07-05"
 }

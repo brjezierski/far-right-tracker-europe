@@ -158,10 +158,10 @@ The system now determines far-right classification dynamically when generating `
 
 Clicking on Bosnia
 Error: Page "/country/[iso2]/page" is missing param "/country/BA" in "generateStaticParams()", which is required with "output: export" config.
+Prompt: Disallow clicking on countries which don't have any data to display
 
 Data display:
 - Add cumulative option
-- Only display latest parties in thumbnail 
 - Lithuania 2024 latest polling not matching
 
 

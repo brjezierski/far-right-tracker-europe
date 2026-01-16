@@ -4,6 +4,9 @@
   "parties": [
     "Progress Party"
   ],
+  "activeParties": [
+    "Progress Party"
+  ],
   "latestSupport": 27.633333333333336,
   "seriesByParty": {
     "Progress Party": [
@@ -4481,11 +4484,5 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-10",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Norwegian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Norwegian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Norwegian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2029_Norwegian_parliamentary_election"
-  ]
+  "latestUpdate": "2026-01-10"
 }

@@ -18,6 +18,7 @@ type Summary = {
       country: string;
       iso2: string;
       parties: string[];
+      activeParties?: string[];
       latestSupport: number | null;
     }
   >;

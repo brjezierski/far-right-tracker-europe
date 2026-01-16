@@ -16,6 +16,7 @@ from .polling import (
     get_polling_source,
     get_polling_headers,
     calculate_latest_total_support,
+    calculate_latest_total_support_with_parties,
 )
 from .postprocessing import (
     remove_isolated_datapoints,
@@ -252,13 +253,20 @@ def read_country_data_from_csv(
         selected_parties = latest_data[latest_data["is_far_right"]]["party"].tolist()
 
         # Use provided latest_total if available, otherwise calculate it
+        active_parties = []
         if latest_total is not None:
             latest_far_right_support = latest_total
+            # If latest_total is provided, assume all selected_parties are active
+            active_parties = selected_parties
         else:
-            # Build series and party_metadata for calculation
+            # Build series for ALL parties (to get accurate latest poll dates)
+            # But mark only far-right parties as such in metadata
             series_for_calc = {}
             party_metadata_for_calc = {}
-            for party in selected_parties:
+
+            # Include ALL parties to determine latest poll dates accurately
+            all_parties = df_polling["party"].unique()
+            for party in all_parties:
                 party_data = df_polling[df_polling["party"] == party].copy()
                 party_data = party_data.sort_values("date")
                 series_for_calc[party] = [
@@ -268,17 +276,22 @@ def read_country_data_from_csv(
                     }
                     for _, row in party_data.iterrows()
                 ]
-                party_metadata_for_calc[party] = {"is_far_right": True}
+                # Mark as far-right only if in selected_parties
+                party_metadata_for_calc[party] = {
+                    "is_far_right": party in selected_parties
+                }
 
-            # Calculate using the same method as in polling.py
-            latest_far_right_support = calculate_latest_total_support(
+            result = calculate_latest_total_support_with_parties(
                 series_for_calc, party_metadata_for_calc
             )
-            if latest_far_right_support is None:
+            if result:
+                latest_far_right_support, active_parties = result
+            else:
                 latest_far_right_support = 0.0
+                active_parties = []
 
         print(
-            f"Selected parties: {selected_parties} with total support {latest_far_right_support}"
+            f"Selected parties: {active_parties} with total support {latest_far_right_support}"
         )
 
         # Generate seriesByParty for far-right parties
@@ -315,6 +328,7 @@ def read_country_data_from_csv(
             "country": country_name,
             "iso2": iso2,
             "parties": selected_parties,
+            "activeParties": active_parties,
             "latestSupport": float(latest_far_right_support),
             "seriesByParty": series_by_party,
             "latestUpdate": latest_update.strftime("%Y-%m-%d")
@@ -328,7 +342,7 @@ def read_country_data_from_csv(
 
 
 def rebuild_summary_from_csv(selected_country=None):
-    """Rebuild summary.json based on saved CSV data and categories."""
+    """Rebuild summary.json based on saved country JSON files to ensure consistency."""
     summary = {"countries": {}, "parties": {}}
     party_metadata = {}  # Keep track of all party metadata
 
@@ -342,37 +356,35 @@ def rebuild_summary_from_csv(selected_country=None):
             if selected_country.lower() not in [iso2.lower()]:
                 continue
 
-        country_data = read_country_data_from_csv(iso2, CATEGORIES)
-        if country_data:
-            # Create summary data without seriesByParty
-            summary_country_data = {
-                k: v
-                for k, v in country_data.items()  # if k != "seriesByParty"
-            }
-            summary["countries"][iso2] = summary_country_data
+        # First, regenerate country JSON file from CSV to ensure it has latest fields
+        country_json_path = COUNTRIES_DIR / f"{iso2}.json"
+        try:
+            country_data = read_country_data_from_csv(iso2, CATEGORIES)
+            if country_data:
+                save_json(country_json_path, country_data)
+                # Use the exact same data for summary (includes seriesByParty for display)
+                summary["countries"][iso2] = country_data
 
-            # Collect all party metadata
-            parties_csv_path = country_dir / "parties.csv"
-            if parties_csv_path.exists():
-                parties_df = pd.read_csv(parties_csv_path)
-                for _, party in parties_df.iterrows():
-                    party_id = party.get("party_id", party["party"])
-                    party_metadata[party_id] = {
-                        "party": party["party"],
-                        "ideology": party.get("ideology", "Unknown"),
-                        "political_position": party.get(
-                            "political_position", "Unknown"
-                        ),
-                        "is_far_right": is_party_far_right(
-                            party.get("political_position", ""),
-                            party.get("ideology", ""),
-                            CATEGORIES,
-                        ),
-                    }
-
-            # Create individual country JSON file for frontend compatibility (with seriesByParty)
-            country_json_data = dict(country_data)
-            save_json(COUNTRIES_DIR / f"{iso2}.json", country_json_data)
+                # Collect all party metadata
+                parties_csv_path = country_dir / "parties.csv"
+                if parties_csv_path.exists():
+                    parties_df = pd.read_csv(parties_csv_path)
+                    for _, party in parties_df.iterrows():
+                        party_id = party.get("party_id", party["party"])
+                        party_metadata[party_id] = {
+                            "party": party["party"],
+                            "ideology": party.get("ideology", "Unknown"),
+                            "political_position": party.get(
+                                "political_position", "Unknown"
+                            ),
+                            "is_far_right": is_party_far_right(
+                                party.get("political_position", ""),
+                                party.get("ideology", ""),
+                                CATEGORIES,
+                            ),
+                        }
+        except Exception as e:
+            print(f"Error processing country {iso2}: {e}")
 
     # Save updated summary
     save_json(DATA_DIR / "summary.json", summary)

@@ -7,6 +7,11 @@
     "JA21",
     "Party for Freedom"
   ],
+  "activeParties": [
+    "Forum for Democracy",
+    "JA21",
+    "Party for Freedom"
+  ],
   "latestSupport": 41.666666666666664,
   "seriesByParty": {
     "Belang van Nederland": [
@@ -7630,12 +7635,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-19",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Dutch_general_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
-    "https://en.wikipedia.org/wiki/Next_Dutch_general_election"
-  ]
+  "latestUpdate": "2025-12-19"
 }

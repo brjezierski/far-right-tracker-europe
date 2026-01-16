@@ -11,6 +11,15 @@
     "Slovakia",
     "We Are Family"
   ],
+  "activeParties": [
+    "Christian Union",
+    "Hungarian Alliance",
+    "People's Party Our Slovakia",
+    "Republic Movement",
+    "Slovak National Party",
+    "Slovakia",
+    "We Are Family"
+  ],
   "latestSupport": 29.366666666666664,
   "seriesByParty": {
     "Christian Union": [
@@ -6986,11 +6995,5 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-11",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Slovak_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Slovak_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Slovak_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovak_parliamentary_election"
-  ]
+  "latestUpdate": "2026-01-11"
 }

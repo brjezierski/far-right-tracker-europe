@@ -568,6 +568,24 @@ def calculate_latest_total_support(
     Returns:
         Average of sum of far-right party support across latest 3 poll dates, or None if no data
     """
+    result = calculate_latest_total_support_with_parties(series, party_metadata)
+    return result[0] if result else None
+
+
+def calculate_latest_total_support_with_parties(
+    series: Dict[str, List[Dict]], party_metadata: Dict[str, Dict]
+) -> Optional[tuple[float, list[str]]]:
+    """
+    Calculate latest total support and return which parties contributed.
+    Only includes parties marked as far-right (is_far_right=True).
+
+    Args:
+        series: {party: [{date, value}]}
+        party_metadata: {party: {is_far_right, ...}}
+
+    Returns:
+        Tuple of (average support, list of active parties) or None if no data
+    """
     # Get all unique dates
     all_dates_set = set()
     for party_name, pts in series.items():
@@ -580,6 +598,9 @@ def calculate_latest_total_support(
     # Sort dates in descending order (most recent first)
     sorted_dates = sorted(list(all_dates_set), reverse=True)
     latest_3_dates = sorted_dates[:3]
+
+    # Track which parties contributed to the latest polls
+    active_parties = set()
 
     # Calculate total support for each of the latest 3 dates (only for far-right parties)
     totals_per_date = []
@@ -594,11 +615,13 @@ def calculate_latest_total_support(
                 for pt in pts:
                     if pt["date"] == date_str:
                         date_total += pt["value"]
+                        active_parties.add(party_name)
                         break
         totals_per_date.append(date_total)
 
     # Average the totals
-    return sum(totals_per_date) / len(totals_per_date) if totals_per_date else None
+    avg_support = sum(totals_per_date) / len(totals_per_date) if totals_per_date else 0.0
+    return (avg_support, sorted(list(active_parties))) if totals_per_date else None
 
 
 def get_polling_source(country: str) -> List[str]:

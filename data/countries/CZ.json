@@ -9,7 +9,11 @@
     "Svobodní",
     "Tricolour"
   ],
-  "latestSupport": 17.733333333333334,
+  "activeParties": [
+    "Freedom and Direct Democracy",
+    "Motorists for Themselves"
+  ],
+  "latestSupport": 18.733333333333334,
   "seriesByParty": {
     "Dawn - National Coalition": [
       {
@@ -4052,10 +4056,5 @@
       }
     ]
   },
-  "latestUpdate": "2025-09-30",
-  "sources": [
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
-  ]
+  "latestUpdate": "2025-09-30"
 }
