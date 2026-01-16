@@ -850,5 +850,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-19"
+  "latestUpdate": "2025-12-19",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Romanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
+  ]
 }

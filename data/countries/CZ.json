@@ -4056,5 +4056,10 @@
       }
     ]
   },
-  "latestUpdate": "2025-09-30"
+  "latestUpdate": "2025-09-30",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
+  ]
 }

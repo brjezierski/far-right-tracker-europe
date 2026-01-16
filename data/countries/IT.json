@@ -21033,5 +21033,10 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-12"
+  "latestUpdate": "2026-01-12",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
+  ]
 }

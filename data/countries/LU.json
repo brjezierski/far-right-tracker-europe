@@ -140,5 +140,10 @@
       }
     ]
   },
-  "latestUpdate": "2025-09-29"
+  "latestUpdate": "2025-09-29",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2018_Luxembourg_general_election",
+    "https://en.wikipedia.org/wiki/2023_Luxembourg_general_election",
+    "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
+  ]
 }

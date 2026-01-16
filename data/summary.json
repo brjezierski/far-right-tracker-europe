@@ -6997,7 +6997,13 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-11"
+      "latestUpdate": "2026-01-11",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Slovak_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Slovak_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Slovak_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovak_parliamentary_election"
+      ]
     },
     "SE": {
       "country": "Sweden",
@@ -9893,7 +9899,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-29"
+      "latestUpdate": "2025-12-29",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
+      ]
     },
     "PL": {
       "country": "Poland",
@@ -19199,7 +19210,12 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-04"
+      "latestUpdate": "2026-01-04",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
+      ]
     },
     "UA": {
       "country": "Ukraine",
@@ -20402,7 +20418,11 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-18"
+      "latestUpdate": "2025-12-18",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Ukrainian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"
+      ]
     },
     "MT": {
       "country": "Malta",
@@ -20411,7 +20431,12 @@
       "activeParties": [],
       "latestSupport": 0.0,
       "seriesByParty": {},
-      "latestUpdate": null
+      "latestUpdate": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Maltese_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Maltese_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Maltese_general_election"
+      ]
     },
     "AM": {
       "country": "Armenia",
@@ -20472,7 +20497,13 @@
           }
         ]
       },
-      "latestUpdate": "2018-08-29"
+      "latestUpdate": "2018-08-29",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2017_Armenian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2018_Armenian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2021_Armenian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"
+      ]
     },
     "BE": {
       "country": "Belgium",
@@ -20987,7 +21018,11 @@
           }
         ]
       },
-      "latestUpdate": "2024-06-09"
+      "latestUpdate": "2024-06-09",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Belgian_federal_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
+      ]
     },
     "NO": {
       "country": "Norway",
@@ -25475,7 +25510,13 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-10"
+      "latestUpdate": "2026-01-10",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Norwegian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Norwegian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Norwegian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2029_Norwegian_parliamentary_election"
+      ]
     },
     "GR": {
       "country": "Greece",
@@ -31724,7 +31765,14 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-12"
+      "latestUpdate": "2026-01-12",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_May_2023_Greek_parliamentary_election",
+        "https://en.wikipedia.org/wiki/June_2023_Greek_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election"
+      ]
     },
     "AL": {
       "country": "Albania",
@@ -31733,7 +31781,12 @@
       "activeParties": [],
       "latestSupport": 0.0,
       "seriesByParty": {},
-      "latestUpdate": null
+      "latestUpdate": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/2017_Albanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2021_Albanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
+      ]
     },
     "EE": {
       "country": "Estonia",
@@ -36557,7 +36610,13 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-21"
+      "latestUpdate": "2025-12-21",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2015_Estonian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Estonian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Estonian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Estonian_parliamentary_election"
+      ]
     },
     "LV": {
       "country": "Latvia",
@@ -37440,7 +37499,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-04"
+      "latestUpdate": "2025-12-04",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2018_Latvian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Latvian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Latvian_parliamentary_election"
+      ]
     },
     "CH": {
       "country": "Switzerland",
@@ -37572,7 +37636,11 @@
           }
         ]
       },
-      "latestUpdate": "2023-10-05"
+      "latestUpdate": "2023-10-05",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
+      ]
     },
     "IT": {
       "country": "Italy",
@@ -58609,7 +58677,12 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-12"
+      "latestUpdate": "2026-01-12",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Italian_general_election"
+      ]
     },
     "IS": {
       "country": "Iceland",
@@ -58618,7 +58691,14 @@
       "activeParties": [],
       "latestSupport": 0.0,
       "seriesByParty": {},
-      "latestUpdate": null
+      "latestUpdate": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Icelandic_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2017_Icelandic_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Icelandic_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Icelandic_parliamentary_election"
+      ]
     },
     "CZ": {
       "country": "Czech Republic",
@@ -62678,7 +62758,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-09-30"
+      "latestUpdate": "2025-09-30",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
+      ]
     },
     "RU": {
       "country": "Russia",
@@ -65270,7 +65355,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-14"
+      "latestUpdate": "2025-12-14",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Russian_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Russian_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
+      ]
     },
     "RS": {
       "country": "Serbia",
@@ -67357,7 +67447,14 @@
           }
         ]
       },
-      "latestUpdate": "2025-09-02"
+      "latestUpdate": "2025-09-02",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Serbian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_Serbian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Serbian_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Serbian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election"
+      ]
     },
     "RO": {
       "country": "Romania",
@@ -68211,7 +68308,13 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-19"
+      "latestUpdate": "2025-12-19",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Romanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Romanian_parliamentary_election"
+      ]
     },
     "PT": {
       "country": "Portugal",
@@ -69379,7 +69482,15 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-19"
+      "latestUpdate": "2025-12-19",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Portuguese_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Portuguese_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Portuguese_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Portuguese_legislative_election"
+      ]
     },
     "SI": {
       "country": "Slovenia",
@@ -72591,7 +72702,12 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-08"
+      "latestUpdate": "2026-01-08",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Slovenian_parliamentary_election"
+      ]
     },
     "MK": {
       "country": "North Macedonia",
@@ -72600,7 +72716,12 @@
       "activeParties": [],
       "latestSupport": 0.0,
       "seriesByParty": {},
-      "latestUpdate": null
+      "latestUpdate": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Macedonian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_North_Macedonian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2024_North_Macedonian_parliamentary_election"
+      ]
     },
     "ME": {
       "country": "Montenegro",
@@ -72764,19 +72885,27 @@
           }
         ]
       },
-      "latestUpdate": "2025-10-16"
+      "latestUpdate": "2025-10-16",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Montenegrin_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2023_Montenegrin_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election"
+      ]
     },
     "GE": {
       "country": "Georgia",
       "iso2": "GE",
       "parties": [
         "Alliance of Patriots of Georgia",
-        "Democratic Movement - United Georgia"
+        "Democratic Movement - United Georgia",
+        "Georgian Dream"
       ],
       "activeParties": [
-        "Alliance of Patriots of Georgia"
+        "Alliance of Patriots of Georgia",
+        "Georgian Dream"
       ],
-      "latestSupport": 2.0666666666666664,
+      "latestSupport": 43.23333333333333,
       "seriesByParty": {
         "Alliance of Patriots of Georgia": [
           {
@@ -72977,9 +73106,192 @@
             "date": "2020-10-28",
             "value": 1.06
           }
+        ],
+        "Georgian Dream": [
+          {
+            "date": "2012-10-01",
+            "value": 55.0
+          },
+          {
+            "date": "2012-11-25",
+            "value": 66.0
+          },
+          {
+            "date": "2013-03-27",
+            "value": 63.0
+          },
+          {
+            "date": "2013-06-26",
+            "value": 55.0
+          },
+          {
+            "date": "2013-09-03",
+            "value": 56.0
+          },
+          {
+            "date": "2013-11-27",
+            "value": 65.0
+          },
+          {
+            "date": "2014-04-18",
+            "value": 46.0
+          },
+          {
+            "date": "2014-06-15",
+            "value": 51.0
+          },
+          {
+            "date": "2014-08-07",
+            "value": 46.0
+          },
+          {
+            "date": "2015-01-01",
+            "value": 20.0
+          },
+          {
+            "date": "2015-02-28",
+            "value": 36.0
+          },
+          {
+            "date": "2015-04-19",
+            "value": 24.0
+          },
+          {
+            "date": "2015-09-10",
+            "value": 26.0
+          },
+          {
+            "date": "2015-11-10",
+            "value": 18.0
+          },
+          {
+            "date": "2015-12-07",
+            "value": 31.0
+          },
+          {
+            "date": "2015-12-17",
+            "value": 21.0
+          },
+          {
+            "date": "2016-01-29",
+            "value": 31.0
+          },
+          {
+            "date": "2016-03-14",
+            "value": 29.0
+          },
+          {
+            "date": "2016-04-03",
+            "value": 26.0
+          },
+          {
+            "date": "2016-10-08",
+            "value": 49.0
+          },
+          {
+            "date": "2017-03-08",
+            "value": 30.0
+          },
+          {
+            "date": "2017-07-09",
+            "value": 27.0
+          },
+          {
+            "date": "2017-10-21",
+            "value": 55.0
+          },
+          {
+            "date": "2017-12-21",
+            "value": 27.0
+          },
+          {
+            "date": "2018-04-21",
+            "value": 31.0
+          },
+          {
+            "date": "2018-04-22",
+            "value": 27.0
+          },
+          {
+            "date": "2018-07-22",
+            "value": 20.0
+          },
+          {
+            "date": "2018-10-28",
+            "value": 38.0
+          },
+          {
+            "date": "2018-12-28",
+            "value": 24.0
+          },
+          {
+            "date": "2019-04-28",
+            "value": 17.0
+          },
+          {
+            "date": "2019-05-28",
+            "value": 29.0
+          },
+          {
+            "date": "2019-06-28",
+            "value": 26.0
+          },
+          {
+            "date": "2019-09-28",
+            "value": 23.0
+          },
+          {
+            "date": "2019-10-28",
+            "value": 24.5
+          },
+          {
+            "date": "2019-12-28",
+            "value": 20.0
+          },
+          {
+            "date": "2020-01-28",
+            "value": 22.0
+          },
+          {
+            "date": "2020-02-28",
+            "value": 35.5
+          },
+          {
+            "date": "2020-07-28",
+            "value": 39.0
+          },
+          {
+            "date": "2020-08-28",
+            "value": 35.5
+          },
+          {
+            "date": "2020-09-28",
+            "value": 31.5
+          },
+          {
+            "date": "2020-10-28",
+            "value": 35.39
+          },
+          {
+            "date": "2025-01-30",
+            "value": 31.5
+          },
+          {
+            "date": "2025-06-29",
+            "value": 35.8
+          },
+          {
+            "date": "2025-07-05",
+            "value": 56.2
+          }
         ]
       },
-      "latestUpdate": "2025-07-05"
+      "latestUpdate": "2025-07-05",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Georgian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_Georgian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Georgian_parliamentary_election"
+      ]
     },
     "GB": {
       "country": "United Kingdom",
@@ -85434,7 +85746,14 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-13"
+      "latestUpdate": "2026-01-13",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_United_Kingdom_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_United_Kingdom_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_United_Kingdom_general_election"
+      ]
     },
     "HR": {
       "country": "Croatia",
@@ -88448,7 +88767,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-25"
+      "latestUpdate": "2025-12-25",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Croatian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Croatian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Croatian_parliamentary_election"
+      ]
     },
     "MD": {
       "country": "Moldova",
@@ -88986,7 +89310,12 @@
           }
         ]
       },
-      "latestUpdate": "2023-08-01"
+      "latestUpdate": "2023-08-01",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2019_Moldovan_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Moldovan_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
+      ]
     },
     "HU": {
       "country": "Hungary",
@@ -94297,7 +94626,12 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-13"
+      "latestUpdate": "2026-01-13",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+      ]
     },
     "NL": {
       "country": "Netherlands",
@@ -101936,7 +102270,14 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-19"
+      "latestUpdate": "2025-12-19",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Dutch_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
+        "https://en.wikipedia.org/wiki/Next_Dutch_general_election"
+      ]
     },
     "BG": {
       "country": "Bulgaria",
@@ -103555,7 +103896,18 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-29"
+      "latestUpdate": "2025-12-29",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/July_2021_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2021_Bulgarian_general_election",
+        "https://en.wikipedia.org/wiki/2022_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2023_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/June_2024_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/October_2024_Bulgarian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Next_Bulgarian_parliamentary_election"
+      ]
     },
     "AT": {
       "country": "Austria",
@@ -106670,7 +107022,13 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-07"
+      "latestUpdate": "2026-01-07",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Austrian_legislative_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Austrian_legislative_election"
+      ]
     },
     "DE": {
       "country": "Germany",
@@ -116042,7 +116400,13 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-13"
+      "latestUpdate": "2026-01-13",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_German_federal_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_German_federal_election"
+      ]
     },
     "DK": {
       "country": "Denmark",
@@ -123692,7 +124056,13 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-11"
+      "latestUpdate": "2026-01-11",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Danish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election"
+      ]
     },
     "FI": {
       "country": "Finland",
@@ -125091,7 +125461,12 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-02"
+      "latestUpdate": "2026-01-02",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_Finnish_parliamentary_election"
+      ]
     },
     "LU": {
       "country": "Luxembourg",
@@ -125235,7 +125610,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-09-29"
+      "latestUpdate": "2025-09-29",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2018_Luxembourg_general_election",
+        "https://en.wikipedia.org/wiki/2023_Luxembourg_general_election",
+        "https://en.wikipedia.org/wiki/Next_Luxembourg_general_election"
+      ]
     },
     "FR": {
       "country": "France",
@@ -128411,7 +128791,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-11-20"
+      "latestUpdate": "2025-11-20",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
+      ]
     },
     "ES": {
       "country": "Spain",
@@ -133302,7 +133687,17 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-10"
+      "latestUpdate": "2026-01-10",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_April_2019_Spanish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2019_Spanish_general_election",
+        "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2022)",
+        "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2019%E2%80%932021)",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election"
+      ]
     },
     "IE": {
       "country": "Ireland",
@@ -133480,7 +133875,13 @@
           }
         ]
       },
-      "latestUpdate": "2020-02-08"
+      "latestUpdate": "2020-02-08",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Irish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Irish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Irish_general_election",
+        "https://en.wikipedia.org/wiki/Next_Irish_general_election"
+      ]
     },
     "LT": {
       "country": "Lithuania",
@@ -134411,7 +134812,14 @@
           }
         ]
       },
-      "latestUpdate": "2025-11-28"
+      "latestUpdate": "2025-11-28",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Lithuanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2018_Lithuanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2020_Lithuanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2024_Lithuanian_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2028_Lithuanian_parliamentary_election"
+      ]
     },
     "CY": {
       "country": "Cyprus",
@@ -134662,7 +135070,12 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-03"
+      "latestUpdate": "2025-12-03",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
+        "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",
+        "https://en.wikipedia.org/wiki/Next_Cypriot_legislative_election"
+      ]
     },
     "TR": {
       "country": "Turkey",
@@ -139162,7 +139575,14 @@
           }
         ]
       },
-      "latestUpdate": "2024-12-28"
+      "latestUpdate": "2024-12-28",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_June_2015_Turkish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2015_Turkish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Turkish_general_election",
+        "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Turkish_general_election",
+        "https://tr.wikipedia.org/wiki/Bir_sonraki_T%C3%BCrkiye_genel_se%C3%A7imleri_i%C3%A7in_yap%C4%B1lan_anketler"
+      ]
     },
     "XK": {
       "country": "Kosovo",
@@ -139462,8 +139882,15 @@
           }
         ]
       },
-      "latestUpdate": "2025-12-28"
+      "latestUpdate": "2025-12-28",
+      "sources": [
+        "https://en.wikipedia.org/wiki/2019_Kosovan_parliamentary_election",
+        "https://en.wikipedia.org/wiki/2021_Kosovan_parliamentary_election",
+        "https://en.wikipedia.org/wiki/February_2025_Kosovan_parliamentary_election",
+        "https://en.wikipedia.org/wiki/December_2025_Kosovan_parliamentary_election"
+      ]
     }
   },
-  "parties": {}
+  "parties": {},
+  "updatedAt": "2026-01-16T00:38:49Z"
 }

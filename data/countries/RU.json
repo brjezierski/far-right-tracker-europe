@@ -2588,5 +2588,10 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-14"
+  "latestUpdate": "2025-12-14",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Russian_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Russian_legislative_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
+  ]
 }

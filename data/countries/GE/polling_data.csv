@@ -149,61 +149,61 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-03-14,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
 2016-04-03,Free Democrats,8.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
 2016-04-03,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
-2012-10-01,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2012-11-25,Georgian Dream,66.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2013-03-27,Georgian Dream,63.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2013-06-26,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2013-09-03,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2013-11-27,Georgian Dream,65.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2014-04-18,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2014-06-15,Georgian Dream,51.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2014-08-07,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-01-01,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-02-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-04-19,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-09-10,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-11-10,Georgian Dream,18.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-12-07,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2015-12-17,Georgian Dream,21.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2016-01-29,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2016-03-14,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2016-04-03,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2016-04-03,Georgian Dream,19.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2016-10-08,Georgian Dream,49.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2017-03-08,Georgian Dream,30.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2017-07-09,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2017-10-21,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2017-12-21,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2018-04-21,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2018-04-22,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2018-07-22,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2018-10-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2018-12-28,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-04-28,Georgian Dream,17.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-05-28,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-06-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-09-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-10-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2019-12-28,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-01-28,Georgian Dream,22.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-02-28,Georgian Dream,34.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-02-28,Georgian Dream,37.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-07-28,Georgian Dream,39.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-08-28,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-08-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-09-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-09-28,Georgian Dream,25.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,24.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,26.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2020-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2025-01-30,Georgian Dream,31.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2025-06-29,Georgian Dream,35.8,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
-2025-07-05,Georgian Dream,56.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism,https://en.wikipedia.org/wiki/Georgian_Dream
+2012-10-01,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2012-11-25,Georgian Dream,66.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-03-27,Georgian Dream,63.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-06-26,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-09-03,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2013-11-27,Georgian Dream,65.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-04-18,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-06-15,Georgian Dream,51.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2014-08-07,Georgian Dream,46.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-01-01,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-02-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-04-19,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-09-10,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-11-10,Georgian Dream,18.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-12-07,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2015-12-17,Georgian Dream,21.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-01-29,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-03-14,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-04-03,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-04-03,Georgian Dream,19.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2016-10-08,Georgian Dream,49.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-03-08,Georgian Dream,30.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-07-09,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-10-21,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2017-12-21,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-04-21,Georgian Dream,31.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-04-22,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-07-22,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-10-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2018-12-28,Georgian Dream,24.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-04-28,Georgian Dream,17.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-05-28,Georgian Dream,29.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-06-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-09-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-10-28,Georgian Dream,26.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2019-12-28,Georgian Dream,20.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-01-28,Georgian Dream,22.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-02-28,Georgian Dream,34.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-02-28,Georgian Dream,37.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-07-28,Georgian Dream,39.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-08-28,Georgian Dream,33.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-08-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-09-28,Georgian Dream,38.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-09-28,Georgian Dream,25.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,24.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,36.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,26.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,27.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,56.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2020-10-28,Georgian Dream,23.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-01-30,Georgian Dream,31.5,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-06-29,Georgian Dream,35.8,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+2025-07-05,Georgian Dream,56.2,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
 2013-09-03,Georgian Labour Party,7.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
 2013-11-27,Georgian Labour Party,6.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
 2014-04-18,Georgian Labour Party,11.0,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party

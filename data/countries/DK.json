@@ -7646,5 +7646,11 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-11"
+  "latestUpdate": "2026-01-11",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Danish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election"
+  ]
 }

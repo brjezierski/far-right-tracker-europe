@@ -1395,5 +1395,10 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-02"
+  "latestUpdate": "2026-01-02",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_Finnish_parliamentary_election"
+  ]
 }

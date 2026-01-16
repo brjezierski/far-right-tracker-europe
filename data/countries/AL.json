@@ -5,5 +5,10 @@
   "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {},
-  "latestUpdate": null
+  "latestUpdate": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2017_Albanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2021_Albanian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
+  ]
 }

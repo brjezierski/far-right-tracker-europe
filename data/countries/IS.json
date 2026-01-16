@@ -5,5 +5,12 @@
   "activeParties": [],
   "latestSupport": 0.0,
   "seriesByParty": {},
-  "latestUpdate": null
+  "latestUpdate": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/2016_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2017_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2024_Icelandic_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Next_Icelandic_parliamentary_election"
+  ]
 }

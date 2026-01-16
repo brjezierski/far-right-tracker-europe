@@ -5307,5 +5307,10 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-13"
+  "latestUpdate": "2026-01-13",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+  ]
 }

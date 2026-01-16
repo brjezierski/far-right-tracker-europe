@@ -3172,5 +3172,10 @@
       }
     ]
   },
-  "latestUpdate": "2025-11-20"
+  "latestUpdate": "2025-11-20",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2027_French_presidential_election"
+  ]
 }

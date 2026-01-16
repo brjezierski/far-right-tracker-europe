@@ -296,5 +296,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-28"
+  "latestUpdate": "2025-12-28",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2019_Kosovan_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2021_Kosovan_parliamentary_election",
+    "https://en.wikipedia.org/wiki/February_2025_Kosovan_parliamentary_election",
+    "https://en.wikipedia.org/wiki/December_2025_Kosovan_parliamentary_election"
+  ]
 }

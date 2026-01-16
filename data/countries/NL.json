@@ -7635,5 +7635,12 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-19"
+  "latestUpdate": "2025-12-19",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Dutch_general_election",
+    "https://en.wikipedia.org/wiki/Next_Dutch_general_election"
+  ]
 }

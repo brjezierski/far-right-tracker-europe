@@ -9302,5 +9302,10 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-04"
+  "latestUpdate": "2026-01-04",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Polish_parliamentary_election"
+  ]
 }

@@ -161,8 +161,8 @@ Error: Page "/country/[iso2]/page" is missing param "/country/BA" in "generateSt
 Prompt: Disallow clicking on countries which don't have any data to display
 
 Data display:
-- Add cumulative option
 - Lithuania 2024 latest polling not matching
+- Turkey data
 
 
 # Past

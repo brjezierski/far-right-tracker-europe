@@ -6245,5 +6245,12 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-12"
+  "latestUpdate": "2026-01-12",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_May_2023_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/June_2023_Greek_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Greek_parliamentary_election"
+  ]
 }

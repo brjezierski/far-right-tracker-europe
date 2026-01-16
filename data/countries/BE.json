@@ -511,5 +511,9 @@
       }
     ]
   },
-  "latestUpdate": "2024-06-09"
+  "latestUpdate": "2024-06-09",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Belgian_federal_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
+  ]
 }

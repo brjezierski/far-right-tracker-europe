@@ -57,5 +57,11 @@
       }
     ]
   },
-  "latestUpdate": "2018-08-29"
+  "latestUpdate": "2018-08-29",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2017_Armenian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2018_Armenian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2021_Armenian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2026_Armenian_parliamentary_election"
+  ]
 }

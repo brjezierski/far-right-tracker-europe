@@ -2083,5 +2083,12 @@
       }
     ]
   },
-  "latestUpdate": "2025-09-02"
+  "latestUpdate": "2025-09-02",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Serbian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2020_Serbian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Serbian_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Serbian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Serbian_parliamentary_election"
+  ]
 }

@@ -160,5 +160,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-10-16"
+  "latestUpdate": "2025-10-16",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2016_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2020_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/2023_Montenegrin_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Next_Montenegrin_parliamentary_election"
+  ]
 }

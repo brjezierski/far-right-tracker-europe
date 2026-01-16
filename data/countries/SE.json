@@ -2892,5 +2892,10 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-29"
+  "latestUpdate": "2025-12-29",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Swedish_general_election"
+  ]
 }

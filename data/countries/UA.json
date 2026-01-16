@@ -1199,5 +1199,9 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-18"
+  "latestUpdate": "2025-12-18",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Ukrainian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"
+  ]
 }

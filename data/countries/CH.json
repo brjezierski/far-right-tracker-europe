@@ -128,5 +128,9 @@
       }
     ]
   },
-  "latestUpdate": "2023-10-05"
+  "latestUpdate": "2023-10-05",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
+  ]
 }

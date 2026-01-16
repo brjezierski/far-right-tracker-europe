@@ -4887,5 +4887,15 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-10"
+  "latestUpdate": "2026-01-10",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_April_2019_Spanish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2019_Spanish_general_election",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2022)",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2023_Spanish_general_election_(2019%E2%80%932021)",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Spanish_general_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Spanish_general_election"
+  ]
 }

@@ -4820,5 +4820,11 @@
       }
     ]
   },
-  "latestUpdate": "2025-12-21"
+  "latestUpdate": "2025-12-21",
+  "sources": [
+    "https://en.wikipedia.org/wiki/2015_Estonian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Estonian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Estonian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Estonian_parliamentary_election"
+  ]
 }
