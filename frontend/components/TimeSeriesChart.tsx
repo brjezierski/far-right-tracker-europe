@@ -184,6 +184,23 @@ export default function TimeSeriesChart({
         trigger: "axis",
         axisPointer: { type: "cross" },
         valueFormatter: (value: any) => `${Number(value).toFixed(1)}%`,
+        formatter: (params: any) => {
+          if (!Array.isArray(params)) return '';
+          
+          // Filter out series with 0 or null values
+          const filtered = params.filter((p: any) => p.value && p.value[1] > 0);
+          
+          if (filtered.length === 0) return '';
+          
+          const date = new Date(filtered[0].value[0]).toLocaleDateString();
+          let result = `${date}<br/>`;
+          
+          filtered.forEach((p: any) => {
+            result += `${p.marker} ${p.seriesName}: ${Number(p.value[1]).toFixed(1)}%<br/>`;
+          });
+          
+          return result;
+        },
       },
       legend: { 
         type: "scroll",
