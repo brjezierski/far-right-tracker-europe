@@ -319,10 +319,12 @@ def read_country_data_from_csv(
 
         # Read metadata
         country_name = iso2  # fallback
+        sources = []
         if metadata_json.exists():
             with open(metadata_json, "r", encoding="utf-8") as f:
                 metadata = json.load(f)
                 country_name = metadata.get("country", iso2)
+                sources = metadata.get("sources", [])
 
         return {
             "country": country_name,
@@ -334,6 +336,7 @@ def read_country_data_from_csv(
             "latestUpdate": latest_update.strftime("%Y-%m-%d")
             if latest_update
             else None,
+            "sources": sources,
         }
 
     except Exception as e:
