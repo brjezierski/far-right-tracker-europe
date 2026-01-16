@@ -1,14 +1,7 @@
 import fs from "fs";
 import path from "path";
-import dynamic from "next/dynamic";
+import MapWithTimeline from "../components/MapWithTimeline";
 import styles from "./page.module.css";
-
-const Map = dynamic<{ summary?: Summary }>(
-  () => import("../components/Map").then((m) => m.default),
-  {
-    ssr: false,
-  }
-);
 
 type Summary = {
   updatedAt: string;
@@ -24,6 +17,12 @@ type Summary = {
   >;
 };
 
+type CountryData = {
+  country: string;
+  iso2: string;
+  seriesByParty: Record<string, Array<{ date: string; value: number }>>;
+};
+
 function loadSummary(): Summary | null {
   try {
     const file = path.join(process.cwd(), "..", "data", "summary.json");
@@ -34,13 +33,45 @@ function loadSummary(): Summary | null {
   }
 }
 
+function loadAllCountriesData(): Record<string, CountryData> {
+  const summary = loadSummary();
+  if (!summary) return {};
+
+  const countriesData: Record<string, CountryData> = {};
+  
+  for (const iso2 of Object.keys(summary.countries)) {
+    try {
+      const file = path.join(
+        process.cwd(),
+        "..",
+        "data",
+        "countries",
+        `${iso2}.json`
+      );
+      const raw = fs.readFileSync(file, "utf-8");
+      const data = JSON.parse(raw);
+      countriesData[iso2] = {
+        country: data.country,
+        iso2: data.iso2,
+        seriesByParty: data.seriesByParty || {},
+      };
+    } catch (e) {
+      // Skip countries with missing data
+    }
+  }
+  
+  return countriesData;
+}
+
 export default function HomePage() {
   const summary = loadSummary();
+  const countriesData = loadAllCountriesData();
+  
   return (
     <main className={styles.main}>
       <h1>Suport for Far-Right and National Conservative Parties</h1>
       <p>Hover to see parties and support. Click a country for trends.</p>
-      <Map summary={summary ?? undefined} />
+      <MapWithTimeline summary={summary ?? undefined} countriesData={countriesData} />
       {summary && (
         <p className={styles.updated}>
           Data updated: {new Date(summary.updatedAt).toLocaleString()}

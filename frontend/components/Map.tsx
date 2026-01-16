@@ -41,23 +41,22 @@ export default function MapComponent({
     return m;
   }, [summary]);
 
-  // Update GeoJSON source with support values when supportByIso changes
+  // Update feature states when supportByIso changes (more efficient than setData)
   useEffect(() => {
     const m = mapRef.current;
-    if (!m) return;
-    const src = m.getSource("countries") as any;
-    if (!src || !geoRef.current) return;
-    const base = geoRef.current;
-    const features = base.features.map((f: any) => {
+    if (!m || !geoRef.current) return;
+    
+    // Update feature states for each country
+    geoRef.current.features.forEach((f: any) => {
       const name = f.properties?.name;
       const iso2 = NAME_TO_ISO2[name as keyof typeof NAME_TO_ISO2];
       const support = iso2 ? supportByIso.get(iso2) : undefined;
-      return {
-        ...f,
-        properties: { ...f.properties, iso2: iso2 || null, support },
-      };
+      
+      m.setFeatureState(
+        { source: "countries", id: f.properties.featureId },
+        { support: support ?? 0 }
+      );
     });
-    src.setData({ type: "FeatureCollection", features });
   }, [supportByIso]);
 
   useEffect(() => {
@@ -78,10 +77,22 @@ export default function MapComponent({
       fetch(COUNTRIES_GEOJSON)
         .then((r) => r.json())
         .then((geojson) => {
-          geoRef.current = geojson;
+          // Add IDs to features and enrich with iso2
+          const features = geojson.features.map((f: any, index: number) => {
+            const name = f.properties?.name;
+            const iso2 = NAME_TO_ISO2[name as keyof typeof NAME_TO_ISO2];
+            return {
+              ...f,
+              properties: { ...f.properties, iso2: iso2 || null, featureId: index },
+            };
+          });
+          const enrichedGeoJson = { ...geojson, features };
+          geoRef.current = enrichedGeoJson;
+          
           m.addSource("countries", {
             type: "geojson",
-            data: geojson,
+            data: enrichedGeoJson,
+            promoteId: "featureId",
           });
 
           m.addLayer({
@@ -92,7 +103,7 @@ export default function MapComponent({
               "fill-color": [
                 "interpolate",
                 ["linear"],
-                ["coalesce", ["get", "support"], 0],
+                ["coalesce", ["feature-state", "support"], 0],
                 0,
                 "#fee5e5",
                 10,
@@ -117,23 +128,17 @@ export default function MapComponent({
             paint: { "line-color": "#555", "line-width": 0.5 },
           });
 
-          // initial property enrichment
-          const src = m.getSource("countries") as any;
-          if (geoRef.current && src) {
-            const base = geoRef.current;
-            const features = base.features.map((f: any) => {
+          // Initialize feature states
+          if (geoRef.current && summary) {
+            geoRef.current.features.forEach((f: any) => {
               const name = f.properties?.name;
               const iso2 = NAME_TO_ISO2[name as keyof typeof NAME_TO_ISO2];
-              const support =
-                iso2 && summary
-                  ? summary.countries?.[iso2]?.latestSupport
-                  : undefined;
-              return {
-                ...f,
-                properties: { ...f.properties, iso2: iso2 || null, support },
-              };
+              const support = iso2 ? summary.countries?.[iso2]?.latestSupport : undefined;
+              m.setFeatureState(
+                { source: "countries", id: f.properties.featureId },
+                { support: support ?? 0 }
+              );
             });
-            src.setData({ type: "FeatureCollection", features });
           }
 
           // Hover popup
