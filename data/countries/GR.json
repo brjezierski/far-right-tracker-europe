@@ -11,12 +11,15 @@
     "Voice of Reason"
   ],
   "activeParties": [
+    "Golden Dawn",
     "Greek Solution",
+    "Independent Greeks",
+    "National Party - Greeks",
     "Niki",
     "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 15.633333333333333,
+  "latestSupport": 16.033333333333335,
   "seriesByParty": {
     "Golden Dawn": [
       {
@@ -3119,7 +3122,7 @@
       },
       {
         "date": "2026-01-12",
-        "value": 6.2
+        "value": 7.13
       }
     ],
     "Independent Greeks": [
@@ -5185,7 +5188,7 @@
       },
       {
         "date": "2026-01-12",
-        "value": 1.65
+        "value": 1.37
       }
     ],
     "Spartans": [
@@ -5660,6 +5663,10 @@
       {
         "date": "2025-12-16",
         "value": 0.85
+      },
+      {
+        "date": "2026-01-12",
+        "value": 0.9
       }
     ],
     "Voice of Reason": [
@@ -6241,7 +6248,7 @@
       },
       {
         "date": "2026-01-12",
-        "value": 3.85
+        "value": 4.0
       }
     ]
   },

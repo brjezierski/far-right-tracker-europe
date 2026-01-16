@@ -6,9 +6,10 @@
     "People and Justice Union"
   ],
   "activeParties": [
-    "National Alliance"
+    "National Alliance",
+    "People and Justice Union"
   ],
-  "latestSupport": 1.3333333333333333,
+  "latestSupport": 1.2333333333333334,
   "seriesByParty": {
     "National Alliance": [
       {
@@ -302,6 +303,10 @@
       {
         "date": "2025-11-28",
         "value": 4.0
+      },
+      {
+        "date": "2025-12-22",
+        "value": 3.7
       }
     ],
     "People and Justice Union": [
@@ -927,7 +932,7 @@
       }
     ]
   },
-  "latestUpdate": "2025-11-28",
+  "latestUpdate": "2025-12-22",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2018_Lithuanian_parliamentary_election",

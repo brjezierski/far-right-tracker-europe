@@ -4,7 +4,9 @@
   "parties": [
     "Șor Party"
   ],
-  "activeParties": [],
+  "activeParties": [
+    "Șor Party"
+  ],
   "latestSupport": 0.0,
   "seriesByParty": {
     "Șor Party": [

@@ -4,7 +4,9 @@
   "parties": [
     "Renua"
   ],
-  "activeParties": [],
+  "activeParties": [
+    "Renua"
+  ],
   "latestSupport": 0.0,
   "seriesByParty": {
     "Renua": [

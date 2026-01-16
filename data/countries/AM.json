@@ -5,7 +5,10 @@
     "Republican Party of Armenia",
     "Sasna Tsrer Pan-Armenian Party"
   ],
-  "activeParties": [],
+  "activeParties": [
+    "Republican Party of Armenia",
+    "Sasna Tsrer Pan-Armenian Party"
+  ],
   "latestSupport": 0.0,
   "seriesByParty": {
     "Republican Party of Armenia": [
