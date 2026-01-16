@@ -3,7 +3,7 @@ import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import TimelineSlider from "./TimelineSlider";
 
-const Map = dynamic(() => import("./Map"), { ssr: false });
+const LeafletMap = dynamic(() => import("./LeafletMap"), { ssr: false });
 
 type Summary = {
   updatedAt: string;
@@ -140,7 +140,7 @@ export default function MapWithTimeline({
         isPlaying={isPlaying}
         onPlayPause={handlePlayPause}
       />
-      <Map summary={timeFilteredSummary} />
+      <LeafletMap summary={timeFilteredSummary} />
     </>
   );
 }
