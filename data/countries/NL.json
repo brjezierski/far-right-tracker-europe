@@ -2777,6 +2777,10 @@
       {
         "date": "2025-12-19",
         "value": 12.0
+      },
+      {
+        "date": "2026-01-17",
+        "value": 14.0
       }
     ],
     "JA21": [
@@ -3899,6 +3903,10 @@
       {
         "date": "2025-12-19",
         "value": 10.0
+      },
+      {
+        "date": "2026-01-17",
+        "value": 11.0
       }
     ],
     "Party for Freedom": [
@@ -7633,10 +7641,14 @@
       {
         "date": "2025-12-19",
         "value": 20.0
+      },
+      {
+        "date": "2026-01-17",
+        "value": 17.0
       }
     ]
   },
-  "latestUpdate": "2025-12-19",
+  "latestUpdate": "2026-01-17",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",

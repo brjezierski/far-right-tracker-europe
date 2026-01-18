@@ -11,7 +11,7 @@
     "Se Acabó La Fiesta",
     "Vox"
   ],
-  "latestSupport": 19.599999999999998,
+  "latestSupport": 20.566666666666666,
   "seriesByParty": {
     "Catalan Alliance": [
       {
@@ -802,7 +802,15 @@
       },
       {
         "date": "2026-01-10",
-        "value": 1.84
+        "value": 3.02
+      },
+      {
+        "date": "2026-01-15",
+        "value": 1.67
+      },
+      {
+        "date": "2026-01-16",
+        "value": 1.6
       }
     ],
     "Vox": [
@@ -2888,7 +2896,7 @@
       },
       {
         "date": "2023-02-11",
-        "value": 15.4
+        "value": 13.52
       },
       {
         "date": "2023-02-12",
@@ -2952,7 +2960,7 @@
       },
       {
         "date": "2023-03-01",
-        "value": 10.62
+        "value": 13.63
       },
       {
         "date": "2023-03-02",
@@ -3332,11 +3340,11 @@
       },
       {
         "date": "2023-07-04",
-        "value": 12.5
+        "value": 9.7
       },
       {
         "date": "2023-07-05",
-        "value": 10.38
+        "value": 10.66
       },
       {
         "date": "2023-07-06",
@@ -4372,7 +4380,7 @@
       },
       {
         "date": "2025-01-03",
-        "value": 8.0
+        "value": 14.4
       },
       {
         "date": "2025-01-09",
@@ -4884,11 +4892,19 @@
       },
       {
         "date": "2026-01-10",
-        "value": 17.54
+        "value": 18.0
+      },
+      {
+        "date": "2026-01-15",
+        "value": 16.57
+      },
+      {
+        "date": "2026-01-16",
+        "value": 19.4
       }
     ]
   },
-  "latestUpdate": "2026-01-10",
+  "latestUpdate": "2026-01-16",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",

@@ -1,4 +1,17 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
+2023-03-16,#cite note-1,27.4,,,
+2023-10-04,#cite note-1,31.0,,,
+2023-10-26,#cite note-1,27.8,,,
+2023-11-09,#cite note-1,31.0,,,
+2023-12-06,#cite note-1,30.2,,,
+2024-06-08,#cite note-1,27.0,,,
+2024-09-19,#cite note-1,24.3,,,
+2024-11-13,#cite note-1,29.4,,,
+2025-02-12,#cite note-1,19.7,,,
+2025-02-13,#cite note-1,24.5,,,
+2025-04-08,#cite note-1,22.5,,,
+2025-06-06,#cite note-1,6.7,,,
+2025-10-02,#cite note-1,18.4,,,
 2023-03-16,AD+PD,5.5,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2023-10-04,AD+PD,10.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2023-10-26,AD+PD,5.2,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
@@ -14,6 +27,46 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-02,AD+PD,2.4,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2025-11-13,AD+PD,4.1,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2025-11-20,AD+PD,1.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+2017-10-05,Adrian Delia,22.1,,,
+2017-11-16,Adrian Delia,15.2,,,
+2017-12-14,Adrian Delia,7.2,,,
+2018-01-29,Adrian Delia,15.4,,,
+2018-02-20,Adrian Delia,22.6,,,
+2018-03-01,Adrian Delia,20.2,,,
+2018-04-27,Adrian Delia,27.2,,,
+2018-05-31,Adrian Delia,23.5,,,
+2018-06-30,Adrian Delia,36.6,,,
+2018-08-02,Adrian Delia,14.8,,,
+2018-08-30,Adrian Delia,17.9,,,
+2018-10-06,Adrian Delia,19.8,,,
+2018-11-08,Adrian Delia,17.8,,,
+2018-12-14,Adrian Delia,24.7,,,
+2019-01-28,Adrian Delia,20.4,,,
+2019-02-27,Adrian Delia,15.9,,,
+2019-04-04,Adrian Delia,21.5,,,
+2019-05-03,Adrian Delia,21.2,,,
+2019-05-15,Adrian Delia,22.8,,,
+2019-07-01,Adrian Delia,15.8,,,
+2019-10-03,Adrian Delia,16.7,,,
+2019-10-31,Adrian Delia,21.3,,,
+2020-01-28,Adrian Delia,13.5,,,
+2020-03-10,Adrian Delia,16.5,,,
+2020-04-09,Adrian Delia,17.3,,,
+2020-07-17,Adrian Delia,13.2,,,
+2020-09-04,Adrian Delia,12.0,,,
+2020-09-04,Bernard Grech,32.1,,,
+2020-10-09,Bernard Grech,30.9,,,
+2020-11-06,Bernard Grech,31.5,,,
+2020-12-04,Bernard Grech,30.1,,,
+2021-01-08,Bernard Grech,34.7,,,
+2021-02-05,Bernard Grech,35.1,,,
+2021-03-05,Bernard Grech,34.8,,,
+2021-04-09,Bernard Grech,35.8,,,
+2021-05-07,Bernard Grech,25.7,,,
+2021-06-04,Bernard Grech,29.3,,,
+2021-07-06,Bernard Grech,30.4,,,
+2022-02-24,Bernard Grech,17.3,,,
+2022-03-13,Bernard Grech,34.4,,,
 2013-04-30,Democratic Alternative,2.0,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)
 2013-05-31,Democratic Alternative,2.0,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)
 2013-06-29,Democratic Alternative,2.0,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)
@@ -185,6 +238,28 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-26,Democratic Party,0.1,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta)
 2022-03-07,Democratic Party,0.4,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta)
 2022-03-07,Democratic Party,0.3,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta)
+2017-10-05,Joseph Muscat,50.9,,,
+2017-11-16,Joseph Muscat,53.7,,,
+2017-12-14,Joseph Muscat,50.4,,,
+2018-01-29,Joseph Muscat,41.0,,,
+2018-02-20,Joseph Muscat,47.5,,,
+2018-03-01,Joseph Muscat,58.2,,,
+2018-04-27,Joseph Muscat,48.6,,,
+2018-05-31,Joseph Muscat,52.6,,,
+2018-06-30,Joseph Muscat,62.8,,,
+2018-08-02,Joseph Muscat,53.9,,,
+2018-08-30,Joseph Muscat,53.5,,,
+2018-10-06,Joseph Muscat,52.9,,,
+2018-11-08,Joseph Muscat,54.5,,,
+2018-12-14,Joseph Muscat,51.2,,,
+2019-01-28,Joseph Muscat,54.8,,,
+2019-02-27,Joseph Muscat,54.8,,,
+2019-04-04,Joseph Muscat,49.6,,,
+2019-05-03,Joseph Muscat,51.7,,,
+2019-05-15,Joseph Muscat,50.6,,,
+2019-07-01,Joseph Muscat,52.6,,,
+2019-10-03,Joseph Muscat,54.1,,,
+2019-10-31,Joseph Muscat,50.5,,,
 2013-04-30,Labour Party,52.0,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2013-05-31,Labour Party,51.0,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2013-06-29,Labour Party,50.0,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
@@ -534,3 +609,21 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-02,Nationalist Party,45.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2025-11-13,Nationalist Party,46.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2025-11-20,Nationalist Party,43.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2020-01-28,Robert Abela,62.5,,,
+2020-03-10,Robert Abela,55.9,,,
+2020-04-09,Robert Abela,62.4,,,
+2020-07-17,Robert Abela,57.7,,,
+2020-09-04,Robert Abela,51.7,,,
+2020-09-04,Robert Abela,56.0,,,
+2020-10-09,Robert Abela,46.6,,,
+2020-11-06,Robert Abela,48.4,,,
+2020-12-04,Robert Abela,46.8,,,
+2021-01-08,Robert Abela,42.1,,,
+2021-02-05,Robert Abela,41.7,,,
+2021-03-05,Robert Abela,39.8,,,
+2021-04-09,Robert Abela,47.2,,,
+2021-05-07,Robert Abela,49.6,,,
+2021-06-04,Robert Abela,50.4,,,
+2021-07-06,Robert Abela,51.6,,,
+2022-02-24,Robert Abela,55.3,,,
+2022-03-13,Robert Abela,55.6,,,
