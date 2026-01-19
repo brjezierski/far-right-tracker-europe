@@ -23,7 +23,7 @@ type Summary = {
 } | null;
 
 function getColor(support: number | undefined | null): string {
-  if (!support || support === 0) return "#fee5e5";
+  if (!support || support === 0) return "#e8e8e8";  // Light gray for 0%
   if (support < 10) return "#fee5e5";
   if (support < 20) return "#fcb3b3";
   if (support < 30) return "#f88484";
