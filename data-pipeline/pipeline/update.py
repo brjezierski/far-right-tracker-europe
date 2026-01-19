@@ -22,6 +22,8 @@ from .postprocessing import (
     remove_isolated_datapoints,
     remove_anomalous_values,
     filter_pre_2010_datapoints,
+    calculate_rolling_average,
+    create_daily_series,
 )
 import time
 
@@ -294,22 +296,53 @@ def read_country_data_from_csv(
             f"Selected parties: {active_parties} with total support {latest_far_right_support}"
         )
 
-        # Generate seriesByParty for far-right parties
+        # Generate both datapointsByParty (raw polls) and seriesByParty (rolling average + daily interpolation)
+        datapoints_by_party = {}
         series_by_party = {}
         latest_update = None
+
+        # Find earliest and latest dates across all far-right parties for consistent date range
+        all_dates = []
+        for party in selected_parties:
+            party_data = df_polling[df_polling["party"] == party]
+            if not party_data.empty:
+                all_dates.extend(party_data["date"].tolist())
+
+        if all_dates:
+            global_start = min(all_dates).strftime("%Y-%m-%d")
+            global_end = max(all_dates).strftime("%Y-%m-%d")
+        else:
+            global_start = None
+            global_end = None
+
         for party in selected_parties:
             party_data = df_polling[df_polling["party"] == party].copy()
             party_data = party_data.sort_values("date")
 
             # Aggregate by date (average if multiple polls on same date)
             aggregated = party_data.groupby("date")["polling_value"].mean()
-            series_by_party[party] = [
+
+            # Raw datapoints for datapointsByParty
+            datapoints_by_party[party] = [
                 {
                     "date": date.strftime("%Y-%m-%d"),
                     "value": float(f"{value:.2f}"),
                 }
                 for date, value in aggregated.items()
             ]
+
+            # Calculate rolling average (5-point window)
+            averaged = calculate_rolling_average(
+                datapoints_by_party[party], window_size=5
+            )
+
+            # Create daily series with interpolation
+            if averaged and global_start and global_end:
+                series_by_party[party] = create_daily_series(
+                    averaged, global_start, global_end
+                )
+            else:
+                series_by_party[party] = []
 
             # Track the latest date across all parties
             if not party_data.empty:
@@ -332,6 +365,7 @@ def read_country_data_from_csv(
             "parties": selected_parties,
             "activeParties": active_parties,
             "latestSupport": float(latest_far_right_support),
+            "datapointsByParty": datapoints_by_party,
             "seriesByParty": series_by_party,
             "latestUpdate": latest_update.strftime("%Y-%m-%d")
             if latest_update

@@ -20,6 +20,7 @@ type Summary = {
 type CountryData = {
   country: string;
   iso2: string;
+  activeParties?: string[];
   seriesByParty: Record<string, Array<{ date: string; value: number }>>;
 };
 
@@ -53,6 +54,7 @@ function loadAllCountriesData(): Record<string, CountryData> {
       countriesData[iso2] = {
         country: data.country,
         iso2: data.iso2,
+        activeParties: data.activeParties,
         seriesByParty: data.seriesByParty || {},
       };
     } catch (e) {

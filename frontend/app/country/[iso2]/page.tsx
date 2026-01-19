@@ -59,7 +59,10 @@ export default function CountryPage({ params }: { params: { iso2: string } }) {
           ? `${data.latestSupport.toFixed(1)}%`
           : "N/A"}
       </p>
-      <TimeSeriesChart seriesByParty={data.seriesByParty || {}} />
+      <TimeSeriesChart 
+        seriesByParty={data.seriesByParty || {}} 
+        datapointsByParty={data.datapointsByParty || {}}
+      />
       <h3>Sources</h3>
       <ul>
         {(data.sources || []).map((url: string, idx: number) => (

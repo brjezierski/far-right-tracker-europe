@@ -22,6 +22,7 @@ type Summary = {
 type CountryData = {
   country: string;
   iso2: string;
+  activeParties?: string[];
   seriesByParty: Record<string, Array<{ date: string; value: number }>>;
 };
 
@@ -33,12 +34,17 @@ type MapWithTimelineProps = {
 // Helper function to get latest support value on or before a given date
 function getSupportAtDate(
   seriesByParty: Record<string, Array<{ date: string; value: number }>>,
+  activeParties: string[] | undefined,
   targetDate: Date
 ): number {
   let totalSupport = 0;
   let partyCount = 0;
 
   for (const [party, series] of Object.entries(seriesByParty)) {
+    // Skip inactive parties
+    if (activeParties && !activeParties.includes(party)) {
+      continue;
+    }
     // Find the latest data point on or before the target date
     let latestValue: number | null = null;
     let latestDate: Date | null = null;
@@ -87,6 +93,7 @@ export default function MapWithTimeline({
 
       const supportAtDate = getSupportAtDate(
         countryData.seriesByParty,
+        countryData.activeParties,
         currentDate
       );
 

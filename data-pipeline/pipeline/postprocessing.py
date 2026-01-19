@@ -188,3 +188,73 @@ def filter_pre_2010_datapoints(
         print(f"Removed {removed_count} datapoints before {cutoff_year}")
 
     return df_filtered
+
+
+def calculate_rolling_average(series: list[dict], window_size: int = 5) -> list[dict]:
+    """
+    Calculate rolling average for a time series.
+
+    Args:
+        series: List of {'date': 'YYYY-MM-DD', 'value': float} dicts
+        window_size: Number of points for rolling window (default: 5)
+
+    Returns:
+        List of {'date': 'YYYY-MM-DD', 'value': float} with averaged values
+    """
+    if len(series) < window_size:
+        return []
+
+    result = []
+    for i in range(window_size - 1, len(series)):
+        window = series[i - window_size + 1 : i + 1]
+        avg_value = sum(p["value"] for p in window) / window_size
+        result.append({"date": series[i]["date"], "value": round(avg_value, 2)})
+
+    return result
+
+
+def create_daily_series(
+    averaged_series: list[dict], start_date: str, end_date: str
+) -> list[dict]:
+    """
+    Create a complete daily time series with interpolation for missing values.
+    Only fills gaps between first and last actual data points.
+
+    Args:
+        averaged_series: List of {'date': 'YYYY-MM-DD', 'value': float}
+        start_date: First date in YYYY-MM-DD format
+        end_date: Last date in YYYY-MM-DD format
+
+    Returns:
+        Complete daily series with interpolated values
+    """
+    if not averaged_series:
+        return []
+
+    # Convert to pandas for easier interpolation
+    df = pd.DataFrame(averaged_series)
+    df["date"] = pd.to_datetime(df["date"])
+    df = df.sort_values("date")
+
+    # Get the actual first and last dates with data
+    first_date = df["date"].min()
+    last_date = df["date"].max()
+
+    # Create date range only within the data range
+    date_range = pd.date_range(start=first_date, end=last_date, freq="D")
+
+    # Create complete dataframe
+    complete_df = pd.DataFrame({"date": date_range})
+    complete_df = complete_df.merge(df, on="date", how="left")
+
+    # Interpolate missing values (linear interpolation)
+    complete_df["value"] = complete_df["value"].interpolate(method="linear")
+
+    # Convert back to list of dicts
+    result = [
+        {"date": row["date"].strftime("%Y-%m-%d"), "value": round(row["value"], 2)}
+        for _, row in complete_df.iterrows()
+        if pd.notna(row["value"])
+    ]
+
+    return result
