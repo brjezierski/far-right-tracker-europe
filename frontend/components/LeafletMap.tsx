@@ -58,6 +58,12 @@ export default function LeafletMap({
       zoom: 4,
       minZoom: 3,
       maxZoom: 7,
+      scrollWheelZoom: false,
+      dragging: true,
+      touchZoom: false,
+      doubleClickZoom: true,
+      boxZoom: false,
+      keyboard: false,
     });
 
     L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
@@ -66,11 +72,14 @@ export default function LeafletMap({
     }).addTo(map);
 
     mapRef.current = map;
+    let isMounted = true;
 
     // Load GeoJSON
     fetch(COUNTRIES_GEOJSON)
       .then((r) => r.json())
       .then((geojson) => {
+        if (!isMounted || !mapRef.current) return;
+        
         const geoLayer = L.geoJSON(geojson, {
           style: (feature) => {
             const name = feature?.properties?.name;
@@ -106,7 +115,7 @@ export default function LeafletMap({
                   html += `<br/>Support: ${support}`;
                 }
               }
-              layer.bindPopup(html).openPopup();
+              layer.bindPopup(html, { autoPan: false }).openPopup();
             });
 
             layer.on("mouseout", function () {
@@ -123,11 +132,16 @@ export default function LeafletMap({
         }).addTo(map);
 
         geoLayerRef.current = geoLayer;
+      })
+      .catch((error) => {
+        console.error("Error loading GeoJSON:", error);
       });
 
     return () => {
+      isMounted = false;
       map.remove();
       mapRef.current = null;
+      geoLayerRef.current = null;
     };
   }, []);
 
@@ -144,8 +158,29 @@ export default function LeafletMap({
       layer.setStyle({
         fillColor: getColor(support),
       });
+
+      // Update tooltip handlers with current data
+      layer.off("mouseover");
+      layer.on("mouseover", function () {
+        let html = `<strong>${name || ""}</strong>`;
+        if (iso2 && summary && summary.countries[iso2]) {
+          const c = summary.countries[iso2];
+          const partiesToShow = c.activeParties || c.parties || [];
+          const parties = partiesToShow.slice(0, 6).join(", ");
+          const supportValue =
+            c.latestSupport != null
+              ? `${c.latestSupport.toFixed(1)}%`
+              : "N/A";
+          if (parties) {
+            html += `<br/>Parties: ${parties}<br/>Support: ${supportValue}`;
+          } else {
+            html += `<br/>Support: ${supportValue}`;
+          }
+        }
+        layer.bindPopup(html, { autoPan: false }).openPopup();
+      });
     });
-  }, [supportByIso]);
+  }, [supportByIso, summary]);
 
   return (
     <div

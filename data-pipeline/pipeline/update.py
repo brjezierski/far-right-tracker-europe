@@ -365,8 +365,14 @@ def rebuild_summary_from_csv(selected_country=None):
             country_data = read_country_data_from_csv(iso2, CATEGORIES)
             if country_data:
                 save_json(country_json_path, country_data)
-                # Use the exact same data for summary (includes seriesByParty for display)
-                summary["countries"][iso2] = country_data
+                # For summary, only include necessary fields (not seriesByParty)
+                summary["countries"][iso2] = {
+                    "country": country_data["country"],
+                    "iso2": country_data["iso2"],
+                    "parties": country_data["parties"],
+                    "activeParties": country_data.get("activeParties", []),
+                    "latestSupport": country_data["latestSupport"],
+                }
 
                 # Collect all party metadata
                 parties_csv_path = country_dir / "parties.csv"
