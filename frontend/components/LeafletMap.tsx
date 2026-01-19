@@ -8,6 +8,53 @@ import { NAME_TO_ISO2 } from "../lib/iso";
 const COUNTRIES_GEOJSON =
   "https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_50m_admin_0_countries.geojson";
 
+// Capital coordinates for tooltip positioning (avoids overseas territories)
+const CAPITAL_COORDS: Record<string, [number, number]> = {
+  AL: [41.3275, 19.8187], // Tirana
+  AM: [40.1792, 44.4991], // Yerevan
+  AT: [48.2082, 16.3738], // Vienna
+  BA: [43.8564, 18.4131], // Sarajevo
+  BE: [50.8503, 4.3517], // Brussels
+  BG: [42.6977, 23.3219], // Sofia
+  CH: [46.9480, 7.4474], // Bern
+  CY: [35.1856, 33.3823], // Nicosia
+  CZ: [50.0755, 14.4378], // Prague
+  DE: [52.5200, 13.4050], // Berlin
+  DK: [55.6761, 12.5683], // Copenhagen
+  EE: [59.4370, 24.7536], // Tallinn
+  ES: [40.4168, -3.7038], // Madrid
+  FI: [60.1695, 24.9354], // Helsinki
+  FR: [48.8566, 2.3522], // Paris
+  GB: [51.5074, -0.1278], // London
+  GE: [41.7151, 44.8271], // Tbilisi
+  GR: [37.9838, 23.7275], // Athens
+  HR: [45.8150, 15.9819], // Zagreb
+  HU: [47.4979, 19.0402], // Budapest
+  IE: [53.3498, -6.2603], // Dublin
+  IS: [64.1466, -21.9426], // Reykjavik
+  IT: [41.9028, 12.4964], // Rome
+  LT: [54.6872, 25.2797], // Vilnius
+  LU: [49.6116, 6.1319], // Luxembourg
+  LV: [56.9496, 24.1052], // Riga
+  MD: [47.0105, 28.8638], // Chisinau
+  ME: [42.4304, 19.2594], // Podgorica
+  MK: [41.9973, 21.4280], // Skopje
+  MT: [35.8989, 14.5146], // Valletta
+  NL: [52.3702, 4.8952], // Amsterdam
+  NO: [59.9139, 10.7522], // Oslo
+  PL: [52.2297, 21.0122], // Warsaw
+  PT: [38.7223, -9.1393], // Lisbon
+  RO: [44.4268, 26.1025], // Bucharest
+  RS: [44.7866, 20.4489], // Belgrade
+  RU: [55.7558, 37.6173], // Moscow
+  SE: [59.3293, 18.0686], // Stockholm
+  SI: [46.0569, 14.5058], // Ljubljana
+  SK: [48.1486, 17.1077], // Bratislava
+  TR: [39.9334, 32.8597], // Ankara
+  UA: [50.4501, 30.5234], // Kyiv
+  XK: [42.6629, 21.1655], // Pristina
+};
+
 type Summary = {
   updatedAt: string;
   countries: Record<
@@ -115,11 +162,23 @@ export default function LeafletMap({
                   html += `<br/>Support: ${support}`;
                 }
               }
-              layer.bindPopup(html, { autoPan: false }).openPopup();
+              
+              // Position popup at capital coordinates if available
+              if (iso2 && CAPITAL_COORDS[iso2] && mapRef.current) {
+                const coords = CAPITAL_COORDS[iso2];
+                L.popup({ autoPan: false })
+                  .setLatLng([coords[0], coords[1]])
+                  .setContent(html)
+                  .openOn(mapRef.current);
+              } else {
+                layer.bindPopup(html, { autoPan: false }).openPopup();
+              }
             });
 
             layer.on("mouseout", function () {
-              layer.closePopup();
+              if (mapRef.current) {
+                mapRef.current.closePopup();
+              }
             });
 
             // Click to navigate
@@ -177,7 +236,17 @@ export default function LeafletMap({
             html += `<br/>Support: ${supportValue}`;
           }
         }
-        layer.bindPopup(html, { autoPan: false }).openPopup();
+        
+        // Position popup at capital coordinates if available
+        if (iso2 && CAPITAL_COORDS[iso2] && mapRef.current) {
+          const coords = CAPITAL_COORDS[iso2];
+          L.popup({ autoPan: false })
+            .setLatLng([coords[0], coords[1]])
+            .setContent(html)
+            .openOn(mapRef.current);
+        } else {
+          layer.bindPopup(html, { autoPan: false }).openPopup();
+        }
       });
     });
   }, [supportByIso, summary]);
