@@ -15,7 +15,7 @@
     "New Right",
     "Stram Kurs"
   ],
-  "latestSupport": 18.76666666666667,
+  "latestSupport": 18.500000000000004,
   "seriesByParty": {
     "Citizens' Party": [
       {
@@ -261,6 +261,10 @@
       {
         "date": "2026-01-11",
         "value": 1.5
+      },
+      {
+        "date": "2026-01-18",
+        "value": 1.6
       }
     ],
     "Danish People's Party": [
@@ -3927,6 +3931,10 @@
       {
         "date": "2026-01-11",
         "value": 6.5
+      },
+      {
+        "date": "2026-01-18",
+        "value": 6.6
       }
     ],
     "Denmark Democrats": [
@@ -4809,6 +4817,10 @@
       {
         "date": "2026-01-11",
         "value": 10.3
+      },
+      {
+        "date": "2026-01-18",
+        "value": 9.9
       }
     ],
     "New Right": [
@@ -7648,7 +7660,7 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-11",
+  "latestUpdate": "2026-01-18",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",

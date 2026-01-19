@@ -11,7 +11,7 @@
     "Right Sector",
     "Svoboda"
   ],
-  "latestSupport": 8.799999999999999,
+  "latestSupport": 7.966666666666666,
   "seriesByParty": {
     "National Corps": [
       {
@@ -173,6 +173,10 @@
       {
         "date": "2025-12-18",
         "value": 6.1
+      },
+      {
+        "date": "2025-12-26",
+        "value": 3.5
       }
     ],
     "Right Sector": [
@@ -1197,10 +1201,14 @@
       {
         "date": "2025-12-13",
         "value": 1.9
+      },
+      {
+        "date": "2025-12-26",
+        "value": 0.5
       }
     ]
   },
-  "latestUpdate": "2025-12-18",
+  "latestUpdate": "2025-12-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Ukrainian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"

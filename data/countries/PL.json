@@ -17,7 +17,7 @@
     "There is One Poland",
     "United Right"
   ],
-  "latestSupport": 46.76666666666667,
+  "latestSupport": 46.70000000000001,
   "seriesByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3611,6 +3611,10 @@
       {
         "date": "2026-01-14",
         "value": 12.8
+      },
+      {
+        "date": "2026-01-18",
+        "value": 14.0
       }
     ],
     "Confederation of the Polish Crown": [
@@ -3853,6 +3857,10 @@
       {
         "date": "2026-01-14",
         "value": 7.4
+      },
+      {
+        "date": "2026-01-18",
+        "value": 7.1
       }
     ],
     "Law and Justice": [
@@ -5595,6 +5603,10 @@
       {
         "date": "2026-01-14",
         "value": 25.8
+      },
+      {
+        "date": "2026-01-18",
+        "value": 26.2
       }
     ],
     "New Hope": [
@@ -9320,7 +9332,7 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-14",
+  "latestUpdate": "2026-01-18",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",

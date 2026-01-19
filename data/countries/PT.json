@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 23.366666666666664,
+  "latestSupport": 23.733333333333334,
   "seriesByParty": {
     "Chega": [
       {
@@ -1161,10 +1161,14 @@
       {
         "date": "2025-12-19",
         "value": 22.6
+      },
+      {
+        "date": "2026-01-13",
+        "value": 25.1
       }
     ]
   },
-  "latestUpdate": "2025-12-19",
+  "latestUpdate": "2026-01-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",

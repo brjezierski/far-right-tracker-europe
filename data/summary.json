@@ -21283,43 +21283,43 @@
             "value": 10.5
           },
           {
-            "date": "2016-01-18",
+            "date": "2016-01-19",
             "value": 12.0
           },
           {
-            "date": "2016-02-18",
+            "date": "2016-02-19",
             "value": 12.0
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 13.5
           },
           {
-            "date": "2016-04-18",
+            "date": "2016-04-19",
             "value": 13.5
           },
           {
-            "date": "2016-05-18",
+            "date": "2016-05-19",
             "value": 14.0
           },
           {
-            "date": "2016-06-18",
+            "date": "2016-06-19",
             "value": 13.5
           },
           {
-            "date": "2016-08-18",
+            "date": "2016-08-19",
             "value": 13.0
           },
           {
-            "date": "2016-09-18",
+            "date": "2016-09-19",
             "value": 11.5
           },
           {
-            "date": "2016-10-18",
+            "date": "2016-10-19",
             "value": 10.0
           },
           {
-            "date": "2016-11-18",
+            "date": "2016-11-19",
             "value": 11.0
           },
           {
@@ -23697,43 +23697,43 @@
             "value": 7.5
           },
           {
-            "date": "2016-01-18",
+            "date": "2016-01-19",
             "value": 7.0
           },
           {
-            "date": "2016-02-18",
+            "date": "2016-02-19",
             "value": 6.0
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 6.0
           },
           {
-            "date": "2016-04-18",
+            "date": "2016-04-19",
             "value": 7.0
           },
           {
-            "date": "2016-05-18",
+            "date": "2016-05-19",
             "value": 4.0
           },
           {
-            "date": "2016-06-18",
+            "date": "2016-06-19",
             "value": 6.5
           },
           {
-            "date": "2016-08-18",
+            "date": "2016-08-19",
             "value": 6.5
           },
           {
-            "date": "2016-09-18",
+            "date": "2016-09-19",
             "value": 8.0
           },
           {
-            "date": "2016-10-18",
+            "date": "2016-10-19",
             "value": 7.5
           },
           {
-            "date": "2016-11-18",
+            "date": "2016-11-19",
             "value": 9.0
           },
           {
@@ -29295,7 +29295,7 @@
             "value": 4.3
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 1.6
           },
           {
@@ -30413,7 +30413,7 @@
             "value": 12.4
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 18.1
           },
           {
@@ -32381,7 +32381,7 @@
             "value": 15.55
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 10.5
           },
           {
@@ -33755,7 +33755,7 @@
             "value": 14.0
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 13.4
           },
           {
@@ -34721,7 +34721,7 @@
             "value": 10.9
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 7.6
           },
           {
@@ -39066,7 +39066,7 @@
         "Danish People's Party",
         "Denmark Democrats"
       ],
-      "latestSupport": 18.76666666666667,
+      "latestSupport": 18.500000000000004,
       "seriesByParty": {
         "Citizens' Party": [
           {
@@ -39312,6 +39312,10 @@
           {
             "date": "2026-01-11",
             "value": 1.5
+          },
+          {
+            "date": "2026-01-18",
+            "value": 1.6
           }
         ],
         "Danish People's Party": [
@@ -42978,6 +42982,10 @@
           {
             "date": "2026-01-11",
             "value": 6.5
+          },
+          {
+            "date": "2026-01-18",
+            "value": 6.6
           }
         ],
         "Denmark Democrats": [
@@ -43860,6 +43868,10 @@
           {
             "date": "2026-01-11",
             "value": 10.3
+          },
+          {
+            "date": "2026-01-18",
+            "value": 9.9
           }
         ],
         "New Right": [
@@ -46699,7 +46711,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-11",
+      "latestUpdate": "2026-01-18",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
@@ -54257,10 +54269,6 @@
             "value": 20.4
           },
           {
-            "date": "2025-01-13",
-            "value": 6.7
-          },
-          {
             "date": "2025-01-15",
             "value": 24.1
           },
@@ -54341,8 +54349,8 @@
             "value": 24.0
           },
           {
-            "date": "2025-06-06",
-            "value": 15.4
+            "date": "2025-06-05",
+            "value": 21.5
           },
           {
             "date": "2025-06-11",
@@ -54351,10 +54359,6 @@
           {
             "date": "2025-06-12",
             "value": 22.05
-          },
-          {
-            "date": "2025-06-13",
-            "value": 6.1
           },
           {
             "date": "2025-06-19",
@@ -54371,10 +54375,6 @@
           {
             "date": "2025-07-09",
             "value": 22.95
-          },
-          {
-            "date": "2025-07-12",
-            "value": 5.9
           },
           {
             "date": "2025-07-24",
@@ -55755,8 +55755,8 @@
             "value": 3.3
           },
           {
-            "date": "2025-06-06",
-            "value": 2.1
+            "date": "2025-06-05",
+            "value": 2.4
           },
           {
             "date": "2025-06-12",
@@ -55777,10 +55777,6 @@
           {
             "date": "2025-07-09",
             "value": 2.0
-          },
-          {
-            "date": "2025-07-12",
-            "value": 3.0
           },
           {
             "date": "2025-07-24",
@@ -76091,7 +76087,7 @@
         "National Corps",
         "Svoboda"
       ],
-      "latestSupport": 8.799999999999999,
+      "latestSupport": 7.966666666666666,
       "seriesByParty": {
         "National Corps": [
           {
@@ -76253,6 +76249,10 @@
           {
             "date": "2025-12-18",
             "value": 6.1
+          },
+          {
+            "date": "2025-12-26",
+            "value": 3.5
           }
         ],
         "Right Sector": [
@@ -77277,10 +77277,14 @@
           {
             "date": "2025-12-13",
             "value": 1.9
+          },
+          {
+            "date": "2025-12-26",
+            "value": 0.5
           }
         ]
       },
-      "latestUpdate": "2025-12-18",
+      "latestUpdate": "2025-12-26",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Ukrainian_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"
@@ -77414,83 +77418,83 @@
             "value": 5.8
           },
           {
-            "date": "2023-01-18",
+            "date": "2023-01-19",
             "value": 7.8
           },
           {
-            "date": "2023-03-18",
+            "date": "2023-03-19",
             "value": 9.0
           },
           {
-            "date": "2023-04-18",
+            "date": "2023-04-19",
             "value": 11.7
           },
           {
-            "date": "2023-05-18",
+            "date": "2023-05-19",
             "value": 13.5
           },
           {
-            "date": "2023-06-18",
+            "date": "2023-06-19",
             "value": 14.1
           },
           {
-            "date": "2023-07-18",
+            "date": "2023-07-19",
             "value": 11.4
           },
           {
-            "date": "2023-08-18",
+            "date": "2023-08-19",
             "value": 11.9
           },
           {
-            "date": "2023-09-18",
+            "date": "2023-09-19",
             "value": 11.9
           },
           {
-            "date": "2023-10-18",
+            "date": "2023-10-19",
             "value": 11.6
           },
           {
-            "date": "2023-11-18",
+            "date": "2023-11-19",
             "value": 11.5
           },
           {
-            "date": "2023-12-18",
+            "date": "2023-12-19",
             "value": 11.3
           },
           {
-            "date": "2024-01-18",
+            "date": "2024-01-19",
             "value": 11.1
           },
           {
-            "date": "2024-03-18",
+            "date": "2024-03-19",
             "value": 11.1
           },
           {
-            "date": "2024-04-18",
+            "date": "2024-04-19",
             "value": 10.2
           },
           {
-            "date": "2024-06-18",
+            "date": "2024-06-19",
             "value": 10.7
           },
           {
-            "date": "2024-08-18",
+            "date": "2024-08-19",
             "value": 11.8
           },
           {
-            "date": "2024-10-18",
+            "date": "2024-10-19",
             "value": 11.5
           },
           {
-            "date": "2024-11-18",
+            "date": "2024-11-19",
             "value": 14.2
           },
           {
-            "date": "2024-12-18",
+            "date": "2024-12-19",
             "value": 14.6
           },
           {
-            "date": "2025-01-18",
+            "date": "2025-01-19",
             "value": 14.2
           },
           {
@@ -77520,135 +77524,135 @@
         ],
         "National Alliance": [
           {
-            "date": "2015-02-18",
+            "date": "2015-02-19",
             "value": 7.7
           },
           {
-            "date": "2015-04-18",
+            "date": "2015-04-19",
             "value": 9.0
           },
           {
-            "date": "2015-08-18",
+            "date": "2015-08-19",
             "value": 10.0
           },
           {
-            "date": "2015-10-18",
+            "date": "2015-10-19",
             "value": 7.9
           },
           {
-            "date": "2015-11-18",
+            "date": "2015-11-19",
             "value": 8.2
           },
           {
-            "date": "2015-12-18",
+            "date": "2015-12-19",
             "value": 8.7
           },
           {
-            "date": "2016-01-18",
+            "date": "2016-01-19",
             "value": 8.1
           },
           {
-            "date": "2016-02-18",
+            "date": "2016-02-19",
             "value": 8.5
           },
           {
-            "date": "2016-03-18",
+            "date": "2016-03-19",
             "value": 9.0
           },
           {
-            "date": "2016-04-18",
+            "date": "2016-04-19",
             "value": 8.1
           },
           {
-            "date": "2016-05-18",
+            "date": "2016-05-19",
             "value": 6.2
           },
           {
-            "date": "2016-06-18",
+            "date": "2016-06-19",
             "value": 7.8
           },
           {
-            "date": "2016-07-18",
+            "date": "2016-07-19",
             "value": 8.1
           },
           {
-            "date": "2016-08-18",
+            "date": "2016-08-19",
             "value": 7.5
           },
           {
-            "date": "2016-09-18",
+            "date": "2016-09-19",
             "value": 7.3
           },
           {
-            "date": "2016-12-18",
+            "date": "2016-12-19",
             "value": 7.4
           },
           {
-            "date": "2017-01-18",
+            "date": "2017-01-19",
             "value": 6.9
           },
           {
-            "date": "2017-03-18",
+            "date": "2017-03-19",
             "value": 7.9
           },
           {
-            "date": "2017-04-18",
+            "date": "2017-04-19",
             "value": 6.4
           },
           {
-            "date": "2017-06-18",
+            "date": "2017-06-19",
             "value": 5.4
           },
           {
-            "date": "2017-07-18",
+            "date": "2017-07-19",
             "value": 5.8
           },
           {
-            "date": "2017-08-18",
+            "date": "2017-08-19",
             "value": 6.8
           },
           {
-            "date": "2017-09-18",
+            "date": "2017-09-19",
             "value": 7.6
           },
           {
-            "date": "2017-10-18",
+            "date": "2017-10-19",
             "value": 9.5
           },
           {
-            "date": "2017-11-18",
+            "date": "2017-11-19",
             "value": 7.0
           },
           {
-            "date": "2017-12-18",
+            "date": "2017-12-19",
             "value": 7.3
           },
           {
-            "date": "2018-01-18",
+            "date": "2018-01-19",
             "value": 5.8
           },
           {
-            "date": "2018-02-18",
+            "date": "2018-02-19",
             "value": 7.8
           },
           {
-            "date": "2018-03-18",
+            "date": "2018-03-19",
             "value": 6.3
           },
           {
-            "date": "2018-04-18",
+            "date": "2018-04-19",
             "value": 8.3
           },
           {
-            "date": "2018-05-18",
+            "date": "2018-05-19",
             "value": 8.05
           },
           {
-            "date": "2018-06-18",
+            "date": "2018-06-19",
             "value": 6.1
           },
           {
-            "date": "2018-07-18",
+            "date": "2018-07-19",
             "value": 6.8
           },
           {
@@ -78040,83 +78044,83 @@
             "value": 11.1
           },
           {
-            "date": "2023-01-18",
+            "date": "2023-01-19",
             "value": 10.4
           },
           {
-            "date": "2023-03-18",
+            "date": "2023-03-19",
             "value": 10.9
           },
           {
-            "date": "2023-04-18",
+            "date": "2023-04-19",
             "value": 10.0
           },
           {
-            "date": "2023-05-18",
+            "date": "2023-05-19",
             "value": 10.6
           },
           {
-            "date": "2023-06-18",
+            "date": "2023-06-19",
             "value": 10.2
           },
           {
-            "date": "2023-07-18",
+            "date": "2023-07-19",
             "value": 8.8
           },
           {
-            "date": "2023-08-18",
+            "date": "2023-08-19",
             "value": 8.7
           },
           {
-            "date": "2023-09-18",
+            "date": "2023-09-19",
             "value": 12.0
           },
           {
-            "date": "2023-10-18",
+            "date": "2023-10-19",
             "value": 12.9
           },
           {
-            "date": "2023-11-18",
+            "date": "2023-11-19",
             "value": 10.1
           },
           {
-            "date": "2023-12-18",
+            "date": "2023-12-19",
             "value": 13.1
           },
           {
-            "date": "2024-01-18",
+            "date": "2024-01-19",
             "value": 13.0
           },
           {
-            "date": "2024-03-18",
+            "date": "2024-03-19",
             "value": 13.9
           },
           {
-            "date": "2024-04-18",
+            "date": "2024-04-19",
             "value": 14.5
           },
           {
-            "date": "2024-06-18",
+            "date": "2024-06-19",
             "value": 16.1
           },
           {
-            "date": "2024-08-18",
+            "date": "2024-08-19",
             "value": 16.1
           },
           {
-            "date": "2024-10-18",
+            "date": "2024-10-19",
             "value": 15.2
           },
           {
-            "date": "2024-11-18",
+            "date": "2024-11-19",
             "value": 16.2
           },
           {
-            "date": "2024-12-18",
+            "date": "2024-12-19",
             "value": 18.0
           },
           {
-            "date": "2025-01-18",
+            "date": "2025-01-19",
             "value": 18.1
           },
           {
@@ -78498,7 +78502,7 @@
         "Spartans",
         "Voice of Reason"
       ],
-      "latestSupport": 16.400000000000002,
+      "latestSupport": 15.100000000000001,
       "seriesByParty": {
         "Golden Dawn": [
           {
@@ -81602,6 +81606,10 @@
           {
             "date": "2026-01-12",
             "value": 7.13
+          },
+          {
+            "date": "2026-01-15",
+            "value": 11.8
           }
         ],
         "Independent Greeks": [
@@ -83668,6 +83676,10 @@
           {
             "date": "2026-01-12",
             "value": 1.37
+          },
+          {
+            "date": "2026-01-15",
+            "value": 2.0
           }
         ],
         "Spartans": [
@@ -84728,10 +84740,14 @@
           {
             "date": "2026-01-12",
             "value": 4.0
+          },
+          {
+            "date": "2026-01-15",
+            "value": 2.1
           }
         ]
       },
-      "latestUpdate": "2026-01-12",
+      "latestUpdate": "2026-01-15",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
@@ -85529,7 +85545,7 @@
         "Brothers of Italy",
         "Lega"
       ],
-      "latestSupport": 39.13333333333333,
+      "latestSupport": 38.4,
       "seriesByParty": {
         "Brothers of Italy": [
           {
@@ -89678,7 +89694,7 @@
           },
           {
             "date": "2018-10-01",
-            "value": 3.97
+            "value": 3.98
           },
           {
             "date": "2018-10-02",
@@ -95215,6 +95231,14 @@
           {
             "date": "2026-01-12",
             "value": 30.9
+          },
+          {
+            "date": "2026-01-13",
+            "value": 28.6
+          },
+          {
+            "date": "2026-01-19",
+            "value": 31.1
           }
         ],
         "CasaPound": [
@@ -102741,6 +102765,14 @@
           {
             "date": "2026-01-12",
             "value": 8.3
+          },
+          {
+            "date": "2026-01-13",
+            "value": 8.3
+          },
+          {
+            "date": "2026-01-19",
+            "value": 8.0
           }
         ],
         "Lega Nord": [
@@ -106550,7 +106582,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-12",
+      "latestUpdate": "2026-01-19",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
@@ -116474,7 +116506,7 @@
         "Confederation of the Polish Crown",
         "Law and Justice"
       ],
-      "latestSupport": 46.76666666666667,
+      "latestSupport": 46.699999999999996,
       "seriesByParty": {
         "Confederation Liberty and Independence": [
           {
@@ -120068,6 +120100,10 @@
           {
             "date": "2026-01-14",
             "value": 12.8
+          },
+          {
+            "date": "2026-01-18",
+            "value": 14.0
           }
         ],
         "Confederation of the Polish Crown": [
@@ -120310,6 +120346,10 @@
           {
             "date": "2026-01-14",
             "value": 7.4
+          },
+          {
+            "date": "2026-01-18",
+            "value": 7.1
           }
         ],
         "Law and Justice": [
@@ -122052,6 +122092,10 @@
           {
             "date": "2026-01-14",
             "value": 25.8
+          },
+          {
+            "date": "2026-01-18",
+            "value": 26.2
           }
         ],
         "New Hope": [
@@ -125777,7 +125821,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-14",
+      "latestUpdate": "2026-01-18",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
@@ -125797,55 +125841,55 @@
       "seriesByParty": {
         "For the Future of Montenegro": [
           {
-            "date": "2020-08-18",
+            "date": "2020-08-19",
             "value": 32.5
           },
           {
-            "date": "2020-09-18",
+            "date": "2020-09-19",
             "value": 27.8
           },
           {
-            "date": "2020-10-18",
+            "date": "2020-10-19",
             "value": 28.8
           },
           {
-            "date": "2021-06-18",
+            "date": "2021-06-19",
             "value": 18.7
           },
           {
-            "date": "2021-12-18",
+            "date": "2021-12-19",
             "value": 20.4
           },
           {
-            "date": "2022-01-18",
+            "date": "2022-01-19",
             "value": 15.0
           },
           {
-            "date": "2022-05-18",
+            "date": "2022-05-19",
             "value": 17.9
           },
           {
-            "date": "2022-06-18",
+            "date": "2022-06-19",
             "value": 14.0
           },
           {
-            "date": "2022-09-18",
+            "date": "2022-09-19",
             "value": 12.3
           },
           {
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "value": 14.2
           },
           {
-            "date": "2023-02-18",
+            "date": "2023-02-19",
             "value": 19.65
           },
           {
-            "date": "2023-04-18",
+            "date": "2023-04-19",
             "value": 17.0
           },
           {
-            "date": "2023-05-18",
+            "date": "2023-05-19",
             "value": 14.25
           },
           {
@@ -138474,7 +138518,7 @@
       "activeParties": [
         "Chega"
       ],
-      "latestSupport": 23.366666666666664,
+      "latestSupport": 23.733333333333334,
       "seriesByParty": {
         "Chega": [
           {
@@ -139628,10 +139672,14 @@
           {
             "date": "2025-12-19",
             "value": 22.6
+          },
+          {
+            "date": "2026-01-13",
+            "value": 25.1
           }
         ]
       },
-      "latestUpdate": "2025-12-19",
+      "latestUpdate": "2026-01-13",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
@@ -140043,5 +140091,5 @@
     }
   },
   "parties": {},
-  "updatedAt": "2026-01-18T23:39:15Z"
+  "updatedAt": "2026-01-19T23:39:02Z"
 }

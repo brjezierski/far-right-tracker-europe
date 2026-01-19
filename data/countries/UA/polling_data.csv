@@ -1,83 +1,4 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2016-06-14,#cite note-7,3.6,,,
-2016-07-07,#cite note-7,4.6,,,
-2016-07-08,#cite note-7,6.2,,,
-2016-07-16,#cite note-7,5.1,,,
-2016-08-23,#cite note-7,3.1,,,
-2016-09-05,#cite note-7,6.8,,,
-2016-09-26,#cite note-7,1.9,,,
-2016-10-07,#cite note-7,2.0,,,
-2016-11-09,#cite note-ReferenceA-3,64.0,,,
-2016-11-13,#cite note-ReferenceA-3,44.0,,,
-2016-11-17,#cite note-ReferenceA-3,59.0,,,
-2016-11-28,#cite note-ReferenceA-3,47.0,,,
-2016-12-02,#cite note-ReferenceA-3,65.0,,,
-2016-12-12,#cite note-ReferenceA-3,54.0,,,
-2016-12-18,#cite note-ReferenceA-3,60.0,,,
-2016-12-20,#cite note-ReferenceA-3,64.0,,,
-2017-02-25,#cite note-ReferenceA-3,40.7,,,
-2017-04-12,#cite note-ReferenceA-3,63.5,,,
-2017-04-26,#cite note-ReferenceA-3,64.0,,,
-2017-05-05,#cite note-ReferenceA-3,59.0,,,
-2017-05-20,#cite note-ReferenceA-3,61.0,,,
-2017-05-25,#cite note-ReferenceA-3,62.0,,,
-2017-05-31,#cite note-ReferenceA-3,59.0,,,
-2017-06-01,#cite note-ReferenceA-3,62.0,,,
-2017-06-13,#cite note-ReferenceA-3,61.0,,,
-2017-07-07,#cite note-ReferenceA-3,52.0,,,
-2017-07-19,#cite note-ReferenceA-3,54.0,,,
-2017-07-29,#cite note-ReferenceA-3,52.0,,,
-2017-08-12,#cite note-ReferenceA-3,46.0,,,
-2017-09-17,#cite note-ReferenceA-3,67.0,,,
-2017-09-25,#cite note-ReferenceA-3,54.0,,,
-2017-10-10,#cite note-ReferenceA-3,48.0,,,
-2017-10-11,#cite note-ReferenceA-3,69.8,,,
-2017-10-13,#cite note-ReferenceA-3,55.6,,,
-2017-11-24,#cite note-ReferenceA-3,55.0,,,
-2017-12-14,#cite note-ReferenceA-3,43.0,,,
-2017-12-14,#cite note-ReferenceA-3,65.0,,,
-2017-12-14,#cite note-ReferenceA-3,57.0,,,
-2017-12-19,#cite note-ReferenceA-3,49.0,,,
-2018-02-21,#cite note-ReferenceA-3,65.7,,,
-2018-03-18,#cite note-ReferenceA-3,48.2,,,
-2018-03-31,#cite note-ReferenceA-3,51.0,,,
-2018-04-22,#cite note-ReferenceA-3,62.8,,,
-2018-04-25,#cite note-ReferenceA-3,62.8,,,
-2018-04-30,#cite note-ReferenceA-3,61.0,,,
-2018-05-04,#cite note-ReferenceA-3,54.0,,,
-2018-05-22,#cite note-ReferenceA-3,76.8,,,
-2018-05-25,#cite note-ReferenceA-3,49.0,,,
-2018-06-21,#cite note-ReferenceA-3,67.2,,,
-2018-06-24,#cite note-ReferenceA-3,73.2,,,
-2018-06-24,#cite note-ReferenceA-3,52.0,,,
-2018-06-29,#cite note-ReferenceA-3,56.0,,,
-2018-07-08,#cite note-ReferenceA-3,67.5,,,
-2018-07-11,#cite note-ReferenceA-3,71.0,,,
-2018-08-03,#cite note-ReferenceA-3,58.0,,,
-2018-09-18,#cite note-ReferenceA-3,75.0,,,
-2018-09-18,#cite note-ReferenceA-3,68.5,,,
-2018-09-18,#cite note-ReferenceA-3,40.0,,,
-2018-09-23,#cite note-ReferenceA-3,47.0,,,
-2018-09-29,#cite note-ReferenceA-3,49.0,,,
-2018-10-06,#cite note-ReferenceA-3,55.0,,,
-2018-10-16,#cite note-ReferenceA-3,72.3,,,
-2018-11-02,#cite note-ReferenceA-3,59.0,,,
-2018-11-16,#cite note-ReferenceA-3,56.6,,,
-2018-11-22,#cite note-ReferenceA-3,61.0,,,
-2018-12-03,#cite note-ReferenceA-3,56.0,,,
-2018-12-06,#cite note-ReferenceA-3,62.0,,,
-2018-12-10,#cite note-ReferenceA-3,71.0,,,
-2018-12-10,#cite note-ReferenceA-3,60.0,,,
-2018-12-18,#cite note-ReferenceA-3,56.0,,,
-2018-12-22,#cite note-ReferenceA-3,55.0,,,
-2018-12-25,#cite note-ReferenceA-3,59.0,,,
-2018-12-25,#cite note-ReferenceA-3,65.0,,,
-2019-01-22,#cite note-ReferenceA-3,46.0,,,
-2019-01-25,#cite note-ReferenceA-3,39.0,,,
-2019-01-30,#cite note-ReferenceA-3,63.0,,,
-2019-02-10,#cite note-ReferenceA-3,44.0,,,
-2019-02-14,#cite note-ReferenceA-3,74.0,,,
-2019-02-26,#cite note-ReferenceA-3,63.0,,,
 2018-09-29,Agrarian Party of Ukraine,2.2,Centre to centre-right,Agrarianism Liberal conservatism,https://en.wikipedia.org/wiki/Agrarian_Party_of_Ukraine
 2018-10-06,Agrarian Party of Ukraine,1.3,Centre to centre-right,Agrarianism Liberal conservatism,https://en.wikipedia.org/wiki/Agrarian_Party_of_Ukraine
 2018-10-14,Agrarian Party of Ukraine,2.0,Centre to centre-right,Agrarianism Liberal conservatism,https://en.wikipedia.org/wiki/Agrarian_Party_of_Ukraine
@@ -400,6 +321,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,Batkivshchyna,4.8,Centre-left Faction: Centre to centre-right,Populism Social democracy National Democracy Ukrainian nationalism Pro-Europeanism Faction: Conservatism,https://en.wikipedia.org/wiki/Batkivshchyna
 2025-12-13,Batkivshchyna,5.0,Centre-left Faction: Centre to centre-right,Populism Social democracy National Democracy Ukrainian nationalism Pro-Europeanism Faction: Conservatism,https://en.wikipedia.org/wiki/Batkivshchyna
 2025-12-18,Batkivshchyna,6.6,Centre-left Faction: Centre to centre-right,Populism Social democracy National Democracy Ukrainian nationalism Pro-Europeanism Faction: Conservatism,https://en.wikipedia.org/wiki/Batkivshchyna
+2025-12-26,Batkivshchyna,3.8,Centre-left Faction: Centre to centre-right,Populism Social democracy National Democracy Ukrainian nationalism Pro-Europeanism Faction: Conservatism,https://en.wikipedia.org/wiki/Batkivshchyna
 2014-11-13,Civil Position,1.7,Centre,Conservatism Economic liberalism Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Position
 2015-03-11,Civil Position,4.8,Centre,Conservatism Economic liberalism Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Position
 2015-03-12,Civil Position,4.7,Centre,Conservatism Economic liberalism Centrism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Position
@@ -645,15 +567,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-09-05,Democratic Alliance,0.6,Centre-right,Christian democracy,https://en.wikipedia.org/wiki/Democratic_Alliance_(Ukraine)
 2016-09-26,Democratic Alliance,1.0,Centre-right,Christian democracy,https://en.wikipedia.org/wiki/Democratic_Alliance_(Ukraine)
 2016-10-07,Democratic Alliance,0.9,Centre-right,Christian democracy,https://en.wikipedia.org/wiki/Democratic_Alliance_(Ukraine)
-2024-12-17,Denys Prokopenko,16.5,,,
-2025-02-09,Denys Prokopenko,17.1,,,
-2025-03-04,Denys Prokopenko,19.2,,,
-2025-06-03,Denys Prokopenko,19.9,,,
-2025-06-11,Denys Prokopenko,4.9,,,
-2025-09-14,Denys Prokopenko,12.8,,,
-2025-10-16,Denys Prokopenko,3.5,,,
-2025-12-13,Denys Prokopenko,5.0,,,
-2025-12-18,Denys Prokopenko,4.9,,,
 2014-11-13,European Solidarity,23.5,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
 2015-03-11,European Solidarity,26.7,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
 2015-03-12,European Solidarity,24.4,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
@@ -970,32 +883,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,European Solidarity,8.8,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
 2025-12-13,European Solidarity,16.2,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
 2025-12-18,European Solidarity,8.6,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
-2014-11-13,File:Radical Party of Oleh Lyashko logo.png,7.0,,,
-2015-03-11,File:Radical Party of Oleh Lyashko logo.png,8.4,,,
-2015-03-12,File:Radical Party of Oleh Lyashko logo.png,7.8,,,
-2015-05-29,File:Radical Party of Oleh Lyashko logo.png,12.0,,,
-2015-06-13,File:Radical Party of Oleh Lyashko logo.png,7.9,,,
-2015-07-09,File:Radical Party of Oleh Lyashko logo.png,10.2,,,
-2015-09-27,File:Radical Party of Oleh Lyashko logo.png,7.4,,,
-2015-10-12,File:Radical Party of Oleh Lyashko logo.png,6.1,,,
-2015-12-10,File:Radical Party of Oleh Lyashko logo.png,7.9,,,
-2016-01-22,File:Radical Party of Oleh Lyashko logo.png,5.5,,,
-2016-01-22,File:Radical Party of Oleh Lyashko logo.png,8.2,,,
-2016-02-16,File:Radical Party of Oleh Lyashko logo.png,10.3,,,
-2016-02-17,File:Radical Party of Oleh Lyashko logo.png,12.5,,,
-2016-02-24,File:Radical Party of Oleh Lyashko logo.png,6.6,,,
-2016-03-08,File:Radical Party of Oleh Lyashko logo.png,11.6,,,
-2016-04-26,File:Radical Party of Oleh Lyashko logo.png,10.3,,,
-2016-05-16,File:Radical Party of Oleh Lyashko logo.png,10.1,,,
-2016-06-02,File:Radical Party of Oleh Lyashko logo.png,11.2,,,
-2016-06-14,File:Radical Party of Oleh Lyashko logo.png,9.9,,,
-2016-07-07,File:Radical Party of Oleh Lyashko logo.png,10.0,,,
-2016-07-08,File:Radical Party of Oleh Lyashko logo.png,10.2,,,
-2016-07-16,File:Radical Party of Oleh Lyashko logo.png,13.7,,,
-2016-08-23,File:Radical Party of Oleh Lyashko logo.png,11.0,,,
-2016-09-05,File:Radical Party of Oleh Lyashko logo.png,9.4,,,
-2016-09-26,File:Radical Party of Oleh Lyashko logo.png,9.6,,,
-2016-10-07,File:Radical Party of Oleh Lyashko logo.png,11.2,,,
+2025-12-26,European Solidarity,6.1,Centre-right,Liberal conservatism National Democracy Decentralisation Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/European_Solidarity
 2020-06-28,For the Future,1.7,Centre-right [ citation needed ],Liberalism Economic nationalism Populism,https://en.wikipedia.org/wiki/For_the_Future_(political_party)
 2020-06-30,For the Future,0.6,Centre-right [ citation needed ],Liberalism Economic nationalism Populism,https://en.wikipedia.org/wiki/For_the_Future_(political_party)
 2020-07-15,For the Future,0.7,Centre-right [ citation needed ],Liberalism Economic nationalism Populism,https://en.wikipedia.org/wiki/For_the_Future_(political_party)
@@ -1253,28 +1141,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-21,Holos,1.3,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Holos_(political_party)
 2022-03-28,Holos,0.6,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Holos_(political_party)
 2022-08-16,Holos,0.7,Centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Holos_(political_party)
-2024-11-21,Kyrylo Budanov,7.0,,,
-2024-12-17,Kyrylo Budanov,5.6,,,
-2025-02-09,Kyrylo Budanov,3.8,,,
-2025-02-09,Kyrylo Budanov,4.5,,,
-2025-03-04,Kyrylo Budanov,8.5,,,
-2025-06-03,Kyrylo Budanov,6.1,,,
-2025-06-11,Kyrylo Budanov,6.9,,,
-2025-07-27,Kyrylo Budanov,8.0,,,
-2025-08-23,Kyrylo Budanov,6.4,,,
-2025-09-14,Kyrylo Budanov,6.7,,,
-2025-10-16,Kyrylo Budanov,7.4,,,
-2025-12-13,Kyrylo Budanov,10.4,,,
-2025-12-18,Kyrylo Budanov,10.5,,,
-2016-01-22,Mikheil Saakashvili,11.6,,,
-2016-01-22,Mikheil Saakashvili,11.6,,,
-2016-02-16,Mikheil Saakashvili,3.6,,,
-2016-02-17,Mikheil Saakashvili,12.2,,,
-2016-02-24,Mikheil Saakashvili,5.8,,,
-2016-03-08,Mikheil Saakashvili,4.5,,,
-2016-04-26,Mikheil Saakashvili,6.6,,,
-2016-05-16,Mikheil Saakashvili,3.2,,,
-2016-06-02,Mikheil Saakashvili,2.8,,,
 2016-11-09,Movement of New Forces,2.5,Centre,Liberalism Pro-Europeanism Anti-corruption,https://en.wikipedia.org/wiki/Movement_of_New_Forces
 2016-11-13,Movement of New Forces,3.0,Centre,Liberalism Pro-Europeanism Anti-corruption,https://en.wikipedia.org/wiki/Movement_of_New_Forces
 2016-11-17,Movement of New Forces,3.1,Centre,Liberalism Pro-Europeanism Anti-corruption,https://en.wikipedia.org/wiki/Movement_of_New_Forces
@@ -1424,16 +1290,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,National Corps,6.5,Far-right,Ukrainian nationalism Ultranationalism Euroscepticism Economic nationalism Right-wing populism Anti-Russian sentiment Third Position,https://en.wikipedia.org/wiki/National_Corps
 2025-12-13,National Corps,11.9,Far-right,Ukrainian nationalism Ultranationalism Euroscepticism Economic nationalism Right-wing populism Anti-Russian sentiment Third Position,https://en.wikipedia.org/wiki/National_Corps
 2025-12-18,National Corps,6.1,Far-right,Ukrainian nationalism Ultranationalism Euroscepticism Economic nationalism Right-wing populism Anti-Russian sentiment Third Position,https://en.wikipedia.org/wiki/National_Corps
-2024-03-01,Oleksii Arestovych,1.5,,,
-2024-11-21,Oleksii Arestovych,1.0,,,
-2024-12-17,Oleksii Arestovych,0.7,,,
-2025-02-09,Oleksii Arestovych,2.3,,,
-2025-03-04,Oleksii Arestovych,1.5,,,
-2025-06-03,Oleksii Arestovych,1.2,,,
-2025-07-27,Oleksii Arestovych,1.0,,,
-2025-08-23,Oleksii Arestovych,0.9,,,
-2025-09-14,Oleksii Arestovych,1.3,,,
-2025-12-13,Oleksii Arestovych,1.1,,,
+2025-12-26,National Corps,3.5,Far-right,Ukrainian nationalism Ultranationalism Euroscepticism Economic nationalism Right-wing populism Anti-Russian sentiment Third Position,https://en.wikipedia.org/wiki/National_Corps
 2014-11-13,Opposition Bloc,8.5,Centre to centre-left,Social liberalism Regionalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Opposition_Bloc
 2015-03-11,Opposition Bloc,10.2,Centre to centre-left,Social liberalism Regionalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Opposition_Bloc
 2015-03-12,Opposition Bloc,11.8,Centre to centre-left,Social liberalism Regionalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Opposition_Bloc
@@ -2732,6 +2589,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,Serhiy Prytula,3.6,Holos (2019–2022),,https://en.wikipedia.org/wiki/Serhiy_Prytula
 2025-12-13,Serhiy Prytula,6.4,Holos (2019–2022),,https://en.wikipedia.org/wiki/Serhiy_Prytula
 2025-12-18,Serhiy Prytula,2.6,Holos (2019–2022),,https://en.wikipedia.org/wiki/Serhiy_Prytula
+2025-12-26,Serhiy Prytula,2.1,Holos (2019–2022),,https://en.wikipedia.org/wiki/Serhiy_Prytula
 2017-12-14,Servant of the People,4.0,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
 2018-03-31,Servant of the People,6.0,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
 2018-04-19,Servant of the People,8.4,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
@@ -2978,6 +2836,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,Servant of the People,21.3,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
 2025-12-13,Servant of the People,11.3,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
 2025-12-18,Servant of the People,16.8,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
+2025-12-26,Servant of the People,16.1,Centre,Liberalism ( Ukraine ) Valence populism,https://en.wikipedia.org/wiki/Servant_of_the_People_(political_party)
 2021-10-27,Smart Politics,8.2,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
 2021-10-29,Smart Politics,4.5,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
 2021-11-04,Smart Politics,5.7,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
@@ -3020,6 +2879,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-16,Smart Politics,4.5,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
 2025-12-13,Smart Politics,8.7,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
 2025-12-18,Smart Politics,5.6,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
+2025-12-26,Smart Politics,5.3,,Anti-corruption Reformism,https://en.wikipedia.org/wiki/Smart_Politics_(Ukraine)
 2019-04-14,Strength and Honor,5.0,Centre-right,Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strength_and_Honor_(political_party)
 2019-05-10,Strength and Honor,5.1,Centre-right,Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strength_and_Honor_(political_party)
 2019-05-21,Strength and Honor,5.1,Centre-right,Conservatism Constitutional democracy Fiscal conservatism Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strength_and_Honor_(political_party)
@@ -3482,6 +3342,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-08-23,Svoboda,2.1,Far-right,Neo-fascism Ultranationalism Ukrainian nationalism Ethnic nationalism Right-wing populism National conservatism Anti-Russian sentiment Anti-communism,https://en.wikipedia.org/wiki/Svoboda_(political_party)
 2025-09-14,Svoboda,2.9,Far-right,Neo-fascism Ultranationalism Ukrainian nationalism Ethnic nationalism Right-wing populism National conservatism Anti-Russian sentiment Anti-communism,https://en.wikipedia.org/wiki/Svoboda_(political_party)
 2025-12-13,Svoboda,1.9,Far-right,Neo-fascism Ultranationalism Ukrainian nationalism Ethnic nationalism Right-wing populism National conservatism Anti-Russian sentiment Anti-communism,https://en.wikipedia.org/wiki/Svoboda_(political_party)
+2025-12-26,Svoboda,0.5,Far-right,Neo-fascism Ultranationalism Ukrainian nationalism Ethnic nationalism Right-wing populism National conservatism Anti-Russian sentiment Anti-communism,https://en.wikipedia.org/wiki/Svoboda_(political_party)
 2015-09-27,UKROP,2.2,,Ukrainian nationalism Social market economy,https://en.wikipedia.org/wiki/UKROP
 2015-10-12,UKROP,4.1,,Ukrainian nationalism Social market economy,https://en.wikipedia.org/wiki/UKROP
 2015-12-10,UKROP,5.1,,Ukrainian nationalism Social market economy,https://en.wikipedia.org/wiki/UKROP
@@ -3590,6 +3451,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-27,Ukrainian Democratic Alliance for Reform,1.0,Centre-right,Liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform
 2025-08-23,Ukrainian Democratic Alliance for Reform,0.8,Centre-right,Liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform
 2025-10-16,Ukrainian Democratic Alliance for Reform,2.2,Centre-right,Liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform
+2025-12-26,Ukrainian Democratic Alliance for Reform,0.9,Centre-right,Liberalism Civic nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Democratic_Alliance_for_Reform
 2019-05-31,Ukrainian Strategy of Groysman,1.5,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
 2019-06-03,Ukrainian Strategy of Groysman,1.3,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
 2019-06-06,Ukrainian Strategy of Groysman,1.1,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
@@ -3761,18 +3623,3 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-21,Ukrainian Strategy of Groysman,5.8,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
 2022-03-28,Ukrainian Strategy of Groysman,1.2,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
 2022-08-16,Ukrainian Strategy of Groysman,2.2,Centre to centre-left,Pro-Europeanism,https://en.wikipedia.org/wiki/Ukrainian_Strategy_of_Groysman
-2024-03-01,Valerii Zaluzhnyi,46.4,,,
-2024-11-21,Valerii Zaluzhnyi,34.0,,,
-2024-12-17,Valerii Zaluzhnyi,33.2,,,
-2025-02-09,Valerii Zaluzhnyi,27.1,,,
-2025-02-09,Valerii Zaluzhnyi,36.2,,,
-2025-03-04,Valerii Zaluzhnyi,28.4,,,
-2025-03-23,Valerii Zaluzhnyi,21.9,,,
-2025-06-03,Valerii Zaluzhnyi,25.3,,,
-2025-06-11,Valerii Zaluzhnyi,30.1,,,
-2025-07-27,Valerii Zaluzhnyi,22.0,,,
-2025-08-23,Valerii Zaluzhnyi,23.7,,,
-2025-09-14,Valerii Zaluzhnyi,23.5,,,
-2025-10-16,Valerii Zaluzhnyi,27.8,,,
-2025-12-13,Valerii Zaluzhnyi,19.9,,,
-2025-12-18,Valerii Zaluzhnyi,29.6,,,
