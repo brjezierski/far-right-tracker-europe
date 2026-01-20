@@ -9377,10 +9377,14 @@
       {
         "date": "2026-01-16",
         "value": 26.0
+      },
+      {
+        "date": "2026-01-19",
+        "value": 26.0
       }
     ]
   },
-  "latestUpdate": "2026-01-16",
+  "latestUpdate": "2026-01-19",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
