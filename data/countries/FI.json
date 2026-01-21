@@ -9,7 +9,7 @@
     "Finnish Reform Movement",
     "Finns Party"
   ],
-  "latestSupport": 14.133333333333333,
+  "latestSupport": 13.866666666666667,
   "seriesByParty": {
     "Finnish Reform Movement": [
       {
@@ -1393,10 +1393,14 @@
       {
         "date": "2026-01-02",
         "value": 15.1
+      },
+      {
+        "date": "2026-01-19",
+        "value": 13.4
       }
     ]
   },
-  "latestUpdate": "2026-01-02",
+  "latestUpdate": "2026-01-19",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",
