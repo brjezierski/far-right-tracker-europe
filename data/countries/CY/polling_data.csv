@@ -11,11 +11,13 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Active Citizens - Movement of Cypriot United Hunters,1.6,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
 2025-11-13,Active Citizens - Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
 2025-12-03,Active Citizens - Movement of Cypriot United Hunters,1.4,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
+2026-01-16,Active Citizens - Movement of Cypriot United Hunters,1.3,,Pro- hunting Environmentalism Agrarianism Social conservatism,https://en.wikipedia.org/wiki/Active_Citizens_%E2%80%93_Movement_of_Cypriot_United_Hunters
 2024-02-16,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
 2024-10-16,Animal Party Cyprus,1.2,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
 2024-11-01,Animal Party Cyprus,0.9,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
 2025-08-11,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
 2025-10-17,Animal Party Cyprus,1.4,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
+2026-01-16,Animal Party Cyprus,0.7,Single-issue,Animal rights Animal welfare,https://en.wikipedia.org/wiki/Animal_Party_Cyprus
 2020-10-23,Democratic Alignment,2.5,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
 2021-01-25,Democratic Alignment,4.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
 2021-02-06,Democratic Alignment,2.8,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
@@ -56,6 +58,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Democratic Alignment,1.2,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
 2025-11-13,Democratic Alignment,1.4,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
 2025-12-03,Democratic Alignment,1.3,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
+2026-01-16,Democratic Alignment,1.6,Centre,Liberalism Federalism,https://en.wikipedia.org/wiki/Democratic_Front_(Cyprus)
 2020-10-23,Democratic Party,13.2,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
 2021-01-25,Democratic Party,12.0,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
 2021-02-06,Democratic Party,13.5,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
@@ -98,6 +101,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Democratic Party,8.6,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
 2025-11-13,Democratic Party,8.7,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
 2025-12-03,Democratic Party,8.1,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
+2026-01-16,Democratic Party,7.9,Centre,Greek Cypriot nationalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Cyprus)
 2020-10-23,Democratic Rally,30.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
 2021-01-25,Democratic Rally,30.0,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
 2021-02-06,Democratic Rally,28.4,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
@@ -140,6 +144,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Democratic Rally,22.1,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
 2025-11-13,Democratic Rally,23.2,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
 2025-12-03,Democratic Rally,23.5,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
+2026-01-16,Democratic Rally,22.8,Centre-right to right-wing,Christian democracy Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Rally
 2020-10-23,EDEK Socialist Party,6.2,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 2021-01-25,EDEK Socialist Party,4.8,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 2021-02-06,EDEK Socialist Party,5.4,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
@@ -182,6 +187,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,EDEK Socialist Party,2.3,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 2025-11-13,EDEK Socialist Party,2.9,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 2025-12-03,EDEK Socialist Party,2.1,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
+2026-01-16,EDEK Socialist Party,1.5,Centre-left,Social democracy Greek Cypriot nationalism,https://en.wikipedia.org/wiki/Movement_for_Social_Democracy
 2020-10-23,ELAM,6.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2021-01-25,ELAM,4.8,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2021-02-06,ELAM,6.7,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
@@ -224,11 +230,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,ELAM,16.2,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2025-11-13,ELAM,13.0,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2025-12-03,ELAM,16.4,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
-2025-09-22,Fidias Panayiotou,3.4,,,
-2025-10-17,Fidias Panayiotou,6.1,,,
-2025-11-10,Fidias Panayiotou,6.9,,,
-2025-11-13,Fidias Panayiotou,8.7,,,
-2025-12-03,Fidias Panayiotou,9.2,,,
+2026-01-16,ELAM,16.5,Far-right,Greek ultranationalism Euroscepticism Neo-Metaxism Neo-fascism,https://en.wikipedia.org/wiki/ELAM_(Cyprus)
 2021-02-06,Generation Change,3.3,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
 2021-02-19,Generation Change,3.0,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
 2021-03-02,Generation Change,3.4,Centre-left,Liberalism Social liberalism,https://en.wikipedia.org/wiki/Generation_Change
@@ -289,17 +291,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Movement of Ecologists - Citizens' Cooperation,3.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
 2025-11-13,Movement of Ecologists - Citizens' Cooperation,2.9,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
 2025-12-03,Movement of Ecologists - Citizens' Cooperation,2.3,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
-2024-10-16,Odysseas Michaelides,20.1,,,
-2025-03-11,Odysseas Michaelides,13.9,,,
-2025-03-21,Odysseas Michaelides,11.25,,,
-2025-06-28,Odysseas Michaelides,14.8,,,
-2025-07-08,Odysseas Michaelides,15.1,,,
-2025-08-11,Odysseas Michaelides,12.3,,,
-2025-09-22,Odysseas Michaelides,12.5,,,
-2025-10-17,Odysseas Michaelides,8.2,,,
-2025-11-10,Odysseas Michaelides,12.2,,,
-2025-11-13,Odysseas Michaelides,10.1,,,
-2025-12-03,Odysseas Michaelides,10.0,,,
+2026-01-16,Movement of Ecologists - Citizens' Cooperation,1.0,Centre-left,Green politics Anti-federalism,https://en.wikipedia.org/wiki/Ecological_and_Environmental_Movement
 2020-10-23,Progressive Party of Working People,26.1,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
 2021-01-25,Progressive Party of Working People,20.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
 2021-02-06,Progressive Party of Working People,24.5,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
@@ -342,6 +334,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Progressive Party of Working People,21.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
 2025-11-13,Progressive Party of Working People,20.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
 2025-12-03,Progressive Party of Working People,22.3,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
+2026-01-16,Progressive Party of Working People,21.8,Left-wing to far-left,Communism Marxism–Leninism Cypriotism Federalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Progressive_Party_of_Working_People
 2020-10-23,Solidarity Movement,1.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
 2021-01-25,Solidarity Movement,4.8,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
 2021-02-06,Solidarity Movement,0.9,Right-wing,Greek Cypriot nationalism National conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Solidarity_Movement_(Cyprus)
@@ -382,3 +375,4 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-10,Volt Cyprus,3.7,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
 2025-11-13,Volt Cyprus,2.9,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
 2025-12-03,Volt Cyprus,2.4,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus
+2026-01-16,Volt Cyprus,4.0,,Pro-Europeanism European federalism United Cyprus Progressivism,https://en.wikipedia.org/wiki/Volt_Cyprus

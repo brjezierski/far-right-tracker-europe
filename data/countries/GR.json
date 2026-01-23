@@ -19,7 +19,7 @@
     "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 16.633333333333333,
+  "latestSupport": 17.03333333333333,
   "seriesByParty": {
     "Golden Dawn": [
       {
@@ -3135,6 +3135,10 @@
       {
         "date": "2026-01-19",
         "value": 9.5
+      },
+      {
+        "date": "2026-01-20",
+        "value": 10.7
       }
     ],
     "Independent Greeks": [
@@ -5213,6 +5217,10 @@
       {
         "date": "2026-01-19",
         "value": 2.0
+      },
+      {
+        "date": "2026-01-20",
+        "value": 2.5
       }
     ],
     "Spartans": [
@@ -5699,6 +5707,10 @@
       {
         "date": "2026-01-19",
         "value": 1.0
+      },
+      {
+        "date": "2026-01-20",
+        "value": 0.6
       }
     ],
     "Voice of Reason": [
@@ -6293,10 +6305,14 @@
       {
         "date": "2026-01-19",
         "value": 4.0
+      },
+      {
+        "date": "2026-01-20",
+        "value": 3.3
       }
     ]
   },
-  "latestUpdate": "2026-01-19",
+  "latestUpdate": "2026-01-20",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",

@@ -943,6 +943,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Citizens' Party,2.3,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark)
 2026-01-11,Citizens' Party,1.5,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark)
 2026-01-18,Citizens' Party,1.6,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark)
+2026-01-22,Citizens' Party,1.3,Far-right,Populism Anti-establishment,https://en.wikipedia.org/wiki/Citizens%27_Party_(Denmark)
 2011-10-06,Conservative People's Party,4.0,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
 2011-10-26,Conservative People's Party,4.0,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
 2011-11-03,Conservative People's Party,4.4,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
@@ -2072,6 +2073,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Conservative People's Party,7.9,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
 2026-01-11,Conservative People's Party,6.6,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
 2026-01-18,Conservative People's Party,6.9,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
+2026-01-22,Conservative People's Party,6.6,Centre-right,Conservatism Liberal conservatism Social conservatism Green conservatism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)
 2011-10-06,Danish People's Party,12.4,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
 2011-10-26,Danish People's Party,10.5,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
 2011-11-03,Danish People's Party,11.8,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
@@ -3201,6 +3203,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Danish People's Party,6.8,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
 2026-01-11,Danish People's Party,6.5,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
 2026-01-18,Danish People's Party,6.6,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
+2026-01-22,Danish People's Party,7.3,Right-wing to far-right,Danish nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Danish_People%27s_Party
 2011-10-06,Danish Social Liberal Party,10.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
 2011-10-26,Danish Social Liberal Party,9.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
 2011-11-03,Danish Social Liberal Party,9.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
@@ -4330,6 +4333,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Danish Social Liberal Party,5.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
 2026-01-11,Danish Social Liberal Party,5.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
 2026-01-18,Danish Social Liberal Party,4.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
+2026-01-22,Danish Social Liberal Party,5.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party
 2022-01-08,Denmark Democrats,0.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
 2022-01-16,Denmark Democrats,1.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
 2022-01-23,Denmark Democrats,1.7,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
@@ -4555,70 +4559,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Denmark Democrats,10.0,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
 2026-01-11,Denmark Democrats,10.3,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
 2026-01-18,Denmark Democrats,9.9,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
-2019-06-15,Electoral threshold,8.2,,,
-2019-06-23,Electoral threshold,6.6,,,
-2019-06-30,Electoral threshold,6.1,,,
-2019-08-08,Electoral threshold,6.8,,,
-2019-08-10,Electoral threshold,10.1,,,
-2019-08-18,Electoral threshold,12.1,,,
-2019-08-26,Electoral threshold,13.2,,,
-2019-09-12,Electoral threshold,5.9,,,
-2019-09-15,Electoral threshold,14.0,,,
-2019-09-19,Electoral threshold,6.3,,,
-2019-09-22,Electoral threshold,14.1,,,
-2019-09-29,Electoral threshold,16.0,,,
-2019-10-07,Electoral threshold,14.6,,,
-2019-10-12,Electoral threshold,9.0,,,
-2019-10-27,Electoral threshold,10.0,,,
-2019-11-08,Electoral threshold,8.7,,,
-2019-11-10,Electoral threshold,11.6,,,
-2019-11-18,Electoral threshold,14.4,,,
-2019-11-25,Electoral threshold,14.2,,,
-2019-12-02,Electoral threshold,11.2,,,
-2019-12-08,Electoral threshold,9.6,,,
-2019-12-12,Electoral threshold,8.8,,,
-2019-12-15,Electoral threshold,11.4,,,
-2019-12-22,Electoral threshold,9.5,,,
-2020-03-07,Electoral threshold,8.4,,,
-2020-09-12,Electoral threshold,18.0,,,
-2020-09-20,Electoral threshold,17.5,,,
-2020-09-27,Electoral threshold,20.0,,,
-2020-09-28,Electoral threshold,8.1,,,
-2020-10-04,Electoral threshold,14.2,,,
-2020-10-04,Electoral threshold,7.0,,,
-2020-10-05,Electoral threshold,6.4,,,
-2020-10-10,Electoral threshold,11.4,,,
-2020-10-18,Electoral threshold,12.2,,,
-2020-10-25,Electoral threshold,7.1,,,
-2020-11-01,Electoral threshold,7.3,,,
-2020-11-07,Electoral threshold,8.7,,,
-2020-11-11,Electoral threshold,7.5,,,
-2020-11-12,Electoral threshold,4.9,,,
-2020-11-15,Electoral threshold,10.1,,,
-2020-11-22,Electoral threshold,7.3,,,
-2020-11-29,Electoral threshold,10.2,,,
-2020-12-05,Electoral threshold,11.6,,,
-2020-12-07,Electoral threshold,10.4,,,
-2020-12-08,Electoral threshold,7.4,,,
-2020-12-10,Electoral threshold,6.6,,,
-2020-12-12,Electoral threshold,11.9,,,
-2020-12-20,Electoral threshold,11.9,,,
-2021-11-14,Electoral threshold,2.3,,,
-2021-12-23,Electoral threshold,4.9,,,
-2022-07-03,Electoral threshold,14.0,,,
-2022-07-28,Electoral threshold,1.4,,,
-2022-08-05,Electoral threshold,0.5,,,
-2022-08-06,Electoral threshold,3.8,,,
-2022-08-07,Electoral threshold,1.9,,,
-2022-08-14,Electoral threshold,2.2,,,
-2022-08-21,Electoral threshold,3.4,,,
-2022-08-24,Electoral threshold,4.4,,,
-2022-08-28,Electoral threshold,1.4,,,
-2022-09-04,Electoral threshold,2.7,,,
-2022-09-11,Electoral threshold,3.2,,,
-2022-09-18,Electoral threshold,0.8,,,
-2022-09-20,Electoral threshold,0.3,,,
-2022-09-25,Electoral threshold,0.2,,,
+2026-01-22,Denmark Democrats,6.2,Right-wing to far-right,Conservatism Right-wing populism,https://en.wikipedia.org/wiki/Denmark_Democrats
 2011-10-06,Green Left,7.8,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
 2011-10-26,Green Left,7.9,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
 2011-11-03,Green Left,8.7,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
@@ -5748,6 +5689,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Green Left,13.9,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
 2026-01-11,Green Left,14.9,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
 2026-01-18,Green Left,14.0,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
+2026-01-22,Green Left,14.3,Centre-left to left-wing,Democratic socialism Green politics Popular socialism [ page needed ],https://en.wikipedia.org/wiki/Green_Left_(Denmark)
 2021-01-09,Independent Greens,57.8,Left-wing,Green politics,https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)
 2021-01-17,Independent Greens,58.7,Left-wing,Green politics,https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)
 2021-01-18,Independent Greens,52.8,Left-wing,Green politics,https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)
@@ -7044,6 +6986,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Liberal Alliance,11.2,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
 2026-01-11,Liberal Alliance,10.5,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
 2026-01-18,Liberal Alliance,10.9,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
+2026-01-22,Liberal Alliance,10.4,Centre-right to right-wing,Classical liberalism Right-libertarianism,https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)
 2021-01-09,Moderates,0.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
 2021-01-17,Moderates,0.6,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
 2021-01-21,Moderates,1.5,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
@@ -7340,6 +7283,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Moderates,2.8,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
 2026-01-11,Moderates,3.3,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
 2026-01-18,Moderates,5.0,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
+2026-01-22,Moderates,6.4,Centre to centre-right,Liberalism,https://en.wikipedia.org/wiki/Moderates_(Denmark)
 2016-01-10,New Right,5.3,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/New_Right_(Denmark)
 2016-01-10,New Right,6.4,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/New_Right_(Denmark)
 2016-01-10,New Right,2.9,Far-right,National conservatism Right-libertarianism Right-wing populism,https://en.wikipedia.org/wiki/New_Right_(Denmark)
@@ -9088,6 +9032,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Red-Green Alliance,6.1,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark)
 2026-01-11,Red-Green Alliance,7.5,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark)
 2026-01-18,Red-Green Alliance,6.0,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark)
+2026-01-22,Red-Green Alliance,7.8,Left-wing to far-left,Socialism Eco-socialism Environmentalism Marxism Anti-capitalism,https://en.wikipedia.org/wiki/Red%E2%80%93Green_Alliance_(Denmark)
 2011-10-06,Social Democrats,24.1,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
 2011-10-26,Social Democrats,22.9,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
 2011-11-03,Social Democrats,20.9,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
@@ -10217,6 +10162,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Social Democrats,18.9,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
 2026-01-11,Social Democrats,19.8,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
 2026-01-18,Social Democrats,21.2,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
+2026-01-22,Social Democrats,22.7,Centre-left,Social democracy Left-conservatism,https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)
 2019-01-06,Stram Kurs,6.7,Far-right,Ethnic nationalism Identitarianism Anti-immigration Islamophobia Hard Euroscepticism,https://en.wikipedia.org/wiki/Hard_Line_(party)
 2019-01-12,Stram Kurs,8.2,Far-right,Ethnic nationalism Identitarianism Anti-immigration Islamophobia Hard Euroscepticism,https://en.wikipedia.org/wiki/Hard_Line_(party)
 2019-01-14,Stram Kurs,6.1,Far-right,Ethnic nationalism Identitarianism Anti-immigration Islamophobia Hard Euroscepticism,https://en.wikipedia.org/wiki/Hard_Line_(party)
@@ -11305,6 +11251,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,The Alternative,2.1,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party)
 2026-01-11,The Alternative,2.4,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party)
 2026-01-18,The Alternative,2.3,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party)
+2026-01-22,The Alternative,1.9,Centre-left to left-wing,Green politics,https://en.wikipedia.org/wiki/The_Alternative_(Political_Party)
 2019-01-06,The Citizen List,0.2,Centre to centre-right,Populism Paternalistic conservatism Social liberalism Tax reform,https://en.wikipedia.org/wiki/The_Citizen_List
 2019-01-12,The Citizen List,0.3,Centre to centre-right,Populism Paternalistic conservatism Social liberalism Tax reform,https://en.wikipedia.org/wiki/The_Citizen_List
 2019-01-20,The Citizen List,0.4,Centre to centre-right,Populism Paternalistic conservatism Social liberalism Tax reform,https://en.wikipedia.org/wiki/The_Citizen_List
@@ -12759,3 +12706,4 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-21,Venstre,12.2,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark)
 2026-01-11,Venstre,10.8,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark)
 2026-01-18,Venstre,11.0,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark)
+2026-01-22,Venstre,10.1,Centre-right,Conservative liberalism Agrarianism ( Nordic ),https://en.wikipedia.org/wiki/Venstre_(Denmark)
