@@ -7,7 +7,7 @@
   "activeParties": [
     "Sweden Democrats"
   ],
-  "latestSupport": 22.2,
+  "latestSupport": 21.8,
   "seriesByParty": {
     "Sweden Democrats": [
       {
@@ -2889,10 +2889,14 @@
       {
         "date": "2025-12-29",
         "value": 21.4
+      },
+      {
+        "date": "2026-01-18",
+        "value": 22.5
       }
     ]
   },
-  "latestUpdate": "2025-12-29",
+  "latestUpdate": "2026-01-18",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",

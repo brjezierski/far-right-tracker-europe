@@ -21,7 +21,7 @@
     "Slovakia",
     "We Are Family"
   ],
-  "latestSupport": 29.366666666666664,
+  "latestSupport": 29.566666666666663,
   "seriesByParty": {
     "Christian Union": [
       {
@@ -393,7 +393,7 @@
         "value": 4.3
       },
       {
-        "date": "2016-03-23",
+        "date": "2016-03-24",
         "value": 1.6
       },
       {
@@ -1495,6 +1495,10 @@
       {
         "date": "2026-01-11",
         "value": 4.6
+      },
+      {
+        "date": "2026-01-20",
+        "value": 3.5
       }
     ],
     "People's Party Our Slovakia": [
@@ -1511,7 +1515,7 @@
         "value": 12.4
       },
       {
-        "date": "2016-03-23",
+        "date": "2016-03-24",
         "value": 18.1
       },
       {
@@ -3287,6 +3291,10 @@
       {
         "date": "2026-01-11",
         "value": 12.9
+      },
+      {
+        "date": "2026-01-20",
+        "value": 12.3
       }
     ],
     "Slovak National Party": [
@@ -3479,7 +3487,7 @@
         "value": 15.55
       },
       {
-        "date": "2016-03-23",
+        "date": "2016-03-24",
         "value": 10.5
       },
       {
@@ -4661,6 +4669,10 @@
       {
         "date": "2026-01-11",
         "value": 2.8
+      },
+      {
+        "date": "2026-01-20",
+        "value": 2.4
       }
     ],
     "Slovakia": [
@@ -4853,7 +4865,7 @@
         "value": 14.0
       },
       {
-        "date": "2016-03-23",
+        "date": "2016-03-24",
         "value": 13.4
       },
       {
@@ -5803,6 +5815,10 @@
       {
         "date": "2026-01-11",
         "value": 7.2
+      },
+      {
+        "date": "2026-01-20",
+        "value": 8.3
       }
     ],
     "We Are Family": [
@@ -5819,7 +5835,7 @@
         "value": 10.9
       },
       {
-        "date": "2016-03-23",
+        "date": "2016-03-24",
         "value": 7.6
       },
       {
@@ -7013,10 +7029,14 @@
       {
         "date": "2026-01-11",
         "value": 3.2
+      },
+      {
+        "date": "2026-01-20",
+        "value": 2.4
       }
     ]
   },
-  "latestUpdate": "2026-01-11",
+  "latestUpdate": "2026-01-20",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Slovak_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Slovak_parliamentary_election",
