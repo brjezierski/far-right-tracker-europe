@@ -1,13 +1,4 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
-2016-12-31,Antti Rinne,15.5,,,
-2017-06-28,Antti Rinne,15.3,,,
-2017-06-29,Antti Rinne,11.0,,,
-2017-11-07,Antti Rinne,8.0,,,
-2018-01-17,Antti Rinne,8.0,,,
-2019-01-05,Antti Rinne,12.0,,,
-2019-02-17,Antti Rinne,12.0,,,
-2019-03-27,Antti Rinne,15.0,,,
-2019-04-02,Antti Rinne,14.0,,,
 2015-01-14,Centre Party,19.7,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
 2015-02-02,Centre Party,20.9,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
 2015-02-14,Centre Party,21.4,Centre,Agrarianism ( Nordic ) Liberalism,https://en.wikipedia.org/wiki/Centre_Party_(Finland)
@@ -1220,23 +1211,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-14,Green League,8.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
 2026-01-02,Green League,8.4,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
 2026-01-19,Green League,8.3,Centre-left,Green politics,https://en.wikipedia.org/wiki/Green_League
-2016-12-31,Juha Sipilä,25.4,,,
-2017-06-28,Juha Sipilä,26.4,,,
-2017-06-29,Juha Sipilä,21.0,,,
-2017-11-07,Juha Sipilä,15.0,,,
-2018-01-17,Juha Sipilä,12.0,,,
-2019-01-05,Juha Sipilä,13.0,,,
-2019-02-17,Juha Sipilä,10.0,,,
-2019-03-27,Juha Sipilä,14.0,,,
-2019-04-02,Juha Sipilä,10.0,,,
-2017-06-28,Jussi Halla-aho,8.3,,,
-2017-06-29,Jussi Halla-aho,13.0,,,
-2017-11-07,Jussi Halla-aho,7.0,,,
-2018-01-17,Jussi Halla-aho,9.0,,,
-2019-01-05,Jussi Halla-aho,5.0,,,
-2019-02-17,Jussi Halla-aho,9.0,,,
-2019-03-27,Jussi Halla-aho,9.0,,,
-2019-04-02,Jussi Halla-aho,8.0,,,
 2015-01-14,Left Alliance,7.9,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
 2015-02-02,Left Alliance,8.6,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
 2015-02-14,Left Alliance,8.5,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
@@ -1525,13 +1499,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-14,Left Alliance,9.5,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
 2026-01-02,Left Alliance,10.7,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
 2026-01-19,Left Alliance,10.0,Left-wing,Democratic socialism Eco-socialism,https://en.wikipedia.org/wiki/Left_Alliance_(Finland)
-2017-06-29,Li Andersson,6.0,,,
-2017-11-07,Li Andersson,12.0,,,
-2018-01-17,Li Andersson,13.0,,,
-2019-01-05,Li Andersson,5.0,,,
-2019-02-17,Li Andersson,8.0,,,
-2019-03-27,Li Andersson,5.0,,,
-2019-04-02,Li Andersson,7.0,,,
 2019-05-03,Movement Now,2.5,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now
 2019-05-07,Movement Now,1.7,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now
 2019-06-02,Movement Now,2.1,Centre-right,Economic liberalism Soft Euroscepticism,https://en.wikipedia.org/wiki/Movement_Now
@@ -1991,22 +1958,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-14,National Coalition Party,18.0,Centre-right to right-wing,Liberal conservatism Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
 2026-01-02,National Coalition Party,19.6,Centre-right to right-wing,Liberal conservatism Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
 2026-01-19,National Coalition Party,18.4,Centre-right to right-wing,Liberal conservatism Economic liberalism Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/National_Coalition_Party
-2019-01-05,Pekka Haavisto,22.0,,,
-2019-02-17,Pekka Haavisto,18.0,,,
-2019-03-27,Pekka Haavisto,22.0,,,
-2019-04-02,Pekka Haavisto,21.0,,,
-2016-12-31,Petteri Orpo,19.7,,,
-2017-06-28,Petteri Orpo,30.6,,,
-2017-06-29,Petteri Orpo,19.0,,,
-2017-11-07,Petteri Orpo,25.0,,,
-2018-01-17,Petteri Orpo,17.0,,,
-2019-01-05,Petteri Orpo,16.0,,,
-2019-02-17,Petteri Orpo,15.0,,,
-2019-03-27,Petteri Orpo,16.0,,,
-2019-04-02,Petteri Orpo,12.0,,,
-2019-01-05,Sampo Terho,1.0,,,
-2019-02-17,Sampo Terho,1.0,,,
-2019-04-02,Sampo Terho,1.0,,,
 2015-01-14,Social Democratic Party of Finland,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
 2015-02-02,Social Democratic Party of Finland,21.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
 2015-02-14,Social Democratic Party of Finland,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland
@@ -2579,7 +2530,3 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-14,Swedish People's Party of Finland,4.0,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland
 2026-01-02,Swedish People's Party of Finland,3.2,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland
 2026-01-19,Swedish People's Party of Finland,4.0,Centre to centre-right,Swedish-speaking minority interests Liberalism,https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland
-2017-06-28,Touko Aalto,8.3,,,
-2017-06-29,Touko Aalto,4.0,,,
-2017-11-07,Touko Aalto,8.0,,,
-2018-01-17,Touko Aalto,3.0,,,

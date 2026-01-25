@@ -2785,6 +2785,10 @@
       {
         "date": "2026-01-19",
         "value": 8.0
+      },
+      {
+        "date": "2026-01-25",
+        "value": 14.0
       }
     ],
     "JA21": [
@@ -3914,6 +3918,10 @@
       },
       {
         "date": "2026-01-19",
+        "value": 11.0
+      },
+      {
+        "date": "2026-01-25",
         "value": 11.0
       }
     ],
@@ -7657,10 +7665,14 @@
       {
         "date": "2026-01-19",
         "value": 23.0
+      },
+      {
+        "date": "2026-01-25",
+        "value": 17.0
       }
     ]
   },
-  "latestUpdate": "2026-01-19",
+  "latestUpdate": "2026-01-25",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",

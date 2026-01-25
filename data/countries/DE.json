@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 25.666666666666668,
+  "latestSupport": 26.0,
   "seriesByParty": {
     "Alternative for Germany": [
       {
@@ -9381,10 +9381,14 @@
       {
         "date": "2026-01-19",
         "value": 26.0
+      },
+      {
+        "date": "2026-01-23",
+        "value": 26.0
       }
     ]
   },
-  "latestUpdate": "2026-01-19",
+  "latestUpdate": "2026-01-23",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
