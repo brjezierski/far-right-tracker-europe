@@ -11,7 +11,7 @@
     "Jobbik",
     "Our Homeland Movement"
   ],
-  "latestSupport": 46.666666666666664,
+  "latestSupport": 48.0,
   "seriesByParty": {
     "Fidesz-KDNP": [
       {
@@ -2177,6 +2177,14 @@
       {
         "date": "2026-01-20",
         "value": 38.0
+      },
+      {
+        "date": "2026-01-23",
+        "value": 51.0
+      },
+      {
+        "date": "2026-01-24",
+        "value": 39.0
       }
     ],
     "Jobbik": [
@@ -5329,10 +5337,18 @@
       {
         "date": "2026-01-20",
         "value": 6.0
+      },
+      {
+        "date": "2026-01-23",
+        "value": 5.0
+      },
+      {
+        "date": "2026-01-24",
+        "value": 5.0
       }
     ]
   },
-  "latestUpdate": "2026-01-20",
+  "latestUpdate": "2026-01-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",

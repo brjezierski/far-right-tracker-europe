@@ -21307,43 +21307,43 @@
             "value": 10.5
           },
           {
-            "date": "2016-01-25",
+            "date": "2016-01-26",
             "value": 12.0
           },
           {
-            "date": "2016-02-25",
+            "date": "2016-02-26",
             "value": 12.0
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 13.5
           },
           {
-            "date": "2016-04-25",
+            "date": "2016-04-26",
             "value": 13.5
           },
           {
-            "date": "2016-05-25",
+            "date": "2016-05-26",
             "value": 14.0
           },
           {
-            "date": "2016-06-25",
+            "date": "2016-06-26",
             "value": 13.5
           },
           {
-            "date": "2016-08-25",
+            "date": "2016-08-26",
             "value": 13.0
           },
           {
-            "date": "2016-09-25",
+            "date": "2016-09-26",
             "value": 11.5
           },
           {
-            "date": "2016-10-25",
+            "date": "2016-10-26",
             "value": 10.0
           },
           {
-            "date": "2016-11-25",
+            "date": "2016-11-26",
             "value": 11.0
           },
           {
@@ -23737,43 +23737,43 @@
             "value": 7.5
           },
           {
-            "date": "2016-01-25",
+            "date": "2016-01-26",
             "value": 7.0
           },
           {
-            "date": "2016-02-25",
+            "date": "2016-02-26",
             "value": 6.0
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 6.0
           },
           {
-            "date": "2016-04-25",
+            "date": "2016-04-26",
             "value": 7.0
           },
           {
-            "date": "2016-05-25",
+            "date": "2016-05-26",
             "value": 4.0
           },
           {
-            "date": "2016-06-25",
+            "date": "2016-06-26",
             "value": 6.5
           },
           {
-            "date": "2016-08-25",
+            "date": "2016-08-26",
             "value": 6.5
           },
           {
-            "date": "2016-09-25",
+            "date": "2016-09-26",
             "value": 8.0
           },
           {
-            "date": "2016-10-25",
+            "date": "2016-10-26",
             "value": 7.5
           },
           {
-            "date": "2016-11-25",
+            "date": "2016-11-26",
             "value": 9.0
           },
           {
@@ -25955,7 +25955,7 @@
         "Homeland Movement",
         "The Bridge"
       ],
-      "latestSupport": 10.266666666666667,
+      "latestSupport": 10.200000000000001,
       "seriesByParty": {
         "Croatian Growth": [
           {
@@ -27347,6 +27347,10 @@
           {
             "date": "2025-12-25",
             "value": 4.0
+          },
+          {
+            "date": "2026-01-26",
+            "value": 2.7
           }
         ],
         "Independents for Croatia": [
@@ -28947,10 +28951,14 @@
           {
             "date": "2025-12-25",
             "value": 6.7
+          },
+          {
+            "date": "2026-01-26",
+            "value": 6.3
           }
         ]
       },
-      "latestUpdate": "2025-12-25",
+      "latestUpdate": "2026-01-26",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Croatian_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Croatian_parliamentary_election",
@@ -29351,7 +29359,7 @@
             "value": 4.3
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 1.6
           },
           {
@@ -30473,7 +30481,7 @@
             "value": 12.4
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 18.1
           },
           {
@@ -32445,7 +32453,7 @@
             "value": 15.55
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 10.5
           },
           {
@@ -33823,7 +33831,7 @@
             "value": 14.0
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 13.4
           },
           {
@@ -34793,7 +34801,7 @@
             "value": 10.9
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 7.6
           },
           {
@@ -39142,7 +39150,7 @@
         "Danish People's Party",
         "Denmark Democrats"
       ],
-      "latestSupport": 17.066666666666666,
+      "latestSupport": 16.400000000000002,
       "seriesByParty": {
         "Citizens' Party": [
           {
@@ -39396,6 +39404,10 @@
           {
             "date": "2026-01-22",
             "value": 1.3
+          },
+          {
+            "date": "2026-01-25",
+            "value": 2.0
           }
         ],
         "Danish People's Party": [
@@ -43070,6 +43082,10 @@
           {
             "date": "2026-01-22",
             "value": 7.3
+          },
+          {
+            "date": "2026-01-25",
+            "value": 5.4
           }
         ],
         "Denmark Democrats": [
@@ -43960,6 +43976,10 @@
           {
             "date": "2026-01-22",
             "value": 6.2
+          },
+          {
+            "date": "2026-01-25",
+            "value": 8.9
           }
         ],
         "New Right": [
@@ -46799,7 +46819,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-22",
+      "latestUpdate": "2026-01-25",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
@@ -52773,7 +52793,7 @@
         "Slovenian Democratic Party",
         "Slovenian National Party"
       ],
-      "latestSupport": 24.0,
+      "latestSupport": 25.46666666666667,
       "seriesByParty": {
         "Slovenian Democratic Party": [
           {
@@ -54591,6 +54611,10 @@
           {
             "date": "2026-01-15",
             "value": 20.6
+          },
+          {
+            "date": "2026-01-21",
+            "value": 27.9
           }
         ],
         "Slovenian National Party": [
@@ -55969,10 +55993,14 @@
           {
             "date": "2026-01-15",
             "value": 1.0
+          },
+          {
+            "date": "2026-01-21",
+            "value": 1.1
           }
         ]
       },
-      "latestUpdate": "2026-01-15",
+      "latestUpdate": "2026-01-21",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
@@ -55988,7 +56016,7 @@
       "activeParties": [
         "Progress Party"
       ],
-      "latestSupport": 27.633333333333336,
+      "latestSupport": 26.099999999999998,
       "seriesByParty": {
         "Progress Party": [
           {
@@ -60462,10 +60490,22 @@
           {
             "date": "2026-01-07",
             "value": 25.8
+          },
+          {
+            "date": "2026-01-08",
+            "value": 23.2
+          },
+          {
+            "date": "2026-01-09",
+            "value": 27.9
+          },
+          {
+            "date": "2026-01-19",
+            "value": 27.2
           }
         ]
       },
-      "latestUpdate": "2026-01-07",
+      "latestUpdate": "2026-01-19",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Norwegian_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Norwegian_parliamentary_election",
@@ -60485,7 +60525,7 @@
         "Fidesz-KDNP",
         "Our Homeland Movement"
       ],
-      "latestSupport": 46.666666666666664,
+      "latestSupport": 48.0,
       "seriesByParty": {
         "Fidesz-KDNP": [
           {
@@ -62651,6 +62691,14 @@
           {
             "date": "2026-01-20",
             "value": 38.0
+          },
+          {
+            "date": "2026-01-23",
+            "value": 51.0
+          },
+          {
+            "date": "2026-01-24",
+            "value": 39.0
           }
         ],
         "Jobbik": [
@@ -65803,10 +65851,18 @@
           {
             "date": "2026-01-20",
             "value": 6.0
+          },
+          {
+            "date": "2026-01-23",
+            "value": 5.0
+          },
+          {
+            "date": "2026-01-24",
+            "value": 5.0
           }
         ]
       },
-      "latestUpdate": "2026-01-20",
+      "latestUpdate": "2026-01-24",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
@@ -75230,10 +75286,14 @@
           {
             "date": "2026-01-23",
             "value": 26.0
+          },
+          {
+            "date": "2026-01-26",
+            "value": 26.0
           }
         ]
       },
-      "latestUpdate": "2026-01-23",
+      "latestUpdate": "2026-01-26",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
@@ -77526,83 +77586,83 @@
             "value": 5.8
           },
           {
-            "date": "2023-01-25",
+            "date": "2023-01-26",
             "value": 7.8
           },
           {
-            "date": "2023-03-25",
+            "date": "2023-03-26",
             "value": 9.0
           },
           {
-            "date": "2023-04-25",
+            "date": "2023-04-26",
             "value": 11.7
           },
           {
-            "date": "2023-05-25",
+            "date": "2023-05-26",
             "value": 13.5
           },
           {
-            "date": "2023-06-25",
+            "date": "2023-06-26",
             "value": 14.1
           },
           {
-            "date": "2023-07-25",
+            "date": "2023-07-26",
             "value": 11.4
           },
           {
-            "date": "2023-08-25",
+            "date": "2023-08-26",
             "value": 11.9
           },
           {
-            "date": "2023-09-25",
+            "date": "2023-09-26",
             "value": 11.9
           },
           {
-            "date": "2023-10-25",
+            "date": "2023-10-26",
             "value": 11.6
           },
           {
-            "date": "2023-11-25",
+            "date": "2023-11-26",
             "value": 11.5
           },
           {
-            "date": "2023-12-25",
+            "date": "2023-12-26",
             "value": 11.3
           },
           {
-            "date": "2024-01-25",
+            "date": "2024-01-26",
             "value": 11.1
           },
           {
-            "date": "2024-03-25",
+            "date": "2024-03-26",
             "value": 11.1
           },
           {
-            "date": "2024-04-25",
+            "date": "2024-04-26",
             "value": 10.2
           },
           {
-            "date": "2024-06-25",
+            "date": "2024-06-26",
             "value": 10.7
           },
           {
-            "date": "2024-08-25",
+            "date": "2024-08-26",
             "value": 11.8
           },
           {
-            "date": "2024-10-25",
+            "date": "2024-10-26",
             "value": 11.5
           },
           {
-            "date": "2024-11-25",
+            "date": "2024-11-26",
             "value": 14.2
           },
           {
-            "date": "2024-12-25",
+            "date": "2024-12-26",
             "value": 14.6
           },
           {
-            "date": "2025-01-25",
+            "date": "2025-01-26",
             "value": 14.2
           },
           {
@@ -77636,131 +77696,131 @@
         ],
         "National Alliance": [
           {
-            "date": "2015-02-25",
+            "date": "2015-02-26",
             "value": 7.7
           },
           {
-            "date": "2015-04-25",
+            "date": "2015-04-26",
             "value": 9.0
           },
           {
-            "date": "2015-08-25",
+            "date": "2015-08-26",
             "value": 10.0
           },
           {
-            "date": "2015-10-25",
+            "date": "2015-10-26",
             "value": 7.9
           },
           {
-            "date": "2015-11-25",
+            "date": "2015-11-26",
             "value": 8.2
           },
           {
-            "date": "2015-12-25",
+            "date": "2015-12-26",
             "value": 8.7
           },
           {
-            "date": "2016-01-25",
+            "date": "2016-01-26",
             "value": 8.1
           },
           {
-            "date": "2016-02-25",
+            "date": "2016-02-26",
             "value": 8.5
           },
           {
-            "date": "2016-03-25",
+            "date": "2016-03-26",
             "value": 9.0
           },
           {
-            "date": "2016-04-25",
+            "date": "2016-04-26",
             "value": 8.1
           },
           {
-            "date": "2016-05-25",
+            "date": "2016-05-26",
             "value": 6.2
           },
           {
-            "date": "2016-06-25",
+            "date": "2016-06-26",
             "value": 7.8
           },
           {
-            "date": "2016-07-25",
+            "date": "2016-07-26",
             "value": 8.1
           },
           {
-            "date": "2016-08-25",
+            "date": "2016-08-26",
             "value": 7.5
           },
           {
-            "date": "2016-09-25",
+            "date": "2016-09-26",
             "value": 7.3
           },
           {
-            "date": "2016-12-25",
+            "date": "2016-12-26",
             "value": 7.4
           },
           {
-            "date": "2017-01-25",
+            "date": "2017-01-26",
             "value": 6.9
           },
           {
-            "date": "2017-03-25",
+            "date": "2017-03-26",
             "value": 7.9
           },
           {
-            "date": "2017-04-25",
+            "date": "2017-04-26",
             "value": 6.4
           },
           {
-            "date": "2017-06-25",
+            "date": "2017-06-26",
             "value": 5.4
           },
           {
-            "date": "2017-07-25",
+            "date": "2017-07-26",
             "value": 5.8
           },
           {
-            "date": "2017-08-25",
+            "date": "2017-08-26",
             "value": 6.8
           },
           {
-            "date": "2017-09-25",
+            "date": "2017-09-26",
             "value": 7.6
           },
           {
-            "date": "2017-10-25",
+            "date": "2017-10-26",
             "value": 9.5
           },
           {
-            "date": "2017-11-25",
+            "date": "2017-11-26",
             "value": 7.0
           },
           {
-            "date": "2017-12-25",
+            "date": "2017-12-26",
             "value": 7.3
           },
           {
-            "date": "2018-01-25",
+            "date": "2018-01-26",
             "value": 5.8
           },
           {
-            "date": "2018-02-25",
+            "date": "2018-02-26",
             "value": 7.8
           },
           {
-            "date": "2018-03-25",
+            "date": "2018-03-26",
             "value": 6.3
           },
           {
-            "date": "2018-04-25",
+            "date": "2018-04-26",
             "value": 8.3
           },
           {
-            "date": "2018-05-25",
+            "date": "2018-05-26",
             "value": 8.05
           },
           {
-            "date": "2018-06-25",
+            "date": "2018-06-26",
             "value": 6.1
           },
           {
@@ -77768,7 +77828,7 @@
             "value": 14.0
           },
           {
-            "date": "2018-07-25",
+            "date": "2018-07-26",
             "value": 6.8
           },
           {
@@ -78156,83 +78216,83 @@
             "value": 11.1
           },
           {
-            "date": "2023-01-25",
+            "date": "2023-01-26",
             "value": 10.4
           },
           {
-            "date": "2023-03-25",
+            "date": "2023-03-26",
             "value": 10.9
           },
           {
-            "date": "2023-04-25",
+            "date": "2023-04-26",
             "value": 10.0
           },
           {
-            "date": "2023-05-25",
+            "date": "2023-05-26",
             "value": 10.6
           },
           {
-            "date": "2023-06-25",
+            "date": "2023-06-26",
             "value": 10.2
           },
           {
-            "date": "2023-07-25",
+            "date": "2023-07-26",
             "value": 8.8
           },
           {
-            "date": "2023-08-25",
+            "date": "2023-08-26",
             "value": 8.7
           },
           {
-            "date": "2023-09-25",
+            "date": "2023-09-26",
             "value": 12.0
           },
           {
-            "date": "2023-10-25",
+            "date": "2023-10-26",
             "value": 12.9
           },
           {
-            "date": "2023-11-25",
+            "date": "2023-11-26",
             "value": 10.1
           },
           {
-            "date": "2023-12-25",
+            "date": "2023-12-26",
             "value": 13.1
           },
           {
-            "date": "2024-01-25",
+            "date": "2024-01-26",
             "value": 13.0
           },
           {
-            "date": "2024-03-25",
+            "date": "2024-03-26",
             "value": 13.9
           },
           {
-            "date": "2024-04-25",
+            "date": "2024-04-26",
             "value": 14.5
           },
           {
-            "date": "2024-06-25",
+            "date": "2024-06-26",
             "value": 16.1
           },
           {
-            "date": "2024-08-25",
+            "date": "2024-08-26",
             "value": 16.1
           },
           {
-            "date": "2024-10-25",
+            "date": "2024-10-26",
             "value": 15.2
           },
           {
-            "date": "2024-11-25",
+            "date": "2024-11-26",
             "value": 16.2
           },
           {
-            "date": "2024-12-25",
+            "date": "2024-12-26",
             "value": 18.0
           },
           {
-            "date": "2025-01-25",
+            "date": "2025-01-26",
             "value": 18.1
           },
           {
@@ -85713,7 +85773,7 @@
         "Brothers of Italy",
         "Lega"
       ],
-      "latestSupport": 37.93333333333334,
+      "latestSupport": 38.23333333333333,
       "seriesByParty": {
         "Brothers of Italy": [
           {
@@ -95407,6 +95467,14 @@
           {
             "date": "2026-01-19",
             "value": 31.1
+          },
+          {
+            "date": "2026-01-21",
+            "value": 28.2
+          },
+          {
+            "date": "2026-01-26",
+            "value": 31.2
           }
         ],
         "CasaPound": [
@@ -102941,6 +103009,14 @@
           {
             "date": "2026-01-19",
             "value": 8.0
+          },
+          {
+            "date": "2026-01-21",
+            "value": 8.2
+          },
+          {
+            "date": "2026-01-26",
+            "value": 8.0
           }
         ],
         "Lega Nord": [
@@ -106750,7 +106826,7 @@
           }
         ]
       },
-      "latestUpdate": "2026-01-19",
+      "latestUpdate": "2026-01-26",
       "sources": [
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
         "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
@@ -126057,55 +126133,55 @@
       "seriesByParty": {
         "For the Future of Montenegro": [
           {
-            "date": "2020-08-25",
+            "date": "2020-08-26",
             "value": 32.5
           },
           {
-            "date": "2020-09-25",
+            "date": "2020-09-26",
             "value": 27.8
           },
           {
-            "date": "2020-10-25",
+            "date": "2020-10-26",
             "value": 28.8
           },
           {
-            "date": "2021-06-25",
+            "date": "2021-06-26",
             "value": 18.7
           },
           {
-            "date": "2021-12-25",
+            "date": "2021-12-26",
             "value": 20.4
           },
           {
-            "date": "2022-01-25",
+            "date": "2022-01-26",
             "value": 15.0
           },
           {
-            "date": "2022-05-25",
+            "date": "2022-05-26",
             "value": 17.9
           },
           {
-            "date": "2022-06-25",
+            "date": "2022-06-26",
             "value": 14.0
           },
           {
-            "date": "2022-09-25",
+            "date": "2022-09-26",
             "value": 12.3
           },
           {
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "value": 14.2
           },
           {
-            "date": "2023-02-25",
+            "date": "2023-02-26",
             "value": 19.65
           },
           {
-            "date": "2023-04-25",
+            "date": "2023-04-26",
             "value": 17.0
           },
           {
-            "date": "2023-05-25",
+            "date": "2023-05-26",
             "value": 14.25
           },
           {
@@ -140315,5 +140391,5 @@
     }
   },
   "parties": {},
-  "updatedAt": "2026-01-25T23:38:37Z"
+  "updatedAt": "2026-01-26T23:41:39Z"
 }
