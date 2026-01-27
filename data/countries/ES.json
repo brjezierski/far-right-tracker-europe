@@ -11,7 +11,7 @@
     "Se Acabó La Fiesta",
     "Vox"
   ],
-  "latestSupport": 20.7,
+  "latestSupport": 19.733333333333334,
   "seriesByParty": {
     "Catalan Alliance": [
       {
@@ -3780,7 +3780,7 @@
       },
       {
         "date": "2023-11-23",
-        "value": 10.58
+        "value": 10.57
       },
       {
         "date": "2023-11-24",
@@ -4905,10 +4905,14 @@
       {
         "date": "2026-01-23",
         "value": 19.9
+      },
+      {
+        "date": "2026-01-24",
+        "value": 16.6
       }
     ]
   },
-  "latestUpdate": "2026-01-23",
+  "latestUpdate": "2026-01-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",

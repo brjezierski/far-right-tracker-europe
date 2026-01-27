@@ -15,7 +15,7 @@
     "Lega",
     "Lega Nord"
   ],
-  "latestSupport": 38.23333333333333,
+  "latestSupport": 37.73333333333333,
   "seriesByParty": {
     "Brothers of Italy": [
       {
@@ -9711,6 +9711,10 @@
         "value": 31.1
       },
       {
+        "date": "2026-01-20",
+        "value": 29.4
+      },
+      {
         "date": "2026-01-21",
         "value": 28.2
       },
@@ -17251,6 +17255,10 @@
       {
         "date": "2026-01-19",
         "value": 8.0
+      },
+      {
+        "date": "2026-01-20",
+        "value": 8.2
       },
       {
         "date": "2026-01-21",

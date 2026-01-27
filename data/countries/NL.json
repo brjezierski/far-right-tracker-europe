@@ -13,7 +13,7 @@
     "JA21",
     "Party for Freedom"
   ],
-  "latestSupport": 42.0,
+  "latestSupport": 41.333333333333336,
   "seriesByParty": {
     "Belang van Nederland": [
       {
@@ -2789,6 +2789,10 @@
       {
         "date": "2026-01-25",
         "value": 14.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 10.0
       }
     ],
     "JA21": [
@@ -3923,6 +3927,10 @@
       {
         "date": "2026-01-25",
         "value": 11.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 12.0
       }
     ],
     "Party for Freedom": [
@@ -7669,10 +7677,14 @@
       {
         "date": "2026-01-25",
         "value": 17.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 18.0
       }
     ]
   },
-  "latestUpdate": "2026-01-25",
+  "latestUpdate": "2026-01-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",

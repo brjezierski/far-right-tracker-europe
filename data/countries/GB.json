@@ -4943,6 +4943,10 @@
       {
         "date": "2026-01-23",
         "value": 31.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 25.0
       }
     ],
     "UK Independence Party": [
@@ -12472,7 +12476,7 @@
       }
     ]
   },
-  "latestUpdate": "2026-01-23",
+  "latestUpdate": "2026-01-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",

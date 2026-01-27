@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 26.0,
+  "latestSupport": 25.333333333333332,
   "seriesByParty": {
     "Alternative for Germany": [
       {
@@ -9388,7 +9388,7 @@
       },
       {
         "date": "2026-01-26",
-        "value": 26.0
+        "value": 25.0
       }
     ]
   },
