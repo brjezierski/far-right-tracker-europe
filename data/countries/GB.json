@@ -9,7 +9,7 @@
     "Reform UK",
     "UK Independence Party"
   ],
-  "latestSupport": 29.333333333333332,
+  "latestSupport": 28.333333333333332,
   "seriesByParty": {
     "Reform UK": [
       {
@@ -4943,6 +4943,10 @@
       {
         "date": "2026-01-23",
         "value": 31.0
+      },
+      {
+        "date": "2026-01-25",
+        "value": 29.0
       },
       {
         "date": "2026-01-26",
