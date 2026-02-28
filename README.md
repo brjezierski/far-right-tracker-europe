@@ -164,6 +164,9 @@ Data display:
 - Lithuania 2024 latest polling not matching
 - Turkey data
 
+Lithuanian green party is excluded even though it is in ECR
+Reformed Political Party??
+
 
 # Past
   "Russia": {

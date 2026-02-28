@@ -1,22 +1,30 @@
-party,political_position,ideology,wikipedia_url,party_display_name
-Law and Justice,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland),Law and Justice
-Civic Coalition,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland),Civic Coalition
-The Left,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland),The Left
-Polish Coalition,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition,Polish Coalition
-Confederation Liberty and Independence,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence,Confederation Liberty and Independence
-Bezpartyjni Samorządowcy,Centre-left,Localism Regionalism Federalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Bezpartyjni_Samorz%C4%85dowcy,Bezpartyjni Samorządowcy
-Civic Platform,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform,Civic Platform
-Modern,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party),Modern
-Democratic Left Alliance,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland),Democratic Left Alliance
-Polish People's Party,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party,Polish People's Party
-Kukiz'15,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715,Kukiz'15
-New Hope,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland),New Hope
-Partia Razem,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together,Partia Razem
-United Left,Centre-left,Social democracy,https://en.wikipedia.org/wiki/United_Left_(Poland),United Left
-Your Movement,Economic: Right-wing Sociocultural: Left-wing,Libertarianism Neoliberalism Progressivism Social liberalism Populism,https://en.wikipedia.org/wiki/Your_Movement,Your Movement
-Third Way,Centre-right,Christian democracy Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Third_Way_(Polish_political_alliance),Third Way
-There is One Poland,Right-wing to far-right,Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism,https://en.wikipedia.org/wiki/There_is_One_Poland,There is One Poland
-Poland 2050,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050,Poland 2050
-AGROunia,Left-wing,Agrarian socialism Catholic socialism Economic nationalism Left-wing nationalism,https://en.wikipedia.org/wiki/AGROunia,AGROunia
-Agreement,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/Agreement_(political_party),Agreement
-Confederation of the Polish Crown,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown,Confederation of the Polish Crown
+party,party_display_name,display_name,political_position,ideology,wikipedia_url
+Law and Justice,Law and Justice,,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+Civic Coalition,Civic Coalition,,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
+The Left,The Left,,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
+Polish Coalition,Polish Coalition,,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
+Confederation Liberty and Independence,Confederation Liberty and Independence,,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
+Bezpartyjni Samorządowcy,Bezpartyjni Samorządowcy,,Centre-left,Localism Regionalism Federalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Bezpartyjni_Samorz%C4%85dowcy
+Civic Platform,Civic Platform,,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+Modern,Modern,,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+Democratic Left Alliance,Democratic Left Alliance,,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+Polish People's Party,Polish People's Party,,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+Kukiz'15,Kukiz'15,,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+New Hope,New Hope,,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+Partia Razem,Partia Razem,,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+United Left,United Left,,Centre-left,Social democracy,https://en.wikipedia.org/wiki/United_Left_(Poland)
+Your Movement,Your Movement,,Economic: Right-wing Sociocultural: Left-wing,Libertarianism Neoliberalism Progressivism Social liberalism Populism,https://en.wikipedia.org/wiki/Your_Movement
+Third Way,Third Way,,Centre-right,Christian democracy Pro-Europeanism Conservatism,https://en.wikipedia.org/wiki/Third_Way_(Polish_political_alliance)
+There is One Poland,There is One Poland,,Right-wing to far-right,Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism,https://en.wikipedia.org/wiki/There_is_One_Poland
+Poland 2050,Poland 2050,,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
+AGROunia,AGROunia,,Left-wing,Agrarian socialism Catholic socialism Economic nationalism Left-wing nationalism,https://en.wikipedia.org/wiki/AGROunia
+Agreement,Agreement,,Centre-right,Liberal conservatism,https://en.wikipedia.org/wiki/Agreement_(political_party)
+Confederation of the Polish Crown,Confederation of the Polish Crown,,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
+United Right,United Right,,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
+Confederation Freedom and Independence,Confederation Liberty and Independence,,Far-right,Right-wing populism Economic liberalism Libertarian nationalism National conservatism Euroscepticism Antisemitism,https://en.wikipedia.org/wiki/Confederation_Freedom_and_Independence
+Nonpartisan local government activists,Bezpartyjni Samorządowcy,,Centre-left,Localism Regionalism Federalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Nonpartisan_local_government_activists
+KORWiN,New Hope,,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+Razem,Partia Razem,,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Razem
+Nonpartisan Local Government Activists,Bezpartyjni Samorządowcy,,Centre-left,Localism Regionalism Federalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Nonpartisan_Local_Government_Activists
+Centre,Centre,,Centre,Liberalism,https://en.wikipedia.org/wiki/Centre_(Polish_parliamentary_group)
+Left Together,Partia Razem,,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together

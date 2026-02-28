@@ -1,20 +1,29 @@
-party,political_position,ideology,wikipedia_url,party_display_name
-Georgian Dream,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream,Georgian Dream
-United National Movement,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia),United National Movement
-Georgian Labour Party,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party,Georgian Labour Party
-Christian-Democratic Movement,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia),Christian-Democratic Movement
-Democratic Movement - United Georgia,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia,Democratic Movement - United Georgia
-New Political Centre - Girchi,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi,New Political Centre - Girchi
-Alliance of Patriots of Georgia,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia,Alliance of Patriots of Georgia
-State for the People,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition),State for the People
-Free Democrats,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia),Free Democrats
-Republican Party of Georgia,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Republican_Party_of_Georgia,Republican Party of Georgia
-European Georgia - Movement for Liberty,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia,European Georgia - Movement for Liberty
-Development Movement,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement,Development Movement
-Citizens,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia),Citizens
-Lelo for Georgia,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia,Lelo for Georgia
-Coalition for Change,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia),Coalition for Change
-Unity - National Movement,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement,Unity - National Movement
-Strong Georgia,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia,Strong Georgia
-For Georgia,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia,For Georgia
-,,,,
+party,party_display_name,display_name,political_position,ideology,wikipedia_url
+Georgian Dream,Georgian Dream,,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
+United National Movement,United National Movement,,Centre to centre-right,Liberal conservatism Civic nationalism Atlanticism Pro-Europeanism,https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)
+Georgian Labour Party,Georgian Labour Party,,Centre-left,Social democracy Left-wing populism Pro-Europeanism,https://en.wikipedia.org/wiki/Georgian_Labour_Party
+Christian-Democratic Movement,Christian-Democratic Movement,,Center-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christian-Democratic_Movement_(Georgia)
+Democratic Movement - United Georgia,Democratic Movement - United Georgia,,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+New Political Centre - Girchi,New Political Centre - Girchi,,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+Alliance of Patriots of Georgia,Alliance of Patriots of Georgia,,Right-wing to far-right,National conservatism Right-wing populism Neutralism Soft Euroscepticism Faction: Hard Euroscepticism,https://en.wikipedia.org/wiki/Alliance_of_Patriots_of_Georgia
+State for the People,State for the People,,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
+Free Democrats,Free Democrats,,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+Republican Party of Georgia,Republican Party of Georgia,,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Republican_Party_of_Georgia
+European Georgia - Movement for Liberty,European Georgia - Movement for Liberty,,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+Development Movement,Development Movement,,Center,Pro-Europeanism Centrism,https://en.wikipedia.org/wiki/Development_Movement
+Citizens,Citizens,,Centre to centre-left,Liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Citizens_(Georgia)
+Lelo for Georgia,Lelo for Georgia,,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
+Coalition for Change,Coalition for Change,,Centre to centre-right,Liberalism Pro-Europeanism Factions: Libertarianism Progressivism,https://en.wikipedia.org/wiki/Coalition_for_Change_(Georgia)
+Unity - National Movement,Unity - National Movement,,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
+Strong Georgia,Strong Georgia,,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Strong_Georgia
+For Georgia,For Georgia,,Centre to centre-left,Social democracy Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_Georgia
+,,,,,
+Democratic Movement – United Georgia,Democratic Movement - United Georgia,,Center-right to right-wing,National conservatism Social market economy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Movement_%E2%80%93_United_Georgia
+New Political Center - Girchi,New Political Centre - Girchi,,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_-_Girchi
+Movement for Liberty - European Georgia,European Georgia - Movement for Liberty,,Centre-right,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Liberty_-_European_Georgia
+New Political Center — Girchi,New Political Centre - Girchi,,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+Unity – National Movement,Unity - National Movement,,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Unity_%E2%80%93_National_Movement
+For the People,For the People,,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Georgia)
+Freedom Square,Freedom Square,,Center to center-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Square_(political_party)
+New Political Centre – Girchi,New Political Centre - Girchi,,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+Conservatives for Georgia,Conservatives for Georgia,,Far-right,National conservatism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/Conservatives_for_Georgia

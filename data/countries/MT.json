@@ -4,7 +4,10 @@
   "parties": [],
   "activeParties": [],
   "latestSupport": 0.0,
+  "datapointsByParty": {},
   "seriesByParty": {},
+  "dailySupportSeries": [],
+  "activePartiesByDate": {},
   "latestUpdate": null,
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Maltese_general_election",

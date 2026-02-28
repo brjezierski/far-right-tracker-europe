@@ -4,7 +4,10 @@
   "parties": [],
   "activeParties": [],
   "latestSupport": 0.0,
+  "datapointsByParty": {},
   "seriesByParty": {},
+  "dailySupportSeries": [],
+  "activePartiesByDate": {},
   "latestUpdate": null,
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Macedonian_parliamentary_election",

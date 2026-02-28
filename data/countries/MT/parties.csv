@@ -1,9 +1,16 @@
-party,political_position,ideology,wikipedia_url,party_display_name
-Labour Party,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta),Labour Party
-Nationalist Party,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta),Nationalist Party
-Democratic Alternative,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta),Democratic Alternative
-Democratic Party,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta),Democratic Party
-Moviment Patrijotti Maltin,Far-right,Right-wing populism Social conservatism Anti-Islam,https://en.wikipedia.org/wiki/Moviment_Patrijotti_Maltin,Moviment Patrijotti Maltin
-,,,,
-AD+PD,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD,AD+PD
-Momentum,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party),Momentum
+party,party_display_name,display_name,political_position,ideology,wikipedia_url
+Labour Party,Labour Party,,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+Nationalist Party,Nationalist Party,,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+Democratic Alternative,Democratic Alternative,,Centre-left to left-wing,Green politics Pro-Europeanism Progressivism Factions : Eco-socialism,https://en.wikipedia.org/wiki/Democratic_Alternative_(Malta)
+Democratic Party,Democratic Party,,Centre to centre-left,Social liberalism Green liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_(Malta)
+Moviment Patrijotti Maltin,Moviment Patrijotti Maltin,,Far-right,Right-wing populism Social conservatism Anti-Islam,https://en.wikipedia.org/wiki/Moviment_Patrijotti_Maltin
+,,,,,
+AD+PD,AD+PD,,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+Momentum,Momentum,,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
+Robert Abela,Robert Abela,,,,
+Bernard Grech,Bernard Grech,,,,
+Adrian Delia,Adrian Delia,,,,
+Joseph Muscat,Joseph Muscat,,,,
+#cite note-1,#cite note-1,,,,
+#cite note-2,#cite note-2,,,,
+#cite note-3,#cite note-3,,,,

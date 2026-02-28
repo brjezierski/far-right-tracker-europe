@@ -3,11 +3,10 @@
   "iso2": "LT",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Lithuanian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/2018_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2024_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2028_Lithuanian_parliamentary_election"
   ],
-  "updatedAt": "2026-01-14T23:28:19Z",
-  "latestTotal": 1.3333333333333333
+  "updatedAt": "2026-02-28T23:12:17Z",
+  "latestTotal": 15.0
 }
