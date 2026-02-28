@@ -22,6 +22,9 @@ type CountryData = {
   iso2: string;
   activeParties?: string[];
   seriesByParty: Record<string, Array<{ date: string; value: number }>>;
+  dailySupportSeries?: Array<{ date: string; value: number }>;
+  activePartiesByDate?: Record<string, string[]>;
+  datapointsByParty?: Record<string, Array<{ date: string; value: number }>>;
 };
 
 function loadSummary(): Summary | null {
@@ -56,6 +59,9 @@ function loadAllCountriesData(): Record<string, CountryData> {
         iso2: data.iso2,
         activeParties: data.activeParties,
         seriesByParty: data.seriesByParty || {},
+        dailySupportSeries: data.dailySupportSeries || [],
+        activePartiesByDate: data.activePartiesByDate || {},
+        datapointsByParty: data.datapointsByParty || {},
       };
     } catch (e) {
       // Skip countries with missing data

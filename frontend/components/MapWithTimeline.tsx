@@ -24,6 +24,9 @@ type CountryData = {
   iso2: string;
   activeParties?: string[];
   seriesByParty: Record<string, Array<{ date: string; value: number }>>;
+  dailySupportSeries?: Array<{ date: string; value: number }>;
+  activePartiesByDate?: Record<string, string[]>;
+  datapointsByParty?: Record<string, Array<{ date: string; value: number }>>;
 };
 
 type MapWithTimelineProps = {
@@ -31,29 +34,93 @@ type MapWithTimelineProps = {
   countriesData: Record<string, CountryData>;
 };
 
-// Helper function to get latest support value on or before a given date
-function getSupportAtDate(
+// Helper function to determine active parties based on target date
+// A party is active if it appears in at least one of the last 3 polling dates before or on the target date
+function getActivePartiesForDate(
+  datapointsByParty: Record<string, Array<{ date: string; value: number }>> | undefined,
+  targetDate: Date
+): string[] {
+  if (!datapointsByParty) {
+    return [];
+  }
+
+  const targetDateStr = targetDate.toISOString().split("T")[0];
+
+  // Collect all unique polling dates across all parties that are <= target date
+  const allDates = new Set<string>();
+  for (const [_party, datapoints] of Object.entries(datapointsByParty)) {
+    for (const point of datapoints) {
+      if (point.date <= targetDateStr) {
+        allDates.add(point.date);
+      }
+    }
+  }
+
+  if (allDates.size === 0) {
+    return [];
+  }
+
+  // Sort dates and get the 3 most recent
+  const sortedDates = Array.from(allDates).sort().reverse().slice(0, 3);
+
+  // Find parties that have data in at least one of these 3 dates
+  const activeParties: string[] = [];
+  for (const [party, datapoints] of Object.entries(datapointsByParty)) {
+    const partyDates = new Set(datapoints.map((p) => p.date));
+    if (sortedDates.some((date) => partyDates.has(date))) {
+      activeParties.push(party);
+    }
+  }
+
+  return activeParties;
+}
+
+// Helper function to calculate support using the same logic as backend calculate_support_from_series
+function calculateSupportFromSeries(
+  datapointsByParty: Record<string, Array<{ date: string; value: number }>> | undefined,
   seriesByParty: Record<string, Array<{ date: string; value: number }>>,
-  activeParties: string[] | undefined,
   targetDate: Date
 ): number {
-  let totalSupport = 0;
-  let partyCount = 0;
+  if (!datapointsByParty) {
+    return 0;
+  }
 
-  for (const [party, series] of Object.entries(seriesByParty)) {
-    // Skip inactive parties
-    if (activeParties && !activeParties.includes(party)) {
+  const targetDateStr = targetDate.toISOString().split("T")[0];
+
+//   // Find the latest date across all datapoints (raw polling data)
+//   let latestDataDate: string | null = null;
+//   for (const [_party, datapoints] of Object.entries(datapointsByParty)) {
+//     for (const point of datapoints) {
+//       if (!latestDataDate || point.date > latestDataDate) {
+//         latestDataDate = point.date;
+//       }
+//     }
+//   }
+
+//   // If target date is beyond the latest available data, return 0 (no active parties)
+//   if (!latestDataDate || targetDateStr > latestDataDate) {
+//     return 0;
+//   }
+
+  // Get active parties for this date
+  const activeParties = getActivePartiesForDate(datapointsByParty, targetDate);
+
+  let totalSupport = 0;
+
+  for (const party of activeParties) {
+    const series = seriesByParty[party];
+    if (!series || series.length === 0) {
       continue;
     }
+
     // Find the latest data point on or before the target date
     let latestValue: number | null = null;
-    let latestDate: Date | null = null;
+    let latestDate: string | null = null;
 
     for (const point of series) {
-      const pointDate = new Date(point.date);
-      if (pointDate <= targetDate) {
-        if (!latestDate || pointDate > latestDate) {
-          latestDate = pointDate;
+      if (point.date <= targetDateStr) {
+        if (!latestDate || point.date > latestDate) {
+          latestDate = point.date;
           latestValue = point.value;
         }
       }
@@ -61,11 +128,42 @@ function getSupportAtDate(
 
     if (latestValue !== null) {
       totalSupport += latestValue;
-      partyCount++;
     }
   }
 
-  return partyCount > 0 ? totalSupport : 0;
+  return totalSupport;
+}
+
+// Helper function to get support at a specific date
+function getSupportAtDate(
+  dailySupportSeries: Array<{ date: string; value: number }> | undefined,
+  datapointsByParty: Record<string, Array<{ date: string; value: number }>> | undefined,
+  seriesByParty: Record<string, Array<{ date: string; value: number }>>,
+  targetDate: Date
+): number {
+  const targetDateStr = targetDate.toISOString().split("T")[0];
+
+  // If we have dailySupportSeries and the date is within range, use it
+  if (dailySupportSeries && dailySupportSeries.length > 0) {
+    const firstDate = dailySupportSeries[0].date;
+    const lastDate = dailySupportSeries[dailySupportSeries.length - 1].date;
+
+    if (targetDateStr >= firstDate && targetDateStr <= lastDate) {
+      // Find the exact date or the closest date before
+      let support = 0;
+      for (const point of dailySupportSeries) {
+        if (point.date <= targetDateStr) {
+          support = point.value;
+        } else {
+          break;
+        }
+      }
+      return support;
+    }
+  }
+
+  // Outside the dailySupportSeries range - calculate using the same logic as backend
+  return calculateSupportFromSeries(datapointsByParty, seriesByParty, targetDate);
 }
 
 export default function MapWithTimeline({
@@ -92,8 +190,9 @@ export default function MapWithTimeline({
       }
 
       const supportAtDate = getSupportAtDate(
+        countryData.dailySupportSeries,
+        countryData.datapointsByParty,
         countryData.seriesByParty,
-        countryData.activeParties,
         currentDate
       );
 

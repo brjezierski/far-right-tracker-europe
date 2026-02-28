@@ -43,11 +43,32 @@ export default function TimeSeriesChart({
     ];
     
     if (stacked) {
-      // Stacked mode uses pre-calculated daily series
-      Object.entries(seriesByParty || {}).forEach(([name, arr], index) => {
-        const color = colors[index % colors.length];
-        const filteredData = filterByRange(arr, range);
-        
+      // Stacked mode: align all series to the same set of dates so ECharts
+      // can properly accumulate the stacked values on a time axis.
+      const entries = Object.entries(seriesByParty || {});
+
+      // 1. Build a lookup (date → value) per party and collect all dates
+      const allDatesSet = new Set<string>();
+      const lookups: Record<string, Record<string, number>> = {};
+      for (const [name, arr] of entries) {
+        const filtered = filterByRange(arr, range);
+        const map: Record<string, number> = {};
+        for (const d of filtered) {
+          map[d.date] = d.value;
+          allDatesSet.add(d.date);
+        }
+        lookups[name] = map;
+      }
+
+      // 2. Sort dates chronologically
+      const allDates = Array.from(allDatesSet).sort();
+
+      // 3. Create each series with a data point at every date (0 when absent)
+      for (let i = 0; i < entries.length; i++) {
+        const [name] = entries[i];
+        const color = colors[i % colors.length];
+        const lookup = lookups[name];
+
         series.push({
           name,
           type: "line",
@@ -56,10 +77,10 @@ export default function TimeSeriesChart({
           stack: "total",
           areaStyle: {},
           lineStyle: { width: 0 },
-          itemStyle: { color: color },
-          data: filteredData.map((d) => [d.date, d.value]),
+          itemStyle: { color },
+          data: allDates.map((date) => [date, lookup[date] ?? 0]),
         });
-      });
+      }
     } else {
       // Non-stacked mode shows scatter + line
       Object.entries(seriesByParty || {}).forEach(([name, arr], index) => {

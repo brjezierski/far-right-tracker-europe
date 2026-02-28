@@ -32,6 +32,169 @@ ROOT = Path(__file__).resolve().parents[2]
 CATEGORIES = ["far-right", "national-conservatism"]
 
 
+def get_active_parties_for_date(
+    datapoints_by_party: dict, party_metadata: dict, target_date: str
+) -> list:
+    """
+    Determine which parties are active based on the target date.
+    A party is active if it appears in at least one of the last 3 polling dates before or on the target date.
+
+    Args:
+        datapoints_by_party: Dictionary of {party_name: [{date, value}, ...]} (raw polling data)
+        party_metadata: Dictionary of {party_name: {is_far_right: bool, ...}}
+        target_date: Target date string (YYYY-MM-DD)
+
+    Returns:
+        List of party names that are active and far-right
+    """
+    from datetime import datetime
+
+    target_dt = datetime.strptime(target_date, "%Y-%m-%d")
+
+    # Collect all unique polling dates across all parties that are <= target_date
+    all_dates = set()
+    for party, datapoints in datapoints_by_party.items():
+        for point in datapoints:
+            point_dt = datetime.strptime(point["date"], "%Y-%m-%d")
+            if point_dt <= target_dt:
+                all_dates.add(point["date"])
+
+    if not all_dates:
+        return []
+
+    # Sort dates and get the 3 most recent
+    sorted_dates = sorted(all_dates, reverse=True)[:3]
+
+    # Find parties that have data in at least one of these 3 dates
+    active_parties = []
+    for party, datapoints in datapoints_by_party.items():
+        # Only consider far-right parties
+        if not party_metadata.get(party, {}).get("is_far_right", False):
+            continue
+
+        # Check if party has data in any of the 3 most recent dates
+        party_dates = {point["date"] for point in datapoints}
+        if any(date in party_dates for date in sorted_dates):
+            active_parties.append(party)
+
+    return active_parties
+
+
+def generate_daily_support_series(
+    datapoints_by_party: dict,
+    series_by_party: dict,
+    party_metadata: dict,
+    start_date: str,
+    end_date: str,
+) -> tuple[list, dict]:
+    """
+    Generate daily support values and active parties for each date.
+
+    Args:
+        datapoints_by_party: Dictionary of {party_name: [{date, value}, ...]} (raw polling data)
+        series_by_party: Dictionary of {party_name: [{date, value}, ...]} (smoothed daily series)
+        party_metadata: Dictionary of {party_name: {is_far_right: bool, ...}}
+        start_date: Start date string (YYYY-MM-DD)
+        end_date: End date string (YYYY-MM-DD)
+
+    Returns:
+        Tuple of (daily_support_series, active_parties_by_date)
+        - daily_support_series: [{date, value}, ...]
+        - active_parties_by_date: {date: [party_names]}
+    """
+    from datetime import datetime, timedelta
+
+    daily_support = []
+    active_parties_by_date = {}
+
+    current_date = datetime.strptime(start_date, "%Y-%m-%d")
+    end_dt = datetime.strptime(end_date, "%Y-%m-%d")
+
+    while current_date <= end_dt:
+        date_str = current_date.strftime("%Y-%m-%d")
+
+        # Get active parties for this date
+        active_parties = get_active_parties_for_date(
+            datapoints_by_party, party_metadata, date_str
+        )
+        active_parties_by_date[date_str] = active_parties
+
+        # Calculate total support from active parties
+        total_support = 0.0
+        for party in active_parties:
+            if party not in series_by_party:
+                continue
+
+            # Find the value for this date in the series
+            party_series = series_by_party[party]
+            for point in party_series:
+                if point["date"] == date_str:
+                    total_support += point["value"]
+                    break
+
+        daily_support.append({"date": date_str, "value": round(total_support, 2)})
+
+        current_date += timedelta(days=1)
+
+    return daily_support, active_parties_by_date
+
+
+def calculate_support_from_series(
+    datapoints_by_party: dict,
+    series_by_party: dict,
+    party_metadata: dict,
+    target_date: str,
+) -> float:
+    """
+    Calculate total support by summing the latest values from seriesByParty for each active party.
+    Active parties are determined internally based on the target date (parties that appear in at least
+    one of the last 3 polling dates before or on the target date).
+
+    Args:
+        datapoints_by_party: Dictionary of {party_name: [{date, value}, ...]} (raw polling data)
+        series_by_party: Dictionary of {party_name: [{date, value}, ...]} (smoothed series)
+        party_metadata: Dictionary of {party_name: {is_far_right: bool, ...}}
+        target_date: Target date string (YYYY-MM-DD). If None, uses the absolute latest date.
+
+    Returns:
+        Total support as a float
+    """
+    from datetime import datetime, date as date_module
+
+    # Determine active parties based on target date
+    if target_date is None:
+        target_date = date_module.today().strftime("%Y-%m-%d")
+
+    active_parties = get_active_parties_for_date(
+        datapoints_by_party, party_metadata, target_date
+    )
+
+    total_support = 0.0
+
+    for party in active_parties:
+        if party not in series_by_party or not series_by_party[party]:
+            continue
+
+        series = series_by_party[party]
+
+        # Find the latest data point on or before the target date
+        target_dt = datetime.strptime(target_date, "%Y-%m-%d")
+        latest_value = None
+        latest_date = None
+
+        for point in series:
+            point_dt = datetime.strptime(point["date"], "%Y-%m-%d")
+            if point_dt <= target_dt:
+                if latest_date is None or point_dt > latest_date:
+                    latest_date = point_dt
+                    latest_value = point["value"]
+
+        if latest_value is not None:
+            total_support += latest_value
+
+    return total_support
+
+
 def is_party_far_right(
     political_position: str, ideology: str, categories: list
 ) -> bool:
@@ -175,28 +338,8 @@ def save_country_polling_csv(
         else:
             print(f"Warning: No polling data to save for {country}")
 
-    # Save party metadata
-    if party_metadata:
-        parties_data = []
-        for party_name, info in party_metadata.items():
-            row_data = {
-                "party": party_name,
-                "political_position": info.get("political_position"),
-                "ideology": info.get("ideology"),
-                "wikipedia_url": info.get("url"),
-                "party_display_name": info.get("party_display_name", ""),
-            }
-            # For France, add party_affiliation column
-            if country == "France":
-                row_data["party_affiliation"] = info.get("party_affiliation", "")
-            parties_data.append(row_data)
-
-        if parties_data:
-            df_parties = pd.DataFrame(parties_data)
-
-            # Skip saving parties.csv for France (manually maintained)
-            if country != "France":
-                df_parties.to_csv(country_dir / "parties.csv", index=False)
+    # Note: party metadata is now saved by annotate_parties_positions() to preserve manual edits
+    # We no longer save parties.csv here to avoid overwriting manual changes
 
     # Save metadata as JSON for backward compatibility
     metadata = {
@@ -237,6 +380,30 @@ def read_country_data_from_csv(
         df_polling = pd.read_csv(polling_csv)
         df_polling["date"] = pd.to_datetime(df_polling["date"])
 
+        # Update ideology and political_position from parties.csv (to respect manual edits)
+        parties_csv = country_dir / "parties.csv"
+        if parties_csv.exists():
+            df_parties = pd.read_csv(parties_csv)
+            party_info_map = {}
+            for _, row in df_parties.iterrows():
+                party_name = row.get("party", "")
+                if party_name:
+                    party_info_map[party_name] = {
+                        "political_position": row.get("political_position", ""),
+                        "ideology": row.get("ideology", ""),
+                        "wikipedia_url": row.get("wikipedia_url", ""),
+                    }
+
+            # Update polling data with latest party info from parties.csv
+            for party_name, info in party_info_map.items():
+                mask = df_polling["party"] == party_name
+                if mask.any():
+                    df_polling.loc[mask, "political_position"] = info[
+                        "political_position"
+                    ]
+                    df_polling.loc[mask, "ideology"] = info["ideology"]
+                    df_polling.loc[mask, "wikipedia_url"] = info["wikipedia_url"]
+
         # For France, the data is already saved with party_affiliation in the party column
         # No need to aggregate anymore as it's already done during save
 
@@ -254,47 +421,36 @@ def read_country_data_from_csv(
         # Calculate far-right totals
         selected_parties = latest_data[latest_data["is_far_right"]]["party"].tolist()
 
-        # Use provided latest_total if available, otherwise calculate it
-        active_parties = []
-        if latest_total is not None:
-            latest_far_right_support = latest_total
-            # If latest_total is provided, assume all selected_parties are active
-            active_parties = selected_parties
-        else:
-            # Build series for ALL parties (to get accurate latest poll dates)
-            # But mark only far-right parties as such in metadata
-            series_for_calc = {}
-            party_metadata_for_calc = {}
+        # Build series for ALL parties to determine which have recent polling data
+        series_for_calc = {}
+        party_metadata_for_calc = {}
 
-            # Include ALL parties to determine latest poll dates accurately
-            all_parties = df_polling["party"].unique()
-            for party in all_parties:
-                party_data = df_polling[df_polling["party"] == party].copy()
-                party_data = party_data.sort_values("date")
-                series_for_calc[party] = [
-                    {
-                        "date": row["date"].strftime("%Y-%m-%d"),
-                        "value": row["polling_value"],
-                    }
-                    for _, row in party_data.iterrows()
-                ]
-                # Mark as far-right only if in selected_parties
-                party_metadata_for_calc[party] = {
-                    "is_far_right": party in selected_parties
+        # Include ALL parties to determine latest poll dates accurately
+        all_parties = df_polling["party"].unique()
+        for party in all_parties:
+            party_data = df_polling[df_polling["party"] == party].copy()
+            party_data = party_data.sort_values("date")
+            series_for_calc[party] = [
+                {
+                    "date": row["date"].strftime("%Y-%m-%d"),
+                    "value": row["polling_value"],
                 }
+                for _, row in party_data.iterrows()
+            ]
+            # Mark as far-right only if in selected_parties
+            party_metadata_for_calc[party] = {"is_far_right": party in selected_parties}
 
-            result = calculate_latest_total_support_with_parties(
-                series_for_calc, party_metadata_for_calc
-            )
-            if result:
-                latest_far_right_support, active_parties = result
-            else:
-                latest_far_right_support = 0.0
-                active_parties = []
-
-        print(
-            f"Selected parties: {active_parties} with total support {latest_far_right_support}"
+        # Always use calculate_latest_total_support_with_parties to determine active parties
+        result = calculate_latest_total_support_with_parties(
+            series_for_calc, party_metadata_for_calc
         )
+        if result:
+            latest_far_right_support, active_parties = result
+        else:
+            latest_far_right_support = 0.0
+            active_parties = []
+
+        print(f"Found {len(active_parties)} active far-right parties")
 
         # Generate both datapointsByParty (raw polls) and seriesByParty (rolling average + daily interpolation)
         datapoints_by_party = {}
@@ -350,6 +506,43 @@ def read_country_data_from_csv(
                 if latest_update is None or party_latest > latest_update:
                     latest_update = party_latest
 
+        # Generate daily support series and active parties by date
+        daily_support_series = []
+        active_parties_by_date = {}
+        if global_start and global_end and selected_parties:
+            # Use series_for_calc which contains ALL parties for determining active dates
+            # But only for far-right parties in the actual calculation
+            daily_support_series, active_parties_by_date = (
+                generate_daily_support_series(
+                    series_for_calc,  # All parties' raw data for date determination
+                    series_by_party,  # Far-right parties' smoothed data for values
+                    party_metadata_for_calc,
+                    global_start,
+                    global_end,
+                )
+            )
+
+        # Calculate latestSupport using the same logic as the map tooltip
+        # This sums the latest values from seriesByParty for all active parties at today's date
+        from datetime import date
+
+        today = date.today().strftime("%Y-%m-%d")
+        recalculated_latest_support = calculate_support_from_series(
+            datapoints_by_party,
+            series_by_party,
+            party_metadata_for_calc,
+            target_date=today,
+        )
+
+        # Get active parties for logging
+        active_parties_for_today = get_active_parties_for_date(
+            datapoints_by_party, party_metadata_for_calc, today
+        )
+
+        print(
+            f"Active parties: {active_parties_for_today} with latest combined support: {recalculated_latest_support:.2f}%"
+        )
+
         # Read metadata
         country_name = iso2  # fallback
         sources = []
@@ -364,9 +557,11 @@ def read_country_data_from_csv(
             "iso2": iso2,
             "parties": selected_parties,
             "activeParties": active_parties,
-            "latestSupport": float(latest_far_right_support),
+            "latestSupport": float(recalculated_latest_support),
             "datapointsByParty": datapoints_by_party,
             "seriesByParty": series_by_party,
+            "dailySupportSeries": daily_support_series,
+            "activePartiesByDate": active_parties_by_date,
             "latestUpdate": latest_update.strftime("%Y-%m-%d")
             if latest_update
             else None,
@@ -454,9 +649,15 @@ def build(selected_country: Optional[str] = None, no_scraping: bool = False):
             iso2 = get_country_iso_code(selected_country)
             country_data = read_country_data_from_csv(iso2, CATEGORIES)
             if country_data:
+                # Save individual country JSON file
+                country_json_path = COUNTRIES_DIR / f"{iso2}.json"
+                save_json(country_json_path, country_data)
+
+                # Update summary
                 summary["countries"][iso2] = country_data
                 summary["updatedAt"] = now_iso()
                 save_json(summary_path, summary)
+                print(f"Updated {selected_country} ({iso2})")
             else:
                 print(f"No data found for {selected_country} ({iso2})")
         else:

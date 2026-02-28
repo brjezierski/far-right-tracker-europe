@@ -620,7 +620,9 @@ def calculate_latest_total_support_with_parties(
         totals_per_date.append(date_total)
 
     # Average the totals
-    avg_support = sum(totals_per_date) / len(totals_per_date) if totals_per_date else 0.0
+    avg_support = (
+        sum(totals_per_date) / len(totals_per_date) if totals_per_date else 0.0
+    )
     return (avg_support, sorted(list(active_parties))) if totals_per_date else None
 
 
@@ -776,6 +778,7 @@ def annotate_parties_positions(
             continue
         party_description = country_cache.get(party_name_from_table)
 
+        # Only fetch from Wikipedia if party is NOT already in the cache
         if not party_description:
             # Build URL if link provided
             url = None
@@ -790,7 +793,29 @@ def annotate_parties_positions(
                 party_description = _fetch_political_position(url)
 
                 if party_description:
+                    # Add to cache only if it was newly fetched
                     country_cache[party_name_from_table] = party_description
+                    if DEBUG:
+                        print(f"Fetched and cached new party: {party_name_from_table}")
+
+            # If no link or fetch failed, add party to cache with empty data
+            if not party_description:
+                party_description = {
+                    "name": party_name_from_table,
+                    "party_display_name": party_name_from_table,
+                    "political_position": None,
+                    "ideology": None,
+                    "url": None,
+                }
+                country_cache[party_name_from_table] = party_description
+                if DEBUG:
+                    print(
+                        f"Added new party with no Wikipedia data: {party_name_from_table}"
+                    )
+        else:
+            # Party already exists in cache, use cached data
+            if DEBUG:
+                print(f"Using cached data for: {party_name_from_table}")
 
         # Determine the canonical party name (prefer article name if available)
         party_name_canonical = party_name_from_table
