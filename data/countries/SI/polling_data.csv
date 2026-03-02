@@ -1,4 +1,54 @@
 date,party,polling_value,political_position,ideology,wikipedia_url
+2021-05-26,/w/index.php?title=Our Future &action=edit&redlink=1,0.2,,,
+2021-06-15,/w/index.php?title=Our Future &action=edit&redlink=1,2.0,,,
+2021-06-18,/w/index.php?title=Our Future &action=edit&redlink=1,1.6,,,
+2021-09-02,/w/index.php?title=Our Future &action=edit&redlink=1,0.8,,,
+2021-09-30,/w/index.php?title=Our Future &action=edit&redlink=1,0.7,,,
+2021-10-15,/w/index.php?title=Our Future &action=edit&redlink=1,0.5,,,
+2021-11-04,/w/index.php?title=Our Future &action=edit&redlink=1,1.0,,,
+2021-11-16,/w/index.php?title=Our Future &action=edit&redlink=1,0.7,,,
+2021-12-02,/w/index.php?title=Our Future &action=edit&redlink=1,2.3,,,
+2021-12-07,/w/index.php?title=Our Future &action=edit&redlink=1,1.3,,,
+2021-12-16,/w/index.php?title=Our Future &action=edit&redlink=1,0.4,,,
+2021-12-29,/w/index.php?title=Our Future &action=edit&redlink=1,1.1,,,
+2022-01-06,/w/index.php?title=Our Future &action=edit&redlink=1,1.1,,,
+2022-01-13,/w/index.php?title=Our Future &action=edit&redlink=1,1.1,,,
+2022-01-27,/w/index.php?title=Our Future &action=edit&redlink=1,0.2,,,
+2022-01-28,/w/index.php?title=Our Future &action=edit&redlink=1,1.0,,,
+2022-02-03,/w/index.php?title=Our Future &action=edit&redlink=1,1.3,,,
+2022-02-10,/w/index.php?title=Our Future &action=edit&redlink=1,0.9,,,
+2022-02-10,/w/index.php?title=Our Future &action=edit&redlink=1,0.9,,,
+2022-02-16,/w/index.php?title=Our Future &action=edit&redlink=1,0.8,,,
+2022-02-23,/w/index.php?title=Our Future &action=edit&redlink=1,0.4,,,
+2022-02-24,/w/index.php?title=Our Future &action=edit&redlink=1,0.3,,,
+2022-02-25,/w/index.php?title=Our Future &action=edit&redlink=1,0.9,,,
+2022-03-03,/w/index.php?title=Our Future &action=edit&redlink=1,0.4,,,
+2022-03-10,/w/index.php?title=Our Future &action=edit&redlink=1,0.7,,,
+2022-03-10,/w/index.php?title=Our Future &action=edit&redlink=1,0.4,,,
+2022-03-17,/w/index.php?title=Our Future &action=edit&redlink=1,0.1,,,
+2022-03-23,/w/index.php?title=Our Future &action=edit&redlink=1,0.6,,,
+2022-03-24,/w/index.php?title=Our Future &action=edit&redlink=1,0.1,,,
+2022-03-31,/w/index.php?title=Our Future &action=edit&redlink=1,1.1,,,
+2022-04-01,/w/index.php?title=Our Future &action=edit&redlink=1,0.4,,,
+2022-04-06,/w/index.php?title=Our Future &action=edit&redlink=1,1.3,,,
+2022-04-07,/w/index.php?title=Our Future &action=edit&redlink=1,1.2,,,
+2022-04-07,/w/index.php?title=Our Future &action=edit&redlink=1,0.8,,,
+2022-04-13,/w/index.php?title=Our Future &action=edit&redlink=1,0.7,,,
+2022-04-13,/w/index.php?title=Our Future &action=edit&redlink=1,0.7,,,
+2022-04-14,/w/index.php?title=Our Future &action=edit&redlink=1,1.1,,,
+2022-04-14,/w/index.php?title=Our Future &action=edit&redlink=1,0.6,,,
+2022-04-15,/w/index.php?title=Our Future &action=edit&redlink=1,0.2,,,
+2022-04-15,/w/index.php?title=Our Future &action=edit&redlink=1,0.9,,,
+2022-04-15,/w/index.php?title=Our Future &action=edit&redlink=1,0.5,,,
+2022-04-16,/w/index.php?title=Our Future &action=edit&redlink=1,0.5,,,
+2022-04-19,/w/index.php?title=Our Future &action=edit&redlink=1,1.3,,,
+2022-04-20,/w/index.php?title=Our Future &action=edit&redlink=1,1.9,,,
+2022-04-21,/w/index.php?title=Our Future &action=edit&redlink=1,2.1,,,
+2022-04-21,/w/index.php?title=Our Future &action=edit&redlink=1,1.0,,,
+2022-04-21,/w/index.php?title=Our Future &action=edit&redlink=1,0.6,,,
+2022-04-22,/w/index.php?title=Our Future &action=edit&redlink=1,1.2,,,
+2022-04-24,/w/index.php?title=Our Future &action=edit&redlink=1,1.6,,,
+2022-04-24,/w/index.php?title=Our Future &action=edit&redlink=1,1.7,,,
 2018-06-03,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2018-11-22,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2018-12-06,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
@@ -40,6 +90,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2021-12-29,Andrej Čuš and Greens of Slovenia,2.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2022-02-03,Andrej Čuš and Greens of Slovenia,1.8,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2022-02-10,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2022-04-24,Andrej Čuš and Greens of Slovenia,3.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2022-04-24,Andrej Čuš and Greens of Slovenia,3.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2024-06-09,Andrej Čuš and Greens of Slovenia,1.6,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2024-06-20,Andrej Čuš and Greens of Slovenia,0.5,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2024-07-25,Andrej Čuš and Greens of Slovenia,0.6,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
@@ -59,8 +111,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-10,Andrej Čuš and Greens of Slovenia,1.7,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-05-22,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-05-26,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
-2025-06-05,Andrej Čuš and Greens of Slovenia,1.9,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
-2025-06-06,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-06-12,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-06-19,Andrej Čuš and Greens of Slovenia,0.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-06-30,Andrej Čuš and Greens of Slovenia,1.5,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
@@ -87,6 +137,22 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Andrej Čuš and Greens of Slovenia,1.7,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2025-12-28,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2026-01-08,Andrej Čuš and Greens of Slovenia,0.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-01-14,Andrej Čuš and Greens of Slovenia,0.5,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-01-15,Andrej Čuš and Greens of Slovenia,1.0,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-01-25,Andrej Čuš and Greens of Slovenia,2.0,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-01-25,Andrej Čuš and Greens of Slovenia,0.3,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-01-29,Andrej Čuš and Greens of Slovenia,1.0,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-05,Andrej Čuš and Greens of Slovenia,0.8,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-11,Andrej Čuš and Greens of Slovenia,5.2,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-11,Andrej Čuš and Greens of Slovenia,0.8,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-12,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-13,Andrej Čuš and Greens of Slovenia,1.6,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-14,Andrej Čuš and Greens of Slovenia,1.6,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-23,Andrej Čuš and Greens of Slovenia,1.4,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-24,Andrej Čuš and Greens of Slovenia,0.7,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-25,Andrej Čuš and Greens of Slovenia,0.6,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-26,Andrej Čuš and Greens of Slovenia,1.1,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
+2026-02-26,Andrej Čuš and Greens of Slovenia,0.7,Centre-right,Green conservatism,https://en.wikipedia.org/wiki/Greens_of_Slovenia
 2014-07-13,Civic List,0.6,Centre to centre-right,Classical liberalism,https://en.wikipedia.org/wiki/Civic_List_(Slovenia)
 2014-12-04,Civic List,0.2,Centre to centre-right,Classical liberalism,https://en.wikipedia.org/wiki/Civic_List_(Slovenia)
 2015-01-08,Civic List,0.1,Centre to centre-right,Classical liberalism,https://en.wikipedia.org/wiki/Civic_List_(Slovenia)
@@ -445,7 +511,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,Democratic Party of Pensioners of Slovenia,0.7,Centre,Pensioners' interests Single-issue politics Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Pensioners_of_Slovenia
 2022-04-24,Democratic Party of Pensioners of Slovenia,0.5,Centre,Pensioners' interests Single-issue politics Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Pensioners_of_Slovenia
 2022-04-24,Democratic Party of Pensioners of Slovenia,0.7,Centre,Pensioners' interests Single-issue politics Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Party_of_Pensioners_of_Slovenia
-2025-01-13,Democrats,3.5,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2024-10-16,Democrats,3.3,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2024-11-13,Democrats,2.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2024-12-11,Democrats,2.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-01-15,Democrats,2.7,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-02-12,Democrats,7.0,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-02-12,Democrats,2.9,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
@@ -465,17 +533,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Democrats,4.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-05-22,Democrats,4.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-05-26,Democrats,4.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
-2025-06-06,Democrats,9.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2025-06-05,Democrats,3.7,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-06-11,Democrats,7.9,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-06-12,Democrats,4.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-06-12,Democrats,4.5,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
-2025-06-13,Democrats,1.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-06-19,Democrats,4.4,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-06-30,Democrats,5.3,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-07-03,Democrats,4.9,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-07-09,Democrats,4.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-07-09,Democrats,3.4,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
-2025-07-12,Democrats,1.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-07-24,Democrats,4.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-07-28,Democrats,6.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-08-07,Democrats,5.7,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
@@ -508,14 +574,32 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Democrats,5.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-12-28,Democrats,7.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2026-01-08,Democrats,3.8,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-14,Democrats,7.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-14,Democrats,5.4,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-15,Democrats,5.2,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-21,Democrats,15.9,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-25,Democrats,7.3,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-25,Democrats,6.0,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-27,Democrats,6.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-01-29,Democrats,5.9,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-05,Democrats,8.5,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-08,Democrats,6.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-11,Democrats,14.6,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-11,Democrats,6.5,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-12,Democrats,5.7,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-13,Democrats,7.5,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-14,Democrats,6.0,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-23,Democrats,6.8,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-24,Democrats,8.4,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-25,Democrats,7.8,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-26,Democrats,5.4,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
+2026-02-26,Democrats,9.1,Centre to centre-right,Anti-corruption Decentralisation,https://en.wikipedia.org/wiki/Democrats_(Slovenia)
 2025-02-12,Focus of Marko Lotrič,0.9,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-02-14,Focus of Marko Lotrič,0.5,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-03-10,Focus of Marko Lotrič,0.6,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-04-10,Focus of Marko Lotrič,1.3,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-04-28,Focus of Marko Lotrič,0.4,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-05-10,Focus of Marko Lotrič,1.3,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
-2025-06-05,Focus of Marko Lotrič,1.8,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
-2025-06-06,Focus of Marko Lotrič,1.5,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-06-12,Focus of Marko Lotrič,0.3,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-06-12,Focus of Marko Lotrič,1.2,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-08-07,Focus of Marko Lotrič,0.5,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
@@ -528,6 +612,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Focus of Marko Lotrič,0.8,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2025-12-28,Focus of Marko Lotrič,0.7,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2026-01-08,Focus of Marko Lotrič,0.2,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
+2026-01-14,Focus of Marko Lotrič,0.9,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
+2026-01-14,Focus of Marko Lotrič,0.4,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
+2026-01-15,Focus of Marko Lotrič,0.9,Centre-right,Conservatism Liberalism,https://en.wikipedia.org/wiki/Focus_of_Marko_Lotri%C4%8D
 2021-05-26,Freedom Movement,0.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2021-06-15,Freedom Movement,1.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2021-06-18,Freedom Movement,0.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
@@ -584,6 +671,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,Freedom Movement,35.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2022-04-24,Freedom Movement,34.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2022-05-12,Freedom Movement,38.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2022-05-19,Freedom Movement,30.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2022-05-19,Freedom Movement,30.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
@@ -637,13 +728,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-17,Freedom Movement,23.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-08-24,Freedom Movement,22.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-09-07,Freedom Movement,24.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2023-09-09,Freedom Movement,20.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-09-13,Freedom Movement,22.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-09-21,Freedom Movement,20.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-10-05,Freedom Movement,18.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-10-11,Freedom Movement,20.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-10-19,Freedom Movement,18.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2023-10-27,Freedom Movement,19.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-11-09,Freedom Movement,14.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-11-15,Freedom Movement,16.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2023-11-15,Freedom Movement,17.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-11-24,Freedom Movement,13.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-12-07,Freedom Movement,13.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2023-12-14,Freedom Movement,16.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
@@ -681,13 +775,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,Freedom Movement,15.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-10-24,Freedom Movement,11.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-11-07,Freedom Movement,12.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2024-11-16,Freedom Movement,14.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2024-11-13,Freedom Movement,14.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-11-21,Freedom Movement,15.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-12-05,Freedom Movement,14.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-12-11,Freedom Movement,16.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2024-12-19,Freedom Movement,14.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-01-09,Freedom Movement,14.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2025-01-13,Freedom Movement,1.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-01-15,Freedom Movement,16.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-01-23,Freedom Movement,12.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-02-06,Freedom Movement,12.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
@@ -709,18 +802,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Freedom Movement,17.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-05-22,Freedom Movement,17.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-05-26,Freedom Movement,17.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2025-06-05,Freedom Movement,1.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2025-06-06,Freedom Movement,14.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2025-06-05,Freedom Movement,18.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-06-11,Freedom Movement,18.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-06-12,Freedom Movement,19.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-06-12,Freedom Movement,14.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2025-06-13,Freedom Movement,1.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-06-19,Freedom Movement,15.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-06-30,Freedom Movement,16.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-07-03,Freedom Movement,14.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-07-09,Freedom Movement,19.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-07-09,Freedom Movement,15.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
-2025-07-12,Freedom Movement,1.7,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-07-24,Freedom Movement,17.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-07-28,Freedom Movement,19.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-08-07,Freedom Movement,16.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
@@ -753,6 +843,158 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Freedom Movement,15.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2025-12-28,Freedom Movement,19.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
 2026-01-08,Freedom Movement,18.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-14,Freedom Movement,17.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-14,Freedom Movement,20.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-15,Freedom Movement,16.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-21,Freedom Movement,13.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-25,Freedom Movement,18.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-25,Freedom Movement,14.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-27,Freedom Movement,19.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-01-29,Freedom Movement,14.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-05,Freedom Movement,16.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-08,Freedom Movement,19.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-11,Freedom Movement,15.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-11,Freedom Movement,21.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-12,Freedom Movement,16.2,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-13,Freedom Movement,20.3,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-14,Freedom Movement,17.4,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-23,Freedom Movement,20.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-24,Freedom Movement,23.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-25,Freedom Movement,27.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-26,Freedom Movement,17.8,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2026-02-26,Freedom Movement,23.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Freedom_Movement_(Slovenia)
+2018-06-03,Good State,1.5,,,
+2018-11-22,Good State,0.6,,,
+2018-12-06,Good State,1.2,,,
+2019-01-10,Good State,0.7,,,
+2019-02-06,Good State,1.2,,,
+2019-03-07,Good State,1.1,,,
+2019-05-23,Good State,1.1,,,
+2019-07-11,Good State,1.2,,,
+2019-08-08,Good State,1.7,,,
+2019-09-05,Good State,0.5,,,
+2019-10-10,Good State,1.3,,,
+2019-11-07,Good State,0.8,,,
+2020-01-09,Good State,0.9,,,
+2020-02-03,Good State,0.9,,,
+2020-02-05,Good State,0.5,,,
+2020-02-13,Good State,0.7,,,
+2020-02-20,Good State,0.5,,,
+2020-02-28,Good State,0.1,,,
+2020-03-05,Good State,1.3,,,
+2020-03-19,Good State,1.2,,,
+2020-04-09,Good State,1.1,,,
+2020-05-08,Good State,0.8,,,
+2020-05-21,Good State,1.5,,,
+2020-05-22,Good State,0.2,,,
+2020-06-04,Good State,1.5,,,
+2020-06-17,Good State,1.7,,,
+2020-07-02,Good State,0.4,,,
+2020-07-09,Good State,0.5,,,
+2020-08-06,Good State,0.8,,,
+2020-08-24,Good State,0.9,,,
+2020-09-10,Good State,1.3,,,
+2020-10-08,Good State,1.5,,,
+2020-11-04,Good State,0.4,,,
+2020-11-05,Good State,1.2,,,
+2020-12-09,Good State,1.3,,,
+2020-12-09,Good State,0.8,,,
+2020-12-23,Good State,0.6,,,
+2021-01-07,Good State,1.4,,,
+2021-01-28,Good State,0.8,,,
+2021-02-11,Good State,1.2,,,
+2021-03-04,Good State,1.9,,,
+2021-03-12,Good State,1.2,,,
+2021-04-08,Good State,0.6,,,
+2021-04-14,Good State,0.1,,,
+2021-05-05,Good State,1.5,,,
+2021-05-13,Good State,1.2,,,
+2021-05-24,Good State,1.1,,,
+2021-06-10,Good State,2.0,,,
+2021-07-07,Good State,2.0,,,
+2021-08-05,Good State,0.8,,,
+2021-09-09,Good State,0.9,,,
+2021-10-07,Good State,0.8,,,
+2021-12-02,Good State,1.5,,,
+2021-12-09,Good State,1.5,,,
+2021-12-29,Good State,1.9,,,
+2022-01-19,Good State,1.0,,,
+2022-02-03,Good State,1.3,,,
+2022-02-10,Good State,1.4,,,
+2022-04-24,Good State,1.7,,,
+2022-04-24,Good State,1.7,,,
+2022-04-24,Good State,1.7,,,
+2022-05-19,Good State,1.9,,,
+2022-06-09,Good State,0.8,,,
+2022-07-07,Good State,1.1,,,
+2022-08-25,Good State,0.7,,,
+2022-09-08,Good State,1.5,,,
+2022-09-22,Good State,1.2,,,
+2022-10-06,Good State,1.1,,,
+2022-10-19,Good State,1.6,,,
+2022-11-09,Good State,1.1,,,
+2022-11-24,Good State,1.0,,,
+2022-12-08,Good State,0.3,,,
+2022-12-22,Good State,1.1,,,
+2023-01-05,Good State,1.0,,,
+2023-01-19,Good State,0.9,,,
+2023-02-10,Good State,1.0,,,
+2023-02-23,Good State,1.7,,,
+2023-03-09,Good State,1.2,,,
+2023-04-07,Good State,0.9,,,
+2023-04-20,Good State,0.7,,,
+2023-05-04,Good State,0.6,,,
+2023-05-25,Good State,1.2,,,
+2023-06-08,Good State,0.4,,,
+2023-06-22,Good State,0.7,,,
+2023-07-06,Good State,0.7,,,
+2023-07-20,Good State,0.4,,,
+2023-08-10,Good State,0.3,,,
+2023-08-24,Good State,0.1,,,
+2023-09-07,Good State,0.3,,,
+2023-09-21,Good State,1.1,,,
+2023-10-05,Good State,0.3,,,
+2023-10-19,Good State,1.0,,,
+2023-11-09,Good State,0.5,,,
+2023-11-24,Good State,1.0,,,
+2023-12-07,Good State,0.7,,,
+2023-12-21,Good State,1.0,,,
+2024-01-04,Good State,1.1,,,
+2024-01-25,Good State,0.3,,,
+2024-02-08,Good State,0.1,,,
+2024-02-22,Good State,0.3,,,
+2024-03-07,Good State,0.7,,,
+2024-03-21,Good State,0.8,,,
+2024-04-04,Good State,0.6,,,
+2024-04-25,Good State,1.0,,,
+2024-05-10,Good State,0.8,,,
+2024-05-24,Good State,0.8,,,
+2024-06-06,Good State,0.5,,,
+2024-06-09,Good State,2.2,,,
+2024-06-20,Good State,1.2,,,
+2024-07-04,Good State,0.6,,,
+2024-07-25,Good State,1.6,,,
+2024-08-08,Good State,1.5,,,
+2024-08-22,Good State,0.4,,,
+2024-09-05,Good State,0.9,,,
+2024-09-19,Good State,1.5,,,
+2024-10-03,Good State,1.7,,,
+2024-10-24,Good State,1.0,,,
+2024-11-07,Good State,0.2,,,
+2024-12-05,Good State,1.1,,,
+2024-12-19,Good State,0.6,,,
+2026-01-08,Karl Erjavec - Trust Party,0.2,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-01-14,Karl Erjavec - Trust Party,0.2,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-01-14,Karl Erjavec - Trust Party,0.2,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-01-15,Karl Erjavec - Trust Party,0.3,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-01-25,Karl Erjavec - Trust Party,0.1,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-01-29,Karl Erjavec - Trust Party,0.2,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-05,Karl Erjavec - Trust Party,0.8,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-11,Karl Erjavec - Trust Party,1.1,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-12,Karl Erjavec - Trust Party,0.3,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-14,Karl Erjavec - Trust Party,0.1,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-25,Karl Erjavec - Trust Party,0.8,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
+2026-02-26,Karl Erjavec - Trust Party,0.7,Centre,,https://en.wikipedia.org/wiki/Karl_Erjavec_-_Trust_Party
 2021-05-26,Let's Connect Slovenia,1.7,Centre to centre-right,Big tent,https://en.wikipedia.org/wiki/Let%27s_Connect_Slovenia
 2021-06-15,Let's Connect Slovenia,2.0,Centre to centre-right,Big tent,https://en.wikipedia.org/wiki/Let%27s_Connect_Slovenia
 2021-06-18,Let's Connect Slovenia,0.8,Centre to centre-right,Big tent,https://en.wikipedia.org/wiki/Let%27s_Connect_Slovenia
@@ -988,13 +1230,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,List of Marjan Šarec,4.2,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
 2022-04-24,List of Marjan Šarec,3.8,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
 2022-04-24,List of Marjan Šarec,3.7,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-04-24,List of Marjan Šarec,3.7,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-05-12,List of Marjan Šarec,2.5,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-05-19,List of Marjan Šarec,2.1,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-05-19,List of Marjan Šarec,4.0,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-06-09,List of Marjan Šarec,2.3,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-06-16,List of Marjan Šarec,3.0,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
-2022-06-23,List of Marjan Šarec,2.3,Centre to centre-left,Social liberalism Populism,https://en.wikipedia.org/wiki/List_of_Marjan_%C5%A0arec
 2014-07-13,Modern Centre Party,34.5,Centre to centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_Centre_Party
 2014-08-07,Modern Centre Party,28.6,Centre to centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_Centre_Party
 2014-09-11,Modern Centre Party,28.1,Centre to centre-left,Social liberalism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_Centre_Party
@@ -1704,6 +1939,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,New Slovenia,6.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2022-04-24,New Slovenia,6.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2022-05-12,New Slovenia,5.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2022-05-19,New Slovenia,4.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2022-05-19,New Slovenia,8.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
@@ -1757,13 +1996,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-17,New Slovenia,6.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-08-24,New Slovenia,4.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-09-07,New Slovenia,5.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2023-09-09,New Slovenia,7.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-09-13,New Slovenia,8.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-09-21,New Slovenia,4.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-10-05,New Slovenia,7.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-10-11,New Slovenia,7.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-10-19,New Slovenia,5.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2023-10-27,New Slovenia,7.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-11-09,New Slovenia,7.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-11-15,New Slovenia,6.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2023-11-15,New Slovenia,8.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-11-24,New Slovenia,3.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-12-07,New Slovenia,4.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2023-12-14,New Slovenia,6.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
@@ -1801,13 +2043,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,New Slovenia,5.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-10-24,New Slovenia,4.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-11-07,New Slovenia,4.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2024-11-16,New Slovenia,6.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2024-11-13,New Slovenia,6.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-11-21,New Slovenia,4.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-12-05,New Slovenia,4.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-12-11,New Slovenia,5.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2024-12-19,New Slovenia,4.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-01-09,New Slovenia,5.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2025-01-13,New Slovenia,4.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-01-15,New Slovenia,5.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-01-23,New Slovenia,3.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-02-06,New Slovenia,3.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
@@ -1829,18 +2070,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,New Slovenia,5.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-05-22,New Slovenia,3.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-05-26,New Slovenia,4.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2025-06-05,New Slovenia,5.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2025-06-06,New Slovenia,3.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2025-06-05,New Slovenia,4.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-06-11,New Slovenia,5.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-06-12,New Slovenia,4.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-06-12,New Slovenia,5.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2025-06-13,New Slovenia,5.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-06-19,New Slovenia,3.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-06-30,New Slovenia,4.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-07-03,New Slovenia,3.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-07-09,New Slovenia,6.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-07-09,New Slovenia,4.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
-2025-07-12,New Slovenia,4.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-07-24,New Slovenia,2.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-07-28,New Slovenia,4.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-08-07,New Slovenia,6.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
@@ -1873,6 +2111,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,New Slovenia,7.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2025-12-28,New Slovenia,5.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2026-01-08,New Slovenia,3.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-14,New Slovenia,5.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-14,New Slovenia,4.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-15,New Slovenia,4.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-21,New Slovenia,10.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-25,New Slovenia,6.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-25,New Slovenia,7.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-27,New Slovenia,6.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-01-29,New Slovenia,5.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-05,New Slovenia,6.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-08,New Slovenia,6.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-11,New Slovenia,9.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-11,New Slovenia,6.5,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-12,New Slovenia,7.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-13,New Slovenia,9.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-14,New Slovenia,6.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-23,New Slovenia,5.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-24,New Slovenia,8.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-25,New Slovenia,9.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-26,New Slovenia,4.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
+2026-02-26,New Slovenia,7.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/New_Slovenia
 2021-05-26,Our Country,1.7,Centre [ citation needed ] to centre-right,Decentralization Pro-Europeanism Agrarianism,https://en.wikipedia.org/wiki/Our_Country_(Slovenia)
 2021-06-15,Our Country,2.0,Centre [ citation needed ] to centre-right,Decentralization Pro-Europeanism Agrarianism,https://en.wikipedia.org/wiki/Our_Country_(Slovenia)
 2021-06-18,Our Country,1.5,Centre [ citation needed ] to centre-right,Decentralization Pro-Europeanism Agrarianism,https://en.wikipedia.org/wiki/Our_Country_(Slovenia)
@@ -2230,14 +2488,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,Party of Alenka Bratušek,3.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
 2022-04-24,Party of Alenka Bratušek,2.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
 2022-04-24,Party of Alenka Bratušek,2.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-04-24,Party of Alenka Bratušek,2.6,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-05-19,Party of Alenka Bratušek,1.5,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-05-19,Party of Alenka Bratušek,2.0,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-06-09,Party of Alenka Bratušek,1.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-06-16,Party of Alenka Bratušek,1.1,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
-2022-06-23,Party of Alenka Bratušek,1.9,Centre to centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Alenka_Bratu%C5%A1ek
 2025-01-09,Party of Generations,0.9,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-01-13,Party of Generations,9.6,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-01-23,Party of Generations,1.0,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-02-12,Party of Generations,0.4,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-02-14,Party of Generations,0.8,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
@@ -2245,13 +2496,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-10,Party of Generations,0.6,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-04-28,Party of Generations,0.4,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-05-10,Party of Generations,1.3,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-06-05,Party of Generations,3.7,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-06-06,Party of Generations,0.6,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-06-12,Party of Generations,0.4,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-06-12,Party of Generations,0.8,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-06-13,Party of Generations,8.1,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-07-09,Party of Generations,0.2,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-07-12,Party of Generations,8.0,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-08-07,Party of Generations,0.3,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-09-12,Party of Generations,1.1,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-10-22,Party of Generations,0.4,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
@@ -2262,7 +2509,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Party of Generations,0.8,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2025-12-18,Party of Generations,0.4,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
 2026-01-08,Party of Generations,0.1,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
-2025-01-13,Pavel Rupar's Voice of Pensioners,15.6,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-14,Party of Generations,0.5,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
+2026-01-15,Party of Generations,0.3,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
+2026-01-25,Party of Generations,1.1,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
+2026-01-29,Party of Generations,0.3,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
+2026-02-05,Party of Generations,0.9,Centre-left,Social liberalism Social democracy Pensioners' interests Pro-Europeanism,https://en.wikipedia.org/wiki/Party_of_Generations
+2024-10-04,Pavel Rupar's Voice of Pensioners,3.9,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-02-12,Pavel Rupar's Voice of Pensioners,1.6,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-02-14,Pavel Rupar's Voice of Pensioners,3.8,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-03-10,Pavel Rupar's Voice of Pensioners,2.2,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
@@ -2270,13 +2522,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-28,Pavel Rupar's Voice of Pensioners,1.0,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-05-10,Pavel Rupar's Voice of Pensioners,1.7,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-05-26,Pavel Rupar's Voice of Pensioners,1.0,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
-2025-06-05,Pavel Rupar's Voice of Pensioners,4.7,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-06-12,Pavel Rupar's Voice of Pensioners,2.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-06-12,Pavel Rupar's Voice of Pensioners,1.4,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
-2025-06-13,Pavel Rupar's Voice of Pensioners,14.4,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-06-30,Pavel Rupar's Voice of Pensioners,1.5,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-07-09,Pavel Rupar's Voice of Pensioners,1.0,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
-2025-07-12,Pavel Rupar's Voice of Pensioners,15.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-07-28,Pavel Rupar's Voice of Pensioners,1.4,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-08-07,Pavel Rupar's Voice of Pensioners,1.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-08-25,Pavel Rupar's Voice of Pensioners,1.6,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
@@ -2292,6 +2541,21 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Pavel Rupar's Voice of Pensioners,0.3,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2025-12-18,Pavel Rupar's Voice of Pensioners,1.3,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2026-01-08,Pavel Rupar's Voice of Pensioners,0.2,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-14,Pavel Rupar's Voice of Pensioners,1.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-14,Pavel Rupar's Voice of Pensioners,0.8,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-15,Pavel Rupar's Voice of Pensioners,1.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-25,Pavel Rupar's Voice of Pensioners,0.6,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-01-29,Pavel Rupar's Voice of Pensioners,1.0,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-05,Pavel Rupar's Voice of Pensioners,0.3,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-08,Pavel Rupar's Voice of Pensioners,1.2,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-11,Pavel Rupar's Voice of Pensioners,0.8,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-12,Pavel Rupar's Voice of Pensioners,1.2,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-13,Pavel Rupar's Voice of Pensioners,1.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-14,Pavel Rupar's Voice of Pensioners,2.2,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-23,Pavel Rupar's Voice of Pensioners,1.4,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-24,Pavel Rupar's Voice of Pensioners,1.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-25,Pavel Rupar's Voice of Pensioners,0.5,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
+2026-02-26,Pavel Rupar's Voice of Pensioners,0.1,Centre-right,Pensioners' interests Single-issue,https://en.wikipedia.org/wiki/Voice_of_Pensioners
 2018-06-03,Pirate Party,2.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2018-11-22,Pirate Party,2.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2018-12-06,Pirate Party,1.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
@@ -2406,6 +2670,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,Pirate Party,2.5,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2022-04-24,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2022-04-24,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2022-04-24,Pirate Party,1.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2022-04-24,Pirate Party,1.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2022-04-24,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2022-04-24,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2022-04-24,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2022-05-12,Pirate Party,1.3,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2022-05-19,Pirate Party,1.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
@@ -2472,7 +2740,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-12-05,Pirate Party,2.1,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2024-12-19,Pirate Party,1.4,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-01-09,Pirate Party,1.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-2025-01-13,Pirate Party,2.1,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-01-23,Pirate Party,2.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-02-06,Pirate Party,2.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-02-12,Pirate Party,3.1,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
@@ -2489,15 +2756,13 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-10,Pirate Party,2.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-05-22,Pirate Party,1.5,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-05-26,Pirate Party,4.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-2025-06-06,Pirate Party,2.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2025-06-05,Pirate Party,1.9,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-06-12,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-06-12,Pirate Party,2.3,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-2025-06-13,Pirate Party,2.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-06-19,Pirate Party,2.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-06-30,Pirate Party,3.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-07-03,Pirate Party,2.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-07-09,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
-2025-07-12,Pirate Party,2.1,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-07-24,Pirate Party,1.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-07-28,Pirate Party,3.8,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-08-07,Pirate Party,1.3,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
@@ -2525,6 +2790,24 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Pirate Party,3.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2025-12-28,Pirate Party,2.5,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2026-01-08,Pirate Party,3.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-14,Pirate Party,1.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-14,Pirate Party,1.4,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-15,Pirate Party,2.8,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-25,Pirate Party,2.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-25,Pirate Party,1.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-27,Pirate Party,1.1,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-01-29,Pirate Party,3.9,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-05,Pirate Party,3.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-08,Pirate Party,2.8,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-11,Pirate Party,1.4,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-12,Pirate Party,4.0,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-13,Pirate Party,4.8,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-14,Pirate Party,2.3,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-23,Pirate Party,2.4,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-24,Pirate Party,3.2,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-25,Pirate Party,1.6,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-26,Pirate Party,2.7,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
+2026-02-26,Pirate Party,2.5,Syncretic,Pirate politics Freedom of information Open government Network neutrality,https://en.wikipedia.org/wiki/Pirate_Party_(Slovenia)
 2014-07-13,Positive Slovenia,3.0,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
 2014-09-11,Positive Slovenia,1.1,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
 2014-11-20,Positive Slovenia,0.5,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
@@ -2563,7 +2846,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-14,Positive Slovenia,0.7,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
 2018-03-25,Positive Slovenia,0.5,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
 2018-04-22,Positive Slovenia,0.2,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/Positive_Slovenia
-2025-06-06,Prerod,5.8,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2025-07-09,Prerod,2.7,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2025-08-07,Prerod,2.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2025-09-12,Prerod,4.4,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
@@ -2583,6 +2865,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Prerod,1.2,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2025-12-28,Prerod,2.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2026-01-08,Prerod,1.5,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-14,Prerod,2.8,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-14,Prerod,2.7,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-15,Prerod,2.4,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-21,Prerod,10.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-25,Prerod,3.1,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-25,Prerod,1.7,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-27,Prerod,2.7,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-01-29,Prerod,2.8,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-05,Prerod,2.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-08,Prerod,3.8,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-11,Prerod,3.0,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-11,Prerod,2.5,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-12,Prerod,2.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-13,Prerod,4.2,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-14,Prerod,1.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-23,Prerod,4.0,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-24,Prerod,4.1,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-25,Prerod,2.9,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-26,Prerod,2.1,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
+2026-02-26,Prerod,3.6,Centre-left,Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Prerod
 2022-01-27,Resni.ca,0.2,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-02-10,Resni.ca,2.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-02-10,Resni.ca,1.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
@@ -2622,10 +2924,14 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,Resni.ca,2.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2022-04-24,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-05-19,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-06-09,Resni.ca,2.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-06-16,Resni.ca,0.7,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2022-06-23,Resni.ca,3.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2022-06-23,Resni.ca,2.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-07-07,Resni.ca,2.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-08-25,Resni.ca,3.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2022-08-31,Resni.ca,2.2,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
@@ -2689,7 +2995,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-12-05,Resni.ca,3.8,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2024-12-19,Resni.ca,3.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-01-09,Resni.ca,3.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2025-01-13,Resni.ca,12.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-01-23,Resni.ca,3.2,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-02-06,Resni.ca,2.8,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-02-12,Resni.ca,5.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
@@ -2706,16 +3011,13 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-10,Resni.ca,5.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-05-22,Resni.ca,3.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-05-26,Resni.ca,6.3,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2025-06-05,Resni.ca,2.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2025-06-06,Resni.ca,4.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2025-06-05,Resni.ca,4.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-06-12,Resni.ca,6.8,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-06-12,Resni.ca,2.8,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2025-06-13,Resni.ca,12.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-06-19,Resni.ca,3.8,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-06-30,Resni.ca,7.2,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-07-03,Resni.ca,5.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-07-09,Resni.ca,6.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
-2025-07-12,Resni.ca,12.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-07-24,Resni.ca,4.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-07-28,Resni.ca,7.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-08-07,Resni.ca,4.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
@@ -2743,6 +3045,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Resni.ca,2.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2025-12-28,Resni.ca,4.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2026-01-08,Resni.ca,4.2,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-14,Resni.ca,3.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-14,Resni.ca,2.7,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-15,Resni.ca,4.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-21,Resni.ca,5.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-25,Resni.ca,5.3,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-25,Resni.ca,3.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-27,Resni.ca,3.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-01-29,Resni.ca,3.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-05,Resni.ca,2.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-08,Resni.ca,4.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-11,Resni.ca,3.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-11,Resni.ca,3.1,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-12,Resni.ca,4.0,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-13,Resni.ca,3.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-14,Resni.ca,3.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-23,Resni.ca,3.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-24,Resni.ca,2.5,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-25,Resni.ca,2.6,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-26,Resni.ca,3.9,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
+2026-02-26,Resni.ca,3.4,,Populism Direct democracy Civil libertarianism Souverainism Euroscepticism,https://en.wikipedia.org/wiki/Resni.ca
 2014-07-13,Slovenian Democratic Party,20.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2014-08-07,Slovenian Democratic Party,11.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2014-09-11,Slovenian Democratic Party,15.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
@@ -3089,6 +3411,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,Slovenian Democratic Party,22.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2022-04-24,Slovenian Democratic Party,23.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2022-05-12,Slovenian Democratic Party,19.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2022-05-19,Slovenian Democratic Party,19.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2022-05-19,Slovenian Democratic Party,24.8,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
@@ -3142,13 +3468,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-17,Slovenian Democratic Party,23.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-08-24,Slovenian Democratic Party,22.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-09-07,Slovenian Democratic Party,21.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2023-09-09,Slovenian Democratic Party,22.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-09-13,Slovenian Democratic Party,20.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-09-21,Slovenian Democratic Party,21.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-10-05,Slovenian Democratic Party,23.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-10-11,Slovenian Democratic Party,21.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-10-19,Slovenian Democratic Party,23.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2023-10-27,Slovenian Democratic Party,22.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-11-09,Slovenian Democratic Party,22.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-11-15,Slovenian Democratic Party,22.4,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2023-11-15,Slovenian Democratic Party,28.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-11-24,Slovenian Democratic Party,22.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-12-07,Slovenian Democratic Party,20.8,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2023-12-14,Slovenian Democratic Party,22.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
@@ -3186,13 +3515,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,Slovenian Democratic Party,24.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-10-24,Slovenian Democratic Party,22.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-11-07,Slovenian Democratic Party,21.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-2024-11-16,Slovenian Democratic Party,25.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2024-11-13,Slovenian Democratic Party,25.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-11-21,Slovenian Democratic Party,20.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-12-05,Slovenian Democratic Party,20.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-12-11,Slovenian Democratic Party,23.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2024-12-19,Slovenian Democratic Party,21.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-01-09,Slovenian Democratic Party,20.4,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-2025-01-13,Slovenian Democratic Party,6.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-01-15,Slovenian Democratic Party,24.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-01-23,Slovenian Democratic Party,21.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-02-06,Slovenian Democratic Party,23.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
@@ -3214,17 +3542,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Slovenian Democratic Party,25.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-05-22,Slovenian Democratic Party,21.4,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-05-26,Slovenian Democratic Party,24.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-2025-06-06,Slovenian Democratic Party,15.4,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2025-06-05,Slovenian Democratic Party,21.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-06-11,Slovenian Democratic Party,25.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-06-12,Slovenian Democratic Party,21.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-06-12,Slovenian Democratic Party,23.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-2025-06-13,Slovenian Democratic Party,6.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-06-19,Slovenian Democratic Party,23.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-06-30,Slovenian Democratic Party,23.8,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-07-03,Slovenian Democratic Party,22.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-07-09,Slovenian Democratic Party,22.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-07-09,Slovenian Democratic Party,23.4,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
-2025-07-12,Slovenian Democratic Party,5.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-07-24,Slovenian Democratic Party,23.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-07-28,Slovenian Democratic Party,21.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-08-07,Slovenian Democratic Party,21.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
@@ -3257,6 +3583,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Slovenian Democratic Party,19.1,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2025-12-28,Slovenian Democratic Party,23.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2026-01-08,Slovenian Democratic Party,21.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-14,Slovenian Democratic Party,23.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-14,Slovenian Democratic Party,25.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-15,Slovenian Democratic Party,20.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-21,Slovenian Democratic Party,27.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-25,Slovenian Democratic Party,22.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-25,Slovenian Democratic Party,20.8,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-27,Slovenian Democratic Party,22.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-01-29,Slovenian Democratic Party,21.7,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-05,Slovenian Democratic Party,21.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-08,Slovenian Democratic Party,22.2,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-11,Slovenian Democratic Party,26.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-11,Slovenian Democratic Party,24.3,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-12,Slovenian Democratic Party,21.6,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-13,Slovenian Democratic Party,29.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-14,Slovenian Democratic Party,23.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-23,Slovenian Democratic Party,23.8,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-24,Slovenian Democratic Party,31.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-25,Slovenian Democratic Party,28.0,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-26,Slovenian Democratic Party,24.5,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
+2026-02-26,Slovenian Democratic Party,30.9,Right-wing,National conservatism Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_Democratic_Party
 2014-07-13,Slovenian National Party,2.2,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2014-08-07,Slovenian National Party,2.9,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2014-09-11,Slovenian National Party,1.7,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
@@ -3538,6 +3884,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2022-04-24,Slovenian National Party,1.6,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2022-04-24,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2022-04-24,Slovenian National Party,1.6,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2022-04-24,Slovenian National Party,1.6,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2022-04-24,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2022-04-24,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2022-04-24,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2022-05-19,Slovenian National Party,0.9,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2022-06-09,Slovenian National Party,0.6,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
@@ -3617,13 +3967,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-10,Slovenian National Party,3.2,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-05-22,Slovenian National Party,2.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-05-26,Slovenian National Party,3.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
-2025-06-06,Slovenian National Party,2.1,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2025-06-05,Slovenian National Party,2.4,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-06-12,Slovenian National Party,3.2,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-06-19,Slovenian National Party,2.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-06-30,Slovenian National Party,3.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-07-03,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-07-09,Slovenian National Party,2.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
-2025-07-12,Slovenian National Party,3.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-07-24,Slovenian National Party,2.1,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-07-28,Slovenian National Party,2.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-08-07,Slovenian National Party,2.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
@@ -3650,6 +3999,24 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Slovenian National Party,3.9,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2025-12-28,Slovenian National Party,4.4,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2026-01-08,Slovenian National Party,3.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-14,Slovenian National Party,1.9,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-15,Slovenian National Party,1.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-21,Slovenian National Party,1.1,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-25,Slovenian National Party,2.7,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-25,Slovenian National Party,2.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-27,Slovenian National Party,1.2,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-01-29,Slovenian National Party,2.0,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-05,Slovenian National Party,2.6,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-08,Slovenian National Party,3.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-11,Slovenian National Party,1.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-12,Slovenian National Party,2.4,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-13,Slovenian National Party,1.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-14,Slovenian National Party,1.9,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-23,Slovenian National Party,3.5,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-24,Slovenian National Party,1.8,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-25,Slovenian National Party,1.2,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-26,Slovenian National Party,2.1,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
+2026-02-26,Slovenian National Party,2.3,Far-right,Nationalism Right-wing populism,https://en.wikipedia.org/wiki/Slovenian_National_Party
 2014-07-13,Slovenian People's Party,3.9,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2014-08-07,Slovenian People's Party,4.2,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2014-09-11,Slovenian People's Party,2.8,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
@@ -3910,6 +4277,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-03,Slovenian People's Party,1.2,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2022-02-10,Slovenian People's Party,1.2,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2022-04-24,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2022-04-24,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2022-04-24,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2022-04-24,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2022-04-24,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2022-05-12,Slovenian People's Party,1.7,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2022-05-19,Slovenian People's Party,2.9,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2022-06-09,Slovenian People's Party,1.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
@@ -3977,13 +4348,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,Slovenian People's Party,2.1,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-10-24,Slovenian People's Party,0.8,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-11-07,Slovenian People's Party,3.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2024-11-16,Slovenian People's Party,1.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2024-11-13,Slovenian People's Party,1.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-11-21,Slovenian People's Party,2.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-12-05,Slovenian People's Party,1.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-12-11,Slovenian People's Party,1.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2024-12-19,Slovenian People's Party,1.2,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-01-09,Slovenian People's Party,2.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2025-01-13,Slovenian People's Party,2.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-01-15,Slovenian People's Party,1.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-01-23,Slovenian People's Party,1.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-02-06,Slovenian People's Party,0.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
@@ -4005,18 +4375,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Slovenian People's Party,1.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-05-22,Slovenian People's Party,1.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-05-26,Slovenian People's Party,1.8,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2025-06-05,Slovenian People's Party,4.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2025-06-06,Slovenian People's Party,1.5,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2025-06-05,Slovenian People's Party,1.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-06-11,Slovenian People's Party,1.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-06-12,Slovenian People's Party,1.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-06-12,Slovenian People's Party,1.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2025-06-13,Slovenian People's Party,2.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-06-19,Slovenian People's Party,2.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-06-30,Slovenian People's Party,1.7,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-07-03,Slovenian People's Party,1.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-07-09,Slovenian People's Party,0.8,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-07-09,Slovenian People's Party,0.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
-2025-07-12,Slovenian People's Party,2.4,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-07-24,Slovenian People's Party,2.8,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-07-28,Slovenian People's Party,1.5,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-08-07,Slovenian People's Party,1.1,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
@@ -4046,6 +4413,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Slovenian People's Party,1.2,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2025-12-28,Slovenian People's Party,1.3,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2026-01-08,Slovenian People's Party,2.0,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2026-01-14,Slovenian People's Party,1.1,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2026-01-14,Slovenian People's Party,0.7,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
+2026-01-15,Slovenian People's Party,0.6,Centre-right,Conservatism Agrarianism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Slovenian_People%27s_Party
 2014-07-13,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2014-08-07,Social Democrats,5.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2014-09-11,Social Democrats,5.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
@@ -4392,12 +4762,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,Social Democrats,6.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2022-04-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-05-12,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-05-19,Social Democrats,6.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-05-19,Social Democrats,5.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-06-09,Social Democrats,5.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-06-16,Social Democrats,5.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2022-06-23,Social Democrats,5.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2022-06-23,Social Democrats,5.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-06-24,Social Democrats,6.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-07-07,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2022-07-14,Social Democrats,5.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
@@ -4445,13 +4819,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-17,Social Democrats,6.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-08-24,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-09-07,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2023-09-09,Social Democrats,5.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-09-13,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-09-21,Social Democrats,5.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-10-05,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-10-11,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-10-19,Social Democrats,7.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2023-10-27,Social Democrats,7.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-11-09,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-11-15,Social Democrats,7.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2023-11-15,Social Democrats,8.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-11-24,Social Democrats,8.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-12-07,Social Democrats,8.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2023-12-14,Social Democrats,7.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
@@ -4489,13 +4866,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-10-24,Social Democrats,6.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-11-07,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2024-11-16,Social Democrats,7.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2024-11-13,Social Democrats,7.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-11-21,Social Democrats,7.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-12-05,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-12-11,Social Democrats,8.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2024-12-19,Social Democrats,6.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-01-09,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2025-01-13,Social Democrats,2.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-01-15,Social Democrats,7.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-01-23,Social Democrats,6.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-02-06,Social Democrats,6.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
@@ -4517,17 +4893,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Social Democrats,7.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-05-22,Social Democrats,5.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-05-26,Social Democrats,7.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2025-06-06,Social Democrats,4.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2025-06-05,Social Democrats,5.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-06-11,Social Democrats,7.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-06-12,Social Democrats,6.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-06-12,Social Democrats,5.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2025-06-13,Social Democrats,3.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-06-19,Social Democrats,4.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-06-30,Social Democrats,9.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-07-03,Social Democrats,7.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-07-09,Social Democrats,8.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-07-09,Social Democrats,7.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
-2025-07-12,Social Democrats,3.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-07-24,Social Democrats,5.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-07-28,Social Democrats,8.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-08-07,Social Democrats,9.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
@@ -4560,6 +4934,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,Social Democrats,8.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2025-12-28,Social Democrats,7.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2026-01-08,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-14,Social Democrats,6.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-14,Social Democrats,4.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-15,Social Democrats,6.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-21,Social Democrats,5.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-25,Social Democrats,8.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-25,Social Democrats,6.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-27,Social Democrats,6.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-01-29,Social Democrats,6.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-05,Social Democrats,7.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-08,Social Democrats,9.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-11,Social Democrats,6.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-11,Social Democrats,6.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-12,Social Democrats,7.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-13,Social Democrats,8.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-14,Social Democrats,6.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-23,Social Democrats,7.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-24,Social Democrats,7.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-25,Social Democrats,8.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-26,Social Democrats,5.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
+2026-02-26,Social Democrats,10.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democrats_(Slovenia)
 2014-07-13,The Left,6.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2014-08-07,The Left,7.7,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2014-09-11,The Left,6.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
@@ -4905,6 +5299,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2022-04-24,The Left,4.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2022-05-12,The Left,5.5,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2022-05-19,The Left,4.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2022-05-19,The Left,4.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
@@ -4958,13 +5356,16 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-17,The Left,4.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-08-24,The Left,3.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-09-07,The Left,4.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2023-09-09,The Left,4.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-09-13,The Left,5.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-09-21,The Left,5.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-10-05,The Left,5.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-10-11,The Left,4.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-10-19,The Left,3.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2023-10-27,The Left,6.2,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-11-09,The Left,4.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-11-15,The Left,5.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2023-11-15,The Left,4.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-11-24,The Left,3.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-12-07,The Left,4.7,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2023-12-14,The Left,5.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
@@ -5002,7 +5403,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,The Left,6.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2024-10-24,The Left,4.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2024-11-07,The Left,5.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
-2024-11-16,The Left,5.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2024-11-13,The Left,5.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2024-11-21,The Left,5.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2024-12-05,The Left,3.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2024-12-11,The Left,6.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
@@ -5029,8 +5430,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,The Left,6.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-05-22,The Left,3.7,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-05-26,The Left,3.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
-2025-06-05,The Left,4.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
-2025-06-06,The Left,3.6,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2025-06-05,The Left,4.6,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-06-11,The Left,5.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-06-12,The Left,5.5,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-06-12,The Left,5.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
@@ -5071,6 +5471,26 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,The Left,5.7,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2025-12-28,The Left,4.5,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2026-01-08,The Left,2.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-14,The Left,5.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-14,The Left,4.5,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-15,The Left,5.2,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-21,The Left,3.3,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-25,The Left,6.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-25,The Left,7.2,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-27,The Left,6.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-01-29,The Left,5.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-05,The Left,5.6,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-08,The Left,6.6,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-11,The Left,5.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-11,The Left,7.0,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-12,The Left,5.4,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-13,The Left,6.1,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-14,The Left,7.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-23,The Left,5.9,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-24,The Left,6.6,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-25,The Left,7.8,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-26,The Left,7.2,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
+2026-02-26,The Left,5.7,Left-wing,Democratic socialism Eco-socialism Antimilitarism,https://en.wikipedia.org/wiki/The_Left_(Slovenia)
 2021-12-29,Vesna - Green Party,1.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-01-06,Vesna - Green Party,0.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-01-13,Vesna - Green Party,1.9,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
@@ -5111,12 +5531,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-22,Vesna - Green Party,2.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-04-24,Vesna - Green Party,1.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-04-24,Vesna - Green Party,1.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2022-04-24,Vesna - Green Party,1.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2022-04-24,Vesna - Green Party,1.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2022-04-24,Vesna - Green Party,1.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2022-04-24,Vesna - Green Party,1.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-04-24,Vesna - Green Party,1.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-05-12,Vesna - Green Party,1.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-05-19,Vesna - Green Party,1.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-06-09,Vesna - Green Party,0.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-06-16,Vesna - Green Party,0.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2022-06-23,Vesna - Green Party,1.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-07-07,Vesna - Green Party,1.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-08-25,Vesna - Green Party,1.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2022-08-31,Vesna - Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
@@ -5179,13 +5602,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-16,Vesna - Green Party,3.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-10-24,Vesna - Green Party,3.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-11-07,Vesna - Green Party,3.9,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2024-11-16,Vesna - Green Party,3.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2024-11-13,Vesna - Green Party,3.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-11-21,Vesna - Green Party,3.6,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-12-05,Vesna - Green Party,4.6,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-12-11,Vesna - Green Party,3.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2024-12-19,Vesna - Green Party,1.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-01-09,Vesna - Green Party,2.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2025-01-13,Vesna - Green Party,1.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-01-15,Vesna - Green Party,2.9,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-01-23,Vesna - Green Party,3.2,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-02-06,Vesna - Green Party,2.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
@@ -5207,17 +5629,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-14,Vesna - Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-05-22,Vesna - Green Party,2.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-05-26,Vesna - Green Party,5.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2025-06-06,Vesna - Green Party,3.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
+2025-06-05,Vesna - Green Party,1.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-06-11,Vesna - Green Party,2.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-06-12,Vesna - Green Party,1.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-06-12,Vesna - Green Party,2.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2025-06-13,Vesna - Green Party,1.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-06-19,Vesna - Green Party,2.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-06-30,Vesna - Green Party,4.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-07-03,Vesna - Green Party,1.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-07-09,Vesna - Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-07-09,Vesna - Green Party,0.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
-2025-07-12,Vesna - Green Party,1.4,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-07-24,Vesna - Green Party,1.2,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-07-28,Vesna - Green Party,3.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
 2025-08-07,Vesna - Green Party,1.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Vesna_%E2%80%93_Green_Party
@@ -5297,11 +5717,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2018-05-31,Voice for Children and Families,0.4,Right-wing,Christian democracy Political Catholicism Social conservatism Populism,https://en.wikipedia.org/wiki/Voice_for_Children_and_Families
 2018-06-03,Voice for Children and Families,0.3,Right-wing,Christian democracy Political Catholicism Social conservatism Populism,https://en.wikipedia.org/wiki/Voice_for_Children_and_Families
 2018-06-03,Voice for Children and Families,0.2,Right-wing,Christian democracy Political Catholicism Social conservatism Populism,https://en.wikipedia.org/wiki/Voice_for_Children_and_Families
-2025-01-13,"We, Socialists!",3.6,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
-2025-06-05,"We, Socialists!",22.1,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
-2025-06-13,"We, Socialists!",2.9,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2025-07-09,"We, Socialists!",1.9,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
-2025-07-12,"We, Socialists!",3.0,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2025-08-07,"We, Socialists!",1.4,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2025-09-12,"We, Socialists!",1.4,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2025-10-20,"We, Socialists!",0.2,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
@@ -5314,3 +5730,21 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-18,"We, Socialists!",0.4,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2025-12-28,"We, Socialists!",2.1,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
 2026-01-08,"We, Socialists!",1.8,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-14,"We, Socialists!",1.4,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-14,"We, Socialists!",1.1,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-15,"We, Socialists!",1.4,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-21,"We, Socialists!",1.9,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-25,"We, Socialists!",2.2,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-25,"We, Socialists!",0.7,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-27,"We, Socialists!",1.1,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-01-29,"We, Socialists!",0.9,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-05,"We, Socialists!",1.2,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-08,"We, Socialists!",2.0,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-11,"We, Socialists!",1.6,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-12,"We, Socialists!",1.2,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-13,"We, Socialists!",1.3,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-14,"We, Socialists!",1.1,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-23,"We, Socialists!",1.9,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-25,"We, Socialists!",1.7,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-26,"We, Socialists!",1.7,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
+2026-02-26,"We, Socialists!",0.7,,Socialism,"https://en.wikipedia.org/wiki/We,_Socialists!"
