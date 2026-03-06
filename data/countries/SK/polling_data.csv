@@ -48,7 +48,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Christian Democratic Movement,6.6,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2016-02-14,Christian Democratic Movement,9.0,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2016-03-05,Christian Democratic Movement,4.9,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
-2016-03-05,Christian Democratic Movement,2.3,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
+2016-03-06,Christian Democratic Movement,2.3,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2016-03-14,Christian Democratic Movement,3.9,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2016-03-16,Christian Democratic Movement,4.1,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2016-04-07,Christian Democratic Movement,4.4,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
@@ -384,6 +384,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Christian Democratic Movement,6.3,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-07-08,Christian Democratic Movement,6.0,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-07-14,Christian Democratic Movement,7.3,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
+2024-07-14,Christian Democratic Movement,6.7,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-07-15,Christian Democratic Movement,7.4,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-08-12,Christian Democratic Movement,6.9,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-08-12,Christian Democratic Movement,6.2,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
@@ -442,11 +443,13 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Christian Democratic Movement,5.3,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2025-12-09,Christian Democratic Movement,7.2,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2025-12-16,Christian Democratic Movement,6.6,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
+2026-01-08,Christian Democratic Movement,5.6,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-01-11,Christian Democratic Movement,6.4,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-01-20,Christian Democratic Movement,7.0,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-01-20,Christian Democratic Movement,6.8,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-02-08,Christian Democratic Movement,4.9,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-02-09,Christian Democratic Movement,6.9,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
+2026-02-09,Christian Democratic Movement,8.8,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-02-19,Christian Democratic Movement,7.4,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2026-02-20,Christian Democratic Movement,6.0,Centre-right,Christian democracy Social conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Christian_Democratic_Movement
 2024-05-13,Christian Union,0.7,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
@@ -474,7 +477,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-05,Christian Union,1.4,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
 2025-11-09,Christian Union,0.6,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
 2025-12-02,Christian Union,0.6,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
+2026-01-08,Christian Union,4.7,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
 2026-01-11,Christian Union,0.6,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
+2026-01-26,Christian Union,13.1,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
 2026-02-08,Christian Union,0.8,Right-wing,Christian right National conservatism Social conservatism,https://en.wikipedia.org/wiki/Christian_Union_(Slovakia)
 2018-02-26,Democrats,1.6,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2018-03-13,Democrats,1.1,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
@@ -620,6 +625,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Democrats,4.7,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2024-07-08,Democrats,4.6,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2024-07-14,Democrats,4.7,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
+2024-07-14,Democrats,3.0,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2024-07-15,Democrats,4.4,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2024-08-12,Democrats,4.5,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2024-08-12,Democrats,4.5,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
@@ -681,8 +687,11 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-11,Democrats,5.5,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-01-20,Democrats,6.3,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-01-20,Democrats,5.2,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
+2026-01-26,Democrats,7.5,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
+2026-01-26,Democrats,6.8,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-02-08,Democrats,5.7,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-02-09,Democrats,5.6,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
+2026-02-09,Democrats,5.4,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-02-19,Democrats,6.2,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2026-02-20,Democrats,6.2,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Democrats_(Slovakia)
 2014-01-21,Direction - Social Democracy,38.1,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
@@ -735,7 +744,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Direction - Social Democracy,32.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2016-03-05,Direction - Social Democracy,28.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2016-03-05,Direction - Social Democracy,49.0,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
-2016-03-05,Direction - Social Democracy,13.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
+2016-03-06,Direction - Social Democracy,13.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2016-03-14,Direction - Social Democracy,30.0,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2016-03-14,Direction - Social Democracy,54.0,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2016-03-16,Direction - Social Democracy,27.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
@@ -1083,6 +1092,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Direction - Social Democracy,25.2,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2024-07-08,Direction - Social Democracy,22.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2024-07-14,Direction - Social Democracy,25.7,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
+2024-07-14,Direction - Social Democracy,25.2,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2024-07-15,Direction - Social Democracy,23.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2024-08-12,Direction - Social Democracy,23.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2024-08-12,Direction - Social Democracy,22.4,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
@@ -1141,9 +1151,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Direction - Social Democracy,18.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2025-12-09,Direction - Social Democracy,17.4,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2025-12-16,Direction - Social Democracy,17.0,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
+2026-01-08,Direction - Social Democracy,9.9,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-01-11,Direction - Social Democracy,17.8,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-01-20,Direction - Social Democracy,16.9,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-01-20,Direction - Social Democracy,17.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
+2026-01-26,Direction - Social Democracy,4.2,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
+2026-01-26,Direction - Social Democracy,3.2,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-02-08,Direction - Social Democracy,17.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-02-09,Direction - Social Democracy,17.7,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
 2026-02-19,Direction - Social Democracy,16.4,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism Social conservatism Soft Euroscepticism,https://en.wikipedia.org/wiki/Direction_%E2%80%93_Social_Democracy
@@ -1303,7 +1316,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-09,For the People,1.6,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 2025-11-28,For the People,1.0,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 2025-12-02,For the People,1.5,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
+2026-01-08,For the People,7.6,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 2026-01-11,For the People,2.0,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
+2026-01-26,For the People,4.2,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 2026-02-08,For the People,2.3,Centre to centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/For_the_People_(Slovakia)
 2020-06-24,Forum,0.3,Centre-right,Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Forum
 2020-10-09,Forum,0.3,Centre-right,Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Forum
@@ -1424,7 +1439,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Freedom and Solidarity,4.0,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2016-03-05,Freedom and Solidarity,12.1,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2016-03-05,Freedom and Solidarity,21.0,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
-2016-03-05,Freedom and Solidarity,18.1,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2016-03-06,Freedom and Solidarity,18.1,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2016-03-14,Freedom and Solidarity,15.9,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2016-03-14,Freedom and Solidarity,29.0,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2016-03-16,Freedom and Solidarity,12.5,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
@@ -1771,6 +1786,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Freedom and Solidarity,6.1,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2024-07-08,Freedom and Solidarity,5.1,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2024-07-14,Freedom and Solidarity,7.2,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2024-07-14,Freedom and Solidarity,4.5,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2024-07-15,Freedom and Solidarity,5.6,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2024-08-12,Freedom and Solidarity,6.2,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2024-08-12,Freedom and Solidarity,5.8,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
@@ -1829,11 +1845,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Freedom and Solidarity,6.3,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2025-12-09,Freedom and Solidarity,6.7,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2025-12-16,Freedom and Solidarity,7.4,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2026-01-08,Freedom and Solidarity,2.3,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-01-11,Freedom and Solidarity,6.0,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-01-20,Freedom and Solidarity,7.5,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-01-20,Freedom and Solidarity,8.4,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2026-01-26,Freedom and Solidarity,2.7,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2026-01-26,Freedom and Solidarity,3.5,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-02-08,Freedom and Solidarity,7.4,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-02-09,Freedom and Solidarity,7.6,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
+2026-02-09,Freedom and Solidarity,7.9,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-02-19,Freedom and Solidarity,7.9,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2026-02-20,Freedom and Solidarity,8.4,Centre-right,Classical liberalism Conservative liberalism Civil libertarianism,https://en.wikipedia.org/wiki/Freedom_and_Solidarity
 2019-09-17,Good Choice,2.1,Centre,Moderate politics Technocracy Pro-Europeanism,https://en.wikipedia.org/wiki/Good_Choice
@@ -1988,7 +2008,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Hungarian Alliance,4.0,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2016-02-14,Hungarian Alliance,5.0,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2016-03-05,Hungarian Alliance,4.1,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
-2016-03-05,Hungarian Alliance,1.6,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
+2016-03-06,Hungarian Alliance,1.6,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2016-03-14,Hungarian Alliance,4.7,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2016-03-16,Hungarian Alliance,4.3,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2016-04-07,Hungarian Alliance,3.8,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
@@ -2227,6 +2247,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Hungarian Alliance,4.3,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2024-07-08,Hungarian Alliance,3.4,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2024-07-14,Hungarian Alliance,4.5,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
+2024-07-14,Hungarian Alliance,4.0,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2024-07-15,Hungarian Alliance,4.3,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2024-08-12,Hungarian Alliance,3.4,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2024-08-12,Hungarian Alliance,3.2,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
@@ -2290,6 +2311,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-20,Hungarian Alliance,3.5,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2026-02-08,Hungarian Alliance,4.0,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2026-02-09,Hungarian Alliance,4.7,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
+2026-02-09,Hungarian Alliance,4.9,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2026-02-19,Hungarian Alliance,4.6,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2026-02-20,Hungarian Alliance,4.7,Centre-right,Hungarian minority interests Hungarian nationalism National conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Hungarian_Alliance_(Slovak_political_party)
 2019-12-09,Magyar Közösségi Összefogás – Maďarská komunitná spolupatričnosť,4.3,,,
@@ -2361,7 +2383,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Most-Híd,7.0,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
 2016-03-05,Most-Híd,6.5,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
 2016-03-05,Most-Híd,11.0,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
-2016-03-05,Most-Híd,2.5,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
+2016-03-06,Most-Híd,2.5,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
 2016-03-14,Most-Híd,5.3,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
 2016-03-14,Most-Híd,9.0,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
 2016-03-16,Most-Híd,5.9,Centre to centre-right,Liberal conservatism Hungarian minority interests Pro-Europeanism,https://en.wikipedia.org/wiki/Most%E2%80%93H%C3%ADd
@@ -2646,6 +2668,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,OĽaNO and Friends,4.1,,,
 2024-07-08,OĽaNO and Friends,4.2,,,
 2024-07-14,OĽaNO and Friends,4.4,,,
+2024-07-14,OĽaNO and Friends,2.9,,,
 2024-07-15,OĽaNO and Friends,3.5,,,
 2024-08-12,OĽaNO and Friends,3.6,,,
 2024-08-12,OĽaNO and Friends,4.4,,,
@@ -2657,7 +2680,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-17,OĽaNO and Friends,5.9,,,
 2016-03-05,People's Party Our Slovakia,8.0,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2016-03-05,People's Party Our Slovakia,14.0,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
-2016-03-05,People's Party Our Slovakia,18.1,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
+2016-03-06,People's Party Our Slovakia,18.1,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2016-03-14,People's Party Our Slovakia,9.5,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2016-03-14,People's Party Our Slovakia,17.0,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2016-03-16,People's Party Our Slovakia,8.8,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
@@ -3021,6 +3044,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-09,People's Party Our Slovakia,1.6,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2025-12-02,People's Party Our Slovakia,1.1,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2025-12-16,People's Party Our Slovakia,0.2,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
+2026-01-08,People's Party Our Slovakia,1.6,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2026-01-11,People's Party Our Slovakia,1.6,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2026-01-20,People's Party Our Slovakia,0.2,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
 2026-02-08,People's Party Our Slovakia,1.7,Far-right,Neo-Nazism Neo-fascism Right-wing populism Ultranationalism Anti-Americanism Hard Euroscepticism Russophilia,https://en.wikipedia.org/wiki/People%27s_Party_Our_Slovakia
@@ -3258,6 +3282,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Progressive Slovakia,22.3,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2024-07-08,Progressive Slovakia,22.6,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2024-07-14,Progressive Slovakia,21.3,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
+2024-07-14,Progressive Slovakia,15.6,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2024-07-15,Progressive Slovakia,21.7,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2024-08-12,Progressive Slovakia,22.0,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2024-08-12,Progressive Slovakia,23.1,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
@@ -3321,6 +3346,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-20,Progressive Slovakia,20.5,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2026-02-08,Progressive Slovakia,19.1,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2026-02-09,Progressive Slovakia,19.3,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
+2026-02-09,Progressive Slovakia,20.9,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2026-02-19,Progressive Slovakia,20.6,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2026-02-20,Progressive Slovakia,18.8,Centre to centre-left,Liberalism ( Slovak ) Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Progressive_Slovakia
 2021-04-07,Republic Movement,4.7,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
@@ -3458,6 +3484,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Republic Movement,6.8,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
 2024-07-08,Republic Movement,7.0,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
 2024-07-14,Republic Movement,6.5,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
+2024-07-14,Republic Movement,6.9,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
 2024-07-15,Republic Movement,5.6,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
 2024-08-12,Republic Movement,5.2,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
 2024-08-12,Republic Movement,7.0,Far-right,Neo-fascism National conservatism Right-wing populism Ultranationalism,https://en.wikipedia.org/wiki/Republic_(Slovakia)
@@ -3572,7 +3599,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Slovak Conservative Party,14.5,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
 2016-03-05,Slovak Conservative Party,5.6,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
 2016-03-05,Slovak Conservative Party,10.0,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
-2016-03-05,Slovak Conservative Party,0.5,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
+2016-03-06,Slovak Conservative Party,0.5,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
 2016-03-14,Slovak Conservative Party,2.3,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
 2016-03-16,Slovak Conservative Party,3.6,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
 2016-04-07,Slovak Conservative Party,1.8,Centre to centre-right,Liberal conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/NETWORK_(Slovak_party)
@@ -3711,7 +3738,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Slovak National Party,10.5,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2016-03-05,Slovak National Party,8.6,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2016-03-05,Slovak National Party,15.0,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
-2016-03-05,Slovak National Party,10.5,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
+2016-03-06,Slovak National Party,10.5,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2016-03-14,Slovak National Party,11.9,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2016-03-14,Slovak National Party,21.0,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2016-03-16,Slovak National Party,11.1,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
@@ -4051,6 +4078,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Slovak National Party,3.1,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2024-07-08,Slovak National Party,4.1,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2024-07-14,Slovak National Party,3.4,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
+2024-07-14,Slovak National Party,3.3,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2024-07-15,Slovak National Party,5.0,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2024-08-12,Slovak National Party,4.9,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2024-08-12,Slovak National Party,3.2,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
@@ -4109,9 +4137,12 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Slovak National Party,2.2,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2025-12-09,Slovak National Party,4.3,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2025-12-16,Slovak National Party,4.7,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
+2026-01-08,Slovak National Party,9.7,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-01-11,Slovak National Party,2.8,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-01-20,Slovak National Party,4.7,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-01-20,Slovak National Party,2.4,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
+2026-01-26,Slovak National Party,2.5,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
+2026-01-26,Slovak National Party,2.7,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-02-08,Slovak National Party,3.0,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-02-09,Slovak National Party,4.1,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
 2026-02-19,Slovak National Party,4.8,Right-wing to far-right,Ultranationalism National conservatism Social conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Slovak_National_Party
@@ -4165,7 +4196,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-14,Slovakia,5.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2016-03-05,Slovakia,11.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2016-03-05,Slovakia,19.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
-2016-03-05,Slovakia,13.4,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
+2016-03-06,Slovakia,13.4,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2016-03-14,Slovakia,11.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2016-03-14,Slovakia,20.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2016-03-16,Slovakia,10.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
@@ -4499,11 +4530,15 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Slovakia,7.6,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2025-12-09,Slovakia,8.4,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2025-12-16,Slovakia,8.9,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
+2026-01-08,Slovakia,6.9,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-01-11,Slovakia,7.2,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-01-20,Slovakia,8.0,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-01-20,Slovakia,8.3,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
+2026-01-26,Slovakia,7.4,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
+2026-01-26,Slovakia,6.9,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-02-08,Slovakia,7.5,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-02-09,Slovakia,9.7,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
+2026-02-09,Slovakia,12.2,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-02-19,Slovakia,9.3,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2026-02-20,Slovakia,8.8,Centre to centre-right,Populism National conservatism,https://en.wikipedia.org/wiki/Ordinary_People_and_Independent_Personalities
 2023-06-08,The Blues - ES,1.1,Centre-right,Conservative liberalism Pro-Europeanism,"https://en.wikipedia.org/wiki/Modr%C3%AD,_Most%E2%80%93H%C3%ADd"
@@ -4667,6 +4702,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,Voice - Social Democracy,13.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2024-07-08,Voice - Social Democracy,13.1,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2024-07-14,Voice - Social Democracy,11.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
+2024-07-14,Voice - Social Democracy,10.7,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2024-07-15,Voice - Social Democracy,15.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2024-08-12,Voice - Social Democracy,15.9,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2024-08-12,Voice - Social Democracy,14.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
@@ -4725,6 +4761,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,Voice - Social Democracy,6.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2025-12-09,Voice - Social Democracy,8.8,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2025-12-16,Voice - Social Democracy,9.6,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
+2026-01-08,Voice - Social Democracy,19.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2026-01-11,Voice - Social Democracy,6.5,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2026-01-20,Voice - Social Democracy,9.2,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2026-01-20,Voice - Social Democracy,7.3,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
@@ -4734,7 +4771,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-20,Voice - Social Democracy,7.4,Centre-left to left-wing,Social democracy Left-wing populism Left-wing nationalism,https://en.wikipedia.org/wiki/Voice_%E2%80%93_Social_Democracy
 2016-03-05,We Are Family,6.6,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2016-03-05,We Are Family,11.0,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
-2016-03-05,We Are Family,7.6,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2016-03-06,We Are Family,7.6,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2016-03-14,We Are Family,4.4,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2016-03-16,We Are Family,7.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2016-03-16,We Are Family,14.0,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
@@ -5077,6 +5114,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-01,We Are Family,1.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2024-07-08,We Are Family,3.7,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2024-07-14,We Are Family,2.7,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2024-07-14,We Are Family,2.1,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2024-07-15,We Are Family,2.3,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2024-08-12,We Are Family,2.7,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2024-08-12,We Are Family,3.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
@@ -5133,10 +5171,14 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-02,We Are Family,3.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2025-12-09,We Are Family,2.3,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2025-12-16,We Are Family,2.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2026-01-08,We Are Family,1.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-01-11,We Are Family,3.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-01-20,We Are Family,2.3,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-01-20,We Are Family,2.4,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2026-01-26,We Are Family,8.4,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2026-01-26,We Are Family,8.2,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-02-08,We Are Family,3.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-02-09,We Are Family,2.3,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
+2026-02-09,We Are Family,2.8,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-02-19,We Are Family,2.9,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
 2026-02-20,We Are Family,2.5,Right-wing to far-right,National conservatism Right-wing populism,https://en.wikipedia.org/wiki/We_Are_Family_(Slovakia)
