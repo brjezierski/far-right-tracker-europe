@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 38.3,
+  "latestSupport": 38.349999999999994,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -9799,7 +9799,7 @@
       },
       {
         "date": "2026-03-04",
-        "value": 28.7
+        "value": 28.93
       }
     ],
     "CasaPound": [
@@ -17425,7 +17425,7 @@
       },
       {
         "date": "2026-03-04",
-        "value": 6.4
+        "value": 6.33
       }
     ],
     "Lega Nord": [
@@ -21341,7 +21341,7 @@
       },
       {
         "date": "2026-03-04",
-        "value": 3.2
+        "value": 3.23
       }
     ]
   },
@@ -40325,11 +40325,11 @@
       },
       {
         "date": "2026-03-03",
-        "value": 28.43
+        "value": 28.46
       },
       {
         "date": "2026-03-04",
-        "value": 28.38
+        "value": 28.43
       }
     ],
     "CasaPound": [
@@ -55267,7 +55267,7 @@
       },
       {
         "date": "2026-03-04",
-        "value": 6.38
+        "value": 6.37
       }
     ],
     "Lega Nord": [
@@ -62759,7 +62759,7 @@
       },
       {
         "date": "2026-03-04",
-        "value": 3.54
+        "value": 3.55
       }
     ]
   },
@@ -81782,11 +81782,11 @@
     },
     {
       "date": "2026-03-03",
-      "value": 38.4
+      "value": 38.43
     },
     {
       "date": "2026-03-04",
-      "value": 38.3
+      "value": 38.35
     }
   ],
   "activePartiesByDate": {

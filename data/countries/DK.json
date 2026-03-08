@@ -13,7 +13,7 @@
     "Danish People's Party",
     "Denmark Democrats"
   ],
-  "latestSupport": 18.09,
+  "latestSupport": 18.48,
   "datapointsByParty": {
     "Citizens' Party": [
       {
@@ -319,6 +319,10 @@
       {
         "date": "2026-03-04",
         "value": 2.5
+      },
+      {
+        "date": "2026-03-05",
+        "value": 2.6
       }
     ],
     "Danish People's Party": [
@@ -4045,6 +4049,10 @@
       {
         "date": "2026-03-04",
         "value": 7.95
+      },
+      {
+        "date": "2026-03-05",
+        "value": 8.7
       }
     ],
     "Denmark Democrats": [
@@ -4987,6 +4995,10 @@
       {
         "date": "2026-03-04",
         "value": 8.35
+      },
+      {
+        "date": "2026-03-05",
+        "value": 8.2
       }
     ],
     "New Right": [
@@ -9403,6 +9415,10 @@
       {
         "date": "2026-03-04",
         "value": 2.15
+      },
+      {
+        "date": "2026-03-05",
+        "value": 2.26
       }
     ],
     "Danish People's Party": [
@@ -30185,6 +30201,10 @@
       {
         "date": "2026-03-04",
         "value": 8.01
+      },
+      {
+        "date": "2026-03-05",
+        "value": 8.15
       }
     ],
     "Denmark Democrats": [
@@ -36151,6 +36171,10 @@
       {
         "date": "2026-03-04",
         "value": 7.93
+      },
+      {
+        "date": "2026-03-05",
+        "value": 8.07
       }
     ],
     "New Right": [
@@ -74446,6 +74470,10 @@
     {
       "date": "2026-03-04",
       "value": 18.09
+    },
+    {
+      "date": "2026-03-05",
+      "value": 18.48
     }
   ],
   "activePartiesByDate": {
@@ -96136,9 +96164,14 @@
       "Citizens' Party",
       "Danish People's Party",
       "Denmark Democrats"
+    ],
+    "2026-03-05": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
     ]
   },
-  "latestUpdate": "2026-03-04",
+  "latestUpdate": "2026-03-05",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
