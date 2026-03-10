@@ -8,7 +8,7 @@
   "activeParties": [
     "Reform UK"
   ],
-  "latestSupport": 28.4,
+  "latestSupport": 28.33,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5029,7 +5029,7 @@
       },
       {
         "date": "2026-03-05",
-        "value": 28.0
+        "value": 27.67
       },
       {
         "date": "2026-03-06",
@@ -22683,19 +22683,19 @@
       },
       {
         "date": "2026-03-03",
-        "value": 27.55
+        "value": 27.53
       },
       {
         "date": "2026-03-04",
-        "value": 27.78
+        "value": 27.73
       },
       {
         "date": "2026-03-05",
-        "value": 28.0
+        "value": 27.93
       },
       {
         "date": "2026-03-06",
-        "value": 28.4
+        "value": 28.33
       }
     ],
     "UK Independence Party": [
@@ -59788,19 +59788,19 @@
     },
     {
       "date": "2026-03-03",
-      "value": 27.55
+      "value": 27.53
     },
     {
       "date": "2026-03-04",
-      "value": 27.78
+      "value": 27.73
     },
     {
       "date": "2026-03-05",
-      "value": 28.0
+      "value": 27.93
     },
     {
       "date": "2026-03-06",
-      "value": 28.4
+      "value": 28.33
     }
   ],
   "activePartiesByDate": {
