@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 45.66,
+  "latestSupport": 46.260000000000005,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2236,6 +2236,10 @@
       {
         "date": "2026-03-02",
         "value": 43.0
+      },
+      {
+        "date": "2026-03-06",
+        "value": 39.0
       }
     ],
     "Jobbik": [
@@ -5443,6 +5447,10 @@
       },
       {
         "date": "2026-03-02",
+        "value": 5.0
+      },
+      {
+        "date": "2026-03-06",
         "value": 5.0
       }
     ]
@@ -22688,6 +22696,22 @@
       {
         "date": "2026-03-02",
         "value": 39.65
+      },
+      {
+        "date": "2026-03-03",
+        "value": 39.85
+      },
+      {
+        "date": "2026-03-04",
+        "value": 40.05
+      },
+      {
+        "date": "2026-03-05",
+        "value": 40.25
+      },
+      {
+        "date": "2026-03-06",
+        "value": 40.45
       }
     ],
     "Jobbik": [
@@ -50356,6 +50380,22 @@
       {
         "date": "2026-03-02",
         "value": 6.01
+      },
+      {
+        "date": "2026-03-03",
+        "value": 5.96
+      },
+      {
+        "date": "2026-03-04",
+        "value": 5.91
+      },
+      {
+        "date": "2026-03-05",
+        "value": 5.86
+      },
+      {
+        "date": "2026-03-06",
+        "value": 5.81
       }
     ]
   },
@@ -67755,6 +67795,22 @@
     {
       "date": "2026-03-02",
       "value": 45.66
+    },
+    {
+      "date": "2026-03-03",
+      "value": 45.81
+    },
+    {
+      "date": "2026-03-04",
+      "value": 45.96
+    },
+    {
+      "date": "2026-03-05",
+      "value": 46.11
+    },
+    {
+      "date": "2026-03-06",
+      "value": 46.26
     }
   ],
   "activePartiesByDate": {
@@ -87649,9 +87705,25 @@
     "2026-03-02": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-03-03": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-03-04": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-03-05": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-03-06": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-03-02",
+  "latestUpdate": "2026-03-06",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",

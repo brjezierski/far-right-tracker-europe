@@ -2816,6 +2816,10 @@
       {
         "date": "2026-03-06",
         "value": 15.0
+      },
+      {
+        "date": "2026-03-09",
+        "value": 10.0
       }
     ],
     "JA21": [
@@ -3978,6 +3982,10 @@
       {
         "date": "2026-03-06",
         "value": 13.0
+      },
+      {
+        "date": "2026-03-09",
+        "value": 14.0
       }
     ],
     "Party for Freedom": [
@@ -7752,6 +7760,10 @@
       {
         "date": "2026-03-06",
         "value": 15.0
+      },
+      {
+        "date": "2026-03-09",
+        "value": 19.0
       }
     ]
   },
@@ -24270,6 +24282,18 @@
       {
         "date": "2026-03-06",
         "value": 11.88
+      },
+      {
+        "date": "2026-03-07",
+        "value": 11.68
+      },
+      {
+        "date": "2026-03-08",
+        "value": 11.48
+      },
+      {
+        "date": "2026-03-09",
+        "value": 11.28
       }
     ],
     "JA21": [
@@ -31795,6 +31819,18 @@
       },
       {
         "date": "2026-03-06",
+        "value": 12.81
+      },
+      {
+        "date": "2026-03-07",
+        "value": 12.81
+      },
+      {
+        "date": "2026-03-08",
+        "value": 12.81
+      },
+      {
+        "date": "2026-03-09",
         "value": 12.81
       }
     ],
@@ -51350,6 +51386,18 @@
       {
         "date": "2026-03-06",
         "value": 16.86
+      },
+      {
+        "date": "2026-03-07",
+        "value": 17.06
+      },
+      {
+        "date": "2026-03-08",
+        "value": 17.26
+      },
+      {
+        "date": "2026-03-09",
+        "value": 17.46
       }
     ]
   },
@@ -71048,6 +71096,18 @@
     },
     {
       "date": "2026-03-06",
+      "value": 41.55
+    },
+    {
+      "date": "2026-03-07",
+      "value": 41.55
+    },
+    {
+      "date": "2026-03-08",
+      "value": 41.55
+    },
+    {
+      "date": "2026-03-09",
       "value": 41.55
     }
   ],
@@ -91944,9 +92004,24 @@
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
+    ],
+    "2026-03-07": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-03-08": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-03-09": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
     ]
   },
-  "latestUpdate": "2026-03-06",
+  "latestUpdate": "2026-03-09",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
