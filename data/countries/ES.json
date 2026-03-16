@@ -7,11 +7,10 @@
     "Vox"
   ],
   "activeParties": [
-    "Catalan Alliance",
     "Se Acabó La Fiesta",
     "Vox"
   ],
-  "latestSupport": 22.259999999999998,
+  "latestSupport": 21.490000000000002,
   "datapointsByParty": {
     "Catalan Alliance": [
       {
@@ -646,7 +645,7 @@
       },
       {
         "date": "2025-09-06",
-        "value": 2.97
+        "value": 2.98
       },
       {
         "date": "2025-09-09",
@@ -890,6 +889,10 @@
       },
       {
         "date": "2026-03-06",
+        "value": 1.9
+      },
+      {
+        "date": "2026-03-13",
         "value": 1.9
       }
     ],
@@ -3860,7 +3863,7 @@
       },
       {
         "date": "2023-11-23",
-        "value": 10.58
+        "value": 10.57
       },
       {
         "date": "2023-11-24",
@@ -5053,6 +5056,10 @@
       {
         "date": "2026-03-06",
         "value": 19.2
+      },
+      {
+        "date": "2026-03-13",
+        "value": 20.3
       }
     ]
   },
@@ -7310,7 +7317,7 @@
       },
       {
         "date": "2025-09-11",
-        "value": 2.05
+        "value": 2.06
       },
       {
         "date": "2025-09-12",
@@ -8015,6 +8022,34 @@
       {
         "date": "2026-03-06",
         "value": 2.11
+      },
+      {
+        "date": "2026-03-07",
+        "value": 2.1
+      },
+      {
+        "date": "2026-03-08",
+        "value": 2.08
+      },
+      {
+        "date": "2026-03-09",
+        "value": 2.07
+      },
+      {
+        "date": "2026-03-10",
+        "value": 2.05
+      },
+      {
+        "date": "2026-03-11",
+        "value": 2.04
+      },
+      {
+        "date": "2026-03-12",
+        "value": 2.02
+      },
+      {
+        "date": "2026-03-13",
+        "value": 2.01
       }
     ],
     "Vox": [
@@ -18148,7 +18183,7 @@
       },
       {
         "date": "2023-11-23",
-        "value": 15.74
+        "value": 15.73
       },
       {
         "date": "2023-11-24",
@@ -18156,11 +18191,11 @@
       },
       {
         "date": "2023-11-25",
-        "value": 14.22
+        "value": 14.21
       },
       {
         "date": "2023-11-26",
-        "value": 14.14
+        "value": 14.13
       },
       {
         "date": "2023-11-27",
@@ -21485,6 +21520,34 @@
       {
         "date": "2026-03-06",
         "value": 19.47
+      },
+      {
+        "date": "2026-03-07",
+        "value": 19.47
+      },
+      {
+        "date": "2026-03-08",
+        "value": 19.47
+      },
+      {
+        "date": "2026-03-09",
+        "value": 19.47
+      },
+      {
+        "date": "2026-03-10",
+        "value": 19.48
+      },
+      {
+        "date": "2026-03-11",
+        "value": 19.48
+      },
+      {
+        "date": "2026-03-12",
+        "value": 19.48
+      },
+      {
+        "date": "2026-03-13",
+        "value": 19.48
       }
     ]
   },
@@ -32199,7 +32262,7 @@
     },
     {
       "date": "2023-11-23",
-      "value": 15.74
+      "value": 15.73
     },
     {
       "date": "2023-11-24",
@@ -32207,11 +32270,11 @@
     },
     {
       "date": "2023-11-25",
-      "value": 14.22
+      "value": 14.21
     },
     {
       "date": "2023-11-26",
-      "value": 14.14
+      "value": 14.13
     },
     {
       "date": "2023-11-27",
@@ -34831,7 +34894,7 @@
     },
     {
       "date": "2025-09-11",
-      "value": 18.71
+      "value": 18.72
     },
     {
       "date": "2025-09-12",
@@ -35536,6 +35599,34 @@
     {
       "date": "2026-03-06",
       "value": 21.58
+    },
+    {
+      "date": "2026-03-07",
+      "value": 21.57
+    },
+    {
+      "date": "2026-03-08",
+      "value": 21.55
+    },
+    {
+      "date": "2026-03-09",
+      "value": 21.54
+    },
+    {
+      "date": "2026-03-10",
+      "value": 21.53
+    },
+    {
+      "date": "2026-03-11",
+      "value": 21.52
+    },
+    {
+      "date": "2026-03-12",
+      "value": 21.5
+    },
+    {
+      "date": "2026-03-13",
+      "value": 21.49
     }
   ],
   "activePartiesByDate": {
@@ -46018,9 +46109,43 @@
       "Catalan Alliance",
       "Se Acabó La Fiesta",
       "Vox"
+    ],
+    "2026-03-07": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-08": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-09": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-10": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-11": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-12": [
+      "Catalan Alliance",
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-03-13": [
+      "Se Acabó La Fiesta",
+      "Vox"
     ]
   },
-  "latestUpdate": "2026-03-06",
+  "latestUpdate": "2026-03-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",
