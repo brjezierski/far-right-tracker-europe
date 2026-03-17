@@ -912,7 +912,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Communist Party of Greece,8.8,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-02-14,Communist Party of Greece,9.2,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-02-14,Communist Party of Greece,8.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
-2026-02-14,Communist Party of Greece,9.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-02-17,Communist Party of Greece,8.3,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-02-18,Communist Party of Greece,8.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-02-18,Communist Party of Greece,8.1,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
@@ -921,6 +920,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Communist Party of Greece,7.8,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-03-07,Communist Party of Greece,9.1,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-03-09,Communist Party of Greece,7.5,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
+2026-03-09,Communist Party of Greece,8.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-03-10,Communist Party of Greece,8.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-03-10,Communist Party of Greece,7.4,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-03-15,Communist Party of Greece,8.5,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
@@ -1332,7 +1332,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Course of Freedom,11.9,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-02-14,Course of Freedom,11.1,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-02-14,Course of Freedom,10.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
-2026-02-14,Course of Freedom,11.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-02-17,Course of Freedom,11.2,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-02-18,Course of Freedom,11.5,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-02-18,Course of Freedom,11.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
@@ -1341,6 +1340,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Course of Freedom,9.6,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-03-07,Course of Freedom,8.9,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-03-09,Course of Freedom,5.5,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
+2026-03-09,Course of Freedom,7.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-03-10,Course of Freedom,9.5,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-03-10,Course of Freedom,12.7,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-03-15,Course of Freedom,12.5,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
@@ -2414,7 +2414,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Greek Solution,9.1,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-02-14,Greek Solution,10.9,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-02-14,Greek Solution,11.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
-2026-02-14,Greek Solution,10.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-02-17,Greek Solution,10.9,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-02-18,Greek Solution,10.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-02-18,Greek Solution,10.1,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
@@ -2423,6 +2422,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Greek Solution,9.2,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-03-07,Greek Solution,10.7,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-03-09,Greek Solution,7.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
+2026-03-09,Greek Solution,8.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-03-10,Greek Solution,9.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-03-10,Greek Solution,8.1,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-03-15,Greek Solution,10.5,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
@@ -3270,7 +3270,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,MeRA25,5.2,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-02-14,MeRA25,2.5,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-02-14,MeRA25,3.0,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
-2026-02-14,MeRA25,3.0,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-02-17,MeRA25,3.3,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-02-18,MeRA25,2.8,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-02-18,MeRA25,3.2,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
@@ -3279,6 +3278,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,MeRA25,2.9,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-03-07,MeRA25,3.8,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-03-09,MeRA25,4.2,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
+2026-03-09,MeRA25,4.0,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-03-10,MeRA25,2.5,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-03-10,MeRA25,3.5,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-03-15,MeRA25,3.3,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
@@ -3417,7 +3417,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Movement for Democracy,3.1,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-02-09,Movement for Democracy,1.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-02-14,Movement for Democracy,2.1,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
-2026-02-14,Movement for Democracy,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-02-17,Movement for Democracy,1.3,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-02-18,Movement for Democracy,2.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-02-18,Movement for Democracy,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
@@ -3426,6 +3425,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Movement for Democracy,1.7,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-03-07,Movement for Democracy,1.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-03-09,Movement for Democracy,2.8,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
+2026-03-09,Movement for Democracy,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-03-10,Movement for Democracy,1.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-03-10,Movement for Democracy,2.0,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2026-03-15,Movement for Democracy,2.3,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
@@ -4547,7 +4547,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,New Democracy,28.9,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-02-14,New Democracy,30.1,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-02-14,New Democracy,30.0,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
-2026-02-14,New Democracy,30.0,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-02-17,New Democracy,29.4,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-02-18,New Democracy,31.4,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-02-18,New Democracy,30.1,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
@@ -4556,6 +4555,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,New Democracy,32.7,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-03-07,New Democracy,30.9,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-03-09,New Democracy,34.1,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
+2026-03-09,New Democracy,32.0,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-03-10,New Democracy,31.5,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-03-10,New Democracy,30.8,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-03-15,New Democracy,33.2,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
@@ -4796,7 +4796,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,New Left,1.3,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-02-14,New Left,2.2,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-02-14,New Left,2.0,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
-2026-02-14,New Left,2.0,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-02-17,New Left,1.9,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-02-18,New Left,1.4,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-02-18,New Left,1.6,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
@@ -4805,6 +4804,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,New Left,1.0,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-03-07,New Left,1.2,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-03-09,New Left,1.3,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
+2026-03-09,New Left,1.0,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-03-10,New Left,1.0,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-03-10,New Left,1.1,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2026-03-15,New Left,1.7,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
@@ -5074,7 +5074,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Niki,0.9,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-02-14,Niki,2.2,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-02-14,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
-2026-02-14,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-02-17,Niki,1.9,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-02-18,Niki,2.2,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-02-18,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
@@ -5083,6 +5082,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Niki,1.9,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-03-07,Niki,2.7,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-03-09,Niki,1.4,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
+2026-03-09,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-03-10,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-03-10,Niki,1.7,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-03-15,Niki,2.4,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
@@ -5858,7 +5858,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,PASOK - Movement for Change,12.7,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-02-14,PASOK - Movement for Change,13.2,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-02-14,PASOK - Movement for Change,13.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
-2026-02-14,PASOK - Movement for Change,12.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-02-17,PASOK - Movement for Change,12.7,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-02-18,PASOK - Movement for Change,13.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-02-18,PASOK - Movement for Change,13.1,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
@@ -5867,6 +5866,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,PASOK - Movement for Change,13.2,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-03-07,PASOK - Movement for Change,13.3,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-03-09,PASOK - Movement for Change,15.4,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
+2026-03-09,PASOK - Movement for Change,14.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-03-10,PASOK - Movement for Change,13.5,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-03-10,PASOK - Movement for Change,14.9,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-03-15,PASOK - Movement for Change,15.1,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
@@ -7057,7 +7057,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Syriza,5.3,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-02-14,Syriza,5.6,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-02-14,Syriza,5.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
-2026-02-14,Syriza,5.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-02-17,Syriza,5.4,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-02-18,Syriza,6.4,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-02-18,Syriza,5.1,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
@@ -7066,6 +7065,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Syriza,4.7,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-03-07,Syriza,5.2,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-03-09,Syriza,3.5,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
+2026-03-09,Syriza,4.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-03-10,Syriza,6.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-03-10,Syriza,3.9,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-03-15,Syriza,6.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
@@ -7771,7 +7771,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-02-09,Voice of Reason,4.6,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-02-14,Voice of Reason,2.3,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-02-14,Voice of Reason,3.0,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
-2026-02-14,Voice of Reason,3.0,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-02-17,Voice of Reason,4.2,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-02-18,Voice of Reason,4.2,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-02-18,Voice of Reason,3.8,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
@@ -7780,6 +7779,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,Voice of Reason,4.9,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-03-07,Voice of Reason,3.3,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-03-09,Voice of Reason,3.7,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
+2026-03-09,Voice of Reason,4.0,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-03-10,Voice of Reason,3.5,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-03-10,Voice of Reason,3.1,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-03-15,Voice of Reason,4.5,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
