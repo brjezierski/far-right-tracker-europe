@@ -16,7 +16,7 @@
     "Revival",
     "Velichie"
   ],
-  "latestSupport": 12.620000000000001,
+  "latestSupport": 12.639999999999999,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -504,6 +504,10 @@
       {
         "date": "2026-03-12",
         "value": 3.8
+      },
+      {
+        "date": "2026-03-15",
+        "value": 3.5
       }
     ],
     "Revival": [
@@ -1142,6 +1146,10 @@
       {
         "date": "2026-03-12",
         "value": 6.7
+      },
+      {
+        "date": "2026-03-15",
+        "value": 6.2
       }
     ],
     "United Patriots": [
@@ -1696,6 +1704,10 @@
       {
         "date": "2026-03-12",
         "value": 2.5
+      },
+      {
+        "date": "2026-03-15",
+        "value": 3.4
       }
     ]
   },
@@ -6710,6 +6722,18 @@
       {
         "date": "2026-03-12",
         "value": 3.6
+      },
+      {
+        "date": "2026-03-13",
+        "value": 3.59
+      },
+      {
+        "date": "2026-03-14",
+        "value": 3.59
+      },
+      {
+        "date": "2026-03-15",
+        "value": 3.58
       }
     ],
     "Revival": [
@@ -13676,6 +13700,18 @@
       {
         "date": "2026-03-12",
         "value": 7.12
+      },
+      {
+        "date": "2026-03-13",
+        "value": 7.01
+      },
+      {
+        "date": "2026-03-14",
+        "value": 6.91
+      },
+      {
+        "date": "2026-03-15",
+        "value": 6.8
       }
     ],
     "United Patriots": [
@@ -25874,6 +25910,18 @@
       {
         "date": "2026-03-12",
         "value": 1.9
+      },
+      {
+        "date": "2026-03-13",
+        "value": 2.02
+      },
+      {
+        "date": "2026-03-14",
+        "value": 2.14
+      },
+      {
+        "date": "2026-03-15",
+        "value": 2.26
       }
     ]
   },
@@ -39245,6 +39293,18 @@
     {
       "date": "2026-03-12",
       "value": 12.62
+    },
+    {
+      "date": "2026-03-13",
+      "value": 12.62
+    },
+    {
+      "date": "2026-03-14",
+      "value": 12.64
+    },
+    {
+      "date": "2026-03-15",
+      "value": 12.64
     }
   ],
   "activePartiesByDate": {
@@ -52115,9 +52175,24 @@
       "Morality, Unity, Honour",
       "Revival",
       "Velichie"
+    ],
+    "2026-03-13": [
+      "Morality, Unity, Honour",
+      "Revival",
+      "Velichie"
+    ],
+    "2026-03-14": [
+      "Morality, Unity, Honour",
+      "Revival",
+      "Velichie"
+    ],
+    "2026-03-15": [
+      "Morality, Unity, Honour",
+      "Revival",
+      "Velichie"
     ]
   },
-  "latestUpdate": "2026-03-12",
+  "latestUpdate": "2026-03-15",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",

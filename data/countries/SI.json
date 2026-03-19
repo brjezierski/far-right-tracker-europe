@@ -9,7 +9,7 @@
     "Slovenian Democratic Party",
     "Slovenian National Party"
   ],
-  "latestSupport": 30.14,
+  "latestSupport": 29.669999999999998,
   "datapointsByParty": {
     "Slovenian Democratic Party": [
       {
@@ -1922,7 +1922,7 @@
       },
       {
         "date": "2026-03-16",
-        "value": 27.6
+        "value": 25.6
       }
     ],
     "Slovenian National Party": [
@@ -3388,7 +3388,7 @@
       },
       {
         "date": "2026-03-16",
-        "value": 3.0
+        "value": 2.67
       }
     ]
   },
@@ -20096,11 +20096,11 @@
       },
       {
         "date": "2026-03-15",
-        "value": 27.31
+        "value": 27.11
       },
       {
         "date": "2026-03-16",
-        "value": 27.78
+        "value": 27.38
       }
     ],
     "Slovenian National Party": [
@@ -36638,11 +36638,11 @@
       },
       {
         "date": "2026-03-15",
-        "value": 2.31
+        "value": 2.27
       },
       {
         "date": "2026-03-16",
-        "value": 2.36
+        "value": 2.29
       }
     ]
   },
@@ -53701,11 +53701,11 @@
     },
     {
       "date": "2026-03-15",
-      "value": 29.62
+      "value": 29.38
     },
     {
       "date": "2026-03-16",
-      "value": 30.14
+      "value": 29.67
     }
   ],
   "activePartiesByDate": {
