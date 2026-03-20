@@ -13,7 +13,7 @@
     "Danish People's Party",
     "Denmark Democrats"
   ],
-  "latestSupport": 17.74,
+  "latestSupport": 17.89,
   "datapointsByParty": {
     "Citizens' Party": [
       {
@@ -354,7 +354,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 2.7
+        "value": 2.5
       }
     ],
     "Danish People's Party": [
@@ -4116,7 +4116,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 7.7
+        "value": 8.9
       }
     ],
     "Denmark Democrats": [
@@ -5094,7 +5094,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 6.7
+        "value": 6.45
       }
     ],
     "New Right": [
@@ -9566,7 +9566,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 2.94
+        "value": 2.9
       }
     ],
     "Danish People's Party": [
@@ -30404,7 +30404,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 7.74
+        "value": 7.98
       }
     ],
     "Denmark Democrats": [
@@ -36426,7 +36426,7 @@
       },
       {
         "date": "2026-03-18",
-        "value": 7.06
+        "value": 7.01
       }
     ],
     "New Right": [
@@ -74777,7 +74777,7 @@
     },
     {
       "date": "2026-03-18",
-      "value": 17.74
+      "value": 17.89
     }
   ],
   "activePartiesByDate": {
