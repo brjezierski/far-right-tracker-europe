@@ -8,7 +8,7 @@
   "activeParties": [
     "Freedom Party of Austria"
   ],
-  "latestSupport": 36.13,
+  "latestSupport": 36.53,
   "datapointsByParty": {
     "Freedom Party of Austria": [
       {
@@ -2665,11 +2665,7 @@
       },
       {
         "date": "2024-06-19",
-        "value": 21.0
-      },
-      {
-        "date": "2024-06-20",
-        "value": 12.0
+        "value": 26.0
       },
       {
         "date": "2024-06-25",
@@ -3054,6 +3050,10 @@
       {
         "date": "2026-02-25",
         "value": 38.0
+      },
+      {
+        "date": "2026-03-17",
+        "value": 37.0
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -18679,111 +18679,111 @@
       },
       {
         "date": "2024-06-14",
-        "value": 27.87
+        "value": 28.03
       },
       {
         "date": "2024-06-15",
-        "value": 27.63
+        "value": 27.97
       },
       {
         "date": "2024-06-16",
-        "value": 27.4
+        "value": 27.9
       },
       {
         "date": "2024-06-17",
-        "value": 27.17
+        "value": 27.83
       },
       {
         "date": "2024-06-18",
-        "value": 26.93
+        "value": 27.77
       },
       {
         "date": "2024-06-19",
-        "value": 26.7
+        "value": 27.7
       },
       {
         "date": "2024-06-20",
-        "value": 23.9
+        "value": 27.73
       },
       {
         "date": "2024-06-21",
-        "value": 23.7
+        "value": 27.77
       },
       {
         "date": "2024-06-22",
-        "value": 23.5
+        "value": 27.8
       },
       {
         "date": "2024-06-23",
-        "value": 23.3
+        "value": 27.83
       },
       {
         "date": "2024-06-24",
-        "value": 23.1
+        "value": 27.87
       },
       {
         "date": "2024-06-25",
-        "value": 22.9
+        "value": 27.9
       },
       {
         "date": "2024-06-26",
-        "value": 23.0
+        "value": 26.9
       },
       {
         "date": "2024-06-27",
-        "value": 22.97
+        "value": 26.92
       },
       {
         "date": "2024-06-28",
-        "value": 22.93
+        "value": 26.93
       },
       {
         "date": "2024-06-29",
-        "value": 22.9
+        "value": 26.95
       },
       {
         "date": "2024-06-30",
-        "value": 22.87
+        "value": 26.97
       },
       {
         "date": "2024-07-01",
-        "value": 22.83
+        "value": 26.98
       },
       {
         "date": "2024-07-02",
-        "value": 22.8
+        "value": 27.0
       },
       {
         "date": "2024-07-03",
-        "value": 22.98
+        "value": 27.0
       },
       {
         "date": "2024-07-04",
-        "value": 23.15
+        "value": 27.0
       },
       {
         "date": "2024-07-05",
-        "value": 23.32
+        "value": 27.0
       },
       {
         "date": "2024-07-06",
-        "value": 23.5
+        "value": 27.0
       },
       {
         "date": "2024-07-07",
-        "value": 23.68
+        "value": 27.0
       },
       {
         "date": "2024-07-08",
-        "value": 23.85
+        "value": 27.0
       },
       {
         "date": "2024-07-09",
-        "value": 24.02
+        "value": 27.0
       },
       {
         "date": "2024-07-10",
-        "value": 24.2
+        "value": 27.0
       },
       {
         "date": "2024-07-11",
@@ -21164,6 +21164,86 @@
       {
         "date": "2026-02-25",
         "value": 36.13
+      },
+      {
+        "date": "2026-02-26",
+        "value": 36.15
+      },
+      {
+        "date": "2026-02-27",
+        "value": 36.17
+      },
+      {
+        "date": "2026-02-28",
+        "value": 36.19
+      },
+      {
+        "date": "2026-03-01",
+        "value": 36.21
+      },
+      {
+        "date": "2026-03-02",
+        "value": 36.23
+      },
+      {
+        "date": "2026-03-03",
+        "value": 36.25
+      },
+      {
+        "date": "2026-03-04",
+        "value": 36.27
+      },
+      {
+        "date": "2026-03-05",
+        "value": 36.29
+      },
+      {
+        "date": "2026-03-06",
+        "value": 36.31
+      },
+      {
+        "date": "2026-03-07",
+        "value": 36.33
+      },
+      {
+        "date": "2026-03-08",
+        "value": 36.35
+      },
+      {
+        "date": "2026-03-09",
+        "value": 36.37
+      },
+      {
+        "date": "2026-03-10",
+        "value": 36.39
+      },
+      {
+        "date": "2026-03-11",
+        "value": 36.41
+      },
+      {
+        "date": "2026-03-12",
+        "value": 36.43
+      },
+      {
+        "date": "2026-03-13",
+        "value": 36.45
+      },
+      {
+        "date": "2026-03-14",
+        "value": 36.47
+      },
+      {
+        "date": "2026-03-15",
+        "value": 36.49
+      },
+      {
+        "date": "2026-03-16",
+        "value": 36.51
+      },
+      {
+        "date": "2026-03-17",
+        "value": 36.53
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -37764,111 +37844,111 @@
     },
     {
       "date": "2024-06-14",
-      "value": 27.87
+      "value": 28.03
     },
     {
       "date": "2024-06-15",
-      "value": 27.63
+      "value": 27.97
     },
     {
       "date": "2024-06-16",
-      "value": 27.4
+      "value": 27.9
     },
     {
       "date": "2024-06-17",
-      "value": 27.17
+      "value": 27.83
     },
     {
       "date": "2024-06-18",
-      "value": 26.93
+      "value": 27.77
     },
     {
       "date": "2024-06-19",
-      "value": 26.7
+      "value": 27.7
     },
     {
       "date": "2024-06-20",
-      "value": 23.9
+      "value": 27.73
     },
     {
       "date": "2024-06-21",
-      "value": 23.7
+      "value": 27.77
     },
     {
       "date": "2024-06-22",
-      "value": 23.5
+      "value": 27.8
     },
     {
       "date": "2024-06-23",
-      "value": 23.3
+      "value": 27.83
     },
     {
       "date": "2024-06-24",
-      "value": 23.1
+      "value": 27.87
     },
     {
       "date": "2024-06-25",
-      "value": 22.9
+      "value": 27.9
     },
     {
       "date": "2024-06-26",
-      "value": 23.0
+      "value": 26.9
     },
     {
       "date": "2024-06-27",
-      "value": 22.97
+      "value": 26.92
     },
     {
       "date": "2024-06-28",
-      "value": 22.93
+      "value": 26.93
     },
     {
       "date": "2024-06-29",
-      "value": 22.9
+      "value": 26.95
     },
     {
       "date": "2024-06-30",
-      "value": 22.87
+      "value": 26.97
     },
     {
       "date": "2024-07-01",
-      "value": 22.83
+      "value": 26.98
     },
     {
       "date": "2024-07-02",
-      "value": 22.8
+      "value": 27.0
     },
     {
       "date": "2024-07-03",
-      "value": 22.98
+      "value": 27.0
     },
     {
       "date": "2024-07-04",
-      "value": 23.15
+      "value": 27.0
     },
     {
       "date": "2024-07-05",
-      "value": 23.32
+      "value": 27.0
     },
     {
       "date": "2024-07-06",
-      "value": 23.5
+      "value": 27.0
     },
     {
       "date": "2024-07-07",
-      "value": 23.68
+      "value": 27.0
     },
     {
       "date": "2024-07-08",
-      "value": 23.85
+      "value": 27.0
     },
     {
       "date": "2024-07-09",
-      "value": 24.02
+      "value": 27.0
     },
     {
       "date": "2024-07-10",
-      "value": 24.2
+      "value": 27.0
     },
     {
       "date": "2024-07-11",
@@ -40249,6 +40329,86 @@
     {
       "date": "2026-02-25",
       "value": 36.13
+    },
+    {
+      "date": "2026-02-26",
+      "value": 36.15
+    },
+    {
+      "date": "2026-02-27",
+      "value": 36.17
+    },
+    {
+      "date": "2026-02-28",
+      "value": 36.19
+    },
+    {
+      "date": "2026-03-01",
+      "value": 36.21
+    },
+    {
+      "date": "2026-03-02",
+      "value": 36.23
+    },
+    {
+      "date": "2026-03-03",
+      "value": 36.25
+    },
+    {
+      "date": "2026-03-04",
+      "value": 36.27
+    },
+    {
+      "date": "2026-03-05",
+      "value": 36.29
+    },
+    {
+      "date": "2026-03-06",
+      "value": 36.31
+    },
+    {
+      "date": "2026-03-07",
+      "value": 36.33
+    },
+    {
+      "date": "2026-03-08",
+      "value": 36.35
+    },
+    {
+      "date": "2026-03-09",
+      "value": 36.37
+    },
+    {
+      "date": "2026-03-10",
+      "value": 36.39
+    },
+    {
+      "date": "2026-03-11",
+      "value": 36.41
+    },
+    {
+      "date": "2026-03-12",
+      "value": 36.43
+    },
+    {
+      "date": "2026-03-13",
+      "value": 36.45
+    },
+    {
+      "date": "2026-03-14",
+      "value": 36.47
+    },
+    {
+      "date": "2026-03-15",
+      "value": 36.49
+    },
+    {
+      "date": "2026-03-16",
+      "value": 36.51
+    },
+    {
+      "date": "2026-03-17",
+      "value": 36.53
     }
   ],
   "activePartiesByDate": {
@@ -54116,9 +54276,69 @@
     ],
     "2026-02-25": [
       "Freedom Party of Austria"
+    ],
+    "2026-02-26": [
+      "Freedom Party of Austria"
+    ],
+    "2026-02-27": [
+      "Freedom Party of Austria"
+    ],
+    "2026-02-28": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-01": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-02": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-03": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-04": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-05": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-06": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-07": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-08": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-09": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-10": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-11": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-12": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-13": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-14": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-15": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-16": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-17": [
+      "Freedom Party of Austria"
     ]
   },
-  "latestUpdate": "2026-02-25",
+  "latestUpdate": "2026-03-17",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",

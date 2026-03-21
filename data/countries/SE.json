@@ -7,7 +7,7 @@
   "activeParties": [
     "Sweden Democrats"
   ],
-  "latestSupport": 21.16,
+  "latestSupport": 21.34,
   "datapointsByParty": {
     "Sweden Democrats": [
       {
@@ -2925,6 +2925,10 @@
       {
         "date": "2026-03-08",
         "value": 21.1
+      },
+      {
+        "date": "2026-03-18",
+        "value": 21.0
       }
     ]
   },
@@ -19609,6 +19613,46 @@
       {
         "date": "2026-03-08",
         "value": 21.16
+      },
+      {
+        "date": "2026-03-09",
+        "value": 21.18
+      },
+      {
+        "date": "2026-03-10",
+        "value": 21.2
+      },
+      {
+        "date": "2026-03-11",
+        "value": 21.21
+      },
+      {
+        "date": "2026-03-12",
+        "value": 21.23
+      },
+      {
+        "date": "2026-03-13",
+        "value": 21.25
+      },
+      {
+        "date": "2026-03-14",
+        "value": 21.27
+      },
+      {
+        "date": "2026-03-15",
+        "value": 21.29
+      },
+      {
+        "date": "2026-03-16",
+        "value": 21.3
+      },
+      {
+        "date": "2026-03-17",
+        "value": 21.32
+      },
+      {
+        "date": "2026-03-18",
+        "value": 21.34
       }
     ]
   },
@@ -36388,6 +36432,46 @@
     {
       "date": "2026-03-08",
       "value": 21.16
+    },
+    {
+      "date": "2026-03-09",
+      "value": 21.18
+    },
+    {
+      "date": "2026-03-10",
+      "value": 21.2
+    },
+    {
+      "date": "2026-03-11",
+      "value": 21.21
+    },
+    {
+      "date": "2026-03-12",
+      "value": 21.23
+    },
+    {
+      "date": "2026-03-13",
+      "value": 21.25
+    },
+    {
+      "date": "2026-03-14",
+      "value": 21.27
+    },
+    {
+      "date": "2026-03-15",
+      "value": 21.29
+    },
+    {
+      "date": "2026-03-16",
+      "value": 21.3
+    },
+    {
+      "date": "2026-03-17",
+      "value": 21.32
+    },
+    {
+      "date": "2026-03-18",
+      "value": 21.34
     }
   ],
   "activePartiesByDate": {
@@ -48972,9 +49056,39 @@
     ],
     "2026-03-08": [
       "Sweden Democrats"
+    ],
+    "2026-03-09": [
+      "Sweden Democrats"
+    ],
+    "2026-03-10": [
+      "Sweden Democrats"
+    ],
+    "2026-03-11": [
+      "Sweden Democrats"
+    ],
+    "2026-03-12": [
+      "Sweden Democrats"
+    ],
+    "2026-03-13": [
+      "Sweden Democrats"
+    ],
+    "2026-03-14": [
+      "Sweden Democrats"
+    ],
+    "2026-03-15": [
+      "Sweden Democrats"
+    ],
+    "2026-03-16": [
+      "Sweden Democrats"
+    ],
+    "2026-03-17": [
+      "Sweden Democrats"
+    ],
+    "2026-03-18": [
+      "Sweden Democrats"
     ]
   },
-  "latestUpdate": "2026-03-08",
+  "latestUpdate": "2026-03-18",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",
