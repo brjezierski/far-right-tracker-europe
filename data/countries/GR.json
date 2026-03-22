@@ -3202,7 +3202,7 @@
         "value": 11.5
       },
       {
-        "date": "2026-03-19",
+        "date": "2026-03-21",
         "value": 9.4
       }
     ],
@@ -5352,8 +5352,8 @@
         "value": 3.1
       },
       {
-        "date": "2026-03-19",
-        "value": 2.2
+        "date": "2026-03-21",
+        "value": 2.4
       }
     ],
     "Spartans": [
@@ -6532,8 +6532,8 @@
         "value": 3.5
       },
       {
-        "date": "2026-03-19",
-        "value": 4.1
+        "date": "2026-03-21",
+        "value": 3.9
       }
     ]
   },
@@ -30675,6 +30675,14 @@
       },
       {
         "date": "2026-03-19",
+        "value": 10.42
+      },
+      {
+        "date": "2026-03-20",
+        "value": 10.47
+      },
+      {
+        "date": "2026-03-21",
         "value": 10.53
       }
     ],
@@ -45025,7 +45033,15 @@
       },
       {
         "date": "2026-03-19",
+        "value": 2.52
+      },
+      {
+        "date": "2026-03-20",
         "value": 2.55
+      },
+      {
+        "date": "2026-03-21",
+        "value": 2.59
       }
     ],
     "Spartans": [
@@ -51389,7 +51405,15 @@
       },
       {
         "date": "2026-03-19",
-        "value": 3.95
+        "value": 3.83
+      },
+      {
+        "date": "2026-03-20",
+        "value": 3.87
+      },
+      {
+        "date": "2026-03-21",
+        "value": 3.91
       }
     ]
   },
@@ -67604,6 +67628,14 @@
     },
     {
       "date": "2026-03-19",
+      "value": 16.77
+    },
+    {
+      "date": "2026-03-20",
+      "value": 16.89
+    },
+    {
+      "date": "2026-03-21",
       "value": 17.03
     }
   ],
@@ -86023,9 +86055,21 @@
       "Niki",
       "Spartans",
       "Voice of Reason"
+    ],
+    "2026-03-20": [
+      "Greek Solution",
+      "Niki",
+      "Spartans",
+      "Voice of Reason"
+    ],
+    "2026-03-21": [
+      "Greek Solution",
+      "Niki",
+      "Spartans",
+      "Voice of Reason"
     ]
   },
-  "latestUpdate": "2026-03-19",
+  "latestUpdate": "2026-03-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
