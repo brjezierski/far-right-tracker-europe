@@ -604,6 +604,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Debout la France,3.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-02-06,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-02-27,Debout la France,3.5,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
+2026-03-22,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2025-09-25,Dominique de Villepin,4.5,,,,
 2025-10-31,Dominique de Villepin,4.0,,,,
 2026-02-06,Dominique de Villepin,2.0,,,,
@@ -1070,6 +1071,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Europe Écologie Les Verts,6.5,,Green politics; Environmentalism,,Marine Tondelier
 2026-02-06,Europe Écologie Les Verts,3.0,,Green politics; Environmentalism,,Marine Tondelier
 2026-02-27,Europe Écologie Les Verts,5.0,,Green politics; Environmentalism,,Marine Tondelier
+2026-03-22,Europe Écologie Les Verts,5.0,,Green politics; Environmentalism,,Marine Tondelier
 2023-10-25,Gabriel Attal,19.0,,,,
 2024-01-10,Gabriel Attal,24.0,,,,
 2024-02-01,Gabriel Attal,22.0,,,,
@@ -1082,6 +1084,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-10-07,Gabriel Attal,12.0,,,,
 2025-11-20,Gabriel Attal,11.0,,,,
 2026-02-06,Gabriel Attal,8.0,,,,
+2026-03-22,Gabriel Attal,13.0,,,,
 2023-03-31,Horizons,26.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2023-04-07,Horizons,24.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2023-04-13,Horizons,32.0,,Liberal conservatism; Centrism,,Édouard Philippe
@@ -1708,6 +1711,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,La France Insoumise,12.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2026-02-06,La France Insoumise,13.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2026-02-27,La France Insoumise,11.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
+2026-03-22,La France Insoumise,13.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2016-03-14,La République En Marche,14.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-04-28,La République En Marche,20.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-09-28,La République En Marche,12.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
@@ -2896,6 +2900,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Les Républicains,10.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-02-06,Les Républicains,6.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-02-27,Les Républicains,11.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
+2026-03-22,Les Républicains,10.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2012-10-12,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-15,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-17,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
@@ -3369,6 +3374,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2026-02-06,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2026-02-27,Lutte Ouvrière,2.0,,Trotskyism,,Nathalie Arthaud
+2026-03-22,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2012-10-12,Mouvement Démocrate,7.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-15,Mouvement Démocrate,10.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-17,Mouvement Démocrate,11.0,,Centrism; Christian democracy,,François Bayrou
@@ -4323,6 +4329,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
 2026-02-06,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
 2026-02-27,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
+2026-03-22,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
 2016-11-28,Parti Radical de Gauche,1.0,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-11-30,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-12-04,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
@@ -5120,6 +5127,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Parti Socialiste,14.5,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-02-06,Parti Socialiste,9.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-02-27,Parti Socialiste,5.0,,Social democracy; Eco-socialism,,Olivier Faure
+2026-03-22,Parti Socialiste,14.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2012-10-12,Rassemblement National,19.5,,Far-right; Nationalism,,Marine Le Pen
 2013-04-15,Rassemblement National,22.0,,Far-right; Nationalism,,Marine Le Pen
 2013-04-17,Rassemblement National,21.0,,Far-right; Nationalism,,Marine Le Pen
@@ -5728,6 +5736,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Rassemblement National,36.0,,Far-right; Nationalism,,Jordan Bardella
 2026-02-06,Rassemblement National,36.0,,Far-right; Nationalism,,Jordan Bardella
 2026-02-27,Rassemblement National,36.0,,Far-right; Nationalism,,Jordan Bardella
+2026-03-22,Rassemblement National,36.0,,Far-right; Nationalism,,Jordan Bardella
 2021-02-24,Reconquête,17.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-06-09,Reconquête,5.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-07-05,Reconquête,5.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
@@ -6050,6 +6059,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2025-11-20,Reconquête,3.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-02-06,Reconquête,4.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-02-27,Reconquête,4.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
+2026-03-22,Reconquête,5.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2016-06-17,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-04,Résistons!,1.0,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-17,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
