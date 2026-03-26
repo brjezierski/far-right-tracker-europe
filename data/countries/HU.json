@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 48.62,
+  "latestSupport": 46.82,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2252,6 +2252,10 @@
       {
         "date": "2026-03-17",
         "value": 46.0
+      },
+      {
+        "date": "2026-03-20",
+        "value": 35.0
       }
     ],
     "Jobbik": [
@@ -5476,6 +5480,10 @@
       {
         "date": "2026-03-17",
         "value": 8.0
+      },
+      {
+        "date": "2026-03-20",
+        "value": 4.0
       }
     ]
   },
@@ -22780,6 +22788,18 @@
       {
         "date": "2026-03-17",
         "value": 42.62
+      },
+      {
+        "date": "2026-03-18",
+        "value": 42.09
+      },
+      {
+        "date": "2026-03-19",
+        "value": 41.55
+      },
+      {
+        "date": "2026-03-20",
+        "value": 41.02
       }
     ],
     "Jobbik": [
@@ -50508,6 +50528,18 @@
       {
         "date": "2026-03-17",
         "value": 6.0
+      },
+      {
+        "date": "2026-03-18",
+        "value": 5.93
+      },
+      {
+        "date": "2026-03-19",
+        "value": 5.87
+      },
+      {
+        "date": "2026-03-20",
+        "value": 5.8
       }
     ]
   },
@@ -67967,6 +67999,18 @@
     {
       "date": "2026-03-17",
       "value": 48.62
+    },
+    {
+      "date": "2026-03-18",
+      "value": 48.02
+    },
+    {
+      "date": "2026-03-19",
+      "value": 47.42
+    },
+    {
+      "date": "2026-03-20",
+      "value": 46.82
     }
   ],
   "activePartiesByDate": {
@@ -87921,9 +87965,21 @@
     "2026-03-17": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-03-18": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-03-19": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-03-20": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-03-17",
+  "latestUpdate": "2026-03-20",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
