@@ -13,7 +13,7 @@
     "Party of Young People",
     "S.O.S. Romania"
   ],
-  "latestSupport": 42.9,
+  "latestSupport": 42.3,
   "datapointsByParty": {
     "AUR Alliance": [
       {
@@ -575,6 +575,10 @@
       {
         "date": "2026-03-17",
         "value": 35.0
+      },
+      {
+        "date": "2026-03-27",
+        "value": 33.0
       }
     ],
     "Party of Young People": [
@@ -681,6 +685,10 @@
       {
         "date": "2026-03-17",
         "value": 2.0
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.0
       }
     ],
     "S.O.S. Romania": [
@@ -895,6 +903,10 @@
       {
         "date": "2026-03-17",
         "value": 3.0
+      },
+      {
+        "date": "2026-03-27",
+        "value": 4.0
       }
     ]
   },
@@ -10307,6 +10319,46 @@
       {
         "date": "2026-03-17",
         "value": 36.78
+      },
+      {
+        "date": "2026-03-18",
+        "value": 36.74
+      },
+      {
+        "date": "2026-03-19",
+        "value": 36.7
+      },
+      {
+        "date": "2026-03-20",
+        "value": 36.66
+      },
+      {
+        "date": "2026-03-21",
+        "value": 36.62
+      },
+      {
+        "date": "2026-03-22",
+        "value": 36.58
+      },
+      {
+        "date": "2026-03-23",
+        "value": 36.54
+      },
+      {
+        "date": "2026-03-24",
+        "value": 36.5
+      },
+      {
+        "date": "2026-03-25",
+        "value": 36.46
+      },
+      {
+        "date": "2026-03-26",
+        "value": 36.42
+      },
+      {
+        "date": "2026-03-27",
+        "value": 36.38
       }
     ],
     "Party of Young People": [
@@ -11888,6 +11940,46 @@
       },
       {
         "date": "2026-03-17",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-18",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-19",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-20",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-21",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-22",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-23",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-24",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-25",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-26",
+        "value": 2.3
+      },
+      {
+        "date": "2026-03-27",
         "value": 2.3
       }
     ],
@@ -15523,6 +15615,46 @@
       {
         "date": "2026-03-17",
         "value": 3.82
+      },
+      {
+        "date": "2026-03-18",
+        "value": 3.8
+      },
+      {
+        "date": "2026-03-19",
+        "value": 3.78
+      },
+      {
+        "date": "2026-03-20",
+        "value": 3.76
+      },
+      {
+        "date": "2026-03-21",
+        "value": 3.74
+      },
+      {
+        "date": "2026-03-22",
+        "value": 3.72
+      },
+      {
+        "date": "2026-03-23",
+        "value": 3.7
+      },
+      {
+        "date": "2026-03-24",
+        "value": 3.68
+      },
+      {
+        "date": "2026-03-25",
+        "value": 3.66
+      },
+      {
+        "date": "2026-03-26",
+        "value": 3.64
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.62
       }
     ]
   },
@@ -23266,6 +23398,46 @@
     {
       "date": "2026-03-17",
       "value": 42.9
+    },
+    {
+      "date": "2026-03-18",
+      "value": 42.84
+    },
+    {
+      "date": "2026-03-19",
+      "value": 42.78
+    },
+    {
+      "date": "2026-03-20",
+      "value": 42.72
+    },
+    {
+      "date": "2026-03-21",
+      "value": 42.66
+    },
+    {
+      "date": "2026-03-22",
+      "value": 42.6
+    },
+    {
+      "date": "2026-03-23",
+      "value": 42.54
+    },
+    {
+      "date": "2026-03-24",
+      "value": 42.48
+    },
+    {
+      "date": "2026-03-25",
+      "value": 42.42
+    },
+    {
+      "date": "2026-03-26",
+      "value": 42.36
+    },
+    {
+      "date": "2026-03-27",
+      "value": 42.3
     }
   ],
   "activePartiesByDate": {
@@ -31068,9 +31240,59 @@
       "Alliance for the Union of Romanians",
       "Party of Young People",
       "S.O.S. Romania"
+    ],
+    "2026-03-18": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-19": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-20": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-21": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-22": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-23": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-24": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-25": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-26": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-03-27": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
     ]
   },
-  "latestUpdate": "2026-03-17",
+  "latestUpdate": "2026-03-27",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",

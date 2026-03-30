@@ -13,7 +13,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 51.0,
+  "latestSupport": 51.300000000000004,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1303,6 +1303,10 @@
       {
         "date": "2026-03-22",
         "value": 2.0
+      },
+      {
+        "date": "2026-03-27",
+        "value": 2.5
       }
     ],
     "Les Républicains": [
@@ -3911,6 +3915,10 @@
       {
         "date": "2026-03-22",
         "value": 36.0
+      },
+      {
+        "date": "2026-03-27",
+        "value": 38.0
       }
     ],
     "Reconquête": [
@@ -23356,6 +23364,26 @@
       },
       {
         "date": "2026-03-22",
+        "value": 2.5
+      },
+      {
+        "date": "2026-03-23",
+        "value": 2.5
+      },
+      {
+        "date": "2026-03-24",
+        "value": 2.5
+      },
+      {
+        "date": "2026-03-25",
+        "value": 2.5
+      },
+      {
+        "date": "2026-03-26",
+        "value": 2.5
+      },
+      {
+        "date": "2026-03-27",
         "value": 2.5
       }
     ],
@@ -61049,6 +61077,26 @@
       {
         "date": "2026-03-22",
         "value": 36.15
+      },
+      {
+        "date": "2026-03-23",
+        "value": 36.21
+      },
+      {
+        "date": "2026-03-24",
+        "value": 36.27
+      },
+      {
+        "date": "2026-03-25",
+        "value": 36.33
+      },
+      {
+        "date": "2026-03-26",
+        "value": 36.39
+      },
+      {
+        "date": "2026-03-27",
+        "value": 36.45
       }
     ],
     "Reconquête": [
@@ -87294,6 +87342,26 @@
     {
       "date": "2026-03-22",
       "value": 51.0
+    },
+    {
+      "date": "2026-03-23",
+      "value": 38.71
+    },
+    {
+      "date": "2026-03-24",
+      "value": 38.77
+    },
+    {
+      "date": "2026-03-25",
+      "value": 38.83
+    },
+    {
+      "date": "2026-03-26",
+      "value": 38.89
+    },
+    {
+      "date": "2026-03-27",
+      "value": 38.95
     }
   ],
   "activePartiesByDate": {
@@ -113615,9 +113683,39 @@
       "Les Républicains",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-03-23": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-03-24": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-03-25": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-03-26": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-03-27": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-03-22",
+  "latestUpdate": "2026-03-27",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
