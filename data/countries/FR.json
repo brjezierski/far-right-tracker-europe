@@ -13,7 +13,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 51.300000000000004,
+  "latestSupport": 51.75,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1302,6 +1302,10 @@
       },
       {
         "date": "2026-03-22",
+        "value": 2.0
+      },
+      {
+        "date": "2026-03-26",
         "value": 2.0
       },
       {
@@ -2613,6 +2617,10 @@
       {
         "date": "2026-03-22",
         "value": 10.0
+      },
+      {
+        "date": "2026-03-26",
+        "value": 8.0
       }
     ],
     "Rassemblement National": [
@@ -3915,6 +3923,10 @@
       {
         "date": "2026-03-22",
         "value": 36.0
+      },
+      {
+        "date": "2026-03-26",
+        "value": 34.0
       },
       {
         "date": "2026-03-27",
@@ -23368,23 +23380,23 @@
       },
       {
         "date": "2026-03-23",
-        "value": 2.5
+        "value": 2.48
       },
       {
         "date": "2026-03-24",
-        "value": 2.5
+        "value": 2.45
       },
       {
         "date": "2026-03-25",
-        "value": 2.5
+        "value": 2.42
       },
       {
         "date": "2026-03-26",
-        "value": 2.5
+        "value": 2.4
       },
       {
         "date": "2026-03-27",
-        "value": 2.5
+        "value": 2.4
       }
     ],
     "Les Républicains": [
@@ -42231,6 +42243,22 @@
       {
         "date": "2026-03-22",
         "value": 7.75
+      },
+      {
+        "date": "2026-03-23",
+        "value": 8.0
+      },
+      {
+        "date": "2026-03-24",
+        "value": 8.25
+      },
+      {
+        "date": "2026-03-25",
+        "value": 8.5
+      },
+      {
+        "date": "2026-03-26",
+        "value": 8.75
       }
     ],
     "Rassemblement National": [
@@ -61080,23 +61108,23 @@
       },
       {
         "date": "2026-03-23",
-        "value": 36.21
+        "value": 36.02
       },
       {
         "date": "2026-03-24",
-        "value": 36.27
+        "value": 35.9
       },
       {
         "date": "2026-03-25",
-        "value": 36.33
+        "value": 35.77
       },
       {
         "date": "2026-03-26",
-        "value": 36.39
+        "value": 35.65
       },
       {
         "date": "2026-03-27",
-        "value": 36.45
+        "value": 36.0
       }
     ],
     "Reconquête": [
@@ -87345,23 +87373,23 @@
     },
     {
       "date": "2026-03-23",
-      "value": 38.71
+      "value": 46.5
     },
     {
       "date": "2026-03-24",
-      "value": 38.77
+      "value": 46.6
     },
     {
       "date": "2026-03-25",
-      "value": 38.83
+      "value": 46.69
     },
     {
       "date": "2026-03-26",
-      "value": 38.89
+      "value": 46.8
     },
     {
       "date": "2026-03-27",
-      "value": 38.95
+      "value": 38.4
     }
   ],
   "activePartiesByDate": {
