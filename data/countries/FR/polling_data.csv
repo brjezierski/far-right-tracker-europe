@@ -1095,6 +1095,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2023-04-13,Horizons,32.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2024-04-05,Horizons,25.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2024-09-12,Horizons,26.0,,Liberal conservatism; Centrism,,Édouard Philippe
+2025-03-27,Horizons,18.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2025-03-27,Horizons,25.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2025-03-31,Horizons,25.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2025-04-18,Horizons,26.0,,Liberal conservatism; Centrism,,Édouard Philippe
@@ -1702,6 +1703,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-09-09,La France Insoumise,10.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2024-09-12,La France Insoumise,10.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2024-12-09,La France Insoumise,12.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
+2025-03-27,La France Insoumise,13.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2025-03-27,La France Insoumise,12.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2025-03-31,La France Insoumise,13.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2025-04-04,La France Insoumise,10.5,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
@@ -2895,6 +2897,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-09-12,Les Républicains,5.0,,Conservatism; Liberal conservatism,,Laurent Wauquiez
 2024-12-09,Les Républicains,8.0,,Conservatism; Liberal conservatism,,Laurent Wauquiez
 2025-03-27,Les Républicains,5.0,,Conservatism; Liberal conservatism,,Laurent Wauquiez
+2025-03-27,Les Républicains,11.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2025-03-31,Les Républicains,4.0,,Conservatism; Liberal conservatism,,Laurent Wauquiez
 2025-04-04,Les Républicains,4.5,,Conservatism; Liberal conservatism,,Laurent Wauquiez
 2025-04-18,Les Républicains,10.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
@@ -3370,6 +3373,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-07-08,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2024-09-09,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2024-12-09,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
+2025-03-27,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2025-03-27,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2025-03-31,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2025-04-04,Lutte Ouvrière,1.5,,Trotskyism,,Nathalie Arthaud
@@ -5127,6 +5131,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-09-09,Parti Socialiste,4.0,,Social democracy; Eco-socialism,,Olivier Faure
 2024-09-12,Parti Socialiste,14.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2024-12-09,Parti Socialiste,5.0,,Social democracy; Eco-socialism,,Olivier Faure
+2025-03-27,Parti Socialiste,12.0,,Social democracy; Eco-socialism,,François Hollande
 2025-03-27,Parti Socialiste,4.0,,Social democracy; Eco-socialism,,Olivier Faure
 2025-03-31,Parti Socialiste,5.0,,Social democracy; Eco-socialism,,Olivier Faure
 2025-04-04,Parti Socialiste,4.0,,Social democracy; Eco-socialism,,Olivier Faure
@@ -5738,6 +5743,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-09-12,Rassemblement National,35.0,,Far-right; Nationalism,,Marine Le Pen
 2024-12-09,Rassemblement National,38.0,,Far-right; Nationalism,,Marine Le Pen
 2025-03-27,Rassemblement National,36.0,,Far-right; Nationalism,,Marine Le Pen
+2025-03-27,Rassemblement National,38.0,,Far-right; Nationalism,,Jordan Bardella
 2025-03-31,Rassemblement National,36.0,,Far-right; Nationalism,,Jordan Bardella
 2025-04-04,Rassemblement National,35.5,,Far-right; Nationalism,,Jordan Bardella
 2025-04-18,Rassemblement National,33.0,,Far-right; Nationalism,,Jordan Bardella
@@ -6468,6 +6474,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2024-04-18,Résistons!,2.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2024-09-09,Résistons!,3.0,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2024-12-09,Résistons!,1.0,,Agrarianism; Regionalism; Populism,,Jean Lassalle
+2025-03-27,Sarah Knafo,5.0,,,,
 2025-10-31,Sarah Knafo,6.0,,,,
 2026-03-26,Sarah Knafo,5.0,,,,
 2026-03-27,Sarah Knafo,5.0,,,,
