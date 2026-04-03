@@ -3719,6 +3719,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Alliance 90/The Greens,12.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-03-26,Alliance 90/The Greens,15.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-03-27,Alliance 90/The Greens,12.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
+2026-03-29,Alliance 90/The Greens,14.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-03-30,Alliance 90/The Greens,15.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-03-30,Alliance 90/The Greens,12.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-03-30,Alliance 90/The Greens,12.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
@@ -7442,6 +7443,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-03-26,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-03-27,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
+2026-03-29,Alternative for Germany,25.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-03-30,Alternative for Germany,25.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-03-30,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-03-30,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
@@ -10723,6 +10725,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-03-26,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-03-27,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
+2026-03-29,CDU/CSU,24.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-03-30,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-03-30,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-03-31,CDU/CSU,26.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
@@ -15308,6 +15311,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Die Linke,10.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-03-26,Die Linke,10.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-03-27,Die Linke,11.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
+2026-03-29,Die Linke,11.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-03-30,Die Linke,10.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-03-30,Die Linke,10.5,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-03-30,Die Linke,10.5,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
@@ -19017,6 +19021,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-03-23,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-03-27,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
+2026-03-29,Free Democratic Party,5.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-03-30,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-03-30,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-03-31,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
@@ -19995,6 +20000,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Sahra Wagenknecht Alliance,3.5,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
 2026-03-23,Sahra Wagenknecht Alliance,3.5,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
 2026-03-27,Sahra Wagenknecht Alliance,3.0,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
+2026-03-29,Sahra Wagenknecht Alliance,3.0,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
 2026-03-30,Sahra Wagenknecht Alliance,3.0,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
 2026-03-30,Sahra Wagenknecht Alliance,3.5,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
 2026-03-30,Sahra Wagenknecht Alliance,3.5,Left-wing to far-left,Left-wing populism Left-wing nationalism Socialism Left-conservatism Cultural conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sahra_Wagenknecht_Alliance
@@ -23719,6 +23725,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-23,Social Democratic Party of Germany,15.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-03-26,Social Democratic Party of Germany,13.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-03-27,Social Democratic Party of Germany,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
+2026-03-29,Social Democratic Party of Germany,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-03-30,Social Democratic Party of Germany,12.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-03-30,Social Democratic Party of Germany,14.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-03-30,Social Democratic Party of Germany,14.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany

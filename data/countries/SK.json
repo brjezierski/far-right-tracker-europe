@@ -14,13 +14,12 @@
   "activeParties": [
     "Christian Union",
     "Hungarian Alliance",
-    "People's Party Our Slovakia",
     "Republic Movement",
     "Slovak National Party",
     "Slovakia",
     "We Are Family"
   ],
-  "latestSupport": 34.28,
+  "latestSupport": 33.18,
   "datapointsByParty": {
     "Christian Union": [
       {
@@ -400,7 +399,7 @@
         "value": 4.17
       },
       {
-        "date": "2016-03-02",
+        "date": "2016-03-03",
         "value": 1.6
       },
       {
@@ -1546,11 +1545,15 @@
       {
         "date": "2026-03-19",
         "value": 4.3
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.9
       }
     ],
     "People's Party Our Slovakia": [
       {
-        "date": "2016-03-02",
+        "date": "2016-03-03",
         "value": 18.1
       },
       {
@@ -3386,6 +3389,10 @@
       {
         "date": "2026-03-19",
         "value": 11.3
+      },
+      {
+        "date": "2026-03-27",
+        "value": 10.6
       }
     ],
     "Slovak National Party": [
@@ -3566,7 +3573,7 @@
         "value": 9.43
       },
       {
-        "date": "2016-03-02",
+        "date": "2016-03-03",
         "value": 10.5
       },
       {
@@ -4800,6 +4807,10 @@
       {
         "date": "2026-03-19",
         "value": 2.4
+      },
+      {
+        "date": "2026-03-27",
+        "value": 4.4
       }
     ],
     "Slovakia": [
@@ -4980,7 +4991,7 @@
         "value": 5.97
       },
       {
-        "date": "2016-03-02",
+        "date": "2016-03-03",
         "value": 13.4
       },
       {
@@ -5982,11 +5993,15 @@
       {
         "date": "2026-03-19",
         "value": 7.9
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8.5
       }
     ],
     "We Are Family": [
       {
-        "date": "2016-03-02",
+        "date": "2016-03-03",
         "value": 7.6
       },
       {
@@ -7232,6 +7247,10 @@
       {
         "date": "2026-03-19",
         "value": 2.2
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.6
       }
     ]
   },
@@ -12415,63 +12434,63 @@
       },
       {
         "date": "2016-02-19",
-        "value": 4.14
+        "value": 4.16
       },
       {
         "date": "2016-02-20",
-        "value": 4.1
+        "value": 4.12
       },
       {
         "date": "2016-02-21",
-        "value": 4.06
+        "value": 4.08
       },
       {
         "date": "2016-02-22",
-        "value": 4.02
+        "value": 4.04
       },
       {
         "date": "2016-02-23",
-        "value": 3.98
+        "value": 4.0
       },
       {
         "date": "2016-02-24",
-        "value": 3.94
+        "value": 3.96
       },
       {
         "date": "2016-02-25",
-        "value": 3.9
+        "value": 3.92
       },
       {
         "date": "2016-02-26",
-        "value": 3.86
+        "value": 3.88
       },
       {
         "date": "2016-02-27",
-        "value": 3.81
+        "value": 3.84
       },
       {
         "date": "2016-02-28",
-        "value": 3.77
+        "value": 3.81
       },
       {
         "date": "2016-02-29",
-        "value": 3.73
+        "value": 3.77
       },
       {
         "date": "2016-03-01",
-        "value": 3.69
+        "value": 3.73
       },
       {
         "date": "2016-03-02",
-        "value": 3.65
+        "value": 3.69
       },
       {
         "date": "2016-03-03",
-        "value": 3.58
+        "value": 3.65
       },
       {
         "date": "2016-03-04",
-        "value": 3.52
+        "value": 3.55
       },
       {
         "date": "2016-03-05",
@@ -27140,6 +27159,38 @@
       {
         "date": "2026-03-19",
         "value": 4.38
+      },
+      {
+        "date": "2026-03-20",
+        "value": 4.36
+      },
+      {
+        "date": "2026-03-21",
+        "value": 4.34
+      },
+      {
+        "date": "2026-03-22",
+        "value": 4.33
+      },
+      {
+        "date": "2026-03-23",
+        "value": 4.31
+      },
+      {
+        "date": "2026-03-24",
+        "value": 4.29
+      },
+      {
+        "date": "2026-03-25",
+        "value": 4.28
+      },
+      {
+        "date": "2026-03-26",
+        "value": 4.26
+      },
+      {
+        "date": "2026-03-27",
+        "value": 4.24
       }
     ],
     "People's Party Our Slovakia": [
@@ -48620,6 +48671,38 @@
       {
         "date": "2026-03-19",
         "value": 10.76
+      },
+      {
+        "date": "2026-03-20",
+        "value": 10.81
+      },
+      {
+        "date": "2026-03-21",
+        "value": 10.86
+      },
+      {
+        "date": "2026-03-22",
+        "value": 10.9
+      },
+      {
+        "date": "2026-03-23",
+        "value": 10.95
+      },
+      {
+        "date": "2026-03-24",
+        "value": 11.0
+      },
+      {
+        "date": "2026-03-25",
+        "value": 11.04
+      },
+      {
+        "date": "2026-03-26",
+        "value": 11.09
+      },
+      {
+        "date": "2026-03-27",
+        "value": 11.14
       }
     ],
     "Slovak National Party": [
@@ -51173,7 +51256,7 @@
       },
       {
         "date": "2016-02-15",
-        "value": 8.51
+        "value": 8.5
       },
       {
         "date": "2016-02-16",
@@ -51181,71 +51264,71 @@
       },
       {
         "date": "2016-02-17",
-        "value": 8.58
+        "value": 8.57
       },
       {
         "date": "2016-02-18",
-        "value": 8.62
+        "value": 8.61
       },
       {
         "date": "2016-02-19",
-        "value": 8.65
+        "value": 8.64
       },
       {
         "date": "2016-02-20",
-        "value": 8.69
+        "value": 8.68
       },
       {
         "date": "2016-02-21",
-        "value": 8.73
+        "value": 8.71
       },
       {
         "date": "2016-02-22",
-        "value": 8.76
+        "value": 8.75
       },
       {
         "date": "2016-02-23",
-        "value": 8.8
+        "value": 8.78
       },
       {
         "date": "2016-02-24",
-        "value": 8.83
+        "value": 8.81
       },
       {
         "date": "2016-02-25",
-        "value": 8.87
+        "value": 8.85
       },
       {
         "date": "2016-02-26",
-        "value": 8.91
+        "value": 8.88
       },
       {
         "date": "2016-02-27",
-        "value": 8.94
+        "value": 8.92
       },
       {
         "date": "2016-02-28",
-        "value": 8.98
+        "value": 8.95
       },
       {
         "date": "2016-02-29",
-        "value": 9.02
+        "value": 8.99
       },
       {
         "date": "2016-03-01",
-        "value": 9.05
+        "value": 9.02
       },
       {
         "date": "2016-03-02",
-        "value": 9.09
+        "value": 9.06
       },
       {
         "date": "2016-03-03",
-        "value": 9.2
+        "value": 9.09
       },
       {
         "date": "2016-03-04",
-        "value": 9.32
+        "value": 9.26
       },
       {
         "date": "2016-03-05",
@@ -65914,6 +65997,38 @@
       {
         "date": "2026-03-19",
         "value": 3.42
+      },
+      {
+        "date": "2026-03-20",
+        "value": 3.41
+      },
+      {
+        "date": "2026-03-21",
+        "value": 3.4
+      },
+      {
+        "date": "2026-03-22",
+        "value": 3.39
+      },
+      {
+        "date": "2026-03-23",
+        "value": 3.38
+      },
+      {
+        "date": "2026-03-24",
+        "value": 3.37
+      },
+      {
+        "date": "2026-03-25",
+        "value": 3.36
+      },
+      {
+        "date": "2026-03-26",
+        "value": 3.35
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.34
       }
     ],
     "Slovakia": [
@@ -68471,75 +68586,75 @@
       },
       {
         "date": "2016-02-16",
-        "value": 6.25
+        "value": 6.24
       },
       {
         "date": "2016-02-17",
-        "value": 6.34
+        "value": 6.33
       },
       {
         "date": "2016-02-18",
-        "value": 6.43
+        "value": 6.41
       },
       {
         "date": "2016-02-19",
-        "value": 6.52
+        "value": 6.5
       },
       {
         "date": "2016-02-20",
-        "value": 6.61
+        "value": 6.58
       },
       {
         "date": "2016-02-21",
-        "value": 6.7
+        "value": 6.67
       },
       {
         "date": "2016-02-22",
-        "value": 6.79
+        "value": 6.75
       },
       {
         "date": "2016-02-23",
-        "value": 6.89
+        "value": 6.84
       },
       {
         "date": "2016-02-24",
-        "value": 6.98
+        "value": 6.93
       },
       {
         "date": "2016-02-25",
-        "value": 7.07
+        "value": 7.01
       },
       {
         "date": "2016-02-26",
-        "value": 7.16
+        "value": 7.1
       },
       {
         "date": "2016-02-27",
-        "value": 7.25
+        "value": 7.18
       },
       {
         "date": "2016-02-28",
-        "value": 7.34
+        "value": 7.27
       },
       {
         "date": "2016-02-29",
-        "value": 7.43
+        "value": 7.35
       },
       {
         "date": "2016-03-01",
-        "value": 7.52
+        "value": 7.44
       },
       {
         "date": "2016-03-02",
-        "value": 7.61
+        "value": 7.52
       },
       {
         "date": "2016-03-03",
-        "value": 8.22
+        "value": 7.61
       },
       {
         "date": "2016-03-04",
-        "value": 8.82
+        "value": 8.52
       },
       {
         "date": "2016-03-05",
@@ -83208,6 +83323,38 @@
       {
         "date": "2026-03-19",
         "value": 8.34
+      },
+      {
+        "date": "2026-03-20",
+        "value": 8.32
+      },
+      {
+        "date": "2026-03-21",
+        "value": 8.3
+      },
+      {
+        "date": "2026-03-22",
+        "value": 8.28
+      },
+      {
+        "date": "2026-03-23",
+        "value": 8.26
+      },
+      {
+        "date": "2026-03-24",
+        "value": 8.24
+      },
+      {
+        "date": "2026-03-25",
+        "value": 8.22
+      },
+      {
+        "date": "2026-03-26",
+        "value": 8.2
+      },
+      {
+        "date": "2026-03-27",
+        "value": 8.18
       }
     ],
     "We Are Family": [
@@ -97746,6 +97893,38 @@
       {
         "date": "2026-03-19",
         "value": 3.02
+      },
+      {
+        "date": "2026-03-20",
+        "value": 3.04
+      },
+      {
+        "date": "2026-03-21",
+        "value": 3.06
+      },
+      {
+        "date": "2026-03-22",
+        "value": 3.07
+      },
+      {
+        "date": "2026-03-23",
+        "value": 3.09
+      },
+      {
+        "date": "2026-03-24",
+        "value": 3.11
+      },
+      {
+        "date": "2026-03-25",
+        "value": 3.12
+      },
+      {
+        "date": "2026-03-26",
+        "value": 3.14
+      },
+      {
+        "date": "2026-03-27",
+        "value": 3.16
       }
     ]
   },
@@ -100772,79 +100951,79 @@
     },
     {
       "date": "2016-02-15",
-      "value": 18.98
+      "value": 18.97
     },
     {
       "date": "2016-02-16",
-      "value": 19.06
+      "value": 19.05
     },
     {
       "date": "2016-02-17",
-      "value": 19.15
+      "value": 19.13
     },
     {
       "date": "2016-02-18",
-      "value": 19.24
+      "value": 19.21
     },
     {
       "date": "2016-02-19",
-      "value": 19.31
+      "value": 19.3
     },
     {
       "date": "2016-02-20",
-      "value": 19.4
+      "value": 19.38
     },
     {
       "date": "2016-02-21",
-      "value": 19.49
+      "value": 19.46
     },
     {
       "date": "2016-02-22",
-      "value": 19.57
+      "value": 19.54
     },
     {
       "date": "2016-02-23",
-      "value": 19.67
+      "value": 19.62
     },
     {
       "date": "2016-02-24",
-      "value": 19.75
+      "value": 19.7
     },
     {
       "date": "2016-02-25",
-      "value": 19.84
+      "value": 19.78
     },
     {
       "date": "2016-02-26",
-      "value": 19.93
+      "value": 19.86
     },
     {
       "date": "2016-02-27",
-      "value": 20.0
+      "value": 19.94
     },
     {
       "date": "2016-02-28",
-      "value": 20.09
+      "value": 20.03
     },
     {
       "date": "2016-02-29",
-      "value": 20.18
+      "value": 20.11
     },
     {
       "date": "2016-03-01",
-      "value": 20.26
+      "value": 20.19
     },
     {
       "date": "2016-03-02",
-      "value": 20.35
+      "value": 20.27
     },
     {
       "date": "2016-03-03",
-      "value": 21.0
+      "value": 20.35
     },
     {
       "date": "2016-03-04",
-      "value": 21.66
+      "value": 21.33
     },
     {
       "date": "2016-03-05",
@@ -115513,6 +115692,38 @@
     {
       "date": "2026-03-19",
       "value": 29.92
+    },
+    {
+      "date": "2026-03-20",
+      "value": 29.94
+    },
+    {
+      "date": "2026-03-21",
+      "value": 29.96
+    },
+    {
+      "date": "2026-03-22",
+      "value": 29.97
+    },
+    {
+      "date": "2026-03-23",
+      "value": 29.99
+    },
+    {
+      "date": "2026-03-24",
+      "value": 30.01
+    },
+    {
+      "date": "2026-03-25",
+      "value": 30.02
+    },
+    {
+      "date": "2026-03-26",
+      "value": 30.04
+    },
+    {
+      "date": "2026-03-27",
+      "value": 30.06
     }
   ],
   "activePartiesByDate": {
@@ -119373,10 +119584,8 @@
     ],
     "2016-03-02": [
       "Hungarian Alliance",
-      "People's Party Our Slovakia",
       "Slovak National Party",
-      "Slovakia",
-      "We Are Family"
+      "Slovakia"
     ],
     "2016-03-03": [
       "Hungarian Alliance",
@@ -147016,9 +147225,80 @@
       "Slovak National Party",
       "Slovakia",
       "We Are Family"
+    ],
+    "2026-03-20": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-21": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-22": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-23": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-24": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-25": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-26": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "People's Party Our Slovakia",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
+    ],
+    "2026-03-27": [
+      "Christian Union",
+      "Hungarian Alliance",
+      "Republic Movement",
+      "Slovak National Party",
+      "Slovakia",
+      "We Are Family"
     ]
   },
-  "latestUpdate": "2026-03-19",
+  "latestUpdate": "2026-03-27",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Slovak_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Slovak_parliamentary_election",
