@@ -13,10 +13,9 @@
   "activeParties": [
     "Greek Solution",
     "Niki",
-    "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 16.13,
+  "latestSupport": 15.11,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3218,6 +3217,10 @@
         "value": 9.0
       },
       {
+        "date": "2026-04-04",
+        "value": 10.6
+      },
+      {
         "date": "2026-04-05",
         "value": 9.4
       }
@@ -5384,6 +5387,10 @@
         "value": 2.0
       },
       {
+        "date": "2026-04-04",
+        "value": 3.1
+      },
+      {
         "date": "2026-04-05",
         "value": 2.4
       }
@@ -6582,6 +6589,10 @@
       {
         "date": "2026-04-03",
         "value": 3.5
+      },
+      {
+        "date": "2026-04-04",
+        "value": 1.4
       },
       {
         "date": "2026-04-05",
@@ -30791,11 +30802,11 @@
       },
       {
         "date": "2026-04-04",
-        "value": 9.12
+        "value": 9.64
       },
       {
         "date": "2026-04-05",
-        "value": 9.4
+        "value": 9.74
       }
     ],
     "Independent Greeks": [
@@ -45209,11 +45220,11 @@
       },
       {
         "date": "2026-04-04",
-        "value": 2.35
+        "value": 2.55
       },
       {
         "date": "2026-04-05",
-        "value": 2.41
+        "value": 2.61
       }
     ],
     "Spartans": [
@@ -51697,11 +51708,11 @@
       },
       {
         "date": "2026-04-04",
-        "value": 3.26
+        "value": 2.8
       },
       {
         "date": "2026-04-05",
-        "value": 3.2
+        "value": 2.76
       }
     ]
   },
@@ -67980,11 +67991,11 @@
     },
     {
       "date": "2026-04-04",
-      "value": 14.73
+      "value": 14.99
     },
     {
       "date": "2026-04-05",
-      "value": 15.01
+      "value": 15.11
     }
   ],
   "activePartiesByDate": {
@@ -86494,7 +86505,6 @@
     "2026-04-05": [
       "Greek Solution",
       "Niki",
-      "Spartans",
       "Voice of Reason"
     ]
   },
