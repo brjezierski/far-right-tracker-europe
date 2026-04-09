@@ -58,6 +58,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-02,Gagik Tsarukyan,3.2,,,
 2026-02-13,Gagik Tsarukyan,3.0,,,
 2026-02-22,Gagik Tsarukyan,6.0,,,
+2026-03-31,Gagik Tsarukyan,3.3,,,
 2021-02-17,Hanrapetutyun Party,0.7,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2021-03-29,Hanrapetutyun Party,0.4,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2021-05-04,Hanrapetutyun Party,1.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
@@ -126,6 +127,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-02,Nikol Pashinyan,11.5,,,
 2026-02-13,Nikol Pashinyan,24.0,,,
 2026-02-22,Nikol Pashinyan,26.1,,,
+2026-03-31,Nikol Pashinyan,33.6,,,
 2017-03-02,ORO Alliance,1.8,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
 2017-03-19,ORO Alliance,2.5,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
 2017-03-27,ORO Alliance,4.0,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
@@ -165,6 +167,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-02,Robert Kocharyan,8.0,,,
 2026-02-13,Robert Kocharyan,3.0,,,
 2026-02-22,Robert Kocharyan,3.4,,,
+2026-03-31,Robert Kocharyan,4.2,,,
+2026-02-13,Samvel Karapetyan,9.0,,,
+2026-02-22,Samvel Karapetyan,11.9,,,
+2026-03-31,Samvel Karapetyan,11.4,,,
 2018-08-04,Sasna Tsrer Pan-Armenian Party,1.4,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
 2018-08-21,Sasna Tsrer Pan-Armenian Party,0.9,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
 2018-08-29,Sasna Tsrer Pan-Armenian Party,3.0,Right-wing,Armenian nationalism National conservatism Anti-Russian sentiment Anti- EAEU Anti- CSTO Pro-Europeanism Atlanticism United Armenia,https://en.wikipedia.org/wiki/Sasna_Tsrer_Pan-Armenian_Party
