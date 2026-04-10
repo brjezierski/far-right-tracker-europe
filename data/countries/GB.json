@@ -8,7 +8,7 @@
   "activeParties": [
     "Reform UK"
   ],
-  "latestSupport": 25.73,
+  "latestSupport": 25.93,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4718,6 +4718,10 @@
       {
         "date": "2026-04-07",
         "value": 27.0
+      },
+      {
+        "date": "2026-04-08",
+        "value": 25.0
       }
     ],
     "UK Independence Party": [
@@ -22508,6 +22512,10 @@
       {
         "date": "2026-04-07",
         "value": 25.73
+      },
+      {
+        "date": "2026-04-08",
+        "value": 25.93
       }
     ],
     "UK Independence Party": [
@@ -59741,6 +59749,10 @@
     {
       "date": "2026-04-07",
       "value": 25.73
+    },
+    {
+      "date": "2026-04-08",
+      "value": 25.93
     }
   ],
   "activePartiesByDate": {
@@ -77462,9 +77474,12 @@
     ],
     "2026-04-07": [
       "Reform UK"
+    ],
+    "2026-04-08": [
+      "Reform UK"
     ]
   },
-  "latestUpdate": "2026-04-07",
+  "latestUpdate": "2026-04-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
