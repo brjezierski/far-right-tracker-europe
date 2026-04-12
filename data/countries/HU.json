@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 48.18,
+  "latestSupport": 46.15,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2300,6 +2300,10 @@
       {
         "date": "2026-04-09",
         "value": 39.0
+      },
+      {
+        "date": "2026-04-10",
+        "value": 40.2
       }
     ],
     "Jobbik": [
@@ -5572,6 +5576,10 @@
       {
         "date": "2026-04-09",
         "value": 5.0
+      },
+      {
+        "date": "2026-04-10",
+        "value": 4.65
       }
     ]
   },
@@ -22968,6 +22976,10 @@
       {
         "date": "2026-04-09",
         "value": 42.58
+      },
+      {
+        "date": "2026-04-10",
+        "value": 40.62
       }
     ],
     "Jobbik": [
@@ -50788,6 +50800,10 @@
       {
         "date": "2026-04-09",
         "value": 5.6
+      },
+      {
+        "date": "2026-04-10",
+        "value": 5.53
       }
     ]
   },
@@ -68339,6 +68355,10 @@
     {
       "date": "2026-04-09",
       "value": 48.18
+    },
+    {
+      "date": "2026-04-10",
+      "value": 46.15
     }
   ],
   "activePartiesByDate": {
@@ -88385,9 +88405,13 @@
     "2026-04-09": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-04-10": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-04-09",
+  "latestUpdate": "2026-04-10",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
