@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 45.96,
+  "latestSupport": 46.44,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3726,6 +3726,10 @@
         "value": 12.8
       },
       {
+        "date": "2026-04-12",
+        "value": 14.2
+      },
+      {
         "date": "2026-04-13",
         "value": 15.0
       }
@@ -4086,6 +4090,10 @@
       {
         "date": "2026-04-09",
         "value": 6.6
+      },
+      {
+        "date": "2026-04-12",
+        "value": 8.4
       },
       {
         "date": "2026-04-13",
@@ -5948,6 +5956,10 @@
       {
         "date": "2026-04-09",
         "value": 22.0
+      },
+      {
+        "date": "2026-04-12",
+        "value": 23.7
       },
       {
         "date": "2026-04-13",
@@ -19421,19 +19433,19 @@
       },
       {
         "date": "2026-04-10",
-        "value": 12.52
+        "value": 12.49
       },
       {
         "date": "2026-04-11",
-        "value": 12.6
+        "value": 12.55
       },
       {
         "date": "2026-04-12",
-        "value": 12.68
+        "value": 12.6
       },
       {
         "date": "2026-04-13",
-        "value": 12.76
+        "value": 13.08
       }
     ],
     "Confederation of the Polish Crown": [
@@ -20647,19 +20659,19 @@
       },
       {
         "date": "2026-04-10",
-        "value": 7.87
+        "value": 7.89
       },
       {
         "date": "2026-04-11",
-        "value": 7.9
+        "value": 7.95
       },
       {
         "date": "2026-04-12",
-        "value": 7.93
+        "value": 8.01
       },
       {
         "date": "2026-04-13",
-        "value": 7.97
+        "value": 8.05
       }
     ],
     "Law and Justice": [
@@ -35757,19 +35769,19 @@
       },
       {
         "date": "2026-04-10",
-        "value": 25.34
+        "value": 25.32
       },
       {
         "date": "2026-04-11",
-        "value": 25.3
+        "value": 25.26
       },
       {
         "date": "2026-04-12",
-        "value": 25.27
+        "value": 25.21
       },
       {
         "date": "2026-04-13",
-        "value": 25.23
+        "value": 25.31
       }
     ],
     "New Hope": [
@@ -63218,19 +63230,19 @@
     },
     {
       "date": "2026-04-10",
-      "value": 45.73
+      "value": 45.7
     },
     {
       "date": "2026-04-11",
-      "value": 45.8
+      "value": 45.76
     },
     {
       "date": "2026-04-12",
-      "value": 45.88
+      "value": 45.82
     },
     {
       "date": "2026-04-13",
-      "value": 45.96
+      "value": 46.44
     }
   ],
   "activePartiesByDate": {

@@ -8,7 +8,7 @@
   "activeParties": [
     "Freedom Party of Austria"
   ],
-  "latestSupport": 36.4,
+  "latestSupport": 36.2,
   "datapointsByParty": {
     "Freedom Party of Austria": [
       {
@@ -3062,6 +3062,14 @@
       {
         "date": "2026-03-26",
         "value": 35.0
+      },
+      {
+        "date": "2026-03-31",
+        "value": 36.0
+      },
+      {
+        "date": "2026-04-07",
+        "value": 37.0
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -21288,6 +21296,54 @@
       {
         "date": "2026-03-26",
         "value": 36.4
+      },
+      {
+        "date": "2026-03-27",
+        "value": 36.4
+      },
+      {
+        "date": "2026-03-28",
+        "value": 36.4
+      },
+      {
+        "date": "2026-03-29",
+        "value": 36.4
+      },
+      {
+        "date": "2026-03-30",
+        "value": 36.4
+      },
+      {
+        "date": "2026-03-31",
+        "value": 36.4
+      },
+      {
+        "date": "2026-04-01",
+        "value": 36.37
+      },
+      {
+        "date": "2026-04-02",
+        "value": 36.34
+      },
+      {
+        "date": "2026-04-03",
+        "value": 36.31
+      },
+      {
+        "date": "2026-04-04",
+        "value": 36.29
+      },
+      {
+        "date": "2026-04-05",
+        "value": 36.26
+      },
+      {
+        "date": "2026-04-06",
+        "value": 36.23
+      },
+      {
+        "date": "2026-04-07",
+        "value": 36.2
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -40489,6 +40545,54 @@
     {
       "date": "2026-03-26",
       "value": 36.4
+    },
+    {
+      "date": "2026-03-27",
+      "value": 36.4
+    },
+    {
+      "date": "2026-03-28",
+      "value": 36.4
+    },
+    {
+      "date": "2026-03-29",
+      "value": 36.4
+    },
+    {
+      "date": "2026-03-30",
+      "value": 36.4
+    },
+    {
+      "date": "2026-03-31",
+      "value": 36.4
+    },
+    {
+      "date": "2026-04-01",
+      "value": 36.37
+    },
+    {
+      "date": "2026-04-02",
+      "value": 36.34
+    },
+    {
+      "date": "2026-04-03",
+      "value": 36.31
+    },
+    {
+      "date": "2026-04-04",
+      "value": 36.29
+    },
+    {
+      "date": "2026-04-05",
+      "value": 36.26
+    },
+    {
+      "date": "2026-04-06",
+      "value": 36.23
+    },
+    {
+      "date": "2026-04-07",
+      "value": 36.2
     }
   ],
   "activePartiesByDate": {
@@ -54443,9 +54547,45 @@
     ],
     "2026-03-26": [
       "Freedom Party of Austria"
+    ],
+    "2026-03-27": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-28": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-29": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-30": [
+      "Freedom Party of Austria"
+    ],
+    "2026-03-31": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-01": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-02": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-03": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-04": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-05": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-06": [
+      "Freedom Party of Austria"
+    ],
+    "2026-04-07": [
+      "Freedom Party of Austria"
     ]
   },
-  "latestUpdate": "2026-03-26",
+  "latestUpdate": "2026-04-07",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",
