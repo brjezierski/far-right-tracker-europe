@@ -8,7 +8,7 @@
   "activeParties": [
     "Reform UK"
   ],
-  "latestSupport": 26.1,
+  "latestSupport": 25.1,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4728,12 +4728,20 @@
         "value": 28.0
       },
       {
+        "date": "2026-04-12",
+        "value": 26.0
+      },
+      {
         "date": "2026-04-13",
         "value": 24.5
       },
       {
         "date": "2026-04-15",
         "value": 26.0
+      },
+      {
+        "date": "2026-04-16",
+        "value": 21.0
       }
     ],
     "UK Independence Party": [
@@ -22535,15 +22543,15 @@
       },
       {
         "date": "2026-04-10",
-        "value": 26.48
+        "value": 26.53
       },
       {
         "date": "2026-04-11",
-        "value": 26.35
+        "value": 26.47
       },
       {
         "date": "2026-04-12",
-        "value": 26.23
+        "value": 26.4
       },
       {
         "date": "2026-04-13",
@@ -22551,11 +22559,15 @@
       },
       {
         "date": "2026-04-14",
-        "value": 26.1
+        "value": 26.0
       },
       {
         "date": "2026-04-15",
-        "value": 26.1
+        "value": 25.9
+      },
+      {
+        "date": "2026-04-16",
+        "value": 25.1
       }
     ],
     "UK Independence Party": [
@@ -59800,15 +59812,15 @@
     },
     {
       "date": "2026-04-10",
-      "value": 26.48
+      "value": 26.53
     },
     {
       "date": "2026-04-11",
-      "value": 26.35
+      "value": 26.47
     },
     {
       "date": "2026-04-12",
-      "value": 26.23
+      "value": 26.4
     },
     {
       "date": "2026-04-13",
@@ -59816,11 +59828,15 @@
     },
     {
       "date": "2026-04-14",
-      "value": 26.1
+      "value": 26.0
     },
     {
       "date": "2026-04-15",
-      "value": 26.1
+      "value": 25.9
+    },
+    {
+      "date": "2026-04-16",
+      "value": 25.1
     }
   ],
   "activePartiesByDate": {
@@ -77566,9 +77582,12 @@
     ],
     "2026-04-15": [
       "Reform UK"
+    ],
+    "2026-04-16": [
+      "Reform UK"
     ]
   },
-  "latestUpdate": "2026-04-15",
+  "latestUpdate": "2026-04-16",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
