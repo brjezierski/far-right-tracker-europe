@@ -12,7 +12,7 @@
     "JA21",
     "Party for Freedom"
   ],
-  "latestSupport": 41.98,
+  "latestSupport": 40.69,
   "datapointsByParty": {
     "Belang van Nederland": [
       {
@@ -2832,6 +2832,10 @@
       {
         "date": "2026-03-30",
         "value": 10.05
+      },
+      {
+        "date": "2026-04-13",
+        "value": 10.75
       }
     ],
     "JA21": [
@@ -4010,6 +4014,10 @@
       {
         "date": "2026-03-30",
         "value": 12.4
+      },
+      {
+        "date": "2026-04-13",
+        "value": 10.75
       }
     ],
     "Party for Freedom": [
@@ -7800,6 +7808,10 @@
       {
         "date": "2026-03-30",
         "value": 14.75
+      },
+      {
+        "date": "2026-04-13",
+        "value": 15.05
       }
     ]
   },
@@ -24414,6 +24426,62 @@
       {
         "date": "2026-03-30",
         "value": 12.69
+      },
+      {
+        "date": "2026-03-31",
+        "value": 12.63
+      },
+      {
+        "date": "2026-04-01",
+        "value": 12.57
+      },
+      {
+        "date": "2026-04-02",
+        "value": 12.51
+      },
+      {
+        "date": "2026-04-03",
+        "value": 12.45
+      },
+      {
+        "date": "2026-04-04",
+        "value": 12.39
+      },
+      {
+        "date": "2026-04-05",
+        "value": 12.33
+      },
+      {
+        "date": "2026-04-06",
+        "value": 12.27
+      },
+      {
+        "date": "2026-04-07",
+        "value": 12.2
+      },
+      {
+        "date": "2026-04-08",
+        "value": 12.14
+      },
+      {
+        "date": "2026-04-09",
+        "value": 12.08
+      },
+      {
+        "date": "2026-04-10",
+        "value": 12.02
+      },
+      {
+        "date": "2026-04-11",
+        "value": 11.96
+      },
+      {
+        "date": "2026-04-12",
+        "value": 11.9
+      },
+      {
+        "date": "2026-04-13",
+        "value": 11.84
       }
     ],
     "JA21": [
@@ -32036,6 +32104,62 @@
       {
         "date": "2026-03-30",
         "value": 13.43
+      },
+      {
+        "date": "2026-03-31",
+        "value": 13.4
+      },
+      {
+        "date": "2026-04-01",
+        "value": 13.37
+      },
+      {
+        "date": "2026-04-02",
+        "value": 13.33
+      },
+      {
+        "date": "2026-04-03",
+        "value": 13.3
+      },
+      {
+        "date": "2026-04-04",
+        "value": 13.27
+      },
+      {
+        "date": "2026-04-05",
+        "value": 13.24
+      },
+      {
+        "date": "2026-04-06",
+        "value": 13.21
+      },
+      {
+        "date": "2026-04-07",
+        "value": 13.17
+      },
+      {
+        "date": "2026-04-08",
+        "value": 13.14
+      },
+      {
+        "date": "2026-04-09",
+        "value": 13.11
+      },
+      {
+        "date": "2026-04-10",
+        "value": 13.08
+      },
+      {
+        "date": "2026-04-11",
+        "value": 13.04
+      },
+      {
+        "date": "2026-04-12",
+        "value": 13.01
+      },
+      {
+        "date": "2026-04-13",
+        "value": 12.98
       }
     ],
     "Party for Freedom": [
@@ -51686,6 +51810,62 @@
       {
         "date": "2026-03-30",
         "value": 15.86
+      },
+      {
+        "date": "2026-03-31",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-01",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-02",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-03",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-04",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-05",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-06",
+        "value": 15.86
+      },
+      {
+        "date": "2026-04-07",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-08",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-09",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-10",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-11",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-12",
+        "value": 15.87
+      },
+      {
+        "date": "2026-04-13",
+        "value": 15.87
       }
     ]
   },
@@ -71481,6 +71661,62 @@
     {
       "date": "2026-03-30",
       "value": 41.98
+    },
+    {
+      "date": "2026-03-31",
+      "value": 41.89
+    },
+    {
+      "date": "2026-04-01",
+      "value": 41.8
+    },
+    {
+      "date": "2026-04-02",
+      "value": 41.7
+    },
+    {
+      "date": "2026-04-03",
+      "value": 41.61
+    },
+    {
+      "date": "2026-04-04",
+      "value": 41.52
+    },
+    {
+      "date": "2026-04-05",
+      "value": 41.43
+    },
+    {
+      "date": "2026-04-06",
+      "value": 41.34
+    },
+    {
+      "date": "2026-04-07",
+      "value": 41.24
+    },
+    {
+      "date": "2026-04-08",
+      "value": 41.15
+    },
+    {
+      "date": "2026-04-09",
+      "value": 41.06
+    },
+    {
+      "date": "2026-04-10",
+      "value": 40.97
+    },
+    {
+      "date": "2026-04-11",
+      "value": 40.87
+    },
+    {
+      "date": "2026-04-12",
+      "value": 40.78
+    },
+    {
+      "date": "2026-04-13",
+      "value": 40.69
     }
   ],
   "activePartiesByDate": {
@@ -92496,9 +92732,79 @@
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
+    ],
+    "2026-03-31": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-01": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-02": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-03": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-04": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-05": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-06": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-07": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-08": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-09": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-10": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-11": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-12": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-04-13": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
     ]
   },
-  "latestUpdate": "2026-03-30",
+  "latestUpdate": "2026-04-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",

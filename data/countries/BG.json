@@ -16,7 +16,7 @@
     "Revival",
     "Velichie"
   ],
-  "latestSupport": 11.95,
+  "latestSupport": 12.39,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -538,8 +538,20 @@
         "value": 3.1
       },
       {
+        "date": "2026-04-13",
+        "value": 3.5
+      },
+      {
         "date": "2026-04-14",
         "value": 2.95
+      },
+      {
+        "date": "2026-04-15",
+        "value": 2.8
+      },
+      {
+        "date": "2026-04-16",
+        "value": 3.7
       }
     ],
     "Revival": [
@@ -1212,8 +1224,20 @@
         "value": 7.8
       },
       {
+        "date": "2026-04-13",
+        "value": 7.4
+      },
+      {
         "date": "2026-04-14",
         "value": 6.3
+      },
+      {
+        "date": "2026-04-15",
+        "value": 5.8
+      },
+      {
+        "date": "2026-04-16",
+        "value": 7.1
       }
     ],
     "United Patriots": [
@@ -1802,8 +1826,20 @@
         "value": 2.0
       },
       {
+        "date": "2026-04-13",
+        "value": 2.2
+      },
+      {
         "date": "2026-04-14",
         "value": 2.7
+      },
+      {
+        "date": "2026-04-15",
+        "value": 2.9
+      },
+      {
+        "date": "2026-04-16",
+        "value": 1.7
       }
     ]
   },
@@ -6921,35 +6957,43 @@
       },
       {
         "date": "2026-04-07",
-        "value": 3.07
+        "value": 3.09
       },
       {
         "date": "2026-04-08",
-        "value": 3.06
+        "value": 3.09
       },
       {
         "date": "2026-04-09",
-        "value": 3.05
+        "value": 3.1
       },
       {
         "date": "2026-04-10",
-        "value": 3.04
+        "value": 3.1
       },
       {
         "date": "2026-04-11",
-        "value": 3.04
+        "value": 3.11
       },
       {
         "date": "2026-04-12",
-        "value": 3.03
+        "value": 3.11
       },
       {
         "date": "2026-04-13",
-        "value": 3.02
+        "value": 3.12
       },
       {
         "date": "2026-04-14",
-        "value": 3.01
+        "value": 3.07
+      },
+      {
+        "date": "2026-04-15",
+        "value": 3.03
+      },
+      {
+        "date": "2026-04-16",
+        "value": 3.21
       }
     ],
     "Revival": [
@@ -14019,35 +14063,43 @@
       },
       {
         "date": "2026-04-07",
-        "value": 6.69
+        "value": 6.72
       },
       {
         "date": "2026-04-08",
-        "value": 6.67
+        "value": 6.73
       },
       {
         "date": "2026-04-09",
-        "value": 6.66
+        "value": 6.75
       },
       {
         "date": "2026-04-10",
-        "value": 6.65
+        "value": 6.77
       },
       {
         "date": "2026-04-11",
-        "value": 6.64
+        "value": 6.79
       },
       {
         "date": "2026-04-12",
-        "value": 6.62
+        "value": 6.8
       },
       {
         "date": "2026-04-13",
-        "value": 6.61
+        "value": 6.82
       },
       {
         "date": "2026-04-14",
-        "value": 6.6
+        "value": 6.98
+      },
+      {
+        "date": "2026-04-15",
+        "value": 6.76
+      },
+      {
+        "date": "2026-04-16",
+        "value": 6.88
       }
     ],
     "United Patriots": [
@@ -26349,35 +26401,43 @@
       },
       {
         "date": "2026-04-07",
-        "value": 2.25
+        "value": 2.24
       },
       {
         "date": "2026-04-08",
-        "value": 2.27
+        "value": 2.24
       },
       {
         "date": "2026-04-09",
-        "value": 2.28
+        "value": 2.24
       },
       {
         "date": "2026-04-10",
-        "value": 2.29
+        "value": 2.24
       },
       {
         "date": "2026-04-11",
-        "value": 2.3
+        "value": 2.24
       },
       {
         "date": "2026-04-12",
-        "value": 2.31
+        "value": 2.24
       },
       {
         "date": "2026-04-13",
-        "value": 2.33
+        "value": 2.24
       },
       {
         "date": "2026-04-14",
+        "value": 2.3
+      },
+      {
+        "date": "2026-04-15",
         "value": 2.34
+      },
+      {
+        "date": "2026-04-16",
+        "value": 2.3
       }
     ]
   },
@@ -39852,35 +39912,43 @@
     },
     {
       "date": "2026-04-07",
-      "value": 12.01
+      "value": 12.05
     },
     {
       "date": "2026-04-08",
-      "value": 12.0
+      "value": 12.06
     },
     {
       "date": "2026-04-09",
-      "value": 11.99
+      "value": 12.09
     },
     {
       "date": "2026-04-10",
-      "value": 11.98
+      "value": 12.11
     },
     {
       "date": "2026-04-11",
-      "value": 11.98
+      "value": 12.14
     },
     {
       "date": "2026-04-12",
-      "value": 11.96
+      "value": 12.15
     },
     {
       "date": "2026-04-13",
-      "value": 11.96
+      "value": 12.18
     },
     {
       "date": "2026-04-14",
-      "value": 11.95
+      "value": 12.35
+    },
+    {
+      "date": "2026-04-15",
+      "value": 12.13
+    },
+    {
+      "date": "2026-04-16",
+      "value": 12.39
     }
   ],
   "activePartiesByDate": {
@@ -52916,9 +52984,19 @@
       "Morality, Unity, Honour",
       "Revival",
       "Velichie"
+    ],
+    "2026-04-15": [
+      "Morality, Unity, Honour",
+      "Revival",
+      "Velichie"
+    ],
+    "2026-04-16": [
+      "Morality, Unity, Honour",
+      "Revival",
+      "Velichie"
     ]
   },
-  "latestUpdate": "2026-04-14",
+  "latestUpdate": "2026-04-16",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",
