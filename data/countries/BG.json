@@ -16,7 +16,7 @@
     "Revival",
     "Velichie"
   ],
-  "latestSupport": 12.39,
+  "latestSupport": 12.299999999999999,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -551,7 +551,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 3.7
+        "value": 3.25
       }
     ],
     "Revival": [
@@ -1237,7 +1237,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 7.1
+        "value": 6.95
       }
     ],
     "United Patriots": [
@@ -1839,7 +1839,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 1.7
+        "value": 1.85
       }
     ]
   },
@@ -6993,7 +6993,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 3.21
+        "value": 3.12
       }
     ],
     "Revival": [
@@ -14099,7 +14099,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 6.88
+        "value": 6.85
       }
     ],
     "United Patriots": [
@@ -26437,7 +26437,7 @@
       },
       {
         "date": "2026-04-16",
-        "value": 2.3
+        "value": 2.33
       }
     ]
   },
@@ -39948,7 +39948,7 @@
     },
     {
       "date": "2026-04-16",
-      "value": 12.39
+      "value": 12.3
     }
   ],
   "activePartiesByDate": {

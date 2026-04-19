@@ -13,7 +13,7 @@
     "Party of Young People",
     "S.O.S. Romania"
   ],
-  "latestSupport": 41.14,
+  "latestSupport": 41.3,
   "datapointsByParty": {
     "AUR Alliance": [
       {
@@ -587,6 +587,10 @@
       {
         "date": "2026-04-07",
         "value": 37.0
+      },
+      {
+        "date": "2026-04-10",
+        "value": 35.8
       }
     ],
     "Party of Young People": [
@@ -705,6 +709,10 @@
       {
         "date": "2026-04-07",
         "value": 3.6
+      },
+      {
+        "date": "2026-04-10",
+        "value": 3.3
       }
     ],
     "S.O.S. Romania": [
@@ -931,6 +939,10 @@
       {
         "date": "2026-04-07",
         "value": 2.8
+      },
+      {
+        "date": "2026-04-10",
+        "value": 6.0
       }
     ]
   },
@@ -10427,6 +10439,18 @@
       {
         "date": "2026-04-07",
         "value": 35.8
+      },
+      {
+        "date": "2026-04-08",
+        "value": 35.65
+      },
+      {
+        "date": "2026-04-09",
+        "value": 35.51
+      },
+      {
+        "date": "2026-04-10",
+        "value": 35.36
       }
     ],
     "Party of Young People": [
@@ -12093,6 +12117,18 @@
       {
         "date": "2026-04-07",
         "value": 2.52
+      },
+      {
+        "date": "2026-04-08",
+        "value": 2.54
+      },
+      {
+        "date": "2026-04-09",
+        "value": 2.56
+      },
+      {
+        "date": "2026-04-10",
+        "value": 2.58
       }
     ],
     "S.O.S. Romania": [
@@ -15811,6 +15847,18 @@
       {
         "date": "2026-04-07",
         "value": 2.82
+      },
+      {
+        "date": "2026-04-08",
+        "value": 3.0
+      },
+      {
+        "date": "2026-04-09",
+        "value": 3.18
+      },
+      {
+        "date": "2026-04-10",
+        "value": 3.36
       }
     ]
   },
@@ -23638,6 +23686,18 @@
     {
       "date": "2026-04-07",
       "value": 41.14
+    },
+    {
+      "date": "2026-04-08",
+      "value": 41.19
+    },
+    {
+      "date": "2026-04-09",
+      "value": 41.25
+    },
+    {
+      "date": "2026-04-10",
+      "value": 41.3
     }
   ],
   "activePartiesByDate": {
@@ -31545,9 +31605,24 @@
       "Alliance for the Union of Romanians",
       "Party of Young People",
       "S.O.S. Romania"
+    ],
+    "2026-04-08": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-04-09": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-04-10": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
     ]
   },
-  "latestUpdate": "2026-04-07",
+  "latestUpdate": "2026-04-10",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",
