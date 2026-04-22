@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 43.32,
+  "latestSupport": 43.28,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3731,7 +3731,7 @@
       },
       {
         "date": "2026-04-13",
-        "value": 15.0
+        "value": 14.15
       },
       {
         "date": "2026-04-15",
@@ -4105,7 +4105,7 @@
       },
       {
         "date": "2026-04-13",
-        "value": 8.2
+        "value": 8.45
       },
       {
         "date": "2026-04-15",
@@ -5979,7 +5979,7 @@
       },
       {
         "date": "2026-04-13",
-        "value": 23.8
+        "value": 24.2
       },
       {
         "date": "2026-04-15",
@@ -19469,31 +19469,31 @@
       },
       {
         "date": "2026-04-13",
-        "value": 13.08
+        "value": 12.91
       },
       {
         "date": "2026-04-14",
-        "value": 13.18
+        "value": 13.01
       },
       {
         "date": "2026-04-15",
-        "value": 13.28
+        "value": 13.11
       },
       {
         "date": "2026-04-16",
-        "value": 13.37
+        "value": 13.2
       },
       {
         "date": "2026-04-17",
-        "value": 13.46
+        "value": 13.29
       },
       {
         "date": "2026-04-18",
-        "value": 13.55
+        "value": 13.38
       },
       {
         "date": "2026-04-19",
-        "value": 13.64
+        "value": 13.47
       }
     ],
     "Confederation of the Polish Crown": [
@@ -20719,31 +20719,31 @@
       },
       {
         "date": "2026-04-13",
-        "value": 8.05
+        "value": 8.1
       },
       {
         "date": "2026-04-14",
-        "value": 8.21
+        "value": 8.27
       },
       {
         "date": "2026-04-15",
-        "value": 8.38
+        "value": 8.43
       },
       {
         "date": "2026-04-16",
-        "value": 8.3
+        "value": 8.36
       },
       {
         "date": "2026-04-17",
-        "value": 8.23
+        "value": 8.28
       },
       {
         "date": "2026-04-18",
-        "value": 8.16
+        "value": 8.21
       },
       {
         "date": "2026-04-19",
-        "value": 8.08
+        "value": 8.13
       }
     ],
     "Law and Justice": [
@@ -35853,31 +35853,31 @@
       },
       {
         "date": "2026-04-13",
-        "value": 25.31
+        "value": 25.39
       },
       {
         "date": "2026-04-14",
-        "value": 24.4
+        "value": 24.48
       },
       {
         "date": "2026-04-15",
-        "value": 23.49
+        "value": 23.57
       },
       {
         "date": "2026-04-16",
-        "value": 23.02
+        "value": 23.1
       },
       {
         "date": "2026-04-17",
-        "value": 22.55
+        "value": 22.62
       },
       {
         "date": "2026-04-18",
-        "value": 22.07
+        "value": 22.15
       },
       {
         "date": "2026-04-19",
-        "value": 21.6
+        "value": 21.68
       }
     ],
     "New Hope": [
@@ -63338,31 +63338,31 @@
     },
     {
       "date": "2026-04-13",
-      "value": 46.44
+      "value": 46.4
     },
     {
       "date": "2026-04-14",
-      "value": 45.79
+      "value": 45.76
     },
     {
       "date": "2026-04-15",
-      "value": 45.15
+      "value": 45.11
     },
     {
       "date": "2026-04-16",
-      "value": 44.69
+      "value": 44.66
     },
     {
       "date": "2026-04-17",
-      "value": 44.24
+      "value": 44.19
     },
     {
       "date": "2026-04-18",
-      "value": 43.78
+      "value": 43.74
     },
     {
       "date": "2026-04-19",
-      "value": 43.32
+      "value": 43.28
     }
   ],
   "activePartiesByDate": {
