@@ -1160,6 +1160,10 @@
       {
         "date": "2026-04-07",
         "value": 13.5
+      },
+      {
+        "date": "2026-04-20",
+        "value": 13.3
       }
     ]
   },
@@ -19762,6 +19766,58 @@
       {
         "date": "2026-04-07",
         "value": 13.62
+      },
+      {
+        "date": "2026-04-08",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-09",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-10",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-11",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-12",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-13",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-14",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-15",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-16",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-17",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-18",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-19",
+        "value": 13.62
+      },
+      {
+        "date": "2026-04-20",
+        "value": 13.62
       }
     ]
   },
@@ -36173,6 +36229,58 @@
     {
       "date": "2026-04-07",
       "value": 13.62
+    },
+    {
+      "date": "2026-04-08",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-09",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-10",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-11",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-12",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-13",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-14",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-15",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-16",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-17",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-18",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-19",
+      "value": 13.62
+    },
+    {
+      "date": "2026-04-20",
+      "value": 13.62
     }
   ],
   "activePartiesByDate": {
@@ -49445,9 +49553,48 @@
     ],
     "2026-04-07": [
       "Finns Party"
+    ],
+    "2026-04-08": [
+      "Finns Party"
+    ],
+    "2026-04-09": [
+      "Finns Party"
+    ],
+    "2026-04-10": [
+      "Finns Party"
+    ],
+    "2026-04-11": [
+      "Finns Party"
+    ],
+    "2026-04-12": [
+      "Finns Party"
+    ],
+    "2026-04-13": [
+      "Finns Party"
+    ],
+    "2026-04-14": [
+      "Finns Party"
+    ],
+    "2026-04-15": [
+      "Finns Party"
+    ],
+    "2026-04-16": [
+      "Finns Party"
+    ],
+    "2026-04-17": [
+      "Finns Party"
+    ],
+    "2026-04-18": [
+      "Finns Party"
+    ],
+    "2026-04-19": [
+      "Finns Party"
+    ],
+    "2026-04-20": [
+      "Finns Party"
     ]
   },
-  "latestUpdate": "2026-04-07",
+  "latestUpdate": "2026-04-20",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",
