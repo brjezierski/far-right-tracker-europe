@@ -15,6 +15,11 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,#cite note-1,19.3,,,
 2026-04-16,#cite note-1,16.0,,,
 2025-10-27,#cite note-14,6.8,,,
+2026-03-06,#cite note-14,6.4,,,
+2026-04-29,#cite note-14,13.6,,,
+2025-11-20,#cite note-2,12.7,,,
+2026-02-19,#cite note-2,11.8,,,
+2026-04-29,#cite note-2,12.6,,,
 2022-03-23,AD+PD,1.1,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2022-03-24,AD+PD,1.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2022-03-26,AD+PD,1.3,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
@@ -46,7 +51,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-16,AD+PD,2.3,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2026-02-19,AD+PD,4.6,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2026-03-06,AD+PD,3.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
-2026-04-16,AD+PD,3.1,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+2026-04-16,AD+PD,3.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
+2026-04-29,AD+PD,3.7,Centre-left,Green politics Progressivism,https://en.wikipedia.org/wiki/AD%2BPD
 2017-10-05,Adrian Delia,22.1,,,
 2017-11-16,Adrian Delia,15.2,,,
 2017-12-14,Adrian Delia,7.2,,,
@@ -74,6 +80,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-04-09,Adrian Delia,17.3,,,
 2020-07-17,Adrian Delia,13.2,,,
 2020-09-04,Adrian Delia,12.0,,,
+2025-10-27,Alex Borg,38.8,,,
+2026-03-06,Alex Borg,37.7,,,
+2026-04-29,Alex Borg,32.0,,,
 2023-07-20,Arnold Cassola,33.3,,,
 2023-09-08,Arnold Cassola,29.1,,,
 2023-10-04,Arnold Cassola,1.7,,,
@@ -483,7 +492,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-16,Labour Party,48.9,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2026-02-19,Labour Party,52.8,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2026-03-06,Labour Party,48.2,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
-2026-04-16,Labour Party,43.1,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2026-04-16,Labour Party,51.3,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
+2026-04-29,Labour Party,53.2,Centre to centre-left,Social democracy Populism,https://en.wikipedia.org/wiki/Labour_Party_(Malta)
 2022-05-25,Momentum,0.6,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2022-07-14,Momentum,0.9,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
 2022-09-30,Momentum,0.9,Centre to centre-left,Centrism Environmentalism Anti-corruption,https://en.wikipedia.org/wiki/Momentum_(political_party)
@@ -685,7 +695,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-16,Nationalist Party,45.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2026-02-19,Nationalist Party,42.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2026-03-06,Nationalist Party,45.6,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
-2026-04-16,Nationalist Party,37.8,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2026-04-16,Nationalist Party,45.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
+2026-04-29,Nationalist Party,43.1,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Nationalist_Party_(Malta)
 2020-01-28,Robert Abela,62.5,,,
 2020-03-10,Robert Abela,55.9,,,
 2020-04-09,Robert Abela,62.4,,,
@@ -714,6 +725,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-03-21,Robert Abela,41.1,,,
 2025-02-13,Robert Abela,46.8,,,
 2025-10-27,Robert Abela,45.6,,,
+2026-03-06,Robert Abela,44.1,,,
+2026-04-29,Robert Abela,45.6,,,
 2023-09-08,Sandra Gauci,7.8,,,
 2023-10-04,Sandra Gauci,40.9,,,
 2023-11-09,Sandra Gauci,38.4,,,
