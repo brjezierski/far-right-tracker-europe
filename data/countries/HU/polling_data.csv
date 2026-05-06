@@ -29,7 +29,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-04-04,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
 2024-04-08,/w/index.php?title=On the People's Side&action=edit&redlink=1,4.0,,,
 2024-04-11,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
-2024-04-12,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
+2024-04-12,/w/index.php?title=On the People's Side&action=edit&redlink=1,20.0,,,
 2024-04-26,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
 2024-04-29,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
 2024-05-02,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
@@ -40,10 +40,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-07,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
 2024-11-08,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
 2024-12-06,/w/index.php?title=On the People's Side&action=edit&redlink=1,2.0,,,
-2025-01-10,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
-2025-05-23,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
-2025-09-06,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
-2025-12-04,/w/index.php?title=On the People's Side&action=edit&redlink=1,1.0,,,
 2014-04-29,Democratic Coalition,2.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2014-05-08,Democratic Coalition,4.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2014-05-13,Democratic Coalition,4.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
@@ -444,6 +440,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-10,Democratic Coalition,17.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2022-03-05,Democratic Coalition,14.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2022-03-11,Democratic Coalition,17.0,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
+2022-04-03,Democratic Coalition,34.4,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2022-04-03,Democratic Coalition,34.4,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2022-04-03,Democratic Coalition,34.4,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
 2022-04-03,Democratic Coalition,34.4,Centre-left,Social democracy Social liberalism Third Way Progressivism,https://en.wikipedia.org/wiki/Democratic_Coalition_(Hungary)
@@ -1011,7 +1008,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-10-07,Everybody's Hungary People's Party,1.0,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party
 2024-11-30,Everybody's Hungary People's Party,1.0,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party
 2024-12-06,Everybody's Hungary People's Party,1.0,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party
-2025-03-25,Everybody's Hungary People's Party,2.0,Centre-right,Conservatism Liberal conservatism Christian democracy Economic liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Everybody%27s_Hungary_People%27s_Party
 2014-04-06,Fidesz-KDNP,44.9,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2014-04-29,Fidesz-KDNP,56.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2014-05-08,Fidesz-KDNP,46.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
@@ -1417,6 +1413,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-03,Fidesz-KDNP,54.1,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2022-04-03,Fidesz-KDNP,54.1,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2022-04-03,Fidesz-KDNP,54.1,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
+2022-04-03,Fidesz-KDNP,54.1,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2022-04-24,Fidesz-KDNP,55.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2022-04-30,Fidesz-KDNP,60.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2022-05-04,Fidesz-KDNP,60.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
@@ -1498,7 +1495,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-04-04,Fidesz-KDNP,47.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2024-04-08,Fidesz-KDNP,38.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2024-04-11,Fidesz-KDNP,34.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
-2024-04-12,Fidesz-KDNP,9.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2024-04-19,Fidesz-KDNP,50.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2024-04-26,Fidesz-KDNP,35.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
 2024-04-29,Fidesz-KDNP,45.0,Right-wing to far-right,National conservatism Right-wing populism Christian right,https://en.wikipedia.org/wiki/Fidesz%E2%80%93KDNP
@@ -2476,6 +2472,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-10,Hungarian Two-Tailed Dog Party,2.0,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
 2022-03-05,Hungarian Two-Tailed Dog Party,3.0,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
 2022-03-11,Hungarian Two-Tailed Dog Party,3.0,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
+2022-04-03,Hungarian Two-Tailed Dog Party,3.3,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
 2022-04-03,Hungarian Two-Tailed Dog Party,3.3,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
 2022-04-03,Hungarian Two-Tailed Dog Party,3.3,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
 2022-04-03,Hungarian Two-Tailed Dog Party,3.3,,Political satire Anti-establishment,https://en.wikipedia.org/wiki/Hungarian_Two_Tailed_Dog_Party
@@ -4316,6 +4313,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2022-04-03,Our Homeland Movement,5.9,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
 2022-04-03,Our Homeland Movement,5.9,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
 2022-04-03,Our Homeland Movement,5.9,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
+2022-04-03,Our Homeland Movement,5.9,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
 2022-04-24,Our Homeland Movement,4.0,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
 2022-04-30,Our Homeland Movement,7.0,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
 2022-05-04,Our Homeland Movement,8.0,Far-right,Ultranationalism Hungarian irredentism Right-wing populism National conservatism Traditionalist conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Our_Homeland_Movement
@@ -4578,7 +4576,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-03-09,Second Reform Era Party,3.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-04,Second Reform Era Party,2.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-11,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-2024-04-12,Second Reform Era Party,33.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
+2024-04-12,Second Reform Era Party,2.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-19,Second Reform Era Party,2.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-26,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-29,Second Reform Era Party,2.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
@@ -4607,11 +4605,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-26,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-11-30,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-12-06,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-2025-01-10,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-2025-05-23,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-2025-08-07,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
-2025-10-07,Second Reform Era Party,1.0,Centre,Centrism,https://en.wikipedia.org/wiki/Second_Reform_Era_Party
 2024-04-04,Tisza Party,13.0,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
+2024-04-12,Tisza Party,33.0,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
 2024-04-19,Tisza Party,26.0,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
 2024-04-26,Tisza Party,18.0,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
 2024-04-29,Tisza Party,25.0,Centre to centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Tisza_Party
