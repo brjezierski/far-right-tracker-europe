@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 44.72,
+  "latestSupport": 44.89,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3763,7 +3763,7 @@
       },
       {
         "date": "2026-05-06",
-        "value": 15.3
+        "value": 12.91
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4161,7 +4161,7 @@
       },
       {
         "date": "2026-05-06",
-        "value": 8.1
+        "value": 7.15
       }
     ],
     "Law and Justice": [
@@ -6059,7 +6059,7 @@
       },
       {
         "date": "2026-05-06",
-        "value": 19.6
+        "value": 23.76
       }
     ],
     "New Hope": [
@@ -19613,27 +19613,27 @@
       },
       {
         "date": "2026-05-01",
-        "value": 12.48
+        "value": 12.4
       },
       {
         "date": "2026-05-02",
-        "value": 12.59
+        "value": 12.43
       },
       {
         "date": "2026-05-03",
-        "value": 12.7
+        "value": 12.46
       },
       {
         "date": "2026-05-04",
-        "value": 12.81
+        "value": 12.5
       },
       {
         "date": "2026-05-05",
-        "value": 12.92
+        "value": 12.53
       },
       {
         "date": "2026-05-06",
-        "value": 13.03
+        "value": 12.56
       }
     ],
     "Confederation of the Polish Crown": [
@@ -20931,27 +20931,27 @@
       },
       {
         "date": "2026-05-01",
-        "value": 7.64
-      },
-      {
-        "date": "2026-05-02",
         "value": 7.61
       },
       {
-        "date": "2026-05-03",
-        "value": 7.58
-      },
-      {
-        "date": "2026-05-04",
+        "date": "2026-05-02",
         "value": 7.55
       },
       {
+        "date": "2026-05-03",
+        "value": 7.48
+      },
+      {
+        "date": "2026-05-04",
+        "value": 7.42
+      },
+      {
         "date": "2026-05-05",
-        "value": 7.52
+        "value": 7.36
       },
       {
         "date": "2026-05-06",
-        "value": 7.49
+        "value": 7.3
       }
     ],
     "Law and Justice": [
@@ -36133,27 +36133,27 @@
       },
       {
         "date": "2026-05-01",
-        "value": 25.6
+        "value": 25.74
       },
       {
         "date": "2026-05-02",
-        "value": 25.32
+        "value": 25.6
       },
       {
         "date": "2026-05-03",
-        "value": 25.04
+        "value": 25.45
       },
       {
         "date": "2026-05-04",
-        "value": 24.76
+        "value": 25.31
       },
       {
         "date": "2026-05-05",
-        "value": 24.48
+        "value": 25.17
       },
       {
         "date": "2026-05-06",
-        "value": 24.2
+        "value": 25.03
       }
     ],
     "New Hope": [
@@ -63686,27 +63686,27 @@
     },
     {
       "date": "2026-05-01",
-      "value": 45.72
+      "value": 45.75
     },
     {
       "date": "2026-05-02",
-      "value": 45.52
+      "value": 45.58
     },
     {
       "date": "2026-05-03",
-      "value": 45.32
+      "value": 45.39
     },
     {
       "date": "2026-05-04",
-      "value": 45.12
+      "value": 45.23
     },
     {
       "date": "2026-05-05",
-      "value": 44.92
+      "value": 45.06
     },
     {
       "date": "2026-05-06",
-      "value": 44.72
+      "value": 44.89
     }
   ],
   "activePartiesByDate": {

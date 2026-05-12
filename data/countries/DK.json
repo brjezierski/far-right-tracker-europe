@@ -13,7 +13,7 @@
     "Danish People's Party",
     "Denmark Democrats"
   ],
-  "latestSupport": 17.439999999999998,
+  "latestSupport": 17.14,
   "datapointsByParty": {
     "Citizens' Party": [
       {
@@ -43,6 +43,10 @@
       {
         "date": "2026-05-05",
         "value": 0.9
+      },
+      {
+        "date": "2026-05-10",
+        "value": 0.8
       }
     ],
     "Danish People's Party": [
@@ -3049,6 +3053,10 @@
       {
         "date": "2026-05-05",
         "value": 12.0
+      },
+      {
+        "date": "2026-05-10",
+        "value": 11.1
       }
     ],
     "Denmark Democrats": [
@@ -3271,6 +3279,10 @@
       {
         "date": "2026-05-05",
         "value": 5.0
+      },
+      {
+        "date": "2026-05-10",
+        "value": 4.8
       }
     ],
     "New Right": [
@@ -5903,6 +5915,26 @@
       {
         "date": "2026-05-05",
         "value": 0.94
+      },
+      {
+        "date": "2026-05-06",
+        "value": 0.92
+      },
+      {
+        "date": "2026-05-07",
+        "value": 0.9
+      },
+      {
+        "date": "2026-05-08",
+        "value": 0.88
+      },
+      {
+        "date": "2026-05-09",
+        "value": 0.86
+      },
+      {
+        "date": "2026-05-10",
+        "value": 0.84
       }
     ],
     "Danish People's Party": [
@@ -26933,6 +26965,26 @@
       {
         "date": "2026-05-05",
         "value": 11.16
+      },
+      {
+        "date": "2026-05-06",
+        "value": 11.15
+      },
+      {
+        "date": "2026-05-07",
+        "value": 11.14
+      },
+      {
+        "date": "2026-05-08",
+        "value": 11.12
+      },
+      {
+        "date": "2026-05-09",
+        "value": 11.11
+      },
+      {
+        "date": "2026-05-10",
+        "value": 11.1
       }
     ],
     "Denmark Democrats": [
@@ -33147,6 +33199,26 @@
       {
         "date": "2026-05-05",
         "value": 5.34
+      },
+      {
+        "date": "2026-05-06",
+        "value": 5.31
+      },
+      {
+        "date": "2026-05-07",
+        "value": 5.28
+      },
+      {
+        "date": "2026-05-08",
+        "value": 5.26
+      },
+      {
+        "date": "2026-05-09",
+        "value": 5.23
+      },
+      {
+        "date": "2026-05-10",
+        "value": 5.2
       }
     ],
     "New Right": [
@@ -68606,6 +68678,26 @@
     {
       "date": "2026-05-05",
       "value": 17.44
+    },
+    {
+      "date": "2026-05-06",
+      "value": 17.38
+    },
+    {
+      "date": "2026-05-07",
+      "value": 17.32
+    },
+    {
+      "date": "2026-05-08",
+      "value": 17.26
+    },
+    {
+      "date": "2026-05-09",
+      "value": 17.2
+    },
+    {
+      "date": "2026-05-10",
+      "value": 17.14
     }
   ],
   "activePartiesByDate": {
@@ -89585,9 +89677,34 @@
       "Citizens' Party",
       "Danish People's Party",
       "Denmark Democrats"
+    ],
+    "2026-05-06": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
+    ],
+    "2026-05-07": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
+    ],
+    "2026-05-08": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
+    ],
+    "2026-05-09": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
+    ],
+    "2026-05-10": [
+      "Citizens' Party",
+      "Danish People's Party",
+      "Denmark Democrats"
     ]
   },
-  "latestUpdate": "2026-05-05",
+  "latestUpdate": "2026-05-10",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
