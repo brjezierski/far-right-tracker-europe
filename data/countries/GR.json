@@ -15,7 +15,7 @@
     "Niki",
     "Voice of Reason"
   ],
-  "latestSupport": 15.24,
+  "latestSupport": 14.32,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3253,16 +3253,16 @@
         "value": 10.9
       },
       {
-        "date": "2026-05-07",
-        "value": 9.1
+        "date": "2026-05-09",
+        "value": 9.9
       },
       {
-        "date": "2026-05-08",
-        "value": 9.1
+        "date": "2026-05-11",
+        "value": 5.7
       },
       {
         "date": "2026-05-12",
-        "value": 9.3
+        "value": 8.73
       }
     ],
     "Independent Greeks": [
@@ -5463,16 +5463,16 @@
         "value": 2.3
       },
       {
-        "date": "2026-05-07",
-        "value": 1.9
+        "date": "2026-05-09",
+        "value": 2.5
       },
       {
-        "date": "2026-05-08",
-        "value": 1.9
+        "date": "2026-05-11",
+        "value": 0.9
       },
       {
         "date": "2026-05-12",
-        "value": 2.1
+        "value": 1.87
       }
     ],
     "Spartans": [
@@ -6723,16 +6723,16 @@
         "value": 4.0
       },
       {
-        "date": "2026-05-07",
-        "value": 3.7
+        "date": "2026-05-09",
+        "value": 3.2
       },
       {
-        "date": "2026-05-08",
-        "value": 3.6
+        "date": "2026-05-11",
+        "value": 3.5
       },
       {
         "date": "2026-05-12",
-        "value": 3.8
+        "value": 3.6
       }
     ]
   },
@@ -31070,27 +31070,27 @@
       },
       {
         "date": "2026-05-07",
-        "value": 9.48
+        "value": 9.59
       },
       {
         "date": "2026-05-08",
-        "value": 9.42
+        "value": 9.62
       },
       {
         "date": "2026-05-09",
-        "value": 9.44
+        "value": 9.64
       },
       {
         "date": "2026-05-10",
-        "value": 9.45
+        "value": 9.27
       },
       {
         "date": "2026-05-11",
-        "value": 9.46
+        "value": 8.9
       },
       {
         "date": "2026-05-12",
-        "value": 9.48
+        "value": 8.85
       }
     ],
     "Independent Greeks": [
@@ -45636,27 +45636,27 @@
       },
       {
         "date": "2026-05-07",
-        "value": 1.98
+        "value": 2.04
       },
       {
         "date": "2026-05-08",
-        "value": 2.02
+        "value": 2.07
       },
       {
         "date": "2026-05-09",
-        "value": 2.02
+        "value": 2.1
       },
       {
         "date": "2026-05-10",
-        "value": 2.03
+        "value": 2.02
       },
       {
         "date": "2026-05-11",
-        "value": 2.04
+        "value": 1.94
       },
       {
         "date": "2026-05-12",
-        "value": 2.04
+        "value": 1.91
       }
     ],
     "Spartans": [
@@ -52412,27 +52412,27 @@
       },
       {
         "date": "2026-05-07",
-        "value": 3.9
+        "value": 3.87
       },
       {
         "date": "2026-05-08",
-        "value": 3.76
+        "value": 3.84
       },
       {
         "date": "2026-05-09",
-        "value": 3.75
+        "value": 3.8
       },
       {
         "date": "2026-05-10",
-        "value": 3.74
+        "value": 3.72
       },
       {
         "date": "2026-05-11",
-        "value": 3.73
+        "value": 3.64
       },
       {
         "date": "2026-05-12",
-        "value": 3.72
+        "value": 3.56
       }
     ]
   },
@@ -68843,27 +68843,27 @@
     },
     {
       "date": "2026-05-07",
-      "value": 15.36
+      "value": 15.5
     },
     {
       "date": "2026-05-08",
-      "value": 15.2
+      "value": 15.53
     },
     {
       "date": "2026-05-09",
-      "value": 15.21
+      "value": 15.54
     },
     {
       "date": "2026-05-10",
-      "value": 15.22
+      "value": 15.01
     },
     {
       "date": "2026-05-11",
-      "value": 15.23
+      "value": 14.48
     },
     {
       "date": "2026-05-12",
-      "value": 15.24
+      "value": 14.32
     }
   ],
   "activePartiesByDate": {
@@ -87571,16 +87571,19 @@
     "2026-05-08": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-05-09": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-05-10": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-05-11": [

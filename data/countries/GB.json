@@ -4786,6 +4786,10 @@
       {
         "date": "2026-05-06",
         "value": 25.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 28.0
       }
     ],
     "UK Independence Party": [
@@ -22691,6 +22695,26 @@
       },
       {
         "date": "2026-05-06",
+        "value": 26.8
+      },
+      {
+        "date": "2026-05-07",
+        "value": 26.8
+      },
+      {
+        "date": "2026-05-08",
+        "value": 26.8
+      },
+      {
+        "date": "2026-05-09",
+        "value": 26.8
+      },
+      {
+        "date": "2026-05-10",
+        "value": 26.8
+      },
+      {
+        "date": "2026-05-11",
         "value": 26.8
       }
     ],
@@ -60041,6 +60065,26 @@
     {
       "date": "2026-05-06",
       "value": 26.8
+    },
+    {
+      "date": "2026-05-07",
+      "value": 26.8
+    },
+    {
+      "date": "2026-05-08",
+      "value": 26.8
+    },
+    {
+      "date": "2026-05-09",
+      "value": 26.8
+    },
+    {
+      "date": "2026-05-10",
+      "value": 26.8
+    },
+    {
+      "date": "2026-05-11",
+      "value": 26.8
     }
   ],
   "activePartiesByDate": {
@@ -77849,9 +77893,24 @@
     ],
     "2026-05-06": [
       "Reform UK"
+    ],
+    "2026-05-07": [
+      "Reform UK"
+    ],
+    "2026-05-08": [
+      "Reform UK"
+    ],
+    "2026-05-09": [
+      "Reform UK"
+    ],
+    "2026-05-10": [
+      "Reform UK"
+    ],
+    "2026-05-11": [
+      "Reform UK"
     ]
   },
-  "latestUpdate": "2026-05-06",
+  "latestUpdate": "2026-05-11",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
