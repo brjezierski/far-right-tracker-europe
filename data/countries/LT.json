@@ -12,7 +12,7 @@
     "Electoral Action of Poles in Lithuania - Christian Families Alliance",
     "National Alliance"
   ],
-  "latestSupport": 19.74,
+  "latestSupport": 19.479999999999997,
   "datapointsByParty": {
     "Dawn of Nemunas": [
       {
@@ -294,6 +294,10 @@
       {
         "date": "2026-03-28",
         "value": 9.1
+      },
+      {
+        "date": "2026-04-28",
+        "value": 10.3
       }
     ],
     "Electoral Action of Poles in Lithuania - Christian Families Alliance": [
@@ -1430,6 +1434,10 @@
       {
         "date": "2026-03-28",
         "value": 4.8
+      },
+      {
+        "date": "2026-04-28",
+        "value": 5.6
       }
     ],
     "People and Justice Union": [
@@ -9384,6 +9392,130 @@
       {
         "date": "2026-03-28",
         "value": 11.66
+      },
+      {
+        "date": "2026-03-29",
+        "value": 11.64
+      },
+      {
+        "date": "2026-03-30",
+        "value": 11.62
+      },
+      {
+        "date": "2026-03-31",
+        "value": 11.6
+      },
+      {
+        "date": "2026-04-01",
+        "value": 11.58
+      },
+      {
+        "date": "2026-04-02",
+        "value": 11.56
+      },
+      {
+        "date": "2026-04-03",
+        "value": 11.54
+      },
+      {
+        "date": "2026-04-04",
+        "value": 11.52
+      },
+      {
+        "date": "2026-04-05",
+        "value": 11.49
+      },
+      {
+        "date": "2026-04-06",
+        "value": 11.47
+      },
+      {
+        "date": "2026-04-07",
+        "value": 11.45
+      },
+      {
+        "date": "2026-04-08",
+        "value": 11.43
+      },
+      {
+        "date": "2026-04-09",
+        "value": 11.41
+      },
+      {
+        "date": "2026-04-10",
+        "value": 11.39
+      },
+      {
+        "date": "2026-04-11",
+        "value": 11.37
+      },
+      {
+        "date": "2026-04-12",
+        "value": 11.35
+      },
+      {
+        "date": "2026-04-13",
+        "value": 11.33
+      },
+      {
+        "date": "2026-04-14",
+        "value": 11.31
+      },
+      {
+        "date": "2026-04-15",
+        "value": 11.29
+      },
+      {
+        "date": "2026-04-16",
+        "value": 11.27
+      },
+      {
+        "date": "2026-04-17",
+        "value": 11.25
+      },
+      {
+        "date": "2026-04-18",
+        "value": 11.23
+      },
+      {
+        "date": "2026-04-19",
+        "value": 11.21
+      },
+      {
+        "date": "2026-04-20",
+        "value": 11.19
+      },
+      {
+        "date": "2026-04-21",
+        "value": 11.16
+      },
+      {
+        "date": "2026-04-22",
+        "value": 11.14
+      },
+      {
+        "date": "2026-04-23",
+        "value": 11.12
+      },
+      {
+        "date": "2026-04-24",
+        "value": 11.1
+      },
+      {
+        "date": "2026-04-25",
+        "value": 11.08
+      },
+      {
+        "date": "2026-04-26",
+        "value": 11.06
+      },
+      {
+        "date": "2026-04-27",
+        "value": 11.04
+      },
+      {
+        "date": "2026-04-28",
+        "value": 11.02
       }
     ],
     "Electoral Action of Poles in Lithuania - Christian Families Alliance": [
@@ -28804,6 +28936,130 @@
       {
         "date": "2026-03-28",
         "value": 4.14
+      },
+      {
+        "date": "2026-03-29",
+        "value": 4.15
+      },
+      {
+        "date": "2026-03-30",
+        "value": 4.16
+      },
+      {
+        "date": "2026-03-31",
+        "value": 4.18
+      },
+      {
+        "date": "2026-04-01",
+        "value": 4.19
+      },
+      {
+        "date": "2026-04-02",
+        "value": 4.2
+      },
+      {
+        "date": "2026-04-03",
+        "value": 4.21
+      },
+      {
+        "date": "2026-04-04",
+        "value": 4.23
+      },
+      {
+        "date": "2026-04-05",
+        "value": 4.24
+      },
+      {
+        "date": "2026-04-06",
+        "value": 4.25
+      },
+      {
+        "date": "2026-04-07",
+        "value": 4.26
+      },
+      {
+        "date": "2026-04-08",
+        "value": 4.27
+      },
+      {
+        "date": "2026-04-09",
+        "value": 4.29
+      },
+      {
+        "date": "2026-04-10",
+        "value": 4.3
+      },
+      {
+        "date": "2026-04-11",
+        "value": 4.31
+      },
+      {
+        "date": "2026-04-12",
+        "value": 4.32
+      },
+      {
+        "date": "2026-04-13",
+        "value": 4.34
+      },
+      {
+        "date": "2026-04-14",
+        "value": 4.35
+      },
+      {
+        "date": "2026-04-15",
+        "value": 4.36
+      },
+      {
+        "date": "2026-04-16",
+        "value": 4.37
+      },
+      {
+        "date": "2026-04-17",
+        "value": 4.39
+      },
+      {
+        "date": "2026-04-18",
+        "value": 4.4
+      },
+      {
+        "date": "2026-04-19",
+        "value": 4.41
+      },
+      {
+        "date": "2026-04-20",
+        "value": 4.42
+      },
+      {
+        "date": "2026-04-21",
+        "value": 4.43
+      },
+      {
+        "date": "2026-04-22",
+        "value": 4.45
+      },
+      {
+        "date": "2026-04-23",
+        "value": 4.46
+      },
+      {
+        "date": "2026-04-24",
+        "value": 4.47
+      },
+      {
+        "date": "2026-04-25",
+        "value": 4.48
+      },
+      {
+        "date": "2026-04-26",
+        "value": 4.5
+      },
+      {
+        "date": "2026-04-27",
+        "value": 4.51
+      },
+      {
+        "date": "2026-04-28",
+        "value": 4.52
       }
     ],
     "People and Justice Union": [
@@ -53629,6 +53885,130 @@
     {
       "date": "2026-03-28",
       "value": 15.8
+    },
+    {
+      "date": "2026-03-29",
+      "value": 15.79
+    },
+    {
+      "date": "2026-03-30",
+      "value": 15.78
+    },
+    {
+      "date": "2026-03-31",
+      "value": 15.78
+    },
+    {
+      "date": "2026-04-01",
+      "value": 15.77
+    },
+    {
+      "date": "2026-04-02",
+      "value": 15.76
+    },
+    {
+      "date": "2026-04-03",
+      "value": 15.75
+    },
+    {
+      "date": "2026-04-04",
+      "value": 15.75
+    },
+    {
+      "date": "2026-04-05",
+      "value": 15.73
+    },
+    {
+      "date": "2026-04-06",
+      "value": 15.72
+    },
+    {
+      "date": "2026-04-07",
+      "value": 15.71
+    },
+    {
+      "date": "2026-04-08",
+      "value": 15.7
+    },
+    {
+      "date": "2026-04-09",
+      "value": 15.7
+    },
+    {
+      "date": "2026-04-10",
+      "value": 15.69
+    },
+    {
+      "date": "2026-04-11",
+      "value": 15.68
+    },
+    {
+      "date": "2026-04-12",
+      "value": 15.67
+    },
+    {
+      "date": "2026-04-13",
+      "value": 15.67
+    },
+    {
+      "date": "2026-04-14",
+      "value": 15.66
+    },
+    {
+      "date": "2026-04-15",
+      "value": 15.65
+    },
+    {
+      "date": "2026-04-16",
+      "value": 15.64
+    },
+    {
+      "date": "2026-04-17",
+      "value": 15.64
+    },
+    {
+      "date": "2026-04-18",
+      "value": 15.63
+    },
+    {
+      "date": "2026-04-19",
+      "value": 15.62
+    },
+    {
+      "date": "2026-04-20",
+      "value": 15.61
+    },
+    {
+      "date": "2026-04-21",
+      "value": 15.59
+    },
+    {
+      "date": "2026-04-22",
+      "value": 15.59
+    },
+    {
+      "date": "2026-04-23",
+      "value": 15.58
+    },
+    {
+      "date": "2026-04-24",
+      "value": 15.57
+    },
+    {
+      "date": "2026-04-25",
+      "value": 15.56
+    },
+    {
+      "date": "2026-04-26",
+      "value": 15.56
+    },
+    {
+      "date": "2026-04-27",
+      "value": 15.55
+    },
+    {
+      "date": "2026-04-28",
+      "value": 15.54
     }
   ],
   "activePartiesByDate": {
@@ -69055,9 +69435,164 @@
       "Dawn of Nemunas",
       "Electoral Action of Poles in Lithuania - Christian Families Alliance",
       "National Alliance"
+    ],
+    "2026-03-29": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-03-30": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-03-31": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-01": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-02": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-03": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-04": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-05": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-06": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-07": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-08": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-09": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-10": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-11": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-12": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-13": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-14": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-15": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-16": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-17": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-18": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-19": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-20": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-21": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-22": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-23": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-24": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-25": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-26": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-27": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
+    ],
+    "2026-04-28": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
     ]
   },
-  "latestUpdate": "2026-03-28",
+  "latestUpdate": "2026-04-28",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Lithuanian_parliamentary_election",
