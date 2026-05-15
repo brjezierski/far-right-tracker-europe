@@ -8,7 +8,7 @@
   "activeParties": [
     "ELAM"
   ],
-  "latestSupport": 14.16,
+  "latestSupport": 14.44,
   "datapointsByParty": {
     "ELAM": [
       {
@@ -234,6 +234,10 @@
       {
         "date": "2026-05-10",
         "value": 14.5
+      },
+      {
+        "date": "2026-05-11",
+        "value": 14.4
       }
     ],
     "Solidarity Movement": [
@@ -7904,6 +7908,10 @@
       {
         "date": "2026-05-10",
         "value": 14.16
+      },
+      {
+        "date": "2026-05-11",
+        "value": 14.44
       }
     ],
     "Solidarity Movement": [
@@ -16341,6 +16349,10 @@
     {
       "date": "2026-05-10",
       "value": 14.16
+    },
+    {
+      "date": "2026-05-11",
+      "value": 14.44
     }
   ],
   "activePartiesByDate": {
@@ -23485,9 +23497,12 @@
     ],
     "2026-05-10": [
       "ELAM"
+    ],
+    "2026-05-11": [
+      "ELAM"
     ]
   },
-  "latestUpdate": "2026-05-10",
+  "latestUpdate": "2026-05-11",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Cypriot_legislative_election",
     "https://en.wikipedia.org/wiki/2021_Cypriot_legislative_election",
