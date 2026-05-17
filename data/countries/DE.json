@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 26.95,
+  "latestSupport": 27.55,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9579,8 +9579,16 @@
         "value": 28.0
       },
       {
+        "date": "2026-05-10",
+        "value": 26.0
+      },
+      {
         "date": "2026-05-11",
         "value": 27.75
+      },
+      {
+        "date": "2026-05-15",
+        "value": 29.0
       }
     ]
   },
@@ -27968,15 +27976,31 @@
       },
       {
         "date": "2026-05-09",
-        "value": 26.88
+        "value": 26.73
       },
       {
         "date": "2026-05-10",
-        "value": 26.92
+        "value": 26.6
       },
       {
         "date": "2026-05-11",
-        "value": 26.95
+        "value": 27.15
+      },
+      {
+        "date": "2026-05-12",
+        "value": 27.25
+      },
+      {
+        "date": "2026-05-13",
+        "value": 27.35
+      },
+      {
+        "date": "2026-05-14",
+        "value": 27.45
+      },
+      {
+        "date": "2026-05-15",
+        "value": 27.55
       }
     ]
   },
@@ -46415,15 +46439,31 @@
     },
     {
       "date": "2026-05-09",
-      "value": 26.88
+      "value": 26.73
     },
     {
       "date": "2026-05-10",
-      "value": 26.92
+      "value": 26.6
     },
     {
       "date": "2026-05-11",
-      "value": 26.95
+      "value": 27.15
+    },
+    {
+      "date": "2026-05-12",
+      "value": 27.25
+    },
+    {
+      "date": "2026-05-13",
+      "value": 27.35
+    },
+    {
+      "date": "2026-05-14",
+      "value": 27.45
+    },
+    {
+      "date": "2026-05-15",
+      "value": 27.55
     }
   ],
   "activePartiesByDate": {
@@ -60259,9 +60299,21 @@
     ],
     "2026-05-11": [
       "Alternative for Germany"
+    ],
+    "2026-05-12": [
+      "Alternative for Germany"
+    ],
+    "2026-05-13": [
+      "Alternative for Germany"
+    ],
+    "2026-05-14": [
+      "Alternative for Germany"
+    ],
+    "2026-05-15": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-05-11",
+  "latestUpdate": "2026-05-15",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
