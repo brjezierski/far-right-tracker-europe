@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 23.58,
+  "latestSupport": 23.12,
   "datapointsByParty": {
     "Chega": [
       {
@@ -1185,6 +1185,10 @@
       {
         "date": "2026-05-14",
         "value": 21.6
+      },
+      {
+        "date": "2026-05-19",
+        "value": 23.5
       }
     ]
   },
@@ -13161,6 +13165,26 @@
       {
         "date": "2026-05-14",
         "value": 23.58
+      },
+      {
+        "date": "2026-05-15",
+        "value": 23.49
+      },
+      {
+        "date": "2026-05-16",
+        "value": 23.4
+      },
+      {
+        "date": "2026-05-17",
+        "value": 23.3
+      },
+      {
+        "date": "2026-05-18",
+        "value": 23.21
+      },
+      {
+        "date": "2026-05-19",
+        "value": 23.12
       }
     ]
   },
@@ -25468,6 +25492,26 @@
     {
       "date": "2026-05-14",
       "value": 23.58
+    },
+    {
+      "date": "2026-05-15",
+      "value": 23.49
+    },
+    {
+      "date": "2026-05-16",
+      "value": 23.4
+    },
+    {
+      "date": "2026-05-17",
+      "value": 23.3
+    },
+    {
+      "date": "2026-05-18",
+      "value": 23.21
+    },
+    {
+      "date": "2026-05-19",
+      "value": 23.12
     }
   ],
   "activePartiesByDate": {
@@ -34490,9 +34534,24 @@
     ],
     "2026-05-14": [
       "Chega"
+    ],
+    "2026-05-15": [
+      "Chega"
+    ],
+    "2026-05-16": [
+      "Chega"
+    ],
+    "2026-05-17": [
+      "Chega"
+    ],
+    "2026-05-18": [
+      "Chega"
+    ],
+    "2026-05-19": [
+      "Chega"
     ]
   },
-  "latestUpdate": "2026-05-14",
+  "latestUpdate": "2026-05-19",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",

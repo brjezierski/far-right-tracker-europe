@@ -3,12 +3,14 @@
   "iso2": "GB",
   "parties": [
     "Reform UK",
+    "Restore Britain",
     "UK Independence Party"
   ],
   "activeParties": [
-    "Reform UK"
+    "Reform UK",
+    "Restore Britain"
   ],
-  "latestSupport": 27.9,
+  "latestSupport": 30.5,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4808,6 +4810,10 @@
         "value": 25.0
       },
       {
+        "date": "2026-05-14",
+        "value": 25.0
+      },
+      {
         "date": "2026-05-15",
         "value": 29.0
       },
@@ -4818,6 +4824,212 @@
       {
         "date": "2026-05-19",
         "value": 29.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 26.0
+      }
+    ],
+    "Restore Britain": [
+      {
+        "date": "2026-01-05",
+        "value": 2.0
+      },
+      {
+        "date": "2026-01-08",
+        "value": 2.0
+      },
+      {
+        "date": "2026-01-09",
+        "value": 2.5
+      },
+      {
+        "date": "2026-01-11",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-12",
+        "value": 2.0
+      },
+      {
+        "date": "2026-01-13",
+        "value": 2.0
+      },
+      {
+        "date": "2026-01-14",
+        "value": 3.5
+      },
+      {
+        "date": "2026-01-15",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-19",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-21",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-23",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-25",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 2.0
+      },
+      {
+        "date": "2026-01-27",
+        "value": 1.0
+      },
+      {
+        "date": "2026-01-28",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-29",
+        "value": 3.5
+      },
+      {
+        "date": "2026-02-01",
+        "value": 1.0
+      },
+      {
+        "date": "2026-02-02",
+        "value": 2.0
+      },
+      {
+        "date": "2026-02-04",
+        "value": 3.0
+      },
+      {
+        "date": "2026-02-06",
+        "value": 3.0
+      },
+      {
+        "date": "2026-02-09",
+        "value": 2.0
+      },
+      {
+        "date": "2026-02-10",
+        "value": 2.0
+      },
+      {
+        "date": "2026-02-11",
+        "value": 4.0
+      },
+      {
+        "date": "2026-02-12",
+        "value": 3.67
+      },
+      {
+        "date": "2026-02-16",
+        "value": 3.5
+      },
+      {
+        "date": "2026-02-17",
+        "value": 2.0
+      },
+      {
+        "date": "2026-02-18",
+        "value": 7.0
+      },
+      {
+        "date": "2026-02-23",
+        "value": 4.0
+      },
+      {
+        "date": "2026-02-27",
+        "value": 6.0
+      },
+      {
+        "date": "2026-03-01",
+        "value": 3.0
+      },
+      {
+        "date": "2026-03-02",
+        "value": 4.0
+      },
+      {
+        "date": "2026-03-05",
+        "value": 5.0
+      },
+      {
+        "date": "2026-03-06",
+        "value": 5.5
+      },
+      {
+        "date": "2026-03-10",
+        "value": 3.0
+      },
+      {
+        "date": "2026-03-11",
+        "value": 4.67
+      },
+      {
+        "date": "2026-03-12",
+        "value": 4.0
+      },
+      {
+        "date": "2026-03-16",
+        "value": 4.0
+      },
+      {
+        "date": "2026-03-18",
+        "value": 7.0
+      },
+      {
+        "date": "2026-03-25",
+        "value": 8.0
+      },
+      {
+        "date": "2026-04-07",
+        "value": 4.0
+      },
+      {
+        "date": "2026-04-13",
+        "value": 4.0
+      },
+      {
+        "date": "2026-04-15",
+        "value": 3.0
+      },
+      {
+        "date": "2026-04-16",
+        "value": 9.0
+      },
+      {
+        "date": "2026-04-20",
+        "value": 3.0
+      },
+      {
+        "date": "2026-04-24",
+        "value": 3.0
+      },
+      {
+        "date": "2026-04-27",
+        "value": 3.0
+      },
+      {
+        "date": "2026-05-05",
+        "value": 4.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 3.0
+      },
+      {
+        "date": "2026-05-15",
+        "value": 3.0
+      },
+      {
+        "date": "2026-05-18",
+        "value": 4.0
       }
     ],
     "UK Independence Party": [
@@ -22755,27 +22967,545 @@
       },
       {
         "date": "2026-05-14",
-        "value": 28.1
+        "value": 27.4
       },
       {
         "date": "2026-05-15",
-        "value": 28.2
+        "value": 27.4
       },
       {
         "date": "2026-05-16",
-        "value": 28.03
+        "value": 27.3
       },
       {
         "date": "2026-05-17",
-        "value": 27.87
+        "value": 27.2
       },
       {
         "date": "2026-05-18",
-        "value": 27.7
+        "value": 27.1
       },
       {
         "date": "2026-05-19",
-        "value": 27.9
+        "value": 26.9
+      },
+      {
+        "date": "2026-05-20",
+        "value": 27.0
+      },
+      {
+        "date": "2026-05-21",
+        "value": 27.1
+      }
+    ],
+    "Restore Britain": [
+      {
+        "date": "2026-01-12",
+        "value": 2.3
+      },
+      {
+        "date": "2026-01-13",
+        "value": 2.3
+      },
+      {
+        "date": "2026-01-14",
+        "value": 2.6
+      },
+      {
+        "date": "2026-01-15",
+        "value": 2.7
+      },
+      {
+        "date": "2026-01-16",
+        "value": 2.7
+      },
+      {
+        "date": "2026-01-17",
+        "value": 2.7
+      },
+      {
+        "date": "2026-01-18",
+        "value": 2.7
+      },
+      {
+        "date": "2026-01-19",
+        "value": 2.7
+      },
+      {
+        "date": "2026-01-20",
+        "value": 2.8
+      },
+      {
+        "date": "2026-01-21",
+        "value": 2.9
+      },
+      {
+        "date": "2026-01-22",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-23",
+        "value": 3.1
+      },
+      {
+        "date": "2026-01-24",
+        "value": 3.05
+      },
+      {
+        "date": "2026-01-25",
+        "value": 3.0
+      },
+      {
+        "date": "2026-01-26",
+        "value": 2.8
+      },
+      {
+        "date": "2026-01-27",
+        "value": 2.4
+      },
+      {
+        "date": "2026-01-28",
+        "value": 2.4
+      },
+      {
+        "date": "2026-01-29",
+        "value": 2.5
+      },
+      {
+        "date": "2026-01-30",
+        "value": 2.37
+      },
+      {
+        "date": "2026-01-31",
+        "value": 2.23
+      },
+      {
+        "date": "2026-02-01",
+        "value": 2.1
+      },
+      {
+        "date": "2026-02-02",
+        "value": 2.1
+      },
+      {
+        "date": "2026-02-03",
+        "value": 2.3
+      },
+      {
+        "date": "2026-02-04",
+        "value": 2.5
+      },
+      {
+        "date": "2026-02-05",
+        "value": 2.5
+      },
+      {
+        "date": "2026-02-06",
+        "value": 2.5
+      },
+      {
+        "date": "2026-02-07",
+        "value": 2.4
+      },
+      {
+        "date": "2026-02-08",
+        "value": 2.3
+      },
+      {
+        "date": "2026-02-09",
+        "value": 2.2
+      },
+      {
+        "date": "2026-02-10",
+        "value": 2.4
+      },
+      {
+        "date": "2026-02-11",
+        "value": 2.8
+      },
+      {
+        "date": "2026-02-12",
+        "value": 2.93
+      },
+      {
+        "date": "2026-02-13",
+        "value": 2.96
+      },
+      {
+        "date": "2026-02-14",
+        "value": 2.98
+      },
+      {
+        "date": "2026-02-15",
+        "value": 3.0
+      },
+      {
+        "date": "2026-02-16",
+        "value": 3.03
+      },
+      {
+        "date": "2026-02-17",
+        "value": 3.03
+      },
+      {
+        "date": "2026-02-18",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-19",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-20",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-21",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-22",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-23",
+        "value": 4.03
+      },
+      {
+        "date": "2026-02-24",
+        "value": 4.15
+      },
+      {
+        "date": "2026-02-25",
+        "value": 4.27
+      },
+      {
+        "date": "2026-02-26",
+        "value": 4.38
+      },
+      {
+        "date": "2026-02-27",
+        "value": 4.5
+      },
+      {
+        "date": "2026-02-28",
+        "value": 4.45
+      },
+      {
+        "date": "2026-03-01",
+        "value": 4.4
+      },
+      {
+        "date": "2026-03-02",
+        "value": 4.8
+      },
+      {
+        "date": "2026-03-03",
+        "value": 4.67
+      },
+      {
+        "date": "2026-03-04",
+        "value": 4.53
+      },
+      {
+        "date": "2026-03-05",
+        "value": 4.4
+      },
+      {
+        "date": "2026-03-06",
+        "value": 4.7
+      },
+      {
+        "date": "2026-03-07",
+        "value": 4.55
+      },
+      {
+        "date": "2026-03-08",
+        "value": 4.4
+      },
+      {
+        "date": "2026-03-09",
+        "value": 4.25
+      },
+      {
+        "date": "2026-03-10",
+        "value": 4.1
+      },
+      {
+        "date": "2026-03-11",
+        "value": 4.43
+      },
+      {
+        "date": "2026-03-12",
+        "value": 4.43
+      },
+      {
+        "date": "2026-03-13",
+        "value": 4.38
+      },
+      {
+        "date": "2026-03-14",
+        "value": 4.33
+      },
+      {
+        "date": "2026-03-15",
+        "value": 4.28
+      },
+      {
+        "date": "2026-03-16",
+        "value": 4.23
+      },
+      {
+        "date": "2026-03-17",
+        "value": 4.38
+      },
+      {
+        "date": "2026-03-18",
+        "value": 4.53
+      },
+      {
+        "date": "2026-03-19",
+        "value": 4.67
+      },
+      {
+        "date": "2026-03-20",
+        "value": 4.82
+      },
+      {
+        "date": "2026-03-21",
+        "value": 4.96
+      },
+      {
+        "date": "2026-03-22",
+        "value": 5.1
+      },
+      {
+        "date": "2026-03-23",
+        "value": 5.24
+      },
+      {
+        "date": "2026-03-24",
+        "value": 5.39
+      },
+      {
+        "date": "2026-03-25",
+        "value": 5.53
+      },
+      {
+        "date": "2026-03-26",
+        "value": 5.52
+      },
+      {
+        "date": "2026-03-27",
+        "value": 5.51
+      },
+      {
+        "date": "2026-03-28",
+        "value": 5.5
+      },
+      {
+        "date": "2026-03-29",
+        "value": 5.49
+      },
+      {
+        "date": "2026-03-30",
+        "value": 5.48
+      },
+      {
+        "date": "2026-03-31",
+        "value": 5.47
+      },
+      {
+        "date": "2026-04-01",
+        "value": 5.46
+      },
+      {
+        "date": "2026-04-02",
+        "value": 5.45
+      },
+      {
+        "date": "2026-04-03",
+        "value": 5.44
+      },
+      {
+        "date": "2026-04-04",
+        "value": 5.43
+      },
+      {
+        "date": "2026-04-05",
+        "value": 5.42
+      },
+      {
+        "date": "2026-04-06",
+        "value": 5.41
+      },
+      {
+        "date": "2026-04-07",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-08",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-09",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-10",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-11",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-12",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-13",
+        "value": 5.4
+      },
+      {
+        "date": "2026-04-14",
+        "value": 5.3
+      },
+      {
+        "date": "2026-04-15",
+        "value": 5.2
+      },
+      {
+        "date": "2026-04-16",
+        "value": 5.6
+      },
+      {
+        "date": "2026-04-17",
+        "value": 5.35
+      },
+      {
+        "date": "2026-04-18",
+        "value": 5.1
+      },
+      {
+        "date": "2026-04-19",
+        "value": 4.85
+      },
+      {
+        "date": "2026-04-20",
+        "value": 4.6
+      },
+      {
+        "date": "2026-04-21",
+        "value": 4.55
+      },
+      {
+        "date": "2026-04-22",
+        "value": 4.5
+      },
+      {
+        "date": "2026-04-23",
+        "value": 4.45
+      },
+      {
+        "date": "2026-04-24",
+        "value": 4.4
+      },
+      {
+        "date": "2026-04-25",
+        "value": 4.33
+      },
+      {
+        "date": "2026-04-26",
+        "value": 4.27
+      },
+      {
+        "date": "2026-04-27",
+        "value": 4.2
+      },
+      {
+        "date": "2026-04-28",
+        "value": 4.23
+      },
+      {
+        "date": "2026-04-29",
+        "value": 4.25
+      },
+      {
+        "date": "2026-04-30",
+        "value": 4.28
+      },
+      {
+        "date": "2026-05-01",
+        "value": 4.3
+      },
+      {
+        "date": "2026-05-02",
+        "value": 4.33
+      },
+      {
+        "date": "2026-05-03",
+        "value": 4.35
+      },
+      {
+        "date": "2026-05-04",
+        "value": 4.38
+      },
+      {
+        "date": "2026-05-05",
+        "value": 4.4
+      },
+      {
+        "date": "2026-05-06",
+        "value": 4.2
+      },
+      {
+        "date": "2026-05-07",
+        "value": 4.0
+      },
+      {
+        "date": "2026-05-08",
+        "value": 3.8
+      },
+      {
+        "date": "2026-05-09",
+        "value": 3.6
+      },
+      {
+        "date": "2026-05-10",
+        "value": 3.4
+      },
+      {
+        "date": "2026-05-11",
+        "value": 3.2
+      },
+      {
+        "date": "2026-05-12",
+        "value": 3.2
+      },
+      {
+        "date": "2026-05-13",
+        "value": 3.2
+      },
+      {
+        "date": "2026-05-14",
+        "value": 3.2
+      },
+      {
+        "date": "2026-05-15",
+        "value": 3.2
+      },
+      {
+        "date": "2026-05-16",
+        "value": 3.27
+      },
+      {
+        "date": "2026-05-17",
+        "value": 3.33
+      },
+      {
+        "date": "2026-05-18",
+        "value": 3.4
       }
     ],
     "UK Independence Party": [
@@ -59668,283 +60398,283 @@
     },
     {
       "date": "2026-01-12",
-      "value": 29.2
+      "value": 31.5
     },
     {
       "date": "2026-01-13",
-      "value": 29.7
+      "value": 32.0
     },
     {
       "date": "2026-01-14",
-      "value": 29.0
+      "value": 31.6
     },
     {
       "date": "2026-01-15",
-      "value": 28.9
+      "value": 31.6
     },
     {
       "date": "2026-01-16",
-      "value": 28.57
+      "value": 31.27
     },
     {
       "date": "2026-01-17",
-      "value": 28.25
+      "value": 30.95
     },
     {
       "date": "2026-01-18",
-      "value": 27.93
+      "value": 30.63
     },
     {
       "date": "2026-01-19",
-      "value": 27.6
-    },
-    {
-      "date": "2026-01-20",
-      "value": 28.4
-    },
-    {
-      "date": "2026-01-21",
-      "value": 29.2
-    },
-    {
-      "date": "2026-01-22",
-      "value": 29.2
-    },
-    {
-      "date": "2026-01-23",
-      "value": 29.2
-    },
-    {
-      "date": "2026-01-24",
-      "value": 29.25
-    },
-    {
-      "date": "2026-01-25",
-      "value": 29.3
-    },
-    {
-      "date": "2026-01-26",
-      "value": 28.7
-    },
-    {
-      "date": "2026-01-27",
-      "value": 29.4
-    },
-    {
-      "date": "2026-01-28",
-      "value": 28.8
-    },
-    {
-      "date": "2026-01-29",
-      "value": 28.9
-    },
-    {
-      "date": "2026-01-30",
-      "value": 28.97
-    },
-    {
-      "date": "2026-01-31",
-      "value": 29.03
-    },
-    {
-      "date": "2026-02-01",
-      "value": 29.1
-    },
-    {
-      "date": "2026-02-02",
-      "value": 29.7
-    },
-    {
-      "date": "2026-02-03",
-      "value": 29.8
-    },
-    {
-      "date": "2026-02-04",
-      "value": 29.9
-    },
-    {
-      "date": "2026-02-05",
-      "value": 30.1
-    },
-    {
-      "date": "2026-02-06",
       "value": 30.3
     },
     {
+      "date": "2026-01-20",
+      "value": 31.2
+    },
+    {
+      "date": "2026-01-21",
+      "value": 32.1
+    },
+    {
+      "date": "2026-01-22",
+      "value": 32.2
+    },
+    {
+      "date": "2026-01-23",
+      "value": 32.3
+    },
+    {
+      "date": "2026-01-24",
+      "value": 32.3
+    },
+    {
+      "date": "2026-01-25",
+      "value": 32.3
+    },
+    {
+      "date": "2026-01-26",
+      "value": 31.5
+    },
+    {
+      "date": "2026-01-27",
+      "value": 31.8
+    },
+    {
+      "date": "2026-01-28",
+      "value": 31.2
+    },
+    {
+      "date": "2026-01-29",
+      "value": 31.4
+    },
+    {
+      "date": "2026-01-30",
+      "value": 31.34
+    },
+    {
+      "date": "2026-01-31",
+      "value": 31.26
+    },
+    {
+      "date": "2026-02-01",
+      "value": 31.2
+    },
+    {
+      "date": "2026-02-02",
+      "value": 31.8
+    },
+    {
+      "date": "2026-02-03",
+      "value": 32.1
+    },
+    {
+      "date": "2026-02-04",
+      "value": 32.4
+    },
+    {
+      "date": "2026-02-05",
+      "value": 32.6
+    },
+    {
+      "date": "2026-02-06",
+      "value": 32.8
+    },
+    {
       "date": "2026-02-07",
-      "value": 30.0
+      "value": 32.4
     },
     {
       "date": "2026-02-08",
-      "value": 29.7
+      "value": 32.0
     },
     {
       "date": "2026-02-09",
-      "value": 29.4
+      "value": 31.6
     },
     {
       "date": "2026-02-10",
-      "value": 29.4
+      "value": 31.8
     },
     {
       "date": "2026-02-11",
-      "value": 29.6
+      "value": 32.4
     },
     {
       "date": "2026-02-12",
-      "value": 29.53
+      "value": 32.46
     },
     {
       "date": "2026-02-13",
-      "value": 29.28
+      "value": 32.24
     },
     {
       "date": "2026-02-14",
-      "value": 29.03
+      "value": 32.01
     },
     {
       "date": "2026-02-15",
-      "value": 28.78
+      "value": 31.78
     },
     {
       "date": "2026-02-16",
-      "value": 28.53
+      "value": 31.56
     },
     {
       "date": "2026-02-17",
-      "value": 28.73
+      "value": 31.76
     },
     {
       "date": "2026-02-18",
-      "value": 28.33
+      "value": 32.36
     },
     {
       "date": "2026-02-19",
-      "value": 28.16
+      "value": 32.19
     },
     {
       "date": "2026-02-20",
-      "value": 27.99
+      "value": 32.02
     },
     {
       "date": "2026-02-21",
-      "value": 27.81
+      "value": 31.84
     },
     {
       "date": "2026-02-22",
-      "value": 27.64
+      "value": 31.67
     },
     {
       "date": "2026-02-23",
-      "value": 27.47
+      "value": 31.5
     },
     {
       "date": "2026-02-24",
-      "value": 27.0
+      "value": 31.15
     },
     {
       "date": "2026-02-25",
-      "value": 26.53
+      "value": 30.8
     },
     {
       "date": "2026-02-26",
-      "value": 26.93
+      "value": 31.31
     },
     {
       "date": "2026-02-27",
-      "value": 27.33
+      "value": 31.83
     },
     {
       "date": "2026-02-28",
-      "value": 27.53
+      "value": 31.98
     },
     {
       "date": "2026-03-01",
-      "value": 27.73
+      "value": 32.13
     },
     {
       "date": "2026-03-02",
-      "value": 27.33
+      "value": 32.13
     },
     {
       "date": "2026-03-03",
-      "value": 27.53
+      "value": 32.2
     },
     {
       "date": "2026-03-04",
-      "value": 27.73
+      "value": 32.26
     },
     {
       "date": "2026-03-05",
-      "value": 27.93
+      "value": 32.33
     },
     {
       "date": "2026-03-06",
-      "value": 28.33
+      "value": 33.03
     },
     {
       "date": "2026-03-07",
-      "value": 28.33
+      "value": 32.88
     },
     {
       "date": "2026-03-08",
-      "value": 28.33
+      "value": 32.73
     },
     {
       "date": "2026-03-09",
-      "value": 28.33
+      "value": 32.58
     },
     {
       "date": "2026-03-10",
-      "value": 27.33
+      "value": 31.43
     },
     {
       "date": "2026-03-11",
-      "value": 27.33
+      "value": 31.76
     },
     {
       "date": "2026-03-12",
-      "value": 27.2
+      "value": 31.63
     },
     {
       "date": "2026-03-13",
-      "value": 27.12
+      "value": 31.5
     },
     {
       "date": "2026-03-14",
-      "value": 27.05
+      "value": 31.38
     },
     {
       "date": "2026-03-15",
-      "value": 26.97
+      "value": 31.25
     },
     {
       "date": "2026-03-16",
-      "value": 26.9
+      "value": 31.13
     },
     {
       "date": "2026-03-17",
-      "value": 26.4
+      "value": 30.78
     },
     {
       "date": "2026-03-18",
-      "value": 25.9
+      "value": 30.43
     },
     {
       "date": "2026-03-19",
-      "value": 26.1
+      "value": 30.77
     },
     {
       "date": "2026-03-20",
-      "value": 26.3
+      "value": 31.12
     },
     {
       "date": "2026-03-21",
-      "value": 26.4
+      "value": 31.36
     },
     {
       "date": "2026-03-22",
-      "value": 26.5
+      "value": 31.6
     },
     {
       "date": "2026-03-23",
@@ -59956,23 +60686,23 @@
     },
     {
       "date": "2026-03-25",
-      "value": 25.6
+      "value": 31.13
     },
     {
       "date": "2026-03-26",
-      "value": 26.2
+      "value": 31.72
     },
     {
       "date": "2026-03-27",
-      "value": 25.6
+      "value": 31.11
     },
     {
       "date": "2026-03-28",
-      "value": 25.5
+      "value": 31.0
     },
     {
       "date": "2026-03-29",
-      "value": 25.4
+      "value": 30.89
     },
     {
       "date": "2026-03-30",
@@ -60008,23 +60738,23 @@
     },
     {
       "date": "2026-04-07",
-      "value": 25.7
+      "value": 31.1
     },
     {
       "date": "2026-04-08",
-      "value": 25.9
+      "value": 31.3
     },
     {
       "date": "2026-04-09",
-      "value": 26.4
+      "value": 31.8
     },
     {
       "date": "2026-04-10",
-      "value": 26.33
+      "value": 31.73
     },
     {
       "date": "2026-04-11",
-      "value": 26.27
+      "value": 31.67
     },
     {
       "date": "2026-04-12",
@@ -60032,75 +60762,75 @@
     },
     {
       "date": "2026-04-13",
-      "value": 25.9
+      "value": 31.3
     },
     {
       "date": "2026-04-14",
-      "value": 25.85
+      "value": 31.15
     },
     {
       "date": "2026-04-15",
-      "value": 25.8
+      "value": 31.0
     },
     {
       "date": "2026-04-16",
-      "value": 25.5
+      "value": 31.1
     },
     {
       "date": "2026-04-17",
-      "value": 25.1
+      "value": 30.45
     },
     {
       "date": "2026-04-18",
-      "value": 25.17
+      "value": 30.27
     },
     {
       "date": "2026-04-19",
-      "value": 25.23
+      "value": 30.08
     },
     {
       "date": "2026-04-20",
-      "value": 25.3
+      "value": 29.9
     },
     {
       "date": "2026-04-21",
-      "value": 25.33
+      "value": 29.88
     },
     {
       "date": "2026-04-22",
-      "value": 25.37
+      "value": 29.87
     },
     {
       "date": "2026-04-23",
-      "value": 25.4
+      "value": 29.85
     },
     {
       "date": "2026-04-24",
-      "value": 25.7
+      "value": 30.1
     },
     {
       "date": "2026-04-25",
-      "value": 25.78
+      "value": 30.11
     },
     {
       "date": "2026-04-26",
-      "value": 25.85
+      "value": 30.12
     },
     {
       "date": "2026-04-27",
-      "value": 25.93
+      "value": 30.13
     },
     {
       "date": "2026-04-28",
-      "value": 25.73
+      "value": 29.96
     },
     {
       "date": "2026-04-29",
-      "value": 25.53
+      "value": 29.78
     },
     {
       "date": "2026-04-30",
-      "value": 25.73
+      "value": 30.01
     },
     {
       "date": "2026-05-01",
@@ -60120,23 +60850,23 @@
     },
     {
       "date": "2026-05-05",
-      "value": 26.6
+      "value": 31.0
     },
     {
       "date": "2026-05-06",
-      "value": 26.8
+      "value": 31.0
     },
     {
       "date": "2026-05-07",
-      "value": 26.8
+      "value": 30.8
     },
     {
       "date": "2026-05-08",
-      "value": 26.8
+      "value": 30.6
     },
     {
       "date": "2026-05-09",
-      "value": 26.9
+      "value": 30.5
     },
     {
       "date": "2026-05-10",
@@ -60144,39 +60874,47 @@
     },
     {
       "date": "2026-05-11",
-      "value": 27.0
+      "value": 30.2
     },
     {
       "date": "2026-05-12",
-      "value": 28.0
+      "value": 31.2
     },
     {
       "date": "2026-05-13",
-      "value": 28.0
+      "value": 31.2
     },
     {
       "date": "2026-05-14",
-      "value": 28.1
+      "value": 27.4
     },
     {
       "date": "2026-05-15",
-      "value": 28.2
+      "value": 30.6
     },
     {
       "date": "2026-05-16",
-      "value": 28.03
+      "value": 30.57
     },
     {
       "date": "2026-05-17",
-      "value": 27.87
+      "value": 30.53
     },
     {
       "date": "2026-05-18",
-      "value": 27.7
+      "value": 30.5
     },
     {
       "date": "2026-05-19",
-      "value": 27.9
+      "value": 26.9
+    },
+    {
+      "date": "2026-05-20",
+      "value": 27.0
+    },
+    {
+      "date": "2026-05-21",
+      "value": 27.1
     }
   ],
   "activePartiesByDate": {
@@ -77621,235 +78359,312 @@
       "Reform UK"
     ],
     "2026-01-05": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-06": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-08": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-09": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-10": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-11": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-12": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-13": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-14": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-15": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-16": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-17": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-18": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-19": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-20": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-21": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-22": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-23": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-24": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-25": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-26": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-27": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-28": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-29": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-30": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-01-31": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-01": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-02": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-03": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-04": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-05": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-06": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-08": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-09": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-10": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-11": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-12": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-13": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-14": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-15": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-16": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-17": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-18": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-19": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-20": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-21": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-22": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-23": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-24": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-25": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-26": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-27": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-02-28": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-01": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-02": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-03": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-04": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-05": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-06": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-08": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-09": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-10": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-11": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-12": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-13": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-14": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-15": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-16": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-17": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-18": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-19": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-20": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-21": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-22": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-23": [
       "Reform UK"
@@ -77858,19 +78673,24 @@
       "Reform UK"
     ],
     "2026-03-25": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-26": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-27": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-28": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-29": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-03-30": [
       "Reform UK"
@@ -77897,76 +78717,99 @@
       "Reform UK"
     ],
     "2026-04-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-08": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-09": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-10": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-11": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-12": [
       "Reform UK"
     ],
     "2026-04-13": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-14": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-15": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-16": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-17": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-18": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-19": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-20": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-21": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-22": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-23": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-24": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-25": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-26": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-27": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-28": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-29": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-04-30": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-01": [
       "Reform UK"
@@ -77981,52 +78824,73 @@
       "Reform UK"
     ],
     "2026-05-05": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-06": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-08": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-09": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-10": [
       "Reform UK"
     ],
     "2026-05-11": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-12": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-13": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-14": [
       "Reform UK"
     ],
     "2026-05-15": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-16": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-17": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-18": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ],
     "2026-05-19": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-05-20": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-05-21": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-05-19",
+  "latestUpdate": "2026-05-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
