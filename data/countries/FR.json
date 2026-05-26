@@ -13,7 +13,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 52.8,
+  "latestSupport": 51.8,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1315,6 +1315,10 @@
       {
         "date": "2026-04-30",
         "value": 1.0
+      },
+      {
+        "date": "2026-05-24",
+        "value": 2.0
       }
     ],
     "Les Républicains": [
@@ -2633,6 +2637,10 @@
       {
         "date": "2026-04-30",
         "value": 12.0
+      },
+      {
+        "date": "2026-05-24",
+        "value": 9.0
       }
     ],
     "Rassemblement National": [
@@ -3947,6 +3955,10 @@
       {
         "date": "2026-04-30",
         "value": 35.0
+      },
+      {
+        "date": "2026-05-24",
+        "value": 32.0
       }
     ],
     "Reconquête": [
@@ -4549,6 +4561,10 @@
       {
         "date": "2026-04-30",
         "value": 5.0
+      },
+      {
+        "date": "2026-05-24",
+        "value": 6.0
       }
     ]
   },
@@ -23553,6 +23569,102 @@
       {
         "date": "2026-04-30",
         "value": 2.2
+      },
+      {
+        "date": "2026-05-01",
+        "value": 2.19
+      },
+      {
+        "date": "2026-05-02",
+        "value": 2.18
+      },
+      {
+        "date": "2026-05-03",
+        "value": 2.16
+      },
+      {
+        "date": "2026-05-04",
+        "value": 2.15
+      },
+      {
+        "date": "2026-05-05",
+        "value": 2.14
+      },
+      {
+        "date": "2026-05-06",
+        "value": 2.12
+      },
+      {
+        "date": "2026-05-07",
+        "value": 2.11
+      },
+      {
+        "date": "2026-05-08",
+        "value": 2.1
+      },
+      {
+        "date": "2026-05-09",
+        "value": 2.09
+      },
+      {
+        "date": "2026-05-10",
+        "value": 2.08
+      },
+      {
+        "date": "2026-05-11",
+        "value": 2.06
+      },
+      {
+        "date": "2026-05-12",
+        "value": 2.05
+      },
+      {
+        "date": "2026-05-13",
+        "value": 2.04
+      },
+      {
+        "date": "2026-05-14",
+        "value": 2.02
+      },
+      {
+        "date": "2026-05-15",
+        "value": 2.01
+      },
+      {
+        "date": "2026-05-16",
+        "value": 2.0
+      },
+      {
+        "date": "2026-05-17",
+        "value": 1.99
+      },
+      {
+        "date": "2026-05-18",
+        "value": 1.98
+      },
+      {
+        "date": "2026-05-19",
+        "value": 1.96
+      },
+      {
+        "date": "2026-05-20",
+        "value": 1.95
+      },
+      {
+        "date": "2026-05-21",
+        "value": 1.94
+      },
+      {
+        "date": "2026-05-22",
+        "value": 1.92
+      },
+      {
+        "date": "2026-05-23",
+        "value": 1.91
+      },
+      {
+        "date": "2026-05-24",
+        "value": 1.9
       }
     ],
     "Les Républicains": [
@@ -42555,6 +42667,102 @@
       {
         "date": "2026-04-30",
         "value": 10.4
+      },
+      {
+        "date": "2026-05-01",
+        "value": 10.38
+      },
+      {
+        "date": "2026-05-02",
+        "value": 10.37
+      },
+      {
+        "date": "2026-05-03",
+        "value": 10.35
+      },
+      {
+        "date": "2026-05-04",
+        "value": 10.33
+      },
+      {
+        "date": "2026-05-05",
+        "value": 10.32
+      },
+      {
+        "date": "2026-05-06",
+        "value": 10.3
+      },
+      {
+        "date": "2026-05-07",
+        "value": 10.28
+      },
+      {
+        "date": "2026-05-08",
+        "value": 10.27
+      },
+      {
+        "date": "2026-05-09",
+        "value": 10.25
+      },
+      {
+        "date": "2026-05-10",
+        "value": 10.23
+      },
+      {
+        "date": "2026-05-11",
+        "value": 10.22
+      },
+      {
+        "date": "2026-05-12",
+        "value": 10.2
+      },
+      {
+        "date": "2026-05-13",
+        "value": 10.18
+      },
+      {
+        "date": "2026-05-14",
+        "value": 10.17
+      },
+      {
+        "date": "2026-05-15",
+        "value": 10.15
+      },
+      {
+        "date": "2026-05-16",
+        "value": 10.13
+      },
+      {
+        "date": "2026-05-17",
+        "value": 10.12
+      },
+      {
+        "date": "2026-05-18",
+        "value": 10.1
+      },
+      {
+        "date": "2026-05-19",
+        "value": 10.08
+      },
+      {
+        "date": "2026-05-20",
+        "value": 10.07
+      },
+      {
+        "date": "2026-05-21",
+        "value": 10.05
+      },
+      {
+        "date": "2026-05-22",
+        "value": 10.03
+      },
+      {
+        "date": "2026-05-23",
+        "value": 10.02
+      },
+      {
+        "date": "2026-05-24",
+        "value": 10.0
       }
     ],
     "Rassemblement National": [
@@ -61557,6 +61765,102 @@
       {
         "date": "2026-04-30",
         "value": 35.8
+      },
+      {
+        "date": "2026-05-01",
+        "value": 35.77
+      },
+      {
+        "date": "2026-05-02",
+        "value": 35.73
+      },
+      {
+        "date": "2026-05-03",
+        "value": 35.7
+      },
+      {
+        "date": "2026-05-04",
+        "value": 35.67
+      },
+      {
+        "date": "2026-05-05",
+        "value": 35.63
+      },
+      {
+        "date": "2026-05-06",
+        "value": 35.6
+      },
+      {
+        "date": "2026-05-07",
+        "value": 35.57
+      },
+      {
+        "date": "2026-05-08",
+        "value": 35.53
+      },
+      {
+        "date": "2026-05-09",
+        "value": 35.5
+      },
+      {
+        "date": "2026-05-10",
+        "value": 35.47
+      },
+      {
+        "date": "2026-05-11",
+        "value": 35.43
+      },
+      {
+        "date": "2026-05-12",
+        "value": 35.4
+      },
+      {
+        "date": "2026-05-13",
+        "value": 35.37
+      },
+      {
+        "date": "2026-05-14",
+        "value": 35.33
+      },
+      {
+        "date": "2026-05-15",
+        "value": 35.3
+      },
+      {
+        "date": "2026-05-16",
+        "value": 35.27
+      },
+      {
+        "date": "2026-05-17",
+        "value": 35.23
+      },
+      {
+        "date": "2026-05-18",
+        "value": 35.2
+      },
+      {
+        "date": "2026-05-19",
+        "value": 35.17
+      },
+      {
+        "date": "2026-05-20",
+        "value": 35.13
+      },
+      {
+        "date": "2026-05-21",
+        "value": 35.1
+      },
+      {
+        "date": "2026-05-22",
+        "value": 35.07
+      },
+      {
+        "date": "2026-05-23",
+        "value": 35.03
+      },
+      {
+        "date": "2026-05-24",
+        "value": 35.0
       }
     ],
     "Reconquête": [
@@ -68315,6 +68619,102 @@
       {
         "date": "2026-04-30",
         "value": 4.4
+      },
+      {
+        "date": "2026-05-01",
+        "value": 4.42
+      },
+      {
+        "date": "2026-05-02",
+        "value": 4.44
+      },
+      {
+        "date": "2026-05-03",
+        "value": 4.46
+      },
+      {
+        "date": "2026-05-04",
+        "value": 4.48
+      },
+      {
+        "date": "2026-05-05",
+        "value": 4.5
+      },
+      {
+        "date": "2026-05-06",
+        "value": 4.53
+      },
+      {
+        "date": "2026-05-07",
+        "value": 4.55
+      },
+      {
+        "date": "2026-05-08",
+        "value": 4.57
+      },
+      {
+        "date": "2026-05-09",
+        "value": 4.59
+      },
+      {
+        "date": "2026-05-10",
+        "value": 4.61
+      },
+      {
+        "date": "2026-05-11",
+        "value": 4.63
+      },
+      {
+        "date": "2026-05-12",
+        "value": 4.65
+      },
+      {
+        "date": "2026-05-13",
+        "value": 4.67
+      },
+      {
+        "date": "2026-05-14",
+        "value": 4.69
+      },
+      {
+        "date": "2026-05-15",
+        "value": 4.71
+      },
+      {
+        "date": "2026-05-16",
+        "value": 4.73
+      },
+      {
+        "date": "2026-05-17",
+        "value": 4.75
+      },
+      {
+        "date": "2026-05-18",
+        "value": 4.78
+      },
+      {
+        "date": "2026-05-19",
+        "value": 4.8
+      },
+      {
+        "date": "2026-05-20",
+        "value": 4.82
+      },
+      {
+        "date": "2026-05-21",
+        "value": 4.84
+      },
+      {
+        "date": "2026-05-22",
+        "value": 4.86
+      },
+      {
+        "date": "2026-05-23",
+        "value": 4.88
+      },
+      {
+        "date": "2026-05-24",
+        "value": 4.9
       }
     ]
   },
@@ -88114,6 +88514,102 @@
     {
       "date": "2026-04-30",
       "value": 52.8
+    },
+    {
+      "date": "2026-05-01",
+      "value": 52.76
+    },
+    {
+      "date": "2026-05-02",
+      "value": 52.72
+    },
+    {
+      "date": "2026-05-03",
+      "value": 52.67
+    },
+    {
+      "date": "2026-05-04",
+      "value": 52.63
+    },
+    {
+      "date": "2026-05-05",
+      "value": 52.59
+    },
+    {
+      "date": "2026-05-06",
+      "value": 52.55
+    },
+    {
+      "date": "2026-05-07",
+      "value": 52.51
+    },
+    {
+      "date": "2026-05-08",
+      "value": 52.47
+    },
+    {
+      "date": "2026-05-09",
+      "value": 52.43
+    },
+    {
+      "date": "2026-05-10",
+      "value": 52.39
+    },
+    {
+      "date": "2026-05-11",
+      "value": 52.34
+    },
+    {
+      "date": "2026-05-12",
+      "value": 52.3
+    },
+    {
+      "date": "2026-05-13",
+      "value": 52.26
+    },
+    {
+      "date": "2026-05-14",
+      "value": 52.21
+    },
+    {
+      "date": "2026-05-15",
+      "value": 52.17
+    },
+    {
+      "date": "2026-05-16",
+      "value": 52.13
+    },
+    {
+      "date": "2026-05-17",
+      "value": 52.09
+    },
+    {
+      "date": "2026-05-18",
+      "value": 52.06
+    },
+    {
+      "date": "2026-05-19",
+      "value": 52.01
+    },
+    {
+      "date": "2026-05-20",
+      "value": 51.97
+    },
+    {
+      "date": "2026-05-21",
+      "value": 51.93
+    },
+    {
+      "date": "2026-05-22",
+      "value": 51.88
+    },
+    {
+      "date": "2026-05-23",
+      "value": 51.84
+    },
+    {
+      "date": "2026-05-24",
+      "value": 51.8
     }
   ],
   "activePartiesByDate": {
@@ -114669,9 +115165,153 @@
       "Les Républicains",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-05-01": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-02": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-03": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-04": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-05": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-06": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-07": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-08": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-09": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-10": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-11": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-12": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-13": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-14": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-15": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-16": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-17": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-18": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-19": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-20": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-21": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-22": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-23": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-05-24": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-04-30",
+  "latestUpdate": "2026-05-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
