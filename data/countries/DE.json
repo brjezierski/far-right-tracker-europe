@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 28.08,
+  "latestSupport": 28.13,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9600,6 +9600,10 @@
       },
       {
         "date": "2026-05-22",
+        "value": 28.0
+      },
+      {
+        "date": "2026-05-26",
         "value": 29.0
       }
     ]
@@ -28040,7 +28044,23 @@
       },
       {
         "date": "2026-05-22",
-        "value": 28.08
+        "value": 27.88
+      },
+      {
+        "date": "2026-05-23",
+        "value": 27.94
+      },
+      {
+        "date": "2026-05-24",
+        "value": 28.0
+      },
+      {
+        "date": "2026-05-25",
+        "value": 28.07
+      },
+      {
+        "date": "2026-05-26",
+        "value": 28.13
       }
     ]
   },
@@ -46531,7 +46551,23 @@
     },
     {
       "date": "2026-05-22",
-      "value": 28.08
+      "value": 27.88
+    },
+    {
+      "date": "2026-05-23",
+      "value": 27.94
+    },
+    {
+      "date": "2026-05-24",
+      "value": 28.0
+    },
+    {
+      "date": "2026-05-25",
+      "value": 28.07
+    },
+    {
+      "date": "2026-05-26",
+      "value": 28.13
     }
   ],
   "activePartiesByDate": {
@@ -60400,9 +60436,21 @@
     ],
     "2026-05-22": [
       "Alternative for Germany"
+    ],
+    "2026-05-23": [
+      "Alternative for Germany"
+    ],
+    "2026-05-24": [
+      "Alternative for Germany"
+    ],
+    "2026-05-25": [
+      "Alternative for Germany"
+    ],
+    "2026-05-26": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-05-22",
+  "latestUpdate": "2026-05-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
