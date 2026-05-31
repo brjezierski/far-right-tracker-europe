@@ -7,7 +7,7 @@
   "activeParties": [
     "Progress Party"
   ],
-  "latestSupport": 29.74,
+  "latestSupport": 29.56,
   "datapointsByParty": {
     "Progress Party": [
       {
@@ -4597,6 +4597,10 @@
       {
         "date": "2026-05-18",
         "value": 31.4
+      },
+      {
+        "date": "2026-05-25",
+        "value": 29.9
       }
     ]
   },
@@ -23049,6 +23053,34 @@
       {
         "date": "2026-05-18",
         "value": 29.74
+      },
+      {
+        "date": "2026-05-19",
+        "value": 29.71
+      },
+      {
+        "date": "2026-05-20",
+        "value": 29.69
+      },
+      {
+        "date": "2026-05-21",
+        "value": 29.66
+      },
+      {
+        "date": "2026-05-22",
+        "value": 29.64
+      },
+      {
+        "date": "2026-05-23",
+        "value": 29.61
+      },
+      {
+        "date": "2026-05-24",
+        "value": 29.59
+      },
+      {
+        "date": "2026-05-25",
+        "value": 29.56
       }
     ]
   },
@@ -41564,6 +41596,34 @@
     {
       "date": "2026-05-18",
       "value": 29.74
+    },
+    {
+      "date": "2026-05-19",
+      "value": 29.71
+    },
+    {
+      "date": "2026-05-20",
+      "value": 29.69
+    },
+    {
+      "date": "2026-05-21",
+      "value": 29.66
+    },
+    {
+      "date": "2026-05-22",
+      "value": 29.64
+    },
+    {
+      "date": "2026-05-23",
+      "value": 29.61
+    },
+    {
+      "date": "2026-05-24",
+      "value": 29.59
+    },
+    {
+      "date": "2026-05-25",
+      "value": 29.56
     }
   ],
   "activePartiesByDate": {
@@ -55450,9 +55510,30 @@
     ],
     "2026-05-18": [
       "Progress Party"
+    ],
+    "2026-05-19": [
+      "Progress Party"
+    ],
+    "2026-05-20": [
+      "Progress Party"
+    ],
+    "2026-05-21": [
+      "Progress Party"
+    ],
+    "2026-05-22": [
+      "Progress Party"
+    ],
+    "2026-05-23": [
+      "Progress Party"
+    ],
+    "2026-05-24": [
+      "Progress Party"
+    ],
+    "2026-05-25": [
+      "Progress Party"
     ]
   },
-  "latestUpdate": "2026-05-18",
+  "latestUpdate": "2026-05-25",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Norwegian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Norwegian_parliamentary_election",

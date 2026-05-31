@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 38.6,
+  "latestSupport": 38.64,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -4163,7 +4163,7 @@
       },
       {
         "date": "2018-10-01",
-        "value": 3.97
+        "value": 3.98
       },
       {
         "date": "2018-10-02",
@@ -9979,7 +9979,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 28.1
+        "value": 27.85
+      },
+      {
+        "date": "2026-05-29",
+        "value": 29.4
       }
     ],
     "CasaPound": [
@@ -17785,7 +17789,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 6.8
+        "value": 6.25
+      },
+      {
+        "date": "2026-05-29",
+        "value": 7.0
       }
     ],
     "Lega Nord": [
@@ -21881,7 +21889,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 4.0
+        "value": 4.4
+      },
+      {
+        "date": "2026-05-29",
+        "value": 3.6
       }
     ]
   },
@@ -30021,39 +30033,39 @@
       },
       {
         "date": "2018-09-30",
-        "value": 3.55
-      },
-      {
-        "date": "2018-10-01",
         "value": 3.56
       },
       {
+        "date": "2018-10-01",
+        "value": 3.57
+      },
+      {
         "date": "2018-10-02",
-        "value": 3.5
+        "value": 3.51
       },
       {
         "date": "2018-10-03",
-        "value": 3.34
+        "value": 3.35
       },
       {
         "date": "2018-10-04",
-        "value": 3.18
+        "value": 3.19
       },
       {
         "date": "2018-10-05",
-        "value": 3.22
+        "value": 3.23
       },
       {
         "date": "2018-10-06",
-        "value": 3.26
+        "value": 3.27
       },
       {
         "date": "2018-10-07",
-        "value": 3.3
+        "value": 3.31
       },
       {
         "date": "2018-10-08",
-        "value": 3.39
+        "value": 3.4
       },
       {
         "date": "2018-10-09",
@@ -41209,7 +41221,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 27.9
+        "value": 27.85
+      },
+      {
+        "date": "2026-05-29",
+        "value": 27.89
       }
     ],
     "CasaPound": [
@@ -56487,7 +56503,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 6.74
+        "value": 6.63
+      },
+      {
+        "date": "2026-05-29",
+        "value": 6.65
       }
     ],
     "Lega Nord": [
@@ -64319,7 +64339,11 @@
       },
       {
         "date": "2026-05-28",
-        "value": 3.96
+        "value": 4.04
+      },
+      {
+        "date": "2026-05-29",
+        "value": 4.1
       }
     ]
   },
@@ -72498,39 +72522,39 @@
     },
     {
       "date": "2018-09-30",
-      "value": 35.76
+      "value": 35.77
     },
     {
       "date": "2018-10-01",
-      "value": 35.78
+      "value": 35.79
     },
     {
       "date": "2018-10-02",
-      "value": 35.82
+      "value": 35.83
     },
     {
       "date": "2018-10-03",
-      "value": 35.64
+      "value": 35.65
     },
     {
       "date": "2018-10-04",
-      "value": 35.46
+      "value": 35.47
     },
     {
       "date": "2018-10-05",
-      "value": 35.47
-    },
-    {
-      "date": "2018-10-06",
-      "value": 35.47
-    },
-    {
-      "date": "2018-10-07",
       "value": 35.48
     },
     {
+      "date": "2018-10-06",
+      "value": 35.48
+    },
+    {
+      "date": "2018-10-07",
+      "value": 35.49
+    },
+    {
       "date": "2018-10-08",
-      "value": 35.32
+      "value": 35.33
     },
     {
       "date": "2018-10-09",
@@ -83686,7 +83710,11 @@
     },
     {
       "date": "2026-05-28",
-      "value": 38.6
+      "value": 38.52
+    },
+    {
+      "date": "2026-05-29",
+      "value": 38.64
     }
   ],
   "activePartiesByDate": {
@@ -104077,9 +104105,14 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-05-29": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-05-28",
+  "latestUpdate": "2026-05-29",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
