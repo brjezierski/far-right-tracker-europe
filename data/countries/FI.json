@@ -8,7 +8,7 @@
   "activeParties": [
     "Finns Party"
   ],
-  "latestSupport": 13.5,
+  "latestSupport": 13.54,
   "datapointsByParty": {
     "Finnish Reform Movement": [
       {
@@ -1171,7 +1171,7 @@
       },
       {
         "date": "2026-05-18",
-        "value": 13.4
+        "value": 13.6
       }
     ]
   },
@@ -19893,51 +19893,51 @@
       },
       {
         "date": "2026-05-07",
-        "value": 13.75
+        "value": 13.76
       },
       {
         "date": "2026-05-08",
-        "value": 13.73
+        "value": 13.74
       },
       {
         "date": "2026-05-09",
-        "value": 13.71
+        "value": 13.72
       },
       {
         "date": "2026-05-10",
-        "value": 13.68
+        "value": 13.7
       },
       {
         "date": "2026-05-11",
-        "value": 13.66
+        "value": 13.68
       },
       {
         "date": "2026-05-12",
-        "value": 13.64
+        "value": 13.66
       },
       {
         "date": "2026-05-13",
-        "value": 13.62
+        "value": 13.64
       },
       {
         "date": "2026-05-14",
-        "value": 13.59
+        "value": 13.62
       },
       {
         "date": "2026-05-15",
-        "value": 13.57
+        "value": 13.6
       },
       {
         "date": "2026-05-16",
-        "value": 13.55
+        "value": 13.58
       },
       {
         "date": "2026-05-17",
-        "value": 13.52
+        "value": 13.56
       },
       {
         "date": "2026-05-18",
-        "value": 13.5
+        "value": 13.54
       }
     ]
   },
@@ -36468,51 +36468,51 @@
     },
     {
       "date": "2026-05-07",
-      "value": 13.75
+      "value": 13.76
     },
     {
       "date": "2026-05-08",
-      "value": 13.73
+      "value": 13.74
     },
     {
       "date": "2026-05-09",
-      "value": 13.71
+      "value": 13.72
     },
     {
       "date": "2026-05-10",
-      "value": 13.68
+      "value": 13.7
     },
     {
       "date": "2026-05-11",
-      "value": 13.66
+      "value": 13.68
     },
     {
       "date": "2026-05-12",
-      "value": 13.64
+      "value": 13.66
     },
     {
       "date": "2026-05-13",
-      "value": 13.62
+      "value": 13.64
     },
     {
       "date": "2026-05-14",
-      "value": 13.59
+      "value": 13.62
     },
     {
       "date": "2026-05-15",
-      "value": 13.57
+      "value": 13.6
     },
     {
       "date": "2026-05-16",
-      "value": 13.55
+      "value": 13.58
     },
     {
       "date": "2026-05-17",
-      "value": 13.52
+      "value": 13.56
     },
     {
       "date": "2026-05-18",
-      "value": 13.5
+      "value": 13.54
     }
   ],
   "activePartiesByDate": {
