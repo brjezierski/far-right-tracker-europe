@@ -15,7 +15,7 @@
     "Niki",
     "Voice of Reason"
   ],
-  "latestSupport": 12.33,
+  "latestSupport": 12.39,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3298,7 +3298,7 @@
       },
       {
         "date": "2026-06-13",
-        "value": 7.5
+        "value": 7.7
       }
     ],
     "Independent Greeks": [
@@ -5544,7 +5544,7 @@
       },
       {
         "date": "2026-06-13",
-        "value": 1.2
+        "value": 1.35
       }
     ],
     "Spartans": [
@@ -6860,7 +6860,7 @@
       },
       {
         "date": "2026-06-13",
-        "value": 3.6
+        "value": 3.55
       }
     ]
   },
@@ -31334,19 +31334,19 @@
       },
       {
         "date": "2026-06-10",
-        "value": 7.68
+        "value": 7.69
       },
       {
         "date": "2026-06-11",
-        "value": 7.6
+        "value": 7.62
       },
       {
         "date": "2026-06-12",
-        "value": 7.52
+        "value": 7.55
       },
       {
         "date": "2026-06-13",
-        "value": 7.44
+        "value": 7.48
       }
     ],
     "Independent Greeks": [
@@ -46028,19 +46028,19 @@
       },
       {
         "date": "2026-06-10",
-        "value": 1.03
+        "value": 1.04
       },
       {
         "date": "2026-06-11",
-        "value": 1.06
+        "value": 1.07
       },
       {
         "date": "2026-06-12",
-        "value": 1.09
+        "value": 1.11
       },
       {
         "date": "2026-06-13",
-        "value": 1.12
+        "value": 1.15
       }
     ],
     "Spartans": [
@@ -53060,15 +53060,15 @@
       },
       {
         "date": "2026-06-11",
-        "value": 3.81
+        "value": 3.8
       },
       {
         "date": "2026-06-12",
-        "value": 3.79
+        "value": 3.78
       },
       {
         "date": "2026-06-13",
-        "value": 3.77
+        "value": 3.76
       }
     ]
   },
@@ -69615,19 +69615,19 @@
     },
     {
       "date": "2026-06-10",
-      "value": 12.54
+      "value": 12.56
     },
     {
       "date": "2026-06-11",
-      "value": 12.47
+      "value": 12.49
     },
     {
       "date": "2026-06-12",
-      "value": 12.4
+      "value": 12.44
     },
     {
       "date": "2026-06-13",
-      "value": 12.33
+      "value": 12.39
     }
   ],
   "activePartiesByDate": {
