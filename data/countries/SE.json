@@ -7,7 +7,7 @@
   "activeParties": [
     "Sweden Democrats"
   ],
-  "latestSupport": 19.22,
+  "latestSupport": 19.38,
   "datapointsByParty": {
     "Sweden Democrats": [
       {
@@ -2977,6 +2977,10 @@
       {
         "date": "2026-06-07",
         "value": 18.9
+      },
+      {
+        "date": "2026-06-14",
+        "value": 20.0
       }
     ]
   },
@@ -20025,6 +20029,34 @@
       {
         "date": "2026-06-07",
         "value": 19.22
+      },
+      {
+        "date": "2026-06-08",
+        "value": 19.24
+      },
+      {
+        "date": "2026-06-09",
+        "value": 19.27
+      },
+      {
+        "date": "2026-06-10",
+        "value": 19.29
+      },
+      {
+        "date": "2026-06-11",
+        "value": 19.31
+      },
+      {
+        "date": "2026-06-12",
+        "value": 19.33
+      },
+      {
+        "date": "2026-06-13",
+        "value": 19.36
+      },
+      {
+        "date": "2026-06-14",
+        "value": 19.38
       }
     ]
   },
@@ -37168,6 +37200,34 @@
     {
       "date": "2026-06-07",
       "value": 19.22
+    },
+    {
+      "date": "2026-06-08",
+      "value": 19.24
+    },
+    {
+      "date": "2026-06-09",
+      "value": 19.27
+    },
+    {
+      "date": "2026-06-10",
+      "value": 19.29
+    },
+    {
+      "date": "2026-06-11",
+      "value": 19.31
+    },
+    {
+      "date": "2026-06-12",
+      "value": 19.33
+    },
+    {
+      "date": "2026-06-13",
+      "value": 19.36
+    },
+    {
+      "date": "2026-06-14",
+      "value": 19.38
     }
   ],
   "activePartiesByDate": {
@@ -50025,9 +50085,30 @@
     ],
     "2026-06-07": [
       "Sweden Democrats"
+    ],
+    "2026-06-08": [
+      "Sweden Democrats"
+    ],
+    "2026-06-09": [
+      "Sweden Democrats"
+    ],
+    "2026-06-10": [
+      "Sweden Democrats"
+    ],
+    "2026-06-11": [
+      "Sweden Democrats"
+    ],
+    "2026-06-12": [
+      "Sweden Democrats"
+    ],
+    "2026-06-13": [
+      "Sweden Democrats"
+    ],
+    "2026-06-14": [
+      "Sweden Democrats"
     ]
   },
-  "latestUpdate": "2026-06-07",
+  "latestUpdate": "2026-06-14",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",
