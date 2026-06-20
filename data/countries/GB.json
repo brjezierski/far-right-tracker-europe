@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 29.4,
+  "latestSupport": 29.6,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4883,11 +4883,11 @@
       },
       {
         "date": "2026-06-11",
-        "value": 26.0
+        "value": 25.0
       },
       {
         "date": "2026-06-15",
-        "value": 24.0
+        "value": 27.0
       }
     ],
     "Restore Britain": [
@@ -5108,12 +5108,8 @@
         "value": 3.0
       },
       {
-        "date": "2026-06-11",
-        "value": 2.0
-      },
-      {
         "date": "2026-06-15",
-        "value": 4.0
+        "value": 3.0
       }
     ],
     "UK Independence Party": [
@@ -23159,27 +23155,27 @@
       },
       {
         "date": "2026-06-10",
-        "value": 27.5
-      },
-      {
-        "date": "2026-06-11",
         "value": 27.4
       },
       {
+        "date": "2026-06-11",
+        "value": 27.2
+      },
+      {
         "date": "2026-06-12",
-        "value": 27.15
+        "value": 27.1
       },
       {
         "date": "2026-06-13",
-        "value": 26.9
+        "value": 27.0
       },
       {
         "date": "2026-06-14",
-        "value": 26.65
+        "value": 26.9
       },
       {
         "date": "2026-06-15",
-        "value": 26.4
+        "value": 26.8
       }
     ],
     "Restore Britain": [
@@ -23777,31 +23773,31 @@
       },
       {
         "date": "2026-06-09",
-        "value": 2.87
+        "value": 2.97
       },
       {
         "date": "2026-06-10",
-        "value": 2.73
+        "value": 2.94
       },
       {
         "date": "2026-06-11",
-        "value": 2.6
+        "value": 2.91
       },
       {
         "date": "2026-06-12",
-        "value": 2.7
+        "value": 2.89
       },
       {
         "date": "2026-06-13",
-        "value": 2.8
+        "value": 2.86
       },
       {
         "date": "2026-06-14",
-        "value": 2.9
+        "value": 2.83
       },
       {
         "date": "2026-06-15",
-        "value": 3.0
+        "value": 2.8
       }
     ],
     "UK Independence Party": [
@@ -61286,31 +61282,31 @@
     },
     {
       "date": "2026-06-09",
-      "value": 30.47
+      "value": 30.57
     },
     {
       "date": "2026-06-10",
-      "value": 30.23
+      "value": 30.34
     },
     {
       "date": "2026-06-11",
-      "value": 30.0
+      "value": 30.11
     },
     {
       "date": "2026-06-12",
-      "value": 29.85
+      "value": 29.99
     },
     {
       "date": "2026-06-13",
-      "value": 29.7
+      "value": 29.86
     },
     {
       "date": "2026-06-14",
-      "value": 29.55
+      "value": 29.73
     },
     {
       "date": "2026-06-15",
-      "value": 29.4
+      "value": 29.6
     }
   ],
   "activePartiesByDate": {
