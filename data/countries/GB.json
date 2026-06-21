@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 29.6,
+  "latestSupport": 30.0,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4887,6 +4887,14 @@
       },
       {
         "date": "2026-06-15",
+        "value": 27.0
+      },
+      {
+        "date": "2026-06-18",
+        "value": 27.0
+      },
+      {
+        "date": "2026-06-19",
         "value": 27.0
       }
     ],
@@ -23176,6 +23184,22 @@
       {
         "date": "2026-06-15",
         "value": 26.8
+      },
+      {
+        "date": "2026-06-16",
+        "value": 26.8
+      },
+      {
+        "date": "2026-06-17",
+        "value": 26.8
+      },
+      {
+        "date": "2026-06-18",
+        "value": 26.8
+      },
+      {
+        "date": "2026-06-19",
+        "value": 27.2
       }
     ],
     "Restore Britain": [
@@ -61307,6 +61331,22 @@
     {
       "date": "2026-06-15",
       "value": 29.6
+    },
+    {
+      "date": "2026-06-16",
+      "value": 26.8
+    },
+    {
+      "date": "2026-06-17",
+      "value": 26.8
+    },
+    {
+      "date": "2026-06-18",
+      "value": 26.8
+    },
+    {
+      "date": "2026-06-19",
+      "value": 27.2
     }
   ],
   "activePartiesByDate": {
@@ -79377,9 +79417,25 @@
     "2026-06-15": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-06-16": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-06-17": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-06-18": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-06-19": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-06-15",
+  "latestUpdate": "2026-06-19",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
