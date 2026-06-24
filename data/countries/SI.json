@@ -9,7 +9,7 @@
     "Slovenian Democratic Party",
     "Slovenian National Party"
   ],
-  "latestSupport": 29.360000000000003,
+  "latestSupport": 29.94,
   "datapointsByParty": {
     "Slovenian Democratic Party": [
       {
@@ -1231,6 +1231,10 @@
       {
         "date": "2026-06-10",
         "value": 28.3
+      },
+      {
+        "date": "2026-06-11",
+        "value": 26.8
       }
     ],
     "Slovenian National Party": [
@@ -2209,6 +2213,10 @@
       {
         "date": "2026-05-21",
         "value": 3.4
+      },
+      {
+        "date": "2026-06-11",
+        "value": 2.4
       }
     ]
   },
@@ -19265,6 +19273,10 @@
       {
         "date": "2026-06-10",
         "value": 26.92
+      },
+      {
+        "date": "2026-06-11",
+        "value": 27.28
       }
     ],
     "Slovenian National Party": [
@@ -36071,6 +36083,90 @@
       {
         "date": "2026-05-21",
         "value": 2.44
+      },
+      {
+        "date": "2026-05-22",
+        "value": 2.45
+      },
+      {
+        "date": "2026-05-23",
+        "value": 2.46
+      },
+      {
+        "date": "2026-05-24",
+        "value": 2.47
+      },
+      {
+        "date": "2026-05-25",
+        "value": 2.48
+      },
+      {
+        "date": "2026-05-26",
+        "value": 2.49
+      },
+      {
+        "date": "2026-05-27",
+        "value": 2.5
+      },
+      {
+        "date": "2026-05-28",
+        "value": 2.51
+      },
+      {
+        "date": "2026-05-29",
+        "value": 2.52
+      },
+      {
+        "date": "2026-05-30",
+        "value": 2.53
+      },
+      {
+        "date": "2026-05-31",
+        "value": 2.54
+      },
+      {
+        "date": "2026-06-01",
+        "value": 2.56
+      },
+      {
+        "date": "2026-06-02",
+        "value": 2.57
+      },
+      {
+        "date": "2026-06-03",
+        "value": 2.58
+      },
+      {
+        "date": "2026-06-04",
+        "value": 2.59
+      },
+      {
+        "date": "2026-06-05",
+        "value": 2.6
+      },
+      {
+        "date": "2026-06-06",
+        "value": 2.61
+      },
+      {
+        "date": "2026-06-07",
+        "value": 2.62
+      },
+      {
+        "date": "2026-06-08",
+        "value": 2.63
+      },
+      {
+        "date": "2026-06-09",
+        "value": 2.64
+      },
+      {
+        "date": "2026-06-10",
+        "value": 2.65
+      },
+      {
+        "date": "2026-06-11",
+        "value": 2.66
       }
     ]
   },
@@ -53401,83 +53497,87 @@
     },
     {
       "date": "2026-05-22",
-      "value": 27.0
+      "value": 29.45
     },
     {
       "date": "2026-05-23",
-      "value": 26.99
+      "value": 29.45
     },
     {
       "date": "2026-05-24",
-      "value": 26.99
+      "value": 29.46
     },
     {
       "date": "2026-05-25",
-      "value": 26.98
+      "value": 29.46
     },
     {
       "date": "2026-05-26",
-      "value": 26.98
+      "value": 29.47
     },
     {
       "date": "2026-05-27",
-      "value": 26.98
+      "value": 29.48
     },
     {
       "date": "2026-05-28",
-      "value": 26.97
+      "value": 29.48
     },
     {
       "date": "2026-05-29",
-      "value": 26.97
+      "value": 29.49
     },
     {
       "date": "2026-05-30",
-      "value": 26.96
+      "value": 29.49
     },
     {
       "date": "2026-05-31",
-      "value": 26.96
+      "value": 29.5
     },
     {
       "date": "2026-06-01",
-      "value": 26.96
+      "value": 29.52
     },
     {
       "date": "2026-06-02",
-      "value": 26.95
+      "value": 29.52
     },
     {
       "date": "2026-06-03",
-      "value": 26.95
+      "value": 29.53
     },
     {
       "date": "2026-06-04",
-      "value": 26.94
+      "value": 29.53
     },
     {
       "date": "2026-06-05",
-      "value": 26.94
+      "value": 29.54
     },
     {
       "date": "2026-06-06",
-      "value": 26.94
+      "value": 29.55
     },
     {
       "date": "2026-06-07",
-      "value": 26.93
+      "value": 29.55
     },
     {
       "date": "2026-06-08",
-      "value": 26.93
+      "value": 29.56
     },
     {
       "date": "2026-06-09",
-      "value": 26.92
+      "value": 29.56
     },
     {
       "date": "2026-06-10",
-      "value": 26.92
+      "value": 29.57
+    },
+    {
+      "date": "2026-06-11",
+      "value": 29.94
     }
   ],
   "activePartiesByDate": {
@@ -70853,9 +70953,13 @@
     "2026-06-10": [
       "Slovenian Democratic Party",
       "Slovenian National Party"
+    ],
+    "2026-06-11": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
     ]
   },
-  "latestUpdate": "2026-06-10",
+  "latestUpdate": "2026-06-11",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
