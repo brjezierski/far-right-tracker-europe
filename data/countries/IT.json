@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 39.41,
+  "latestSupport": 39.370000000000005,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10047,7 +10047,7 @@
       },
       {
         "date": "2026-06-19",
-        "value": 28.45
+        "value": 27.63
       },
       {
         "date": "2026-06-22",
@@ -10056,6 +10056,10 @@
       {
         "date": "2026-06-23",
         "value": 26.0
+      },
+      {
+        "date": "2026-06-25",
+        "value": 28.2
       }
     ],
     "CasaPound": [
@@ -17929,7 +17933,7 @@
       },
       {
         "date": "2026-06-19",
-        "value": 6.25
+        "value": 6.23
       },
       {
         "date": "2026-06-22",
@@ -17938,6 +17942,10 @@
       {
         "date": "2026-06-23",
         "value": 7.4
+      },
+      {
+        "date": "2026-06-25",
+        "value": 6.4
       }
     ],
     "Lega Nord": [
@@ -22101,7 +22109,7 @@
       },
       {
         "date": "2026-06-19",
-        "value": 5.0
+        "value": 5.73
       },
       {
         "date": "2026-06-22",
@@ -22110,6 +22118,10 @@
       {
         "date": "2026-06-23",
         "value": 6.6
+      },
+      {
+        "date": "2026-06-25",
+        "value": 4.7
       }
     ]
   },
@@ -41525,23 +41537,31 @@
       },
       {
         "date": "2026-06-19",
-        "value": 27.71
+        "value": 27.55
       },
       {
         "date": "2026-06-20",
-        "value": 27.7
+        "value": 27.54
       },
       {
         "date": "2026-06-21",
-        "value": 27.68
+        "value": 27.52
       },
       {
         "date": "2026-06-22",
-        "value": 27.67
+        "value": 27.51
       },
       {
         "date": "2026-06-23",
-        "value": 27.63
+        "value": 27.47
+      },
+      {
+        "date": "2026-06-24",
+        "value": 27.49
+      },
+      {
+        "date": "2026-06-25",
+        "value": 27.51
       }
     ],
     "CasaPound": [
@@ -56924,6 +56944,14 @@
       {
         "date": "2026-06-23",
         "value": 6.37
+      },
+      {
+        "date": "2026-06-24",
+        "value": 6.41
+      },
+      {
+        "date": "2026-06-25",
+        "value": 6.45
       }
     ],
     "Lega Nord": [
@@ -64843,22 +64871,30 @@
       },
       {
         "date": "2026-06-19",
-        "value": 5.23
+        "value": 5.38
       },
       {
         "date": "2026-06-20",
-        "value": 5.23
+        "value": 5.38
       },
       {
         "date": "2026-06-21",
-        "value": 5.23
+        "value": 5.38
       },
       {
         "date": "2026-06-22",
-        "value": 5.23
+        "value": 5.38
       },
       {
         "date": "2026-06-23",
+        "value": 5.56
+      },
+      {
+        "date": "2026-06-24",
+        "value": 5.48
+      },
+      {
+        "date": "2026-06-25",
         "value": 5.41
       }
     ]
@@ -84314,23 +84350,31 @@
     },
     {
       "date": "2026-06-19",
-      "value": 39.35
+      "value": 39.34
     },
     {
       "date": "2026-06-20",
-      "value": 39.35
+      "value": 39.34
     },
     {
       "date": "2026-06-21",
-      "value": 39.33
+      "value": 39.32
     },
     {
       "date": "2026-06-22",
-      "value": 39.33
+      "value": 39.32
     },
     {
       "date": "2026-06-23",
-      "value": 39.41
+      "value": 39.4
+    },
+    {
+      "date": "2026-06-24",
+      "value": 39.38
+    },
+    {
+      "date": "2026-06-25",
+      "value": 39.37
     }
   ],
   "activePartiesByDate": {
@@ -104851,9 +104895,19 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-06-24": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-06-25": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-06-23",
+  "latestUpdate": "2026-06-25",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",

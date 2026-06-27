@@ -13,7 +13,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 49.0,
+  "latestSupport": 48.599999999999994,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1330,6 +1330,10 @@
       },
       {
         "date": "2026-06-11",
+        "value": 2.0
+      },
+      {
+        "date": "2026-06-24",
         "value": 2.0
       }
     ],
@@ -2665,6 +2669,10 @@
       {
         "date": "2026-06-11",
         "value": 9.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 9.0
       }
     ],
     "Rassemblement National": [
@@ -3995,6 +4003,10 @@
       {
         "date": "2026-06-11",
         "value": 34.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 36.0
       }
     ],
     "Reconquête": [
@@ -4613,6 +4625,10 @@
       {
         "date": "2026-06-11",
         "value": 3.0
+      },
+      {
+        "date": "2026-06-24",
+        "value": 4.0
       }
     ]
   },
@@ -23785,6 +23801,58 @@
       {
         "date": "2026-06-11",
         "value": 1.8
+      },
+      {
+        "date": "2026-06-12",
+        "value": 1.82
+      },
+      {
+        "date": "2026-06-13",
+        "value": 1.83
+      },
+      {
+        "date": "2026-06-14",
+        "value": 1.85
+      },
+      {
+        "date": "2026-06-15",
+        "value": 1.86
+      },
+      {
+        "date": "2026-06-16",
+        "value": 1.88
+      },
+      {
+        "date": "2026-06-17",
+        "value": 1.89
+      },
+      {
+        "date": "2026-06-18",
+        "value": 1.91
+      },
+      {
+        "date": "2026-06-19",
+        "value": 1.92
+      },
+      {
+        "date": "2026-06-20",
+        "value": 1.94
+      },
+      {
+        "date": "2026-06-21",
+        "value": 1.95
+      },
+      {
+        "date": "2026-06-22",
+        "value": 1.97
+      },
+      {
+        "date": "2026-06-23",
+        "value": 1.98
+      },
+      {
+        "date": "2026-06-24",
+        "value": 2.0
       }
     ],
     "Les Républicains": [
@@ -42955,6 +43023,58 @@
       {
         "date": "2026-06-11",
         "value": 9.3
+      },
+      {
+        "date": "2026-06-12",
+        "value": 9.25
+      },
+      {
+        "date": "2026-06-13",
+        "value": 9.21
+      },
+      {
+        "date": "2026-06-14",
+        "value": 9.16
+      },
+      {
+        "date": "2026-06-15",
+        "value": 9.12
+      },
+      {
+        "date": "2026-06-16",
+        "value": 9.07
+      },
+      {
+        "date": "2026-06-17",
+        "value": 9.02
+      },
+      {
+        "date": "2026-06-18",
+        "value": 8.98
+      },
+      {
+        "date": "2026-06-19",
+        "value": 8.93
+      },
+      {
+        "date": "2026-06-20",
+        "value": 8.88
+      },
+      {
+        "date": "2026-06-21",
+        "value": 8.84
+      },
+      {
+        "date": "2026-06-22",
+        "value": 8.79
+      },
+      {
+        "date": "2026-06-23",
+        "value": 8.75
+      },
+      {
+        "date": "2026-06-24",
+        "value": 8.7
       }
     ],
     "Rassemblement National": [
@@ -62125,6 +62245,58 @@
       {
         "date": "2026-06-11",
         "value": 33.4
+      },
+      {
+        "date": "2026-06-12",
+        "value": 33.42
+      },
+      {
+        "date": "2026-06-13",
+        "value": 33.43
+      },
+      {
+        "date": "2026-06-14",
+        "value": 33.45
+      },
+      {
+        "date": "2026-06-15",
+        "value": 33.46
+      },
+      {
+        "date": "2026-06-16",
+        "value": 33.48
+      },
+      {
+        "date": "2026-06-17",
+        "value": 33.49
+      },
+      {
+        "date": "2026-06-18",
+        "value": 33.51
+      },
+      {
+        "date": "2026-06-19",
+        "value": 33.52
+      },
+      {
+        "date": "2026-06-20",
+        "value": 33.54
+      },
+      {
+        "date": "2026-06-21",
+        "value": 33.55
+      },
+      {
+        "date": "2026-06-22",
+        "value": 33.57
+      },
+      {
+        "date": "2026-06-23",
+        "value": 33.58
+      },
+      {
+        "date": "2026-06-24",
+        "value": 33.6
       }
     ],
     "Reconquête": [
@@ -69051,6 +69223,58 @@
       {
         "date": "2026-06-11",
         "value": 4.5
+      },
+      {
+        "date": "2026-06-12",
+        "value": 4.48
+      },
+      {
+        "date": "2026-06-13",
+        "value": 4.47
+      },
+      {
+        "date": "2026-06-14",
+        "value": 4.45
+      },
+      {
+        "date": "2026-06-15",
+        "value": 4.44
+      },
+      {
+        "date": "2026-06-16",
+        "value": 4.42
+      },
+      {
+        "date": "2026-06-17",
+        "value": 4.41
+      },
+      {
+        "date": "2026-06-18",
+        "value": 4.39
+      },
+      {
+        "date": "2026-06-19",
+        "value": 4.38
+      },
+      {
+        "date": "2026-06-20",
+        "value": 4.36
+      },
+      {
+        "date": "2026-06-21",
+        "value": 4.35
+      },
+      {
+        "date": "2026-06-22",
+        "value": 4.33
+      },
+      {
+        "date": "2026-06-23",
+        "value": 4.32
+      },
+      {
+        "date": "2026-06-24",
+        "value": 4.3
       }
     ]
   },
@@ -89018,6 +89242,58 @@
     {
       "date": "2026-06-11",
       "value": 49.0
+    },
+    {
+      "date": "2026-06-12",
+      "value": 48.97
+    },
+    {
+      "date": "2026-06-13",
+      "value": 48.94
+    },
+    {
+      "date": "2026-06-14",
+      "value": 48.91
+    },
+    {
+      "date": "2026-06-15",
+      "value": 48.88
+    },
+    {
+      "date": "2026-06-16",
+      "value": 48.85
+    },
+    {
+      "date": "2026-06-17",
+      "value": 48.81
+    },
+    {
+      "date": "2026-06-18",
+      "value": 48.79
+    },
+    {
+      "date": "2026-06-19",
+      "value": 48.75
+    },
+    {
+      "date": "2026-06-20",
+      "value": 48.72
+    },
+    {
+      "date": "2026-06-21",
+      "value": 48.69
+    },
+    {
+      "date": "2026-06-22",
+      "value": 48.66
+    },
+    {
+      "date": "2026-06-23",
+      "value": 48.63
+    },
+    {
+      "date": "2026-06-24",
+      "value": 48.6
     }
   ],
   "activePartiesByDate": {
@@ -115825,9 +116101,87 @@
       "Les Républicains",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-06-12": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-13": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-14": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-15": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-16": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-17": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-18": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-19": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-20": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-21": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-22": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-23": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-06-24": [
+      "Debout la France",
+      "Les Républicains",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-06-11",
+  "latestUpdate": "2026-06-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
