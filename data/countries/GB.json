@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 29.3,
+  "latestSupport": 29.700000000000003,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -4908,6 +4908,10 @@
       {
         "date": "2026-06-25",
         "value": 24.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 26.0
       }
     ],
     "Restore Britain": [
@@ -5134,6 +5138,10 @@
       {
         "date": "2026-06-22",
         "value": 3.0
+      },
+      {
+        "date": "2026-06-26",
+        "value": 6.0
       }
     ],
     "UK Independence Party": [
@@ -23240,6 +23248,10 @@
       {
         "date": "2026-06-25",
         "value": 26.3
+      },
+      {
+        "date": "2026-06-26",
+        "value": 26.1
       }
     ],
     "Restore Britain": [
@@ -23890,6 +23902,22 @@
       {
         "date": "2026-06-22",
         "value": 3.0
+      },
+      {
+        "date": "2026-06-23",
+        "value": 3.15
+      },
+      {
+        "date": "2026-06-24",
+        "value": 3.3
+      },
+      {
+        "date": "2026-06-25",
+        "value": 3.45
+      },
+      {
+        "date": "2026-06-26",
+        "value": 3.6
       }
     ],
     "UK Independence Party": [
@@ -61430,15 +61458,19 @@
     },
     {
       "date": "2026-06-23",
-      "value": 26.7
+      "value": 29.85
     },
     {
       "date": "2026-06-24",
-      "value": 26.9
+      "value": 30.2
     },
     {
       "date": "2026-06-25",
-      "value": 26.3
+      "value": 29.75
+    },
+    {
+      "date": "2026-06-26",
+      "value": 29.7
     }
   ],
   "activePartiesByDate": {
@@ -79549,9 +79581,13 @@
     "2026-06-25": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-06-26": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-06-25",
+  "latestUpdate": "2026-06-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
