@@ -9653,6 +9653,14 @@
       {
         "date": "2026-06-22",
         "value": 28.33
+      },
+      {
+        "date": "2026-06-26",
+        "value": 29.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 27.5
       }
     ]
   },
@@ -28216,6 +28224,34 @@
       },
       {
         "date": "2026-06-22",
+        "value": 28.37
+      },
+      {
+        "date": "2026-06-23",
+        "value": 28.39
+      },
+      {
+        "date": "2026-06-24",
+        "value": 28.42
+      },
+      {
+        "date": "2026-06-25",
+        "value": 28.45
+      },
+      {
+        "date": "2026-06-26",
+        "value": 28.47
+      },
+      {
+        "date": "2026-06-27",
+        "value": 28.44
+      },
+      {
+        "date": "2026-06-28",
+        "value": 28.4
+      },
+      {
+        "date": "2026-06-29",
         "value": 28.37
       }
     ]
@@ -46832,6 +46868,34 @@
     {
       "date": "2026-06-22",
       "value": 28.37
+    },
+    {
+      "date": "2026-06-23",
+      "value": 28.39
+    },
+    {
+      "date": "2026-06-24",
+      "value": 28.42
+    },
+    {
+      "date": "2026-06-25",
+      "value": 28.45
+    },
+    {
+      "date": "2026-06-26",
+      "value": 28.47
+    },
+    {
+      "date": "2026-06-27",
+      "value": 28.44
+    },
+    {
+      "date": "2026-06-28",
+      "value": 28.4
+    },
+    {
+      "date": "2026-06-29",
+      "value": 28.37
     }
   ],
   "activePartiesByDate": {
@@ -60793,9 +60857,30 @@
     ],
     "2026-06-22": [
       "Alternative for Germany"
+    ],
+    "2026-06-23": [
+      "Alternative for Germany"
+    ],
+    "2026-06-24": [
+      "Alternative for Germany"
+    ],
+    "2026-06-25": [
+      "Alternative for Germany"
+    ],
+    "2026-06-26": [
+      "Alternative for Germany"
+    ],
+    "2026-06-27": [
+      "Alternative for Germany"
+    ],
+    "2026-06-28": [
+      "Alternative for Germany"
+    ],
+    "2026-06-29": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-06-22",
+  "latestUpdate": "2026-06-29",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
