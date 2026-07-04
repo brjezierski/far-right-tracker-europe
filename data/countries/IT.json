@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 39.06,
+  "latestSupport": 39.089999999999996,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10064,6 +10064,14 @@
       {
         "date": "2026-06-29",
         "value": 27.3
+      },
+      {
+        "date": "2026-07-01",
+        "value": 26.9
+      },
+      {
+        "date": "2026-07-02",
+        "value": 27.9
       }
     ],
     "CasaPound": [
@@ -17954,6 +17962,14 @@
       {
         "date": "2026-06-29",
         "value": 5.4
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5.4
+      },
+      {
+        "date": "2026-07-02",
+        "value": 6.4
       }
     ],
     "Lega Nord": [
@@ -22134,6 +22150,14 @@
       {
         "date": "2026-06-29",
         "value": 5.6
+      },
+      {
+        "date": "2026-07-01",
+        "value": 6.4
+      },
+      {
+        "date": "2026-07-02",
+        "value": 5.2
       }
     ]
   },
@@ -41590,6 +41614,18 @@
       {
         "date": "2026-06-29",
         "value": 27.25
+      },
+      {
+        "date": "2026-06-30",
+        "value": 27.18
+      },
+      {
+        "date": "2026-07-01",
+        "value": 27.1
+      },
+      {
+        "date": "2026-07-02",
+        "value": 27.14
       }
     ],
     "CasaPound": [
@@ -56996,6 +57032,18 @@
       {
         "date": "2026-06-29",
         "value": 6.09
+      },
+      {
+        "date": "2026-06-30",
+        "value": 6.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5.92
+      },
+      {
+        "date": "2026-07-02",
+        "value": 6.12
       }
     ],
     "Lega Nord": [
@@ -64956,6 +65004,18 @@
       {
         "date": "2026-06-29",
         "value": 5.72
+      },
+      {
+        "date": "2026-06-30",
+        "value": 5.79
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5.85
+      },
+      {
+        "date": "2026-07-02",
+        "value": 5.83
       }
     ]
   },
@@ -84451,6 +84511,18 @@
     {
       "date": "2026-06-29",
       "value": 39.06
+    },
+    {
+      "date": "2026-06-30",
+      "value": 38.97
+    },
+    {
+      "date": "2026-07-01",
+      "value": 38.87
+    },
+    {
+      "date": "2026-07-02",
+      "value": 39.09
     }
   ],
   "activePartiesByDate": {
@@ -105001,9 +105073,24 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-06-30": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-07-01": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-07-02": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-06-29",
+  "latestUpdate": "2026-07-02",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
