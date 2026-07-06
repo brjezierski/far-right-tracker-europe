@@ -3,7 +3,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/2017_Albanian_parliamentary_election",
       "https://en.wikipedia.org/wiki/2021_Albanian_parliamentary_election",
-      "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election"
+      "https://en.wikipedia.org/wiki/2025_Albanian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Next_Albanian_parliamentary_election"
     ]
   },
   "Armenia": {
@@ -30,7 +31,10 @@
     ]
   },
   "Bosnia and Herzegovina": {
-    "links": ["https://en.wikipedia.org/wiki/2022_Bosnian_general_election"]
+    "links": [
+      "https://en.wikipedia.org/wiki/2022_Bosnian_general_election",
+      "https://en.wikipedia.org/wiki/2026_Bosnian_general_election"
+    ]
   },
   "Bulgaria": {
     "links": [
@@ -64,7 +68,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election"
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Czech_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Next_Czech_parliamentary_election"
     ],
     "headers": ["Individual polls", "Percentage", "Polls"]
   },
@@ -130,7 +135,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2030_Hungarian_parliamentary_election"
     ],
     "headers": ["Individual parties", "Poll results", "Polling"]
   },
@@ -166,7 +172,8 @@
       "https://en.wikipedia.org/wiki/2019_Kosovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/2021_Kosovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/February_2025_Kosovan_parliamentary_election",
-      "https://en.wikipedia.org/wiki/December_2025_Kosovan_parliamentary_election"
+      "https://en.wikipedia.org/wiki/December_2025_Kosovan_parliamentary_election",
+      "https://en.wikipedia.org/wiki/2026_Kosovan_parliamentary_election"
     ],
     "headers": ["National polls", "Opinion polls"]
   },
@@ -206,7 +213,8 @@
     "links": [
       "https://en.wikipedia.org/wiki/2019_Moldovan_parliamentary_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Moldovan_parliamentary_election",
-      "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election"
+      "https://en.wikipedia.org/wiki/2025_Moldovan_parliamentary_election",
+      "https://en.wikipedia.org/wiki/Next_Moldovan_parliamentary_election"
     ]
   },
   "Montenegro": {
