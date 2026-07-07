@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 45.88,
+  "latestSupport": 28.6,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2308,6 +2308,50 @@
       {
         "date": "2026-04-12",
         "value": 36.33
+      },
+      {
+        "date": "2026-04-20",
+        "value": 25.0
+      },
+      {
+        "date": "2026-05-02",
+        "value": 23.0
+      },
+      {
+        "date": "2026-05-09",
+        "value": 27.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 25.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 23.5
+      },
+      {
+        "date": "2026-05-14",
+        "value": 20.0
+      },
+      {
+        "date": "2026-06-03",
+        "value": 20.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 28.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 24.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 21.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 23.5
       }
     ],
     "Jobbik": [
@@ -5588,6 +5632,50 @@
       {
         "date": "2026-04-12",
         "value": 5.9
+      },
+      {
+        "date": "2026-04-20",
+        "value": 6.0
+      },
+      {
+        "date": "2026-05-02",
+        "value": 6.0
+      },
+      {
+        "date": "2026-05-09",
+        "value": 7.0
+      },
+      {
+        "date": "2026-05-11",
+        "value": 5.0
+      },
+      {
+        "date": "2026-05-13",
+        "value": 6.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 5.0
+      },
+      {
+        "date": "2026-06-03",
+        "value": 5.0
+      },
+      {
+        "date": "2026-06-08",
+        "value": 6.0
+      },
+      {
+        "date": "2026-06-17",
+        "value": 5.0
+      },
+      {
+        "date": "2026-06-29",
+        "value": 4.0
+      },
+      {
+        "date": "2026-07-01",
+        "value": 6.5
       }
     ]
   },
@@ -22996,6 +23084,326 @@
       {
         "date": "2026-04-12",
         "value": 40.31
+      },
+      {
+        "date": "2026-04-13",
+        "value": 39.8
+      },
+      {
+        "date": "2026-04-14",
+        "value": 39.29
+      },
+      {
+        "date": "2026-04-15",
+        "value": 38.78
+      },
+      {
+        "date": "2026-04-16",
+        "value": 38.27
+      },
+      {
+        "date": "2026-04-17",
+        "value": 37.76
+      },
+      {
+        "date": "2026-04-18",
+        "value": 37.25
+      },
+      {
+        "date": "2026-04-19",
+        "value": 36.74
+      },
+      {
+        "date": "2026-04-20",
+        "value": 36.23
+      },
+      {
+        "date": "2026-04-21",
+        "value": 35.95
+      },
+      {
+        "date": "2026-04-22",
+        "value": 35.68
+      },
+      {
+        "date": "2026-04-23",
+        "value": 35.41
+      },
+      {
+        "date": "2026-04-24",
+        "value": 35.13
+      },
+      {
+        "date": "2026-04-25",
+        "value": 34.85
+      },
+      {
+        "date": "2026-04-26",
+        "value": 34.58
+      },
+      {
+        "date": "2026-04-27",
+        "value": 34.3
+      },
+      {
+        "date": "2026-04-28",
+        "value": 34.03
+      },
+      {
+        "date": "2026-04-29",
+        "value": 33.75
+      },
+      {
+        "date": "2026-04-30",
+        "value": 33.48
+      },
+      {
+        "date": "2026-05-01",
+        "value": 33.2
+      },
+      {
+        "date": "2026-05-02",
+        "value": 32.93
+      },
+      {
+        "date": "2026-05-03",
+        "value": 32.55
+      },
+      {
+        "date": "2026-05-04",
+        "value": 32.18
+      },
+      {
+        "date": "2026-05-05",
+        "value": 31.8
+      },
+      {
+        "date": "2026-05-06",
+        "value": 31.42
+      },
+      {
+        "date": "2026-05-07",
+        "value": 31.04
+      },
+      {
+        "date": "2026-05-08",
+        "value": 30.67
+      },
+      {
+        "date": "2026-05-09",
+        "value": 30.29
+      },
+      {
+        "date": "2026-05-10",
+        "value": 28.78
+      },
+      {
+        "date": "2026-05-11",
+        "value": 27.27
+      },
+      {
+        "date": "2026-05-12",
+        "value": 25.98
+      },
+      {
+        "date": "2026-05-13",
+        "value": 24.7
+      },
+      {
+        "date": "2026-05-14",
+        "value": 23.7
+      },
+      {
+        "date": "2026-05-15",
+        "value": 23.67
+      },
+      {
+        "date": "2026-05-16",
+        "value": 23.64
+      },
+      {
+        "date": "2026-05-17",
+        "value": 23.61
+      },
+      {
+        "date": "2026-05-18",
+        "value": 23.58
+      },
+      {
+        "date": "2026-05-19",
+        "value": 23.55
+      },
+      {
+        "date": "2026-05-20",
+        "value": 23.52
+      },
+      {
+        "date": "2026-05-21",
+        "value": 23.49
+      },
+      {
+        "date": "2026-05-22",
+        "value": 23.46
+      },
+      {
+        "date": "2026-05-23",
+        "value": 23.43
+      },
+      {
+        "date": "2026-05-24",
+        "value": 23.4
+      },
+      {
+        "date": "2026-05-25",
+        "value": 23.37
+      },
+      {
+        "date": "2026-05-26",
+        "value": 23.34
+      },
+      {
+        "date": "2026-05-27",
+        "value": 23.31
+      },
+      {
+        "date": "2026-05-28",
+        "value": 23.28
+      },
+      {
+        "date": "2026-05-29",
+        "value": 23.25
+      },
+      {
+        "date": "2026-05-30",
+        "value": 23.22
+      },
+      {
+        "date": "2026-05-31",
+        "value": 23.19
+      },
+      {
+        "date": "2026-06-01",
+        "value": 23.16
+      },
+      {
+        "date": "2026-06-02",
+        "value": 23.13
+      },
+      {
+        "date": "2026-06-03",
+        "value": 23.1
+      },
+      {
+        "date": "2026-06-04",
+        "value": 23.14
+      },
+      {
+        "date": "2026-06-05",
+        "value": 23.18
+      },
+      {
+        "date": "2026-06-06",
+        "value": 23.22
+      },
+      {
+        "date": "2026-06-07",
+        "value": 23.26
+      },
+      {
+        "date": "2026-06-08",
+        "value": 23.3
+      },
+      {
+        "date": "2026-06-09",
+        "value": 23.28
+      },
+      {
+        "date": "2026-06-10",
+        "value": 23.26
+      },
+      {
+        "date": "2026-06-11",
+        "value": 23.23
+      },
+      {
+        "date": "2026-06-12",
+        "value": 23.21
+      },
+      {
+        "date": "2026-06-13",
+        "value": 23.19
+      },
+      {
+        "date": "2026-06-14",
+        "value": 23.17
+      },
+      {
+        "date": "2026-06-15",
+        "value": 23.14
+      },
+      {
+        "date": "2026-06-16",
+        "value": 23.12
+      },
+      {
+        "date": "2026-06-17",
+        "value": 23.1
+      },
+      {
+        "date": "2026-06-18",
+        "value": 23.06
+      },
+      {
+        "date": "2026-06-19",
+        "value": 23.02
+      },
+      {
+        "date": "2026-06-20",
+        "value": 22.98
+      },
+      {
+        "date": "2026-06-21",
+        "value": 22.93
+      },
+      {
+        "date": "2026-06-22",
+        "value": 22.89
+      },
+      {
+        "date": "2026-06-23",
+        "value": 22.85
+      },
+      {
+        "date": "2026-06-24",
+        "value": 22.81
+      },
+      {
+        "date": "2026-06-25",
+        "value": 22.77
+      },
+      {
+        "date": "2026-06-26",
+        "value": 22.73
+      },
+      {
+        "date": "2026-06-27",
+        "value": 22.68
+      },
+      {
+        "date": "2026-06-28",
+        "value": 22.64
+      },
+      {
+        "date": "2026-06-29",
+        "value": 22.6
+      },
+      {
+        "date": "2026-06-30",
+        "value": 22.95
+      },
+      {
+        "date": "2026-07-01",
+        "value": 23.3
       }
     ],
     "Jobbik": [
@@ -50828,6 +51236,326 @@
       {
         "date": "2026-04-12",
         "value": 5.57
+      },
+      {
+        "date": "2026-04-13",
+        "value": 5.53
+      },
+      {
+        "date": "2026-04-14",
+        "value": 5.5
+      },
+      {
+        "date": "2026-04-15",
+        "value": 5.46
+      },
+      {
+        "date": "2026-04-16",
+        "value": 5.42
+      },
+      {
+        "date": "2026-04-17",
+        "value": 5.38
+      },
+      {
+        "date": "2026-04-18",
+        "value": 5.34
+      },
+      {
+        "date": "2026-04-19",
+        "value": 5.31
+      },
+      {
+        "date": "2026-04-20",
+        "value": 5.27
+      },
+      {
+        "date": "2026-04-21",
+        "value": 5.29
+      },
+      {
+        "date": "2026-04-22",
+        "value": 5.32
+      },
+      {
+        "date": "2026-04-23",
+        "value": 5.34
+      },
+      {
+        "date": "2026-04-24",
+        "value": 5.37
+      },
+      {
+        "date": "2026-04-25",
+        "value": 5.39
+      },
+      {
+        "date": "2026-04-26",
+        "value": 5.42
+      },
+      {
+        "date": "2026-04-27",
+        "value": 5.45
+      },
+      {
+        "date": "2026-04-28",
+        "value": 5.47
+      },
+      {
+        "date": "2026-04-29",
+        "value": 5.5
+      },
+      {
+        "date": "2026-04-30",
+        "value": 5.52
+      },
+      {
+        "date": "2026-05-01",
+        "value": 5.54
+      },
+      {
+        "date": "2026-05-02",
+        "value": 5.57
+      },
+      {
+        "date": "2026-05-03",
+        "value": 5.64
+      },
+      {
+        "date": "2026-05-04",
+        "value": 5.7
+      },
+      {
+        "date": "2026-05-05",
+        "value": 5.77
+      },
+      {
+        "date": "2026-05-06",
+        "value": 5.84
+      },
+      {
+        "date": "2026-05-07",
+        "value": 5.91
+      },
+      {
+        "date": "2026-05-08",
+        "value": 5.97
+      },
+      {
+        "date": "2026-05-09",
+        "value": 6.04
+      },
+      {
+        "date": "2026-05-10",
+        "value": 6.01
+      },
+      {
+        "date": "2026-05-11",
+        "value": 5.98
+      },
+      {
+        "date": "2026-05-12",
+        "value": 5.99
+      },
+      {
+        "date": "2026-05-13",
+        "value": 6.0
+      },
+      {
+        "date": "2026-05-14",
+        "value": 5.8
+      },
+      {
+        "date": "2026-05-15",
+        "value": 5.79
+      },
+      {
+        "date": "2026-05-16",
+        "value": 5.78
+      },
+      {
+        "date": "2026-05-17",
+        "value": 5.77
+      },
+      {
+        "date": "2026-05-18",
+        "value": 5.76
+      },
+      {
+        "date": "2026-05-19",
+        "value": 5.75
+      },
+      {
+        "date": "2026-05-20",
+        "value": 5.74
+      },
+      {
+        "date": "2026-05-21",
+        "value": 5.73
+      },
+      {
+        "date": "2026-05-22",
+        "value": 5.72
+      },
+      {
+        "date": "2026-05-23",
+        "value": 5.71
+      },
+      {
+        "date": "2026-05-24",
+        "value": 5.7
+      },
+      {
+        "date": "2026-05-25",
+        "value": 5.69
+      },
+      {
+        "date": "2026-05-26",
+        "value": 5.68
+      },
+      {
+        "date": "2026-05-27",
+        "value": 5.67
+      },
+      {
+        "date": "2026-05-28",
+        "value": 5.66
+      },
+      {
+        "date": "2026-05-29",
+        "value": 5.65
+      },
+      {
+        "date": "2026-05-30",
+        "value": 5.64
+      },
+      {
+        "date": "2026-05-31",
+        "value": 5.63
+      },
+      {
+        "date": "2026-06-01",
+        "value": 5.62
+      },
+      {
+        "date": "2026-06-02",
+        "value": 5.61
+      },
+      {
+        "date": "2026-06-03",
+        "value": 5.6
+      },
+      {
+        "date": "2026-06-04",
+        "value": 5.56
+      },
+      {
+        "date": "2026-06-05",
+        "value": 5.52
+      },
+      {
+        "date": "2026-06-06",
+        "value": 5.48
+      },
+      {
+        "date": "2026-06-07",
+        "value": 5.44
+      },
+      {
+        "date": "2026-06-08",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-09",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-10",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-11",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-12",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-13",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-14",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-15",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-16",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-17",
+        "value": 5.4
+      },
+      {
+        "date": "2026-06-18",
+        "value": 5.37
+      },
+      {
+        "date": "2026-06-19",
+        "value": 5.33
+      },
+      {
+        "date": "2026-06-20",
+        "value": 5.3
+      },
+      {
+        "date": "2026-06-21",
+        "value": 5.27
+      },
+      {
+        "date": "2026-06-22",
+        "value": 5.23
+      },
+      {
+        "date": "2026-06-23",
+        "value": 5.2
+      },
+      {
+        "date": "2026-06-24",
+        "value": 5.17
+      },
+      {
+        "date": "2026-06-25",
+        "value": 5.13
+      },
+      {
+        "date": "2026-06-26",
+        "value": 5.1
+      },
+      {
+        "date": "2026-06-27",
+        "value": 5.07
+      },
+      {
+        "date": "2026-06-28",
+        "value": 5.03
+      },
+      {
+        "date": "2026-06-29",
+        "value": 5.0
+      },
+      {
+        "date": "2026-06-30",
+        "value": 5.15
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5.3
       }
     ]
   },
@@ -68391,6 +69119,326 @@
     {
       "date": "2026-04-12",
       "value": 45.88
+    },
+    {
+      "date": "2026-04-13",
+      "value": 45.33
+    },
+    {
+      "date": "2026-04-14",
+      "value": 44.79
+    },
+    {
+      "date": "2026-04-15",
+      "value": 44.24
+    },
+    {
+      "date": "2026-04-16",
+      "value": 43.69
+    },
+    {
+      "date": "2026-04-17",
+      "value": 43.14
+    },
+    {
+      "date": "2026-04-18",
+      "value": 42.59
+    },
+    {
+      "date": "2026-04-19",
+      "value": 42.05
+    },
+    {
+      "date": "2026-04-20",
+      "value": 41.5
+    },
+    {
+      "date": "2026-04-21",
+      "value": 41.24
+    },
+    {
+      "date": "2026-04-22",
+      "value": 41.0
+    },
+    {
+      "date": "2026-04-23",
+      "value": 40.75
+    },
+    {
+      "date": "2026-04-24",
+      "value": 40.5
+    },
+    {
+      "date": "2026-04-25",
+      "value": 40.24
+    },
+    {
+      "date": "2026-04-26",
+      "value": 40.0
+    },
+    {
+      "date": "2026-04-27",
+      "value": 39.75
+    },
+    {
+      "date": "2026-04-28",
+      "value": 39.5
+    },
+    {
+      "date": "2026-04-29",
+      "value": 39.25
+    },
+    {
+      "date": "2026-04-30",
+      "value": 39.0
+    },
+    {
+      "date": "2026-05-01",
+      "value": 38.74
+    },
+    {
+      "date": "2026-05-02",
+      "value": 38.5
+    },
+    {
+      "date": "2026-05-03",
+      "value": 38.19
+    },
+    {
+      "date": "2026-05-04",
+      "value": 37.88
+    },
+    {
+      "date": "2026-05-05",
+      "value": 37.57
+    },
+    {
+      "date": "2026-05-06",
+      "value": 37.26
+    },
+    {
+      "date": "2026-05-07",
+      "value": 36.95
+    },
+    {
+      "date": "2026-05-08",
+      "value": 36.64
+    },
+    {
+      "date": "2026-05-09",
+      "value": 36.33
+    },
+    {
+      "date": "2026-05-10",
+      "value": 34.79
+    },
+    {
+      "date": "2026-05-11",
+      "value": 33.25
+    },
+    {
+      "date": "2026-05-12",
+      "value": 31.97
+    },
+    {
+      "date": "2026-05-13",
+      "value": 30.7
+    },
+    {
+      "date": "2026-05-14",
+      "value": 29.5
+    },
+    {
+      "date": "2026-05-15",
+      "value": 29.46
+    },
+    {
+      "date": "2026-05-16",
+      "value": 29.42
+    },
+    {
+      "date": "2026-05-17",
+      "value": 29.38
+    },
+    {
+      "date": "2026-05-18",
+      "value": 29.34
+    },
+    {
+      "date": "2026-05-19",
+      "value": 29.3
+    },
+    {
+      "date": "2026-05-20",
+      "value": 29.26
+    },
+    {
+      "date": "2026-05-21",
+      "value": 29.22
+    },
+    {
+      "date": "2026-05-22",
+      "value": 29.18
+    },
+    {
+      "date": "2026-05-23",
+      "value": 29.14
+    },
+    {
+      "date": "2026-05-24",
+      "value": 29.1
+    },
+    {
+      "date": "2026-05-25",
+      "value": 29.06
+    },
+    {
+      "date": "2026-05-26",
+      "value": 29.02
+    },
+    {
+      "date": "2026-05-27",
+      "value": 28.98
+    },
+    {
+      "date": "2026-05-28",
+      "value": 28.94
+    },
+    {
+      "date": "2026-05-29",
+      "value": 28.9
+    },
+    {
+      "date": "2026-05-30",
+      "value": 28.86
+    },
+    {
+      "date": "2026-05-31",
+      "value": 28.82
+    },
+    {
+      "date": "2026-06-01",
+      "value": 28.78
+    },
+    {
+      "date": "2026-06-02",
+      "value": 28.74
+    },
+    {
+      "date": "2026-06-03",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-04",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-05",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-06",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-07",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-08",
+      "value": 28.7
+    },
+    {
+      "date": "2026-06-09",
+      "value": 28.68
+    },
+    {
+      "date": "2026-06-10",
+      "value": 28.66
+    },
+    {
+      "date": "2026-06-11",
+      "value": 28.63
+    },
+    {
+      "date": "2026-06-12",
+      "value": 28.61
+    },
+    {
+      "date": "2026-06-13",
+      "value": 28.59
+    },
+    {
+      "date": "2026-06-14",
+      "value": 28.57
+    },
+    {
+      "date": "2026-06-15",
+      "value": 28.54
+    },
+    {
+      "date": "2026-06-16",
+      "value": 28.52
+    },
+    {
+      "date": "2026-06-17",
+      "value": 28.5
+    },
+    {
+      "date": "2026-06-18",
+      "value": 28.43
+    },
+    {
+      "date": "2026-06-19",
+      "value": 28.35
+    },
+    {
+      "date": "2026-06-20",
+      "value": 28.28
+    },
+    {
+      "date": "2026-06-21",
+      "value": 28.2
+    },
+    {
+      "date": "2026-06-22",
+      "value": 28.12
+    },
+    {
+      "date": "2026-06-23",
+      "value": 28.05
+    },
+    {
+      "date": "2026-06-24",
+      "value": 27.98
+    },
+    {
+      "date": "2026-06-25",
+      "value": 27.9
+    },
+    {
+      "date": "2026-06-26",
+      "value": 27.83
+    },
+    {
+      "date": "2026-06-27",
+      "value": 27.75
+    },
+    {
+      "date": "2026-06-28",
+      "value": 27.67
+    },
+    {
+      "date": "2026-06-29",
+      "value": 27.6
+    },
+    {
+      "date": "2026-06-30",
+      "value": 28.1
+    },
+    {
+      "date": "2026-07-01",
+      "value": 28.6
     }
   ],
   "activePartiesByDate": {
@@ -88449,12 +89497,333 @@
     "2026-04-12": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-04-13": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-14": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-15": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-16": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-17": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-18": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-19": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-20": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-21": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-22": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-23": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-24": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-25": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-26": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-27": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-28": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-29": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-04-30": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-01": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-02": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-03": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-04": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-05": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-06": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-07": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-08": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-09": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-10": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-11": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-12": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-13": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-14": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-15": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-16": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-17": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-18": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-19": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-20": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-21": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-22": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-23": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-24": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-25": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-26": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-27": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-28": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-29": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-30": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-05-31": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-01": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-02": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-03": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-04": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-05": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-06": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-07": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-08": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-09": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-10": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-11": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-12": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-13": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-14": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-15": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-16": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-17": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-18": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-19": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-20": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-21": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-22": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-23": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-24": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-25": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-26": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-27": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-28": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-29": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-06-30": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-07-01": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-04-12",
+  "latestUpdate": "2026-07-01",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election"
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Hungarian_parliamentary_election",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2030_Hungarian_parliamentary_election"
   ]
 }

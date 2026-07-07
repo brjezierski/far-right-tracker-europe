@@ -16,7 +16,7 @@
     "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 12.77,
+  "latestSupport": 12.83,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3323,7 +3323,7 @@
       },
       {
         "date": "2026-07-03",
-        "value": 7.1
+        "value": 7.33
       }
     ],
     "Independent Greeks": [
@@ -5593,7 +5593,7 @@
       },
       {
         "date": "2026-07-03",
-        "value": 1.13
+        "value": 1.0
       }
     ],
     "Spartans": [
@@ -6941,7 +6941,7 @@
       },
       {
         "date": "2026-07-03",
-        "value": 3.53
+        "value": 3.77
       }
     ]
   },
@@ -31499,15 +31499,15 @@
       },
       {
         "date": "2026-07-01",
-        "value": 7.34
+        "value": 7.36
       },
       {
         "date": "2026-07-02",
-        "value": 7.37
+        "value": 7.4
       },
       {
         "date": "2026-07-03",
-        "value": 7.4
+        "value": 7.45
       }
     ],
     "Independent Greeks": [
@@ -46273,15 +46273,15 @@
       },
       {
         "date": "2026-07-01",
-        "value": 1.2
+        "value": 1.19
       },
       {
         "date": "2026-07-02",
-        "value": 1.22
+        "value": 1.2
       },
       {
         "date": "2026-07-03",
-        "value": 1.25
+        "value": 1.22
       }
     ],
     "Spartans": [
@@ -53473,15 +53473,15 @@
       },
       {
         "date": "2026-07-01",
-        "value": 3.16
+        "value": 3.17
       },
       {
         "date": "2026-07-02",
-        "value": 3.13
+        "value": 3.16
       },
       {
         "date": "2026-07-03",
-        "value": 3.1
+        "value": 3.14
       }
     ]
   },
@@ -70112,15 +70112,15 @@
     },
     {
       "date": "2026-07-01",
-      "value": 11.7
-    },
-    {
-      "date": "2026-07-02",
       "value": 11.72
     },
     {
+      "date": "2026-07-02",
+      "value": 11.76
+    },
+    {
       "date": "2026-07-03",
-      "value": 11.75
+      "value": 11.81
     }
   ],
   "activePartiesByDate": {
