@@ -644,7 +644,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2021-10-11,Civic Coalition,27.1,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2021-10-13,Civic Coalition,25.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2021-10-13,Civic Coalition,26.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
-2021-10-14,Civic Coalition,15.3,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2021-10-18,Civic Coalition,26.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2021-10-22,Civic Coalition,23.3,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2021-10-23,Civic Coalition,24.5,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
@@ -1427,6 +1426,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Civic Coalition,32.62,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2026-07-03,Civic Coalition,29.1,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2026-07-08,Civic Coalition,31.3,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
+2026-07-08,Civic Coalition,25.1,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2015-11-18,Civic Platform,22.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2015-11-19,Civic Platform,18.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2015-11-27,Civic Platform,16.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
@@ -2892,6 +2892,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Confederation Liberty and Independence,13.38,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2026-07-03,Confederation Liberty and Independence,13.3,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2026-07-08,Confederation Liberty and Independence,13.4,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
+2026-07-08,Confederation Liberty and Independence,15.2,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2025-05-28,Confederation of the Polish Crown,5.2,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
 2025-05-29,Confederation of the Polish Crown,4.0,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
 2025-06-06,Confederation of the Polish Crown,6.9,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
@@ -3032,6 +3033,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Confederation of the Polish Crown,7.99,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
 2026-07-03,Confederation of the Polish Crown,11.0,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
 2026-07-08,Confederation of the Polish Crown,8.0,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
+2026-07-08,Confederation of the Polish Crown,8.2,Far-right,Ultranationalism Traditionalist Catholicism Ultraconservatism Hard Euroscepticism Enthronement,https://en.wikipedia.org/wiki/Confederation_of_the_Polish_Crown
 2015-12-17,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-01-09,Democratic Left Alliance,1.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-01-14,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
@@ -4445,6 +4447,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Law and Justice,27.54,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2026-07-03,Law and Justice,23.2,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2026-07-08,Law and Justice,22.8,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2026-07-08,Law and Justice,19.1,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2015-11-18,Modern,9.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2015-11-19,Modern,10.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2015-11-27,Modern,17.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
@@ -5395,6 +5398,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Partia Razem,4.29,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2026-07-03,Partia Razem,2.3,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2026-07-08,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2026-07-08,Partia Razem,4.1,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2020-07-04,Poland 2050,11.9,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2020-07-09,Poland 2050,12.12,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2020-08-12,Poland 2050,5.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
@@ -6136,6 +6140,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Poland 2050,2.16,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2026-07-03,Poland 2050,1.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2026-07-08,Poland 2050,1.7,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
+2026-07-08,Poland 2050,1.1,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2019-07-24,Polish Coalition,11.4,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2019-07-31,Polish Coalition,9.2,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2019-08-07,Polish Coalition,9.3,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
@@ -7297,6 +7302,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,Polish People's Party,3.78,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2026-07-03,Polish People's Party,3.9,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2026-07-08,Polish People's Party,1.6,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2026-07-08,Polish People's Party,3.6,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2019-07-24,The Left,10.6,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2019-07-31,The Left,11.0,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2019-08-07,The Left,14.9,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
@@ -8513,6 +8519,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-01,The Left,7.29,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2026-07-03,The Left,8.4,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2026-07-08,The Left,9.2,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
+2026-07-08,The Left,5.3,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2023-01-31,There is One Poland,1.8,Right-wing to far-right,Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism,https://en.wikipedia.org/wiki/There_is_One_Poland
 2023-09-14,There is One Poland,1.0,Right-wing to far-right,Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism,https://en.wikipedia.org/wiki/There_is_One_Poland
 2023-09-20,There is One Poland,0.2,Right-wing to far-right,Vaccine hesitancy Climate change denial Traditional Catholicism Anti-abortion Hard Euroscepticism,https://en.wikipedia.org/wiki/There_is_One_Poland
