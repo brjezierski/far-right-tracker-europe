@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 39.900000000000006,
+  "latestSupport": 40.1,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1304,6 +1304,10 @@
       },
       {
         "date": "2026-07-08",
+        "value": 1.5
+      },
+      {
+        "date": "2026-07-10",
         "value": 1.5
       }
     ],
@@ -2615,6 +2619,10 @@
       {
         "date": "2026-07-09",
         "value": 35.0
+      },
+      {
+        "date": "2026-07-10",
+        "value": 36.0
       }
     ],
     "Reconquête": [
@@ -3200,6 +3208,10 @@
       },
       {
         "date": "2026-07-09",
+        "value": 3.0
+      },
+      {
+        "date": "2026-07-10",
         "value": 3.0
       }
     ]
@@ -22481,6 +22493,14 @@
       {
         "date": "2026-07-08",
         "value": 1.95
+      },
+      {
+        "date": "2026-07-09",
+        "value": 1.85
+      },
+      {
+        "date": "2026-07-10",
+        "value": 1.75
       }
     ],
     "Rassemblement National": [
@@ -41763,6 +41783,10 @@
       {
         "date": "2026-07-09",
         "value": 33.5
+      },
+      {
+        "date": "2026-07-10",
+        "value": 34.1
       }
     ],
     "Reconquête": [
@@ -48801,6 +48825,10 @@
       {
         "date": "2026-07-09",
         "value": 4.45
+      },
+      {
+        "date": "2026-07-10",
+        "value": 4.25
       }
     ]
   },
@@ -68879,7 +68907,11 @@
     },
     {
       "date": "2026-07-09",
-      "value": 37.95
+      "value": 39.8
+    },
+    {
+      "date": "2026-07-10",
+      "value": 40.1
     }
   ],
   "activePartiesByDate": {
@@ -90733,9 +90765,14 @@
       "Debout la France",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-07-10": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-07-09",
+  "latestUpdate": "2026-07-10",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
