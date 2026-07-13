@@ -409,9 +409,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-01-09,Austrian People's Party,39.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2020-01-10,Austrian People's Party,38.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2020-01-15,Austrian People's Party,39.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-2020-01-16,Austrian People's Party,10.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-2020-01-16,Austrian People's Party,39.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-2020-01-16,Austrian People's Party,11.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2020-01-23,Austrian People's Party,39.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2020-01-31,Austrian People's Party,40.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2020-01-31,Austrian People's Party,39.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
@@ -764,8 +761,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-11,Austrian People's Party,22.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-11,Austrian People's Party,23.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-13,Austrian People's Party,23.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
+2024-06-19,Austrian People's Party,6.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-19,Austrian People's Party,23.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-19,Austrian People's Party,23.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
+2024-06-20,Austrian People's Party,7.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-25,Austrian People's Party,24.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-06-26,Austrian People's Party,24.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-07-02,Austrian People's Party,24.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
@@ -892,6 +891,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,Austrian People's Party,18.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2026-06-16,Austrian People's Party,20.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2026-06-18,Austrian People's Party,22.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
+2026-07-07,Austrian People's Party,19.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2023-04-26,Communist Party of Austria,7.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2023-04-26,Communist Party of Austria,5.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2023-04-27,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
@@ -1108,6 +1108,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2026-06-16,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2026-06-18,Communist Party of Austria,4.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
+2026-07-07,Communist Party of Austria,4.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-08-06,Der Wandel,1.0,Left-wing,Progressivism Egalitarianism Post-capitalism Environmentalism Pro-Europeanism,https://en.wikipedia.org/wiki/None_of_the_Above_(Austria)
 2024-08-20,Der Wandel,1.0,Left-wing,Progressivism Egalitarianism Post-capitalism Environmentalism Pro-Europeanism,https://en.wikipedia.org/wiki/None_of_the_Above_(Austria)
 2024-08-20,Der Wandel,1.0,Left-wing,Progressivism Egalitarianism Post-capitalism Environmentalism Pro-Europeanism,https://en.wikipedia.org/wiki/None_of_the_Above_(Austria)
@@ -1882,7 +1883,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-11,Freedom Party of Austria,26.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-06-11,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-06-13,Freedom Party of Austria,28.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
-2024-06-19,Freedom Party of Austria,25.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-06-19,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-06-25,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-06-26,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
@@ -2009,6 +2009,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,Freedom Party of Austria,38.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2026-06-16,Freedom Party of Austria,38.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2026-06-18,Freedom Party of Austria,36.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
+2026-07-07,Freedom Party of Austria,37.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-07-12,JETZT,6.5,Centre-left to left-wing,Green politics Left-wing populism,https://en.wikipedia.org/wiki/Peter_Pilz_List
 2017-07-18,JETZT,6.0,Centre-left to left-wing,Green politics Left-wing populism,https://en.wikipedia.org/wiki/Peter_Pilz_List
 2017-07-21,JETZT,2.0,Centre-left to left-wing,Green politics Left-wing populism,https://en.wikipedia.org/wiki/Peter_Pilz_List
@@ -3173,6 +3174,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,NEOS,8.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2026-06-16,NEOS,7.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2026-06-18,NEOS,9.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
+2026-07-07,NEOS,8.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2013-10-03,Social Democratic Party of Austria,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2013-10-17,Social Democratic Party of Austria,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2013-10-20,Social Democratic Party of Austria,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
@@ -3931,7 +3933,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-11,Social Democratic Party of Austria,24.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-06-11,Social Democratic Party of Austria,24.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-06-13,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
-2024-06-19,Social Democratic Party of Austria,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-06-19,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-06-25,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-06-26,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
@@ -4059,6 +4060,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,Social Democratic Party of Austria,18.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2026-06-16,Social Democratic Party of Austria,18.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2026-06-18,Social Democratic Party of Austria,18.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
+2026-07-07,Social Democratic Party of Austria,16.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2020-01-31,Team HC Strache - Alliance for Austria,3.0,Far-right,Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Team_HC_Strache_%E2%80%93_Alliance_for_Austria
 2020-02-27,Team HC Strache - Alliance for Austria,5.0,Far-right,Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Team_HC_Strache_%E2%80%93_Alliance_for_Austria
 2020-03-11,Team HC Strache - Alliance for Austria,4.0,Far-right,Right-wing populism Anti-immigration Euroscepticism,https://en.wikipedia.org/wiki/Team_HC_Strache_%E2%80%93_Alliance_for_Austria
@@ -5079,3 +5081,4 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-09,The Greens,12.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2026-06-16,The Greens,12.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2026-06-18,The Greens,11.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
+2026-07-07,The Greens,12.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
