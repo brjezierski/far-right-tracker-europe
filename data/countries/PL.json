@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 46.4,
+  "latestSupport": 47.540000000000006,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3828,6 +3828,14 @@
       {
         "date": "2026-07-08",
         "value": 14.3
+      },
+      {
+        "date": "2026-07-12",
+        "value": 15.7
+      },
+      {
+        "date": "2026-07-13",
+        "value": 11.0
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4290,6 +4298,14 @@
       {
         "date": "2026-07-08",
         "value": 8.1
+      },
+      {
+        "date": "2026-07-12",
+        "value": 10.2
+      },
+      {
+        "date": "2026-07-13",
+        "value": 8.0
       }
     ],
     "Law and Justice": [
@@ -6252,6 +6268,14 @@
       {
         "date": "2026-07-08",
         "value": 20.95
+      },
+      {
+        "date": "2026-07-12",
+        "value": 23.0
+      },
+      {
+        "date": "2026-07-13",
+        "value": 30.0
       }
     ],
     "New Hope": [
@@ -20078,6 +20102,26 @@
       {
         "date": "2026-07-08",
         "value": 13.08
+      },
+      {
+        "date": "2026-07-09",
+        "value": 13.18
+      },
+      {
+        "date": "2026-07-10",
+        "value": 13.28
+      },
+      {
+        "date": "2026-07-11",
+        "value": 13.38
+      },
+      {
+        "date": "2026-07-12",
+        "value": 13.48
+      },
+      {
+        "date": "2026-07-13",
+        "value": 13.54
       }
     ],
     "Confederation of the Polish Crown": [
@@ -21648,6 +21692,26 @@
       {
         "date": "2026-07-08",
         "value": 9.32
+      },
+      {
+        "date": "2026-07-09",
+        "value": 9.38
+      },
+      {
+        "date": "2026-07-10",
+        "value": 9.44
+      },
+      {
+        "date": "2026-07-11",
+        "value": 9.5
+      },
+      {
+        "date": "2026-07-12",
+        "value": 9.56
+      },
+      {
+        "date": "2026-07-13",
+        "value": 9.06
       }
     ],
     "Law and Justice": [
@@ -37102,6 +37166,26 @@
       {
         "date": "2026-07-08",
         "value": 24.0
+      },
+      {
+        "date": "2026-07-09",
+        "value": 23.95
+      },
+      {
+        "date": "2026-07-10",
+        "value": 23.89
+      },
+      {
+        "date": "2026-07-11",
+        "value": 23.84
+      },
+      {
+        "date": "2026-07-12",
+        "value": 23.78
+      },
+      {
+        "date": "2026-07-13",
+        "value": 24.94
       }
     ],
     "New Hope": [
@@ -64907,6 +64991,26 @@
     {
       "date": "2026-07-08",
       "value": 46.4
+    },
+    {
+      "date": "2026-07-09",
+      "value": 46.51
+    },
+    {
+      "date": "2026-07-10",
+      "value": 46.61
+    },
+    {
+      "date": "2026-07-11",
+      "value": 46.72
+    },
+    {
+      "date": "2026-07-12",
+      "value": 46.82
+    },
+    {
+      "date": "2026-07-13",
+      "value": 47.54
     }
   ],
   "activePartiesByDate": {
@@ -81151,9 +81255,34 @@
       "Confederation Liberty and Independence",
       "Confederation of the Polish Crown",
       "Law and Justice"
+    ],
+    "2026-07-09": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-07-10": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-07-11": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-07-12": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-07-13": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
     ]
   },
-  "latestUpdate": "2026-07-08",
+  "latestUpdate": "2026-07-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
