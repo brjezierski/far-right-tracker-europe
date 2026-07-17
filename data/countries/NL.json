@@ -3,16 +3,18 @@
   "iso2": "NL",
   "parties": [
     "Belang van Nederland",
+    "De Nederlandse Alliantie",
     "Forum for Democracy",
     "JA21",
     "Party for Freedom"
   ],
   "activeParties": [
+    "De Nederlandse Alliantie",
     "Forum for Democracy",
     "JA21",
     "Party for Freedom"
   ],
-  "latestSupport": 42.23,
+  "latestSupport": 39.129999999999995,
   "datapointsByParty": {
     "Belang van Nederland": [
       {
@@ -450,6 +452,20 @@
       {
         "date": "2023-11-22",
         "value": 0.6
+      }
+    ],
+    "De Nederlandse Alliantie": [
+      {
+        "date": "2026-04-25",
+        "value": 3.0
+      },
+      {
+        "date": "2026-05-23",
+        "value": 1.0
+      },
+      {
+        "date": "2026-07-13",
+        "value": 0.4
       }
     ],
     "Forum for Democracy": [
@@ -2872,6 +2888,10 @@
       {
         "date": "2026-06-29",
         "value": 10.1
+      },
+      {
+        "date": "2026-07-13",
+        "value": 9.95
       }
     ],
     "JA21": [
@@ -4090,6 +4110,10 @@
       {
         "date": "2026-06-29",
         "value": 10.2
+      },
+      {
+        "date": "2026-07-13",
+        "value": 12.4
       }
     ],
     "Party for Freedom": [
@@ -7920,6 +7944,10 @@
       {
         "date": "2026-06-29",
         "value": 16.45
+      },
+      {
+        "date": "2026-07-13",
+        "value": 14.15
       }
     ]
   },
@@ -11138,6 +11166,7 @@
         "value": 0.87
       }
     ],
+    "De Nederlandse Alliantie": [],
     "Forum for Democracy": [
       {
         "date": "2017-01-28",
@@ -24898,6 +24927,62 @@
       {
         "date": "2026-06-29",
         "value": 12.42
+      },
+      {
+        "date": "2026-06-30",
+        "value": 12.33
+      },
+      {
+        "date": "2026-07-01",
+        "value": 12.25
+      },
+      {
+        "date": "2026-07-02",
+        "value": 12.16
+      },
+      {
+        "date": "2026-07-03",
+        "value": 12.07
+      },
+      {
+        "date": "2026-07-04",
+        "value": 11.99
+      },
+      {
+        "date": "2026-07-05",
+        "value": 11.9
+      },
+      {
+        "date": "2026-07-06",
+        "value": 11.82
+      },
+      {
+        "date": "2026-07-07",
+        "value": 11.73
+      },
+      {
+        "date": "2026-07-08",
+        "value": 11.64
+      },
+      {
+        "date": "2026-07-09",
+        "value": 11.56
+      },
+      {
+        "date": "2026-07-10",
+        "value": 11.47
+      },
+      {
+        "date": "2026-07-11",
+        "value": 11.38
+      },
+      {
+        "date": "2026-07-12",
+        "value": 11.3
+      },
+      {
+        "date": "2026-07-13",
+        "value": 11.21
       }
     ],
     "JA21": [
@@ -32884,6 +32969,62 @@
       {
         "date": "2026-06-29",
         "value": 13.45
+      },
+      {
+        "date": "2026-06-30",
+        "value": 13.37
+      },
+      {
+        "date": "2026-07-01",
+        "value": 13.29
+      },
+      {
+        "date": "2026-07-02",
+        "value": 13.21
+      },
+      {
+        "date": "2026-07-03",
+        "value": 13.13
+      },
+      {
+        "date": "2026-07-04",
+        "value": 13.05
+      },
+      {
+        "date": "2026-07-05",
+        "value": 12.97
+      },
+      {
+        "date": "2026-07-06",
+        "value": 12.89
+      },
+      {
+        "date": "2026-07-07",
+        "value": 12.81
+      },
+      {
+        "date": "2026-07-08",
+        "value": 12.73
+      },
+      {
+        "date": "2026-07-09",
+        "value": 12.65
+      },
+      {
+        "date": "2026-07-10",
+        "value": 12.57
+      },
+      {
+        "date": "2026-07-11",
+        "value": 12.49
+      },
+      {
+        "date": "2026-07-12",
+        "value": 12.41
+      },
+      {
+        "date": "2026-07-13",
+        "value": 12.33
       }
     ],
     "Party for Freedom": [
@@ -52898,6 +53039,62 @@
       {
         "date": "2026-06-29",
         "value": 16.36
+      },
+      {
+        "date": "2026-06-30",
+        "value": 16.3
+      },
+      {
+        "date": "2026-07-01",
+        "value": 16.25
+      },
+      {
+        "date": "2026-07-02",
+        "value": 16.2
+      },
+      {
+        "date": "2026-07-03",
+        "value": 16.14
+      },
+      {
+        "date": "2026-07-04",
+        "value": 16.09
+      },
+      {
+        "date": "2026-07-05",
+        "value": 16.03
+      },
+      {
+        "date": "2026-07-06",
+        "value": 15.97
+      },
+      {
+        "date": "2026-07-07",
+        "value": 15.92
+      },
+      {
+        "date": "2026-07-08",
+        "value": 15.87
+      },
+      {
+        "date": "2026-07-09",
+        "value": 15.81
+      },
+      {
+        "date": "2026-07-10",
+        "value": 15.75
+      },
+      {
+        "date": "2026-07-11",
+        "value": 15.7
+      },
+      {
+        "date": "2026-07-12",
+        "value": 15.64
+      },
+      {
+        "date": "2026-07-13",
+        "value": 15.59
       }
     ]
   },
@@ -73057,6 +73254,62 @@
     {
       "date": "2026-06-29",
       "value": 42.23
+    },
+    {
+      "date": "2026-06-30",
+      "value": 42.0
+    },
+    {
+      "date": "2026-07-01",
+      "value": 41.79
+    },
+    {
+      "date": "2026-07-02",
+      "value": 41.57
+    },
+    {
+      "date": "2026-07-03",
+      "value": 41.34
+    },
+    {
+      "date": "2026-07-04",
+      "value": 41.13
+    },
+    {
+      "date": "2026-07-05",
+      "value": 40.9
+    },
+    {
+      "date": "2026-07-06",
+      "value": 40.68
+    },
+    {
+      "date": "2026-07-07",
+      "value": 40.46
+    },
+    {
+      "date": "2026-07-08",
+      "value": 40.24
+    },
+    {
+      "date": "2026-07-09",
+      "value": 40.02
+    },
+    {
+      "date": "2026-07-10",
+      "value": 39.79
+    },
+    {
+      "date": "2026-07-11",
+      "value": 39.57
+    },
+    {
+      "date": "2026-07-12",
+      "value": 39.35
+    },
+    {
+      "date": "2026-07-13",
+      "value": 39.13
     }
   ],
   "activePartiesByDate": {
@@ -94199,281 +94452,337 @@
       "Party for Freedom"
     ],
     "2026-04-25": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-04-26": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-04-27": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-04-28": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-04-29": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-04-30": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-01": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-02": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-03": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-04": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-05": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-06": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-07": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-08": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-09": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-10": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-11": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-12": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-13": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-14": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-15": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-16": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-17": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-18": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-19": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-20": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-21": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-22": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-23": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-24": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-25": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-26": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-27": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-28": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-29": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-30": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-05-31": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-01": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-02": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-03": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-04": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-05": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-06": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-07": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-08": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-09": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-10": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-11": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-12": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-13": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-14": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-15": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-16": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-17": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-18": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
     ],
     "2026-06-19": [
+      "De Nederlandse Alliantie",
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
@@ -94527,9 +94836,80 @@
       "Forum for Democracy",
       "JA21",
       "Party for Freedom"
+    ],
+    "2026-06-30": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-01": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-02": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-03": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-04": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-05": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-06": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-07": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-08": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-09": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-10": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-11": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-12": [
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
+    ],
+    "2026-07-13": [
+      "De Nederlandse Alliantie",
+      "Forum for Democracy",
+      "JA21",
+      "Party for Freedom"
     ]
   },
-  "latestUpdate": "2026-06-29",
+  "latestUpdate": "2026-07-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Dutch_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Dutch_general_election",
