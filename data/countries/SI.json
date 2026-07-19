@@ -1229,10 +1229,6 @@
         "value": 29.2
       },
       {
-        "date": "2026-06-09",
-        "value": 28.3
-      },
-      {
         "date": "2026-06-10",
         "value": 28.3
       },
@@ -1247,6 +1243,10 @@
       {
         "date": "2026-06-24",
         "value": 28.4
+      },
+      {
+        "date": "2026-07-09",
+        "value": 28.3
       }
     ],
     "Slovenian National Party": [
@@ -2227,10 +2227,6 @@
         "value": 3.4
       },
       {
-        "date": "2026-06-09",
-        "value": 1.8
-      },
-      {
         "date": "2026-06-11",
         "value": 2.4
       },
@@ -2241,6 +2237,10 @@
       {
         "date": "2026-06-24",
         "value": 1.9
+      },
+      {
+        "date": "2026-07-09",
+        "value": 1.8
       }
     ]
   },
@@ -19240,7 +19240,7 @@
       },
       {
         "date": "2026-05-27",
-        "value": 26.97
+        "value": 26.98
       },
       {
         "date": "2026-05-28",
@@ -19260,7 +19260,7 @@
       },
       {
         "date": "2026-06-01",
-        "value": 26.95
+        "value": 26.96
       },
       {
         "date": "2026-06-02",
@@ -19280,7 +19280,7 @@
       },
       {
         "date": "2026-06-06",
-        "value": 26.93
+        "value": 26.94
       },
       {
         "date": "2026-06-07",
@@ -19288,7 +19288,7 @@
       },
       {
         "date": "2026-06-08",
-        "value": 26.92
+        "value": 26.93
       },
       {
         "date": "2026-06-09",
@@ -19296,62 +19296,122 @@
       },
       {
         "date": "2026-06-10",
-        "value": 27.58
+        "value": 26.92
       },
       {
         "date": "2026-06-11",
-        "value": 27.94
+        "value": 27.28
       },
       {
         "date": "2026-06-12",
-        "value": 27.92
+        "value": 27.31
       },
       {
         "date": "2026-06-13",
-        "value": 27.9
+        "value": 27.34
       },
       {
         "date": "2026-06-14",
-        "value": 27.88
+        "value": 27.38
       },
       {
         "date": "2026-06-15",
-        "value": 27.86
+        "value": 27.41
       },
       {
         "date": "2026-06-16",
-        "value": 27.84
+        "value": 27.44
       },
       {
         "date": "2026-06-17",
-        "value": 27.82
+        "value": 27.48
       },
       {
         "date": "2026-06-18",
-        "value": 27.8
+        "value": 27.51
       },
       {
         "date": "2026-06-19",
-        "value": 27.78
+        "value": 27.54
       },
       {
         "date": "2026-06-20",
-        "value": 27.75
+        "value": 27.59
       },
       {
         "date": "2026-06-21",
-        "value": 27.72
+        "value": 27.64
       },
       {
         "date": "2026-06-22",
-        "value": 27.68
+        "value": 27.7
       },
       {
         "date": "2026-06-23",
-        "value": 27.65
+        "value": 27.75
       },
       {
         "date": "2026-06-24",
+        "value": 27.8
+      },
+      {
+        "date": "2026-06-25",
+        "value": 27.79
+      },
+      {
+        "date": "2026-06-26",
+        "value": 27.78
+      },
+      {
+        "date": "2026-06-27",
+        "value": 27.76
+      },
+      {
+        "date": "2026-06-28",
+        "value": 27.75
+      },
+      {
+        "date": "2026-06-29",
+        "value": 27.74
+      },
+      {
+        "date": "2026-06-30",
+        "value": 27.73
+      },
+      {
+        "date": "2026-07-01",
+        "value": 27.72
+      },
+      {
+        "date": "2026-07-02",
+        "value": 27.7
+      },
+      {
+        "date": "2026-07-03",
+        "value": 27.69
+      },
+      {
+        "date": "2026-07-04",
+        "value": 27.68
+      },
+      {
+        "date": "2026-07-05",
+        "value": 27.67
+      },
+      {
+        "date": "2026-07-06",
+        "value": 27.66
+      },
+      {
+        "date": "2026-07-07",
+        "value": 27.64
+      },
+      {
+        "date": "2026-07-08",
+        "value": 27.63
+      },
+      {
+        "date": "2026-07-09",
         "value": 27.62
       }
     ],
@@ -36166,99 +36226,99 @@
       },
       {
         "date": "2026-05-23",
-        "value": 2.45
+        "value": 2.46
       },
       {
         "date": "2026-05-24",
-        "value": 2.46
+        "value": 2.47
       },
       {
         "date": "2026-05-25",
-        "value": 2.46
+        "value": 2.48
       },
       {
         "date": "2026-05-26",
-        "value": 2.47
+        "value": 2.49
       },
       {
         "date": "2026-05-27",
-        "value": 2.47
+        "value": 2.5
       },
       {
         "date": "2026-05-28",
-        "value": 2.48
+        "value": 2.51
       },
       {
         "date": "2026-05-29",
-        "value": 2.48
+        "value": 2.52
       },
       {
         "date": "2026-05-30",
-        "value": 2.49
+        "value": 2.53
       },
       {
         "date": "2026-05-31",
-        "value": 2.49
-      },
-      {
-        "date": "2026-06-01",
-        "value": 2.5
-      },
-      {
-        "date": "2026-06-02",
-        "value": 2.5
-      },
-      {
-        "date": "2026-06-03",
-        "value": 2.51
-      },
-      {
-        "date": "2026-06-04",
-        "value": 2.51
-      },
-      {
-        "date": "2026-06-05",
-        "value": 2.52
-      },
-      {
-        "date": "2026-06-06",
-        "value": 2.52
-      },
-      {
-        "date": "2026-06-07",
-        "value": 2.53
-      },
-      {
-        "date": "2026-06-08",
-        "value": 2.53
-      },
-      {
-        "date": "2026-06-09",
         "value": 2.54
       },
       {
+        "date": "2026-06-01",
+        "value": 2.56
+      },
+      {
+        "date": "2026-06-02",
+        "value": 2.57
+      },
+      {
+        "date": "2026-06-03",
+        "value": 2.58
+      },
+      {
+        "date": "2026-06-04",
+        "value": 2.59
+      },
+      {
+        "date": "2026-06-05",
+        "value": 2.6
+      },
+      {
+        "date": "2026-06-06",
+        "value": 2.61
+      },
+      {
+        "date": "2026-06-07",
+        "value": 2.62
+      },
+      {
+        "date": "2026-06-08",
+        "value": 2.63
+      },
+      {
+        "date": "2026-06-09",
+        "value": 2.64
+      },
+      {
         "date": "2026-06-10",
-        "value": 2.5
+        "value": 2.65
       },
       {
         "date": "2026-06-11",
-        "value": 2.46
+        "value": 2.66
       },
       {
         "date": "2026-06-12",
-        "value": 2.48
+        "value": 2.64
       },
       {
         "date": "2026-06-13",
-        "value": 2.5
+        "value": 2.62
       },
       {
         "date": "2026-06-14",
-        "value": 2.51
+        "value": 2.59
       },
       {
         "date": "2026-06-15",
-        "value": 2.53
+        "value": 2.57
       },
       {
         "date": "2026-06-16",
@@ -36266,34 +36326,94 @@
       },
       {
         "date": "2026-06-17",
-        "value": 2.56
+        "value": 2.52
       },
       {
         "date": "2026-06-18",
-        "value": 2.58
+        "value": 2.5
       },
       {
         "date": "2026-06-19",
-        "value": 2.6
+        "value": 2.48
       },
       {
         "date": "2026-06-20",
-        "value": 2.54
+        "value": 2.51
       },
       {
         "date": "2026-06-21",
-        "value": 2.47
+        "value": 2.54
       },
       {
         "date": "2026-06-22",
-        "value": 2.41
+        "value": 2.56
       },
       {
         "date": "2026-06-23",
-        "value": 2.34
+        "value": 2.59
       },
       {
         "date": "2026-06-24",
+        "value": 2.62
+      },
+      {
+        "date": "2026-06-25",
+        "value": 2.6
+      },
+      {
+        "date": "2026-06-26",
+        "value": 2.57
+      },
+      {
+        "date": "2026-06-27",
+        "value": 2.55
+      },
+      {
+        "date": "2026-06-28",
+        "value": 2.53
+      },
+      {
+        "date": "2026-06-29",
+        "value": 2.51
+      },
+      {
+        "date": "2026-06-30",
+        "value": 2.48
+      },
+      {
+        "date": "2026-07-01",
+        "value": 2.46
+      },
+      {
+        "date": "2026-07-02",
+        "value": 2.44
+      },
+      {
+        "date": "2026-07-03",
+        "value": 2.42
+      },
+      {
+        "date": "2026-07-04",
+        "value": 2.39
+      },
+      {
+        "date": "2026-07-05",
+        "value": 2.37
+      },
+      {
+        "date": "2026-07-06",
+        "value": 2.35
+      },
+      {
+        "date": "2026-07-07",
+        "value": 2.33
+      },
+      {
+        "date": "2026-07-08",
+        "value": 2.3
+      },
+      {
+        "date": "2026-07-09",
         "value": 2.28
       }
     ]
@@ -53629,134 +53749,194 @@
     },
     {
       "date": "2026-05-23",
-      "value": 29.44
+      "value": 29.45
     },
     {
       "date": "2026-05-24",
-      "value": 29.45
+      "value": 29.46
     },
     {
       "date": "2026-05-25",
-      "value": 29.44
+      "value": 29.46
     },
     {
       "date": "2026-05-26",
-      "value": 29.45
+      "value": 29.47
     },
     {
       "date": "2026-05-27",
-      "value": 29.44
+      "value": 29.48
     },
     {
       "date": "2026-05-28",
-      "value": 29.45
+      "value": 29.48
     },
     {
       "date": "2026-05-29",
-      "value": 29.45
+      "value": 29.49
     },
     {
       "date": "2026-05-30",
-      "value": 29.45
+      "value": 29.49
     },
     {
       "date": "2026-05-31",
-      "value": 29.45
+      "value": 29.5
     },
     {
       "date": "2026-06-01",
-      "value": 29.45
+      "value": 29.52
     },
     {
       "date": "2026-06-02",
-      "value": 29.45
+      "value": 29.52
     },
     {
       "date": "2026-06-03",
-      "value": 29.46
+      "value": 29.53
     },
     {
       "date": "2026-06-04",
-      "value": 29.45
+      "value": 29.53
     },
     {
       "date": "2026-06-05",
-      "value": 29.46
+      "value": 29.54
     },
     {
       "date": "2026-06-06",
-      "value": 29.45
+      "value": 29.55
     },
     {
       "date": "2026-06-07",
-      "value": 29.46
+      "value": 29.55
     },
     {
       "date": "2026-06-08",
-      "value": 29.45
+      "value": 29.56
     },
     {
       "date": "2026-06-09",
-      "value": 29.46
+      "value": 29.56
     },
     {
       "date": "2026-06-10",
-      "value": 30.08
+      "value": 29.57
     },
     {
       "date": "2026-06-11",
-      "value": 30.4
+      "value": 29.94
     },
     {
       "date": "2026-06-12",
-      "value": 30.4
+      "value": 29.95
     },
     {
       "date": "2026-06-13",
-      "value": 30.4
+      "value": 29.96
     },
     {
       "date": "2026-06-14",
-      "value": 30.39
+      "value": 29.97
     },
     {
       "date": "2026-06-15",
-      "value": 30.39
+      "value": 29.98
     },
     {
       "date": "2026-06-16",
-      "value": 30.39
-    },
-    {
-      "date": "2026-06-17",
-      "value": 30.38
-    },
-    {
-      "date": "2026-06-18",
-      "value": 30.38
-    },
-    {
-      "date": "2026-06-19",
-      "value": 30.38
-    },
-    {
-      "date": "2026-06-20",
-      "value": 30.29
-    },
-    {
-      "date": "2026-06-21",
-      "value": 30.19
-    },
-    {
-      "date": "2026-06-22",
-      "value": 30.09
-    },
-    {
-      "date": "2026-06-23",
       "value": 29.99
     },
     {
+      "date": "2026-06-17",
+      "value": 30.0
+    },
+    {
+      "date": "2026-06-18",
+      "value": 30.01
+    },
+    {
+      "date": "2026-06-19",
+      "value": 30.02
+    },
+    {
+      "date": "2026-06-20",
+      "value": 30.1
+    },
+    {
+      "date": "2026-06-21",
+      "value": 30.18
+    },
+    {
+      "date": "2026-06-22",
+      "value": 30.26
+    },
+    {
+      "date": "2026-06-23",
+      "value": 30.34
+    },
+    {
       "date": "2026-06-24",
+      "value": 30.42
+    },
+    {
+      "date": "2026-06-25",
+      "value": 30.39
+    },
+    {
+      "date": "2026-06-26",
+      "value": 30.35
+    },
+    {
+      "date": "2026-06-27",
+      "value": 30.31
+    },
+    {
+      "date": "2026-06-28",
+      "value": 30.28
+    },
+    {
+      "date": "2026-06-29",
+      "value": 30.25
+    },
+    {
+      "date": "2026-06-30",
+      "value": 30.21
+    },
+    {
+      "date": "2026-07-01",
+      "value": 30.18
+    },
+    {
+      "date": "2026-07-02",
+      "value": 30.14
+    },
+    {
+      "date": "2026-07-03",
+      "value": 30.11
+    },
+    {
+      "date": "2026-07-04",
+      "value": 30.07
+    },
+    {
+      "date": "2026-07-05",
+      "value": 30.04
+    },
+    {
+      "date": "2026-07-06",
+      "value": 30.01
+    },
+    {
+      "date": "2026-07-07",
+      "value": 29.97
+    },
+    {
+      "date": "2026-07-08",
+      "value": 29.93
+    },
+    {
+      "date": "2026-07-09",
       "value": 29.9
     }
   ],
@@ -71189,9 +71369,69 @@
     "2026-06-24": [
       "Slovenian Democratic Party",
       "Slovenian National Party"
+    ],
+    "2026-06-25": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-06-26": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-06-27": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-06-28": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-06-29": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-06-30": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-01": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-02": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-03": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-04": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-05": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-06": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-07": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-08": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-07-09": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
     ]
   },
-  "latestUpdate": "2026-06-24",
+  "latestUpdate": "2026-07-09",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",
