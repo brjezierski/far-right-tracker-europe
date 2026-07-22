@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 27.9,
+  "latestSupport": 27.8,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9651,6 +9651,10 @@
         "value": 29.0
       },
       {
+        "date": "2026-06-20",
+        "value": 28.0
+      },
+      {
         "date": "2026-06-22",
         "value": 28.33
       },
@@ -9693,6 +9697,10 @@
       {
         "date": "2026-07-17",
         "value": 29.0
+      },
+      {
+        "date": "2026-07-20",
+        "value": 27.5
       }
     ]
   },
@@ -28248,27 +28256,27 @@
       },
       {
         "date": "2026-06-20",
-        "value": 28.46
+        "value": 28.3
       },
       {
         "date": "2026-06-21",
-        "value": 28.41
+        "value": 28.29
       },
       {
         "date": "2026-06-22",
-        "value": 28.37
+        "value": 28.27
       },
       {
         "date": "2026-06-23",
-        "value": 28.39
+        "value": 28.32
       },
       {
         "date": "2026-06-24",
-        "value": 28.42
+        "value": 28.37
       },
       {
         "date": "2026-06-25",
-        "value": 28.45
+        "value": 28.42
       },
       {
         "date": "2026-06-26",
@@ -28288,7 +28296,7 @@
       },
       {
         "date": "2026-06-30",
-        "value": 28.27
+        "value": 28.07
       },
       {
         "date": "2026-07-01",
@@ -28357,6 +28365,18 @@
       {
         "date": "2026-07-17",
         "value": 27.9
+      },
+      {
+        "date": "2026-07-18",
+        "value": 27.87
+      },
+      {
+        "date": "2026-07-19",
+        "value": 27.83
+      },
+      {
+        "date": "2026-07-20",
+        "value": 27.8
       }
     ]
   },
@@ -46963,27 +46983,27 @@
     },
     {
       "date": "2026-06-20",
-      "value": 28.46
+      "value": 28.3
     },
     {
       "date": "2026-06-21",
-      "value": 28.41
+      "value": 28.29
     },
     {
       "date": "2026-06-22",
-      "value": 28.37
+      "value": 28.27
     },
     {
       "date": "2026-06-23",
-      "value": 28.39
+      "value": 28.32
     },
     {
       "date": "2026-06-24",
-      "value": 28.42
+      "value": 28.37
     },
     {
       "date": "2026-06-25",
-      "value": 28.45
+      "value": 28.42
     },
     {
       "date": "2026-06-26",
@@ -47003,7 +47023,7 @@
     },
     {
       "date": "2026-06-30",
-      "value": 28.27
+      "value": 28.07
     },
     {
       "date": "2026-07-01",
@@ -47072,6 +47092,18 @@
     {
       "date": "2026-07-17",
       "value": 27.9
+    },
+    {
+      "date": "2026-07-18",
+      "value": 27.87
+    },
+    {
+      "date": "2026-07-19",
+      "value": 27.83
+    },
+    {
+      "date": "2026-07-20",
+      "value": 27.8
     }
   ],
   "activePartiesByDate": {
@@ -61108,9 +61140,18 @@
     ],
     "2026-07-17": [
       "Alternative for Germany"
+    ],
+    "2026-07-18": [
+      "Alternative for Germany"
+    ],
+    "2026-07-19": [
+      "Alternative for Germany"
+    ],
+    "2026-07-20": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-07-17",
+  "latestUpdate": "2026-07-20",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",

@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 46.629999999999995,
+  "latestSupport": 46.660000000000004,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3839,7 +3839,7 @@
       },
       {
         "date": "2026-07-17",
-        "value": 13.13
+        "value": 12.85
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4313,7 +4313,7 @@
       },
       {
         "date": "2026-07-17",
-        "value": 9.08
+        "value": 9.25
       }
     ],
     "Law and Justice": [
@@ -6287,7 +6287,7 @@
       },
       {
         "date": "2026-07-17",
-        "value": 22.16
+        "value": 22.44
       }
     ],
     "New Hope": [
@@ -20137,19 +20137,19 @@
       },
       {
         "date": "2026-07-14",
-        "value": 13.53
+        "value": 13.51
       },
       {
         "date": "2026-07-15",
-        "value": 13.52
+        "value": 13.48
       },
       {
         "date": "2026-07-16",
-        "value": 13.5
+        "value": 13.46
       },
       {
         "date": "2026-07-17",
-        "value": 13.49
+        "value": 13.43
       }
     ],
     "Confederation of the Polish Crown": [
@@ -21747,15 +21747,15 @@
       },
       {
         "date": "2026-07-15",
-        "value": 9.17
+        "value": 9.19
       },
       {
         "date": "2026-07-16",
-        "value": 9.22
+        "value": 9.25
       },
       {
         "date": "2026-07-17",
-        "value": 9.28
+        "value": 9.31
       }
     ],
     "Law and Justice": [
@@ -37233,19 +37233,19 @@
       },
       {
         "date": "2026-07-14",
-        "value": 24.67
+        "value": 24.69
       },
       {
         "date": "2026-07-15",
-        "value": 24.4
+        "value": 24.43
       },
       {
         "date": "2026-07-16",
-        "value": 24.13
+        "value": 24.18
       },
       {
         "date": "2026-07-17",
-        "value": 23.86
+        "value": 23.92
       }
     ],
     "New Hope": [
@@ -65078,15 +65078,15 @@
     },
     {
       "date": "2026-07-15",
-      "value": 47.09
+      "value": 47.1
     },
     {
       "date": "2026-07-16",
-      "value": 46.85
+      "value": 46.89
     },
     {
       "date": "2026-07-17",
-      "value": 46.63
+      "value": 46.66
     }
   ],
   "activePartiesByDate": {
