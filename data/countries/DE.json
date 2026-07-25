@@ -9655,10 +9655,6 @@
         "value": 29.0
       },
       {
-        "date": "2026-06-20",
-        "value": 28.0
-      },
-      {
         "date": "2026-06-22",
         "value": 28.33
       },
@@ -9704,6 +9700,10 @@
       },
       {
         "date": "2026-07-20",
+        "value": 28.0
+      },
+      {
+        "date": "2026-07-24",
         "value": 28.0
       }
     ]
@@ -28260,27 +28260,27 @@
       },
       {
         "date": "2026-06-20",
-        "value": 27.9
+        "value": 27.99
       },
       {
         "date": "2026-06-21",
-        "value": 28.09
+        "value": 27.98
       },
       {
         "date": "2026-06-22",
-        "value": 28.27
+        "value": 27.97
       },
       {
         "date": "2026-06-23",
-        "value": 28.32
+        "value": 28.09
       },
       {
         "date": "2026-06-24",
-        "value": 28.37
+        "value": 28.22
       },
       {
         "date": "2026-06-25",
-        "value": 28.42
+        "value": 28.34
       },
       {
         "date": "2026-06-26",
@@ -28300,7 +28300,7 @@
       },
       {
         "date": "2026-06-30",
-        "value": 28.07
+        "value": 28.27
       },
       {
         "date": "2026-07-01",
@@ -28380,6 +28380,22 @@
       },
       {
         "date": "2026-07-20",
+        "value": 27.9
+      },
+      {
+        "date": "2026-07-21",
+        "value": 27.9
+      },
+      {
+        "date": "2026-07-22",
+        "value": 27.9
+      },
+      {
+        "date": "2026-07-23",
+        "value": 27.9
+      },
+      {
+        "date": "2026-07-24",
         "value": 27.9
       }
     ]
@@ -46987,27 +47003,27 @@
     },
     {
       "date": "2026-06-20",
-      "value": 27.9
+      "value": 27.99
     },
     {
       "date": "2026-06-21",
-      "value": 28.09
+      "value": 27.98
     },
     {
       "date": "2026-06-22",
-      "value": 28.27
+      "value": 27.97
     },
     {
       "date": "2026-06-23",
-      "value": 28.32
+      "value": 28.09
     },
     {
       "date": "2026-06-24",
-      "value": 28.37
+      "value": 28.22
     },
     {
       "date": "2026-06-25",
-      "value": 28.42
+      "value": 28.34
     },
     {
       "date": "2026-06-26",
@@ -47027,7 +47043,7 @@
     },
     {
       "date": "2026-06-30",
-      "value": 28.07
+      "value": 28.27
     },
     {
       "date": "2026-07-01",
@@ -47107,6 +47123,22 @@
     },
     {
       "date": "2026-07-20",
+      "value": 27.9
+    },
+    {
+      "date": "2026-07-21",
+      "value": 27.9
+    },
+    {
+      "date": "2026-07-22",
+      "value": 27.9
+    },
+    {
+      "date": "2026-07-23",
+      "value": 27.9
+    },
+    {
+      "date": "2026-07-24",
       "value": 27.9
     }
   ],
@@ -61153,9 +61185,21 @@
     ],
     "2026-07-20": [
       "Alternative for Germany"
+    ],
+    "2026-07-21": [
+      "Alternative for Germany"
+    ],
+    "2026-07-22": [
+      "Alternative for Germany"
+    ],
+    "2026-07-23": [
+      "Alternative for Germany"
+    ],
+    "2026-07-24": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-07-20",
+  "latestUpdate": "2026-07-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
