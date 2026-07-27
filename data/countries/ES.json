@@ -10,7 +10,7 @@
     "Se Acabó La Fiesta",
     "Vox"
   ],
-  "latestSupport": 17.47,
+  "latestSupport": 18.69,
   "datapointsByParty": {
     "Catalan Alliance": [
       {
@@ -1106,6 +1106,10 @@
       {
         "date": "2026-07-20",
         "value": 1.35
+      },
+      {
+        "date": "2026-07-24",
+        "value": 2.0
       }
     ],
     "Vox": [
@@ -5468,6 +5472,10 @@
       {
         "date": "2026-07-20",
         "value": 13.3
+      },
+      {
+        "date": "2026-07-24",
+        "value": 18.3
       }
     ]
   },
@@ -9462,6 +9470,22 @@
       {
         "date": "2026-07-20",
         "value": 2.18
+      },
+      {
+        "date": "2026-07-21",
+        "value": 2.09
+      },
+      {
+        "date": "2026-07-22",
+        "value": 2.0
+      },
+      {
+        "date": "2026-07-23",
+        "value": 1.91
+      },
+      {
+        "date": "2026-07-24",
+        "value": 1.82
       }
     ],
     "Vox": [
@@ -23476,6 +23500,22 @@
       {
         "date": "2026-07-20",
         "value": 15.29
+      },
+      {
+        "date": "2026-07-21",
+        "value": 15.68
+      },
+      {
+        "date": "2026-07-22",
+        "value": 16.08
+      },
+      {
+        "date": "2026-07-23",
+        "value": 16.48
+      },
+      {
+        "date": "2026-07-24",
+        "value": 16.87
       }
     ]
   },
@@ -38071,6 +38111,22 @@
     {
       "date": "2026-07-20",
       "value": 17.47
+    },
+    {
+      "date": "2026-07-21",
+      "value": 17.77
+    },
+    {
+      "date": "2026-07-22",
+      "value": 18.08
+    },
+    {
+      "date": "2026-07-23",
+      "value": 18.39
+    },
+    {
+      "date": "2026-07-24",
+      "value": 18.69
     }
   ],
   "activePartiesByDate": {
@@ -49141,9 +49197,25 @@
     "2026-07-20": [
       "Se Acabó La Fiesta",
       "Vox"
+    ],
+    "2026-07-21": [
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-07-22": [
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-07-23": [
+      "Se Acabó La Fiesta",
+      "Vox"
+    ],
+    "2026-07-24": [
+      "Se Acabó La Fiesta",
+      "Vox"
     ]
   },
-  "latestUpdate": "2026-07-20",
+  "latestUpdate": "2026-07-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Spanish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Spanish_general_election",
