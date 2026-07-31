@@ -11,7 +11,7 @@
   "datapointsByParty": {
     "For the Future of Montenegro": [
       {
-        "date": "2020-08-30",
+        "date": "2020-08-31",
         "value": 32.5
       },
       {
@@ -6497,10 +6497,6 @@
     ]
   },
   "dailySupportSeries": [
-    {
-      "date": "2020-08-30",
-      "value": 0.0
-    },
     {
       "date": "2020-08-31",
       "value": 0.0
@@ -14771,9 +14767,6 @@
     }
   ],
   "activePartiesByDate": {
-    "2020-08-30": [
-      "For the Future of Montenegro"
-    ],
     "2020-08-31": [
       "For the Future of Montenegro"
     ],
