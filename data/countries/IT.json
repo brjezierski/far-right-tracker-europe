@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 39.910000000000004,
+  "latestSupport": 39.69,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10148,6 +10148,10 @@
       {
         "date": "2026-08-03",
         "value": 26.15
+      },
+      {
+        "date": "2026-08-05",
+        "value": 26.2
       }
     ],
     "CasaPound": [
@@ -18122,6 +18126,10 @@
       {
         "date": "2026-08-03",
         "value": 5.6
+      },
+      {
+        "date": "2026-08-05",
+        "value": 5.2
       }
     ],
     "Lega Nord": [
@@ -22386,6 +22394,10 @@
       {
         "date": "2026-08-03",
         "value": 7.5
+      },
+      {
+        "date": "2026-08-05",
+        "value": 7.1
       }
     ]
   },
@@ -41982,6 +41994,14 @@
       {
         "date": "2026-08-03",
         "value": 26.73
+      },
+      {
+        "date": "2026-08-04",
+        "value": 26.65
+      },
+      {
+        "date": "2026-08-05",
+        "value": 26.57
       }
     ],
     "CasaPound": [
@@ -57528,6 +57548,14 @@
       {
         "date": "2026-08-03",
         "value": 6.22
+      },
+      {
+        "date": "2026-08-04",
+        "value": 6.17
+      },
+      {
+        "date": "2026-08-05",
+        "value": 6.12
       }
     ],
     "Lega Nord": [
@@ -65628,6 +65656,14 @@
       {
         "date": "2026-08-03",
         "value": 6.96
+      },
+      {
+        "date": "2026-08-04",
+        "value": 6.98
+      },
+      {
+        "date": "2026-08-05",
+        "value": 7.0
       }
     ]
   },
@@ -85263,6 +85299,14 @@
     {
       "date": "2026-08-03",
       "value": 39.91
+    },
+    {
+      "date": "2026-08-04",
+      "value": 39.8
+    },
+    {
+      "date": "2026-08-05",
+      "value": 39.69
     }
   ],
   "activePartiesByDate": {
@@ -105988,9 +106032,19 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-08-04": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-05": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-08-03",
+  "latestUpdate": "2026-08-05",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",

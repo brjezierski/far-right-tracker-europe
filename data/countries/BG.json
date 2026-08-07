@@ -14,7 +14,7 @@
   "activeParties": [
     "Revival"
   ],
-  "latestSupport": 6.44,
+  "latestSupport": 4.6,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -916,6 +916,10 @@
       {
         "date": "2026-07-23",
         "value": 4.5
+      },
+      {
+        "date": "2026-08-04",
+        "value": 5.0
       }
     ],
     "United Patriots": [
@@ -11858,6 +11862,54 @@
       {
         "date": "2026-07-23",
         "value": 6.44
+      },
+      {
+        "date": "2026-07-24",
+        "value": 6.29
+      },
+      {
+        "date": "2026-07-25",
+        "value": 6.13
+      },
+      {
+        "date": "2026-07-26",
+        "value": 5.98
+      },
+      {
+        "date": "2026-07-27",
+        "value": 5.83
+      },
+      {
+        "date": "2026-07-28",
+        "value": 5.67
+      },
+      {
+        "date": "2026-07-29",
+        "value": 5.52
+      },
+      {
+        "date": "2026-07-30",
+        "value": 5.37
+      },
+      {
+        "date": "2026-07-31",
+        "value": 5.21
+      },
+      {
+        "date": "2026-08-01",
+        "value": 5.06
+      },
+      {
+        "date": "2026-08-02",
+        "value": 4.91
+      },
+      {
+        "date": "2026-08-03",
+        "value": 4.75
+      },
+      {
+        "date": "2026-08-04",
+        "value": 4.6
       }
     ],
     "United Patriots": [
@@ -35939,6 +35991,54 @@
     {
       "date": "2026-07-23",
       "value": 6.44
+    },
+    {
+      "date": "2026-07-24",
+      "value": 6.29
+    },
+    {
+      "date": "2026-07-25",
+      "value": 6.13
+    },
+    {
+      "date": "2026-07-26",
+      "value": 5.98
+    },
+    {
+      "date": "2026-07-27",
+      "value": 5.83
+    },
+    {
+      "date": "2026-07-28",
+      "value": 5.67
+    },
+    {
+      "date": "2026-07-29",
+      "value": 5.52
+    },
+    {
+      "date": "2026-07-30",
+      "value": 5.37
+    },
+    {
+      "date": "2026-07-31",
+      "value": 5.21
+    },
+    {
+      "date": "2026-08-01",
+      "value": 5.06
+    },
+    {
+      "date": "2026-08-02",
+      "value": 4.91
+    },
+    {
+      "date": "2026-08-03",
+      "value": 4.75
+    },
+    {
+      "date": "2026-08-04",
+      "value": 4.6
     }
   ],
   "activePartiesByDate": {
@@ -49464,9 +49564,45 @@
     ],
     "2026-07-23": [
       "Revival"
+    ],
+    "2026-07-24": [
+      "Revival"
+    ],
+    "2026-07-25": [
+      "Revival"
+    ],
+    "2026-07-26": [
+      "Revival"
+    ],
+    "2026-07-27": [
+      "Revival"
+    ],
+    "2026-07-28": [
+      "Revival"
+    ],
+    "2026-07-29": [
+      "Revival"
+    ],
+    "2026-07-30": [
+      "Revival"
+    ],
+    "2026-07-31": [
+      "Revival"
+    ],
+    "2026-08-01": [
+      "Revival"
+    ],
+    "2026-08-02": [
+      "Revival"
+    ],
+    "2026-08-03": [
+      "Revival"
+    ],
+    "2026-08-04": [
+      "Revival"
     ]
   },
-  "latestUpdate": "2026-07-23",
+  "latestUpdate": "2026-08-04",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",
