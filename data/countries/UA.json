@@ -10,7 +10,7 @@
     "National Corps",
     "Svoboda"
   ],
-  "latestSupport": 8.3,
+  "latestSupport": 6.640000000000001,
   "datapointsByParty": {
     "National Corps": [
       {
@@ -184,6 +184,10 @@
       {
         "date": "2026-06-19",
         "value": 4.8
+      },
+      {
+        "date": "2026-08-02",
+        "value": 3.6
       }
     ],
     "Right Sector": [
@@ -10052,6 +10056,182 @@
       {
         "date": "2026-06-19",
         "value": 6.24
+      },
+      {
+        "date": "2026-06-20",
+        "value": 6.2
+      },
+      {
+        "date": "2026-06-21",
+        "value": 6.16
+      },
+      {
+        "date": "2026-06-22",
+        "value": 6.13
+      },
+      {
+        "date": "2026-06-23",
+        "value": 6.09
+      },
+      {
+        "date": "2026-06-24",
+        "value": 6.05
+      },
+      {
+        "date": "2026-06-25",
+        "value": 6.01
+      },
+      {
+        "date": "2026-06-26",
+        "value": 5.98
+      },
+      {
+        "date": "2026-06-27",
+        "value": 5.94
+      },
+      {
+        "date": "2026-06-28",
+        "value": 5.9
+      },
+      {
+        "date": "2026-06-29",
+        "value": 5.86
+      },
+      {
+        "date": "2026-06-30",
+        "value": 5.83
+      },
+      {
+        "date": "2026-07-01",
+        "value": 5.79
+      },
+      {
+        "date": "2026-07-02",
+        "value": 5.75
+      },
+      {
+        "date": "2026-07-03",
+        "value": 5.71
+      },
+      {
+        "date": "2026-07-04",
+        "value": 5.67
+      },
+      {
+        "date": "2026-07-05",
+        "value": 5.64
+      },
+      {
+        "date": "2026-07-06",
+        "value": 5.6
+      },
+      {
+        "date": "2026-07-07",
+        "value": 5.56
+      },
+      {
+        "date": "2026-07-08",
+        "value": 5.52
+      },
+      {
+        "date": "2026-07-09",
+        "value": 5.49
+      },
+      {
+        "date": "2026-07-10",
+        "value": 5.45
+      },
+      {
+        "date": "2026-07-11",
+        "value": 5.41
+      },
+      {
+        "date": "2026-07-12",
+        "value": 5.37
+      },
+      {
+        "date": "2026-07-13",
+        "value": 5.33
+      },
+      {
+        "date": "2026-07-14",
+        "value": 5.3
+      },
+      {
+        "date": "2026-07-15",
+        "value": 5.26
+      },
+      {
+        "date": "2026-07-16",
+        "value": 5.22
+      },
+      {
+        "date": "2026-07-17",
+        "value": 5.18
+      },
+      {
+        "date": "2026-07-18",
+        "value": 5.15
+      },
+      {
+        "date": "2026-07-19",
+        "value": 5.11
+      },
+      {
+        "date": "2026-07-20",
+        "value": 5.07
+      },
+      {
+        "date": "2026-07-21",
+        "value": 5.03
+      },
+      {
+        "date": "2026-07-22",
+        "value": 5.0
+      },
+      {
+        "date": "2026-07-23",
+        "value": 4.96
+      },
+      {
+        "date": "2026-07-24",
+        "value": 4.92
+      },
+      {
+        "date": "2026-07-25",
+        "value": 4.88
+      },
+      {
+        "date": "2026-07-26",
+        "value": 4.84
+      },
+      {
+        "date": "2026-07-27",
+        "value": 4.81
+      },
+      {
+        "date": "2026-07-28",
+        "value": 4.77
+      },
+      {
+        "date": "2026-07-29",
+        "value": 4.73
+      },
+      {
+        "date": "2026-07-30",
+        "value": 4.69
+      },
+      {
+        "date": "2026-07-31",
+        "value": 4.66
+      },
+      {
+        "date": "2026-08-01",
+        "value": 4.62
+      },
+      {
+        "date": "2026-08-02",
+        "value": 4.58
       }
     ],
     "Right Sector": [
@@ -44359,6 +44539,182 @@
     {
       "date": "2026-06-19",
       "value": 8.3
+    },
+    {
+      "date": "2026-06-20",
+      "value": 6.2
+    },
+    {
+      "date": "2026-06-21",
+      "value": 6.16
+    },
+    {
+      "date": "2026-06-22",
+      "value": 6.13
+    },
+    {
+      "date": "2026-06-23",
+      "value": 6.09
+    },
+    {
+      "date": "2026-06-24",
+      "value": 6.05
+    },
+    {
+      "date": "2026-06-25",
+      "value": 6.01
+    },
+    {
+      "date": "2026-06-26",
+      "value": 5.98
+    },
+    {
+      "date": "2026-06-27",
+      "value": 5.94
+    },
+    {
+      "date": "2026-06-28",
+      "value": 5.9
+    },
+    {
+      "date": "2026-06-29",
+      "value": 5.86
+    },
+    {
+      "date": "2026-06-30",
+      "value": 5.83
+    },
+    {
+      "date": "2026-07-01",
+      "value": 5.79
+    },
+    {
+      "date": "2026-07-02",
+      "value": 5.75
+    },
+    {
+      "date": "2026-07-03",
+      "value": 5.71
+    },
+    {
+      "date": "2026-07-04",
+      "value": 5.67
+    },
+    {
+      "date": "2026-07-05",
+      "value": 5.64
+    },
+    {
+      "date": "2026-07-06",
+      "value": 5.6
+    },
+    {
+      "date": "2026-07-07",
+      "value": 5.56
+    },
+    {
+      "date": "2026-07-08",
+      "value": 5.52
+    },
+    {
+      "date": "2026-07-09",
+      "value": 5.49
+    },
+    {
+      "date": "2026-07-10",
+      "value": 5.45
+    },
+    {
+      "date": "2026-07-11",
+      "value": 5.41
+    },
+    {
+      "date": "2026-07-12",
+      "value": 5.37
+    },
+    {
+      "date": "2026-07-13",
+      "value": 5.33
+    },
+    {
+      "date": "2026-07-14",
+      "value": 5.3
+    },
+    {
+      "date": "2026-07-15",
+      "value": 5.26
+    },
+    {
+      "date": "2026-07-16",
+      "value": 5.22
+    },
+    {
+      "date": "2026-07-17",
+      "value": 5.18
+    },
+    {
+      "date": "2026-07-18",
+      "value": 5.15
+    },
+    {
+      "date": "2026-07-19",
+      "value": 5.11
+    },
+    {
+      "date": "2026-07-20",
+      "value": 5.07
+    },
+    {
+      "date": "2026-07-21",
+      "value": 5.03
+    },
+    {
+      "date": "2026-07-22",
+      "value": 5.0
+    },
+    {
+      "date": "2026-07-23",
+      "value": 4.96
+    },
+    {
+      "date": "2026-07-24",
+      "value": 4.92
+    },
+    {
+      "date": "2026-07-25",
+      "value": 4.88
+    },
+    {
+      "date": "2026-07-26",
+      "value": 4.84
+    },
+    {
+      "date": "2026-07-27",
+      "value": 4.81
+    },
+    {
+      "date": "2026-07-28",
+      "value": 4.77
+    },
+    {
+      "date": "2026-07-29",
+      "value": 4.73
+    },
+    {
+      "date": "2026-07-30",
+      "value": 4.69
+    },
+    {
+      "date": "2026-07-31",
+      "value": 4.66
+    },
+    {
+      "date": "2026-08-01",
+      "value": 4.62
+    },
+    {
+      "date": "2026-08-02",
+      "value": 4.58
     }
   ],
   "activePartiesByDate": {
@@ -58619,9 +58975,185 @@
     "2026-06-19": [
       "National Corps",
       "Svoboda"
+    ],
+    "2026-06-20": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-21": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-22": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-23": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-24": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-25": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-26": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-27": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-28": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-29": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-06-30": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-01": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-02": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-03": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-04": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-05": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-06": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-07": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-08": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-09": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-10": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-11": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-12": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-13": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-14": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-15": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-16": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-17": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-18": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-19": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-20": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-21": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-22": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-23": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-24": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-25": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-26": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-27": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-28": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-29": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-30": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-07-31": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-08-01": [
+      "National Corps",
+      "Svoboda"
+    ],
+    "2026-08-02": [
+      "National Corps",
+      "Svoboda"
     ]
   },
-  "latestUpdate": "2026-06-19",
+  "latestUpdate": "2026-08-02",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Ukrainian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Ukrainian_parliamentary_election"
