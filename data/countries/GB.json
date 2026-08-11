@@ -7,9 +7,10 @@
     "UK Independence Party"
   ],
   "activeParties": [
-    "Reform UK"
+    "Reform UK",
+    "Restore Britain"
   ],
-  "latestSupport": 24.0,
+  "latestSupport": 27.2,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5292,6 +5293,10 @@
       },
       {
         "date": "2026-08-03",
+        "value": 4.0
+      },
+      {
+        "date": "2026-08-04",
         "value": 4.0
       }
     ],
@@ -24389,6 +24394,10 @@
       {
         "date": "2026-08-03",
         "value": 3.0
+      },
+      {
+        "date": "2026-08-04",
+        "value": 3.2
       }
     ],
     "UK Independence Party": [
@@ -62097,7 +62106,7 @@
     },
     {
       "date": "2026-08-04",
-      "value": 23.4
+      "value": 26.6
     },
     {
       "date": "2026-08-05",
@@ -80383,7 +80392,8 @@
       "Restore Britain"
     ],
     "2026-08-07": [
-      "Reform UK"
+      "Reform UK",
+      "Restore Britain"
     ]
   },
   "latestUpdate": "2026-08-07",
