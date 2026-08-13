@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.2,
+  "latestSupport": 27.27,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5023,7 +5023,7 @@
       },
       {
         "date": "2026-08-10",
-        "value": 24.0
+        "value": 24.33
       }
     ],
     "Restore Britain": [
@@ -23587,15 +23587,15 @@
       },
       {
         "date": "2026-08-08",
-        "value": 24.0
+        "value": 24.02
       },
       {
         "date": "2026-08-09",
-        "value": 24.0
+        "value": 24.05
       },
       {
         "date": "2026-08-10",
-        "value": 24.0
+        "value": 24.07
       }
     ],
     "Restore Britain": [
@@ -62166,15 +62166,15 @@
     },
     {
       "date": "2026-08-08",
-      "value": 27.2
+      "value": 27.22
     },
     {
       "date": "2026-08-09",
-      "value": 27.2
+      "value": 27.25
     },
     {
       "date": "2026-08-10",
-      "value": 27.2
+      "value": 27.27
     }
   ],
   "activePartiesByDate": {
