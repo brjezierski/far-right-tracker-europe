@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 23.28,
+  "latestSupport": 23.86,
   "datapointsByParty": {
     "Chega": [
       {
@@ -1221,6 +1221,10 @@
       {
         "date": "2026-07-21",
         "value": 26.4
+      },
+      {
+        "date": "2026-07-27",
+        "value": 26.2
       }
     ]
   },
@@ -13469,6 +13473,30 @@
       {
         "date": "2026-07-21",
         "value": 23.28
+      },
+      {
+        "date": "2026-07-22",
+        "value": 23.38
+      },
+      {
+        "date": "2026-07-23",
+        "value": 23.47
+      },
+      {
+        "date": "2026-07-24",
+        "value": 23.57
+      },
+      {
+        "date": "2026-07-25",
+        "value": 23.67
+      },
+      {
+        "date": "2026-07-26",
+        "value": 23.76
+      },
+      {
+        "date": "2026-07-27",
+        "value": 23.86
       }
     ]
   },
@@ -26048,6 +26076,30 @@
     {
       "date": "2026-07-21",
       "value": 23.28
+    },
+    {
+      "date": "2026-07-22",
+      "value": 23.38
+    },
+    {
+      "date": "2026-07-23",
+      "value": 23.47
+    },
+    {
+      "date": "2026-07-24",
+      "value": 23.57
+    },
+    {
+      "date": "2026-07-25",
+      "value": 23.67
+    },
+    {
+      "date": "2026-07-26",
+      "value": 23.76
+    },
+    {
+      "date": "2026-07-27",
+      "value": 23.86
     }
   ],
   "activePartiesByDate": {
@@ -35274,9 +35326,27 @@
     ],
     "2026-07-21": [
       "Chega"
+    ],
+    "2026-07-22": [
+      "Chega"
+    ],
+    "2026-07-23": [
+      "Chega"
+    ],
+    "2026-07-24": [
+      "Chega"
+    ],
+    "2026-07-25": [
+      "Chega"
+    ],
+    "2026-07-26": [
+      "Chega"
+    ],
+    "2026-07-27": [
+      "Chega"
     ]
   },
-  "latestUpdate": "2026-07-21",
+  "latestUpdate": "2026-07-27",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
