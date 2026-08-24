@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 27.79,
+  "latestSupport": 27.94,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9748,11 +9748,15 @@
       },
       {
         "date": "2026-08-17",
-        "value": 28.12
+        "value": 28.2
       },
       {
         "date": "2026-08-19",
         "value": 27.0
+      },
+      {
+        "date": "2026-08-21",
+        "value": 29.0
       }
     ]
   },
@@ -28536,19 +28540,27 @@
       },
       {
         "date": "2026-08-16",
-        "value": 27.98
+        "value": 28.0
       },
       {
         "date": "2026-08-17",
-        "value": 27.99
+        "value": 28.01
       },
       {
         "date": "2026-08-18",
-        "value": 27.89
+        "value": 27.91
       },
       {
         "date": "2026-08-19",
-        "value": 27.79
+        "value": 27.81
+      },
+      {
+        "date": "2026-08-20",
+        "value": 27.88
+      },
+      {
+        "date": "2026-08-21",
+        "value": 27.94
       }
     ]
   },
@@ -47383,19 +47395,27 @@
     },
     {
       "date": "2026-08-16",
-      "value": 27.98
+      "value": 28.0
     },
     {
       "date": "2026-08-17",
-      "value": 27.99
+      "value": 28.01
     },
     {
       "date": "2026-08-18",
-      "value": 27.89
+      "value": 27.91
     },
     {
       "date": "2026-08-19",
-      "value": 27.79
+      "value": 27.81
+    },
+    {
+      "date": "2026-08-20",
+      "value": 27.88
+    },
+    {
+      "date": "2026-08-21",
+      "value": 27.94
     }
   ],
   "activePartiesByDate": {
@@ -61531,9 +61551,15 @@
     ],
     "2026-08-19": [
       "Alternative for Germany"
+    ],
+    "2026-08-20": [
+      "Alternative for Germany"
+    ],
+    "2026-08-21": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-08-19",
+  "latestUpdate": "2026-08-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
