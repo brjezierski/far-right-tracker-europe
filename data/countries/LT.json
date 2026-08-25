@@ -9,9 +9,10 @@
   ],
   "activeParties": [
     "Dawn of Nemunas",
+    "Electoral Action of Poles in Lithuania - Christian Families Alliance",
     "National Alliance"
   ],
-  "latestSupport": 15.58,
+  "latestSupport": 19.939999999999998,
   "datapointsByParty": {
     "Dawn of Nemunas": [
       {
@@ -313,6 +314,10 @@
       {
         "date": "2026-07-18",
         "value": 12.0
+      },
+      {
+        "date": "2026-07-21",
+        "value": 15.3
       }
     ],
     "Electoral Action of Poles in Lithuania - Christian Families Alliance": [
@@ -1139,6 +1144,10 @@
       {
         "date": "2026-05-21",
         "value": 4.0
+      },
+      {
+        "date": "2026-07-21",
+        "value": 3.7
       }
     ],
     "National Alliance": [
@@ -1473,6 +1482,10 @@
       {
         "date": "2026-07-18",
         "value": 6.1
+      },
+      {
+        "date": "2026-07-21",
+        "value": 3.6
       }
     ],
     "People and Justice Union": [
@@ -9875,6 +9888,18 @@
       {
         "date": "2026-07-18",
         "value": 10.5
+      },
+      {
+        "date": "2026-07-19",
+        "value": 10.83
+      },
+      {
+        "date": "2026-07-20",
+        "value": 11.17
+      },
+      {
+        "date": "2026-07-21",
+        "value": 11.5
       }
     ],
     "Electoral Action of Poles in Lithuania - Christian Families Alliance": [
@@ -23505,6 +23530,250 @@
       {
         "date": "2026-05-21",
         "value": 3.9
+      },
+      {
+        "date": "2026-05-22",
+        "value": 3.9
+      },
+      {
+        "date": "2026-05-23",
+        "value": 3.9
+      },
+      {
+        "date": "2026-05-24",
+        "value": 3.89
+      },
+      {
+        "date": "2026-05-25",
+        "value": 3.89
+      },
+      {
+        "date": "2026-05-26",
+        "value": 3.89
+      },
+      {
+        "date": "2026-05-27",
+        "value": 3.89
+      },
+      {
+        "date": "2026-05-28",
+        "value": 3.88
+      },
+      {
+        "date": "2026-05-29",
+        "value": 3.88
+      },
+      {
+        "date": "2026-05-30",
+        "value": 3.88
+      },
+      {
+        "date": "2026-05-31",
+        "value": 3.88
+      },
+      {
+        "date": "2026-06-01",
+        "value": 3.87
+      },
+      {
+        "date": "2026-06-02",
+        "value": 3.87
+      },
+      {
+        "date": "2026-06-03",
+        "value": 3.87
+      },
+      {
+        "date": "2026-06-04",
+        "value": 3.87
+      },
+      {
+        "date": "2026-06-05",
+        "value": 3.87
+      },
+      {
+        "date": "2026-06-06",
+        "value": 3.86
+      },
+      {
+        "date": "2026-06-07",
+        "value": 3.86
+      },
+      {
+        "date": "2026-06-08",
+        "value": 3.86
+      },
+      {
+        "date": "2026-06-09",
+        "value": 3.86
+      },
+      {
+        "date": "2026-06-10",
+        "value": 3.85
+      },
+      {
+        "date": "2026-06-11",
+        "value": 3.85
+      },
+      {
+        "date": "2026-06-12",
+        "value": 3.85
+      },
+      {
+        "date": "2026-06-13",
+        "value": 3.85
+      },
+      {
+        "date": "2026-06-14",
+        "value": 3.84
+      },
+      {
+        "date": "2026-06-15",
+        "value": 3.84
+      },
+      {
+        "date": "2026-06-16",
+        "value": 3.84
+      },
+      {
+        "date": "2026-06-17",
+        "value": 3.84
+      },
+      {
+        "date": "2026-06-18",
+        "value": 3.84
+      },
+      {
+        "date": "2026-06-19",
+        "value": 3.83
+      },
+      {
+        "date": "2026-06-20",
+        "value": 3.83
+      },
+      {
+        "date": "2026-06-21",
+        "value": 3.83
+      },
+      {
+        "date": "2026-06-22",
+        "value": 3.83
+      },
+      {
+        "date": "2026-06-23",
+        "value": 3.82
+      },
+      {
+        "date": "2026-06-24",
+        "value": 3.82
+      },
+      {
+        "date": "2026-06-25",
+        "value": 3.82
+      },
+      {
+        "date": "2026-06-26",
+        "value": 3.82
+      },
+      {
+        "date": "2026-06-27",
+        "value": 3.82
+      },
+      {
+        "date": "2026-06-28",
+        "value": 3.81
+      },
+      {
+        "date": "2026-06-29",
+        "value": 3.81
+      },
+      {
+        "date": "2026-06-30",
+        "value": 3.81
+      },
+      {
+        "date": "2026-07-01",
+        "value": 3.81
+      },
+      {
+        "date": "2026-07-02",
+        "value": 3.8
+      },
+      {
+        "date": "2026-07-03",
+        "value": 3.8
+      },
+      {
+        "date": "2026-07-04",
+        "value": 3.8
+      },
+      {
+        "date": "2026-07-05",
+        "value": 3.8
+      },
+      {
+        "date": "2026-07-06",
+        "value": 3.79
+      },
+      {
+        "date": "2026-07-07",
+        "value": 3.79
+      },
+      {
+        "date": "2026-07-08",
+        "value": 3.79
+      },
+      {
+        "date": "2026-07-09",
+        "value": 3.79
+      },
+      {
+        "date": "2026-07-10",
+        "value": 3.79
+      },
+      {
+        "date": "2026-07-11",
+        "value": 3.78
+      },
+      {
+        "date": "2026-07-12",
+        "value": 3.78
+      },
+      {
+        "date": "2026-07-13",
+        "value": 3.78
+      },
+      {
+        "date": "2026-07-14",
+        "value": 3.78
+      },
+      {
+        "date": "2026-07-15",
+        "value": 3.77
+      },
+      {
+        "date": "2026-07-16",
+        "value": 3.77
+      },
+      {
+        "date": "2026-07-17",
+        "value": 3.77
+      },
+      {
+        "date": "2026-07-18",
+        "value": 3.77
+      },
+      {
+        "date": "2026-07-19",
+        "value": 3.76
+      },
+      {
+        "date": "2026-07-20",
+        "value": 3.76
+      },
+      {
+        "date": "2026-07-21",
+        "value": 3.76
       }
     ],
     "National Alliance": [
@@ -29995,6 +30264,18 @@
       {
         "date": "2026-07-18",
         "value": 5.08
+      },
+      {
+        "date": "2026-07-19",
+        "value": 4.95
+      },
+      {
+        "date": "2026-07-20",
+        "value": 4.81
+      },
+      {
+        "date": "2026-07-21",
+        "value": 4.68
       }
     ],
     "People and Justice Union": [
@@ -55039,235 +55320,247 @@
     },
     {
       "date": "2026-05-22",
-      "value": 15.51
+      "value": 19.41
     },
     {
       "date": "2026-05-23",
-      "value": 15.47
+      "value": 19.37
     },
     {
       "date": "2026-05-24",
-      "value": 15.44
+      "value": 19.33
     },
     {
       "date": "2026-05-25",
-      "value": 15.4
+      "value": 19.29
     },
     {
       "date": "2026-05-26",
-      "value": 15.38
+      "value": 19.27
     },
     {
       "date": "2026-05-27",
-      "value": 15.34
+      "value": 19.23
     },
     {
       "date": "2026-05-28",
-      "value": 15.31
+      "value": 19.19
     },
     {
       "date": "2026-05-29",
-      "value": 15.27
+      "value": 19.15
     },
     {
       "date": "2026-05-30",
-      "value": 15.24
+      "value": 19.12
     },
     {
       "date": "2026-05-31",
-      "value": 15.22
+      "value": 19.1
     },
     {
       "date": "2026-06-01",
-      "value": 15.19
+      "value": 19.06
     },
     {
       "date": "2026-06-02",
-      "value": 15.16
+      "value": 19.03
     },
     {
       "date": "2026-06-03",
-      "value": 15.13
+      "value": 19.0
     },
     {
       "date": "2026-06-04",
-      "value": 15.11
+      "value": 18.98
     },
     {
       "date": "2026-06-05",
-      "value": 15.08
+      "value": 18.95
     },
     {
       "date": "2026-06-06",
-      "value": 15.06
+      "value": 18.92
     },
     {
       "date": "2026-06-07",
-      "value": 15.03
+      "value": 18.89
     },
     {
       "date": "2026-06-08",
-      "value": 15.0
+      "value": 18.86
     },
     {
       "date": "2026-06-09",
-      "value": 14.98
+      "value": 18.84
     },
     {
       "date": "2026-06-10",
-      "value": 14.95
+      "value": 18.8
     },
     {
       "date": "2026-06-11",
-      "value": 14.92
+      "value": 18.77
     },
     {
       "date": "2026-06-12",
-      "value": 14.9
+      "value": 18.75
     },
     {
       "date": "2026-06-13",
-      "value": 14.87
+      "value": 18.72
     },
     {
       "date": "2026-06-14",
-      "value": 14.85
+      "value": 18.69
     },
     {
       "date": "2026-06-15",
-      "value": 14.82
+      "value": 18.66
     },
     {
       "date": "2026-06-16",
-      "value": 14.79
+      "value": 18.63
     },
     {
       "date": "2026-06-17",
-      "value": 14.76
+      "value": 18.6
     },
     {
       "date": "2026-06-18",
-      "value": 14.74
+      "value": 18.58
     },
     {
       "date": "2026-06-19",
-      "value": 14.77
+      "value": 18.6
     },
     {
       "date": "2026-06-20",
-      "value": 14.8
+      "value": 18.63
     },
     {
       "date": "2026-06-21",
-      "value": 14.83
+      "value": 18.66
     },
     {
       "date": "2026-06-22",
-      "value": 14.85
+      "value": 18.68
     },
     {
       "date": "2026-06-23",
-      "value": 14.88
+      "value": 18.7
     },
     {
       "date": "2026-06-24",
-      "value": 14.91
+      "value": 18.73
     },
     {
       "date": "2026-06-25",
-      "value": 14.94
+      "value": 18.76
     },
     {
       "date": "2026-06-26",
-      "value": 14.96
+      "value": 18.78
     },
     {
       "date": "2026-06-27",
-      "value": 14.99
+      "value": 18.81
     },
     {
       "date": "2026-06-28",
-      "value": 15.02
+      "value": 18.83
     },
     {
       "date": "2026-06-29",
-      "value": 15.05
+      "value": 18.86
     },
     {
       "date": "2026-06-30",
-      "value": 15.07
+      "value": 18.88
     },
     {
       "date": "2026-07-01",
-      "value": 15.1
+      "value": 18.91
     },
     {
       "date": "2026-07-02",
-      "value": 15.13
+      "value": 18.93
     },
     {
       "date": "2026-07-03",
-      "value": 15.16
+      "value": 18.96
     },
     {
       "date": "2026-07-04",
-      "value": 15.19
+      "value": 18.99
     },
     {
       "date": "2026-07-05",
-      "value": 15.22
+      "value": 19.02
     },
     {
       "date": "2026-07-06",
-      "value": 15.25
+      "value": 19.04
     },
     {
       "date": "2026-07-07",
-      "value": 15.27
+      "value": 19.06
     },
     {
       "date": "2026-07-08",
-      "value": 15.3
+      "value": 19.09
     },
     {
       "date": "2026-07-09",
-      "value": 15.33
+      "value": 19.12
     },
     {
       "date": "2026-07-10",
-      "value": 15.36
+      "value": 19.15
     },
     {
       "date": "2026-07-11",
-      "value": 15.38
+      "value": 19.16
     },
     {
       "date": "2026-07-12",
-      "value": 15.41
+      "value": 19.19
     },
     {
       "date": "2026-07-13",
-      "value": 15.44
+      "value": 19.22
     },
     {
       "date": "2026-07-14",
-      "value": 15.47
+      "value": 19.25
     },
     {
       "date": "2026-07-15",
-      "value": 15.49
+      "value": 19.26
     },
     {
       "date": "2026-07-16",
-      "value": 15.52
+      "value": 19.29
     },
     {
       "date": "2026-07-17",
-      "value": 15.55
+      "value": 19.32
     },
     {
       "date": "2026-07-18",
       "value": 15.58
+    },
+    {
+      "date": "2026-07-19",
+      "value": 15.78
+    },
+    {
+      "date": "2026-07-20",
+      "value": 15.98
+    },
+    {
+      "date": "2026-07-21",
+      "value": 19.94
     }
   ],
   "activePartiesByDate": {
@@ -71253,9 +71546,22 @@
     "2026-07-18": [
       "Dawn of Nemunas",
       "National Alliance"
+    ],
+    "2026-07-19": [
+      "Dawn of Nemunas",
+      "National Alliance"
+    ],
+    "2026-07-20": [
+      "Dawn of Nemunas",
+      "National Alliance"
+    ],
+    "2026-07-21": [
+      "Dawn of Nemunas",
+      "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+      "National Alliance"
     ]
   },
-  "latestUpdate": "2026-07-18",
+  "latestUpdate": "2026-07-21",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Lithuanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Lithuanian_parliamentary_election",
