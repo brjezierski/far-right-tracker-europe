@@ -8,7 +8,7 @@
   "activeParties": [
     "Finns Party"
   ],
-  "latestSupport": 14.34,
+  "latestSupport": 14.5,
   "datapointsByParty": {
     "Finnish Reform Movement": [
       {
@@ -1192,6 +1192,10 @@
       {
         "date": "2026-08-03",
         "value": 15.6
+      },
+      {
+        "date": "2026-08-17",
+        "value": 14.6
       }
     ]
   },
@@ -20266,6 +20270,62 @@
       {
         "date": "2026-08-03",
         "value": 14.34
+      },
+      {
+        "date": "2026-08-04",
+        "value": 14.35
+      },
+      {
+        "date": "2026-08-05",
+        "value": 14.36
+      },
+      {
+        "date": "2026-08-06",
+        "value": 14.37
+      },
+      {
+        "date": "2026-08-07",
+        "value": 14.39
+      },
+      {
+        "date": "2026-08-08",
+        "value": 14.4
+      },
+      {
+        "date": "2026-08-09",
+        "value": 14.41
+      },
+      {
+        "date": "2026-08-10",
+        "value": 14.42
+      },
+      {
+        "date": "2026-08-11",
+        "value": 14.43
+      },
+      {
+        "date": "2026-08-12",
+        "value": 14.44
+      },
+      {
+        "date": "2026-08-13",
+        "value": 14.45
+      },
+      {
+        "date": "2026-08-14",
+        "value": 14.47
+      },
+      {
+        "date": "2026-08-15",
+        "value": 14.48
+      },
+      {
+        "date": "2026-08-16",
+        "value": 14.49
+      },
+      {
+        "date": "2026-08-17",
+        "value": 14.5
       }
     ]
   },
@@ -37149,6 +37209,62 @@
     {
       "date": "2026-08-03",
       "value": 14.34
+    },
+    {
+      "date": "2026-08-04",
+      "value": 14.35
+    },
+    {
+      "date": "2026-08-05",
+      "value": 14.36
+    },
+    {
+      "date": "2026-08-06",
+      "value": 14.37
+    },
+    {
+      "date": "2026-08-07",
+      "value": 14.39
+    },
+    {
+      "date": "2026-08-08",
+      "value": 14.4
+    },
+    {
+      "date": "2026-08-09",
+      "value": 14.41
+    },
+    {
+      "date": "2026-08-10",
+      "value": 14.42
+    },
+    {
+      "date": "2026-08-11",
+      "value": 14.43
+    },
+    {
+      "date": "2026-08-12",
+      "value": 14.44
+    },
+    {
+      "date": "2026-08-13",
+      "value": 14.45
+    },
+    {
+      "date": "2026-08-14",
+      "value": 14.47
+    },
+    {
+      "date": "2026-08-15",
+      "value": 14.48
+    },
+    {
+      "date": "2026-08-16",
+      "value": 14.49
+    },
+    {
+      "date": "2026-08-17",
+      "value": 14.5
     }
   ],
   "activePartiesByDate": {
@@ -50775,9 +50891,51 @@
     ],
     "2026-08-03": [
       "Finns Party"
+    ],
+    "2026-08-04": [
+      "Finns Party"
+    ],
+    "2026-08-05": [
+      "Finns Party"
+    ],
+    "2026-08-06": [
+      "Finns Party"
+    ],
+    "2026-08-07": [
+      "Finns Party"
+    ],
+    "2026-08-08": [
+      "Finns Party"
+    ],
+    "2026-08-09": [
+      "Finns Party"
+    ],
+    "2026-08-10": [
+      "Finns Party"
+    ],
+    "2026-08-11": [
+      "Finns Party"
+    ],
+    "2026-08-12": [
+      "Finns Party"
+    ],
+    "2026-08-13": [
+      "Finns Party"
+    ],
+    "2026-08-14": [
+      "Finns Party"
+    ],
+    "2026-08-15": [
+      "Finns Party"
+    ],
+    "2026-08-16": [
+      "Finns Party"
+    ],
+    "2026-08-17": [
+      "Finns Party"
     ]
   },
-  "latestUpdate": "2026-08-03",
+  "latestUpdate": "2026-08-17",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",

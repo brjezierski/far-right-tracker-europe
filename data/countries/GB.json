@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 28.27,
+  "latestSupport": 27.87,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5052,6 +5052,10 @@
       {
         "date": "2026-08-19",
         "value": 23.0
+      },
+      {
+        "date": "2026-08-24",
+        "value": 25.0
       }
     ],
     "Restore Britain": [
@@ -5346,6 +5350,10 @@
       {
         "date": "2026-08-18",
         "value": 2.0
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3.0
       }
     ],
     "UK Independence Party": [
@@ -23672,6 +23680,26 @@
       {
         "date": "2026-08-19",
         "value": 25.07
+      },
+      {
+        "date": "2026-08-20",
+        "value": 25.03
+      },
+      {
+        "date": "2026-08-21",
+        "value": 24.99
+      },
+      {
+        "date": "2026-08-22",
+        "value": 24.95
+      },
+      {
+        "date": "2026-08-23",
+        "value": 24.91
+      },
+      {
+        "date": "2026-08-24",
+        "value": 24.87
       }
     ],
     "Restore Britain": [
@@ -24550,6 +24578,30 @@
       {
         "date": "2026-08-18",
         "value": 3.2
+      },
+      {
+        "date": "2026-08-19",
+        "value": 3.17
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3.13
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3.1
+      },
+      {
+        "date": "2026-08-22",
+        "value": 3.07
+      },
+      {
+        "date": "2026-08-23",
+        "value": 3.03
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3.0
       }
     ],
     "UK Independence Party": [
@@ -62318,7 +62370,27 @@
     },
     {
       "date": "2026-08-19",
-      "value": 25.07
+      "value": 28.24
+    },
+    {
+      "date": "2026-08-20",
+      "value": 28.16
+    },
+    {
+      "date": "2026-08-21",
+      "value": 28.09
+    },
+    {
+      "date": "2026-08-22",
+      "value": 28.02
+    },
+    {
+      "date": "2026-08-23",
+      "value": 27.94
+    },
+    {
+      "date": "2026-08-24",
+      "value": 27.87
     }
   ],
   "activePartiesByDate": {
@@ -80642,9 +80714,29 @@
     "2026-08-19": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-08-20": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-08-21": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-08-22": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-08-23": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-08-24": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-08-19",
+  "latestUpdate": "2026-08-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
