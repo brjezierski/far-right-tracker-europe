@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 39.69,
+  "latestSupport": 39.35,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10152,6 +10152,10 @@
       {
         "date": "2026-08-05",
         "value": 26.2
+      },
+      {
+        "date": "2026-08-24",
+        "value": 25.4
       }
     ],
     "CasaPound": [
@@ -18130,6 +18134,10 @@
       {
         "date": "2026-08-05",
         "value": 5.2
+      },
+      {
+        "date": "2026-08-24",
+        "value": 4.8
       }
     ],
     "Lega Nord": [
@@ -22398,6 +22406,10 @@
       {
         "date": "2026-08-05",
         "value": 7.1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 8.0
       }
     ]
   },
@@ -42002,6 +42014,82 @@
       {
         "date": "2026-08-05",
         "value": 26.57
+      },
+      {
+        "date": "2026-08-06",
+        "value": 26.57
+      },
+      {
+        "date": "2026-08-07",
+        "value": 26.57
+      },
+      {
+        "date": "2026-08-08",
+        "value": 26.58
+      },
+      {
+        "date": "2026-08-09",
+        "value": 26.58
+      },
+      {
+        "date": "2026-08-10",
+        "value": 26.58
+      },
+      {
+        "date": "2026-08-11",
+        "value": 26.58
+      },
+      {
+        "date": "2026-08-12",
+        "value": 26.58
+      },
+      {
+        "date": "2026-08-13",
+        "value": 26.59
+      },
+      {
+        "date": "2026-08-14",
+        "value": 26.59
+      },
+      {
+        "date": "2026-08-15",
+        "value": 26.59
+      },
+      {
+        "date": "2026-08-16",
+        "value": 26.59
+      },
+      {
+        "date": "2026-08-17",
+        "value": 26.6
+      },
+      {
+        "date": "2026-08-18",
+        "value": 26.6
+      },
+      {
+        "date": "2026-08-19",
+        "value": 26.6
+      },
+      {
+        "date": "2026-08-20",
+        "value": 26.6
+      },
+      {
+        "date": "2026-08-21",
+        "value": 26.6
+      },
+      {
+        "date": "2026-08-22",
+        "value": 26.61
+      },
+      {
+        "date": "2026-08-23",
+        "value": 26.61
+      },
+      {
+        "date": "2026-08-24",
+        "value": 26.61
       }
     ],
     "CasaPound": [
@@ -57556,6 +57644,82 @@
       {
         "date": "2026-08-05",
         "value": 6.12
+      },
+      {
+        "date": "2026-08-06",
+        "value": 6.09
+      },
+      {
+        "date": "2026-08-07",
+        "value": 6.06
+      },
+      {
+        "date": "2026-08-08",
+        "value": 6.03
+      },
+      {
+        "date": "2026-08-09",
+        "value": 6.0
+      },
+      {
+        "date": "2026-08-10",
+        "value": 5.97
+      },
+      {
+        "date": "2026-08-11",
+        "value": 5.94
+      },
+      {
+        "date": "2026-08-12",
+        "value": 5.91
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5.88
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5.85
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5.81
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5.78
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5.75
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5.72
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5.69
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5.66
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5.63
+      },
+      {
+        "date": "2026-08-22",
+        "value": 5.6
+      },
+      {
+        "date": "2026-08-23",
+        "value": 5.57
+      },
+      {
+        "date": "2026-08-24",
+        "value": 5.54
       }
     ],
     "Lega Nord": [
@@ -65664,6 +65828,82 @@
       {
         "date": "2026-08-05",
         "value": 7.0
+      },
+      {
+        "date": "2026-08-06",
+        "value": 7.01
+      },
+      {
+        "date": "2026-08-07",
+        "value": 7.02
+      },
+      {
+        "date": "2026-08-08",
+        "value": 7.03
+      },
+      {
+        "date": "2026-08-09",
+        "value": 7.04
+      },
+      {
+        "date": "2026-08-10",
+        "value": 7.05
+      },
+      {
+        "date": "2026-08-11",
+        "value": 7.06
+      },
+      {
+        "date": "2026-08-12",
+        "value": 7.07
+      },
+      {
+        "date": "2026-08-13",
+        "value": 7.08
+      },
+      {
+        "date": "2026-08-14",
+        "value": 7.09
+      },
+      {
+        "date": "2026-08-15",
+        "value": 7.11
+      },
+      {
+        "date": "2026-08-16",
+        "value": 7.12
+      },
+      {
+        "date": "2026-08-17",
+        "value": 7.13
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7.14
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7.15
+      },
+      {
+        "date": "2026-08-20",
+        "value": 7.16
+      },
+      {
+        "date": "2026-08-21",
+        "value": 7.17
+      },
+      {
+        "date": "2026-08-22",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-23",
+        "value": 7.19
+      },
+      {
+        "date": "2026-08-24",
+        "value": 7.2
       }
     ]
   },
@@ -85307,6 +85547,82 @@
     {
       "date": "2026-08-05",
       "value": 39.69
+    },
+    {
+      "date": "2026-08-06",
+      "value": 39.67
+    },
+    {
+      "date": "2026-08-07",
+      "value": 39.65
+    },
+    {
+      "date": "2026-08-08",
+      "value": 39.64
+    },
+    {
+      "date": "2026-08-09",
+      "value": 39.62
+    },
+    {
+      "date": "2026-08-10",
+      "value": 39.6
+    },
+    {
+      "date": "2026-08-11",
+      "value": 39.58
+    },
+    {
+      "date": "2026-08-12",
+      "value": 39.56
+    },
+    {
+      "date": "2026-08-13",
+      "value": 39.55
+    },
+    {
+      "date": "2026-08-14",
+      "value": 39.53
+    },
+    {
+      "date": "2026-08-15",
+      "value": 39.51
+    },
+    {
+      "date": "2026-08-16",
+      "value": 39.49
+    },
+    {
+      "date": "2026-08-17",
+      "value": 39.48
+    },
+    {
+      "date": "2026-08-18",
+      "value": 39.46
+    },
+    {
+      "date": "2026-08-19",
+      "value": 39.44
+    },
+    {
+      "date": "2026-08-20",
+      "value": 39.42
+    },
+    {
+      "date": "2026-08-21",
+      "value": 39.4
+    },
+    {
+      "date": "2026-08-22",
+      "value": 39.39
+    },
+    {
+      "date": "2026-08-23",
+      "value": 39.37
+    },
+    {
+      "date": "2026-08-24",
+      "value": 39.35
     }
   ],
   "activePartiesByDate": {
@@ -106042,9 +106358,104 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-08-06": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-07": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-08": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-09": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-10": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-11": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-12": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-13": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-14": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-15": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-16": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-17": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-18": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-19": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-20": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-21": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-22": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-23": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
+    ],
+    "2026-08-24": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-08-05",
+  "latestUpdate": "2026-08-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
