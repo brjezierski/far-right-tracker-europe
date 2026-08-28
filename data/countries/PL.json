@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 41.51,
+  "latestSupport": 43.709999999999994,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3876,6 +3876,10 @@
       {
         "date": "2026-08-23",
         "value": 14.1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 15.0
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4386,6 +4390,10 @@
       {
         "date": "2026-08-23",
         "value": 8.4
+      },
+      {
+        "date": "2026-08-24",
+        "value": 10.0
       }
     ],
     "Law and Justice": [
@@ -6396,6 +6404,10 @@
       {
         "date": "2026-08-23",
         "value": 20.6
+      },
+      {
+        "date": "2026-08-24",
+        "value": 24.0
       }
     ],
     "New Hope": [
@@ -20406,6 +20418,10 @@
       {
         "date": "2026-08-23",
         "value": 13.34
+      },
+      {
+        "date": "2026-08-24",
+        "value": 14.22
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22160,6 +22176,10 @@
       {
         "date": "2026-08-23",
         "value": 9.1
+      },
+      {
+        "date": "2026-08-24",
+        "value": 9.18
       }
     ],
     "Law and Justice": [
@@ -37798,6 +37818,10 @@
       {
         "date": "2026-08-23",
         "value": 19.07
+      },
+      {
+        "date": "2026-08-24",
+        "value": 20.31
       }
     ],
     "New Hope": [
@@ -65787,6 +65811,10 @@
     {
       "date": "2026-08-23",
       "value": 41.51
+    },
+    {
+      "date": "2026-08-24",
+      "value": 43.71
     }
   ],
   "activePartiesByDate": {
@@ -82261,9 +82289,14 @@
       "Confederation Liberty and Independence",
       "Confederation of the Polish Crown",
       "Law and Justice"
+    ],
+    "2026-08-24": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
     ]
   },
-  "latestUpdate": "2026-08-23",
+  "latestUpdate": "2026-08-24",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",

@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 40.2,
+  "latestSupport": 39.8,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1313,6 +1313,10 @@
       {
         "date": "2026-08-19",
         "value": 2.0
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1.5
       }
     ],
     "Rassemblement National": [
@@ -2631,6 +2635,10 @@
       {
         "date": "2026-08-19",
         "value": 35.0
+      },
+      {
+        "date": "2026-08-25",
+        "value": 33.0
       }
     ],
     "Reconquête": [
@@ -3225,6 +3233,10 @@
       {
         "date": "2026-08-19",
         "value": 3.0
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3.5
       }
     ]
   },
@@ -22673,6 +22685,30 @@
       {
         "date": "2026-08-19",
         "value": 1.75
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1.73
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1.72
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1.7
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1.68
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1.67
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1.65
       }
     ],
     "Rassemblement National": [
@@ -42119,6 +42155,30 @@
       {
         "date": "2026-08-19",
         "value": 34.7
+      },
+      {
+        "date": "2026-08-20",
+        "value": 34.73
+      },
+      {
+        "date": "2026-08-21",
+        "value": 34.77
+      },
+      {
+        "date": "2026-08-22",
+        "value": 34.8
+      },
+      {
+        "date": "2026-08-23",
+        "value": 34.83
+      },
+      {
+        "date": "2026-08-24",
+        "value": 34.87
+      },
+      {
+        "date": "2026-08-25",
+        "value": 34.9
       }
     ],
     "Reconquête": [
@@ -49321,6 +49381,30 @@
       {
         "date": "2026-08-19",
         "value": 3.75
+      },
+      {
+        "date": "2026-08-20",
+        "value": 3.67
+      },
+      {
+        "date": "2026-08-21",
+        "value": 3.58
+      },
+      {
+        "date": "2026-08-22",
+        "value": 3.5
+      },
+      {
+        "date": "2026-08-23",
+        "value": 3.42
+      },
+      {
+        "date": "2026-08-24",
+        "value": 3.33
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3.25
       }
     ]
   },
@@ -69564,6 +69648,30 @@
     {
       "date": "2026-08-19",
       "value": 40.2
+    },
+    {
+      "date": "2026-08-20",
+      "value": 40.13
+    },
+    {
+      "date": "2026-08-21",
+      "value": 40.07
+    },
+    {
+      "date": "2026-08-22",
+      "value": 40.0
+    },
+    {
+      "date": "2026-08-23",
+      "value": 39.93
+    },
+    {
+      "date": "2026-08-24",
+      "value": 39.87
+    },
+    {
+      "date": "2026-08-25",
+      "value": 39.8
     }
   ],
   "activePartiesByDate": {
@@ -91622,9 +91730,39 @@
       "Debout la France",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-08-20": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-08-21": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-08-22": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-08-23": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-08-24": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-08-25": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-08-19",
+  "latestUpdate": "2026-08-25",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
