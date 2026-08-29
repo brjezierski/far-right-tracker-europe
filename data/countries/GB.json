@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.4,
+  "latestSupport": 27.2,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5064,6 +5064,10 @@
       {
         "date": "2026-08-26",
         "value": 25.0
+      },
+      {
+        "date": "2026-08-28",
+        "value": 24.0
       }
     ],
     "Restore Britain": [
@@ -5365,6 +5369,10 @@
       },
       {
         "date": "2026-08-24",
+        "value": 3.0
+      },
+      {
+        "date": "2026-08-28",
         "value": 3.0
       }
     ],
@@ -23720,6 +23728,14 @@
       {
         "date": "2026-08-26",
         "value": 24.4
+      },
+      {
+        "date": "2026-08-27",
+        "value": 24.2
+      },
+      {
+        "date": "2026-08-28",
+        "value": 24.0
       }
     ],
     "Restore Britain": [
@@ -24622,6 +24638,22 @@
       {
         "date": "2026-08-24",
         "value": 3.0
+      },
+      {
+        "date": "2026-08-25",
+        "value": 3.05
+      },
+      {
+        "date": "2026-08-26",
+        "value": 3.1
+      },
+      {
+        "date": "2026-08-27",
+        "value": 3.15
+      },
+      {
+        "date": "2026-08-28",
+        "value": 3.2
       }
     ],
     "UK Independence Party": [
@@ -62414,11 +62446,19 @@
     },
     {
       "date": "2026-08-25",
-      "value": 24.43
+      "value": 27.48
     },
     {
       "date": "2026-08-26",
-      "value": 24.4
+      "value": 27.5
+    },
+    {
+      "date": "2026-08-27",
+      "value": 27.35
+    },
+    {
+      "date": "2026-08-28",
+      "value": 27.2
     }
   ],
   "activePartiesByDate": {
@@ -80770,9 +80810,17 @@
     "2026-08-26": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-08-27": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-08-28": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-08-26",
+  "latestUpdate": "2026-08-28",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
