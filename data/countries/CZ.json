@@ -15,7 +15,7 @@
     "Freedom and Direct Democracy",
     "Motorists for Themselves"
   ],
-  "latestSupport": 44.959999999999994,
+  "latestSupport": 44.76,
   "datapointsByParty": {
     "ANO 2011": [
       {
@@ -2233,6 +2233,10 @@
       {
         "date": "2026-07-31",
         "value": 34.0
+      },
+      {
+        "date": "2026-08-21",
+        "value": 30.5
       }
     ],
     "Dawn - National Coalition": [
@@ -4761,6 +4765,10 @@
       {
         "date": "2026-07-31",
         "value": 7.5
+      },
+      {
+        "date": "2026-08-21",
+        "value": 6.5
       }
     ],
     "Motorists for Themselves": [
@@ -5175,6 +5183,10 @@
       {
         "date": "2026-07-31",
         "value": 4.5
+      },
+      {
+        "date": "2026-08-21",
+        "value": 5.0
       }
     ],
     "Realists": [
@@ -24893,6 +24905,90 @@
       {
         "date": "2026-07-31",
         "value": 32.66
+      },
+      {
+        "date": "2026-08-01",
+        "value": 32.65
+      },
+      {
+        "date": "2026-08-02",
+        "value": 32.64
+      },
+      {
+        "date": "2026-08-03",
+        "value": 32.63
+      },
+      {
+        "date": "2026-08-04",
+        "value": 32.62
+      },
+      {
+        "date": "2026-08-05",
+        "value": 32.61
+      },
+      {
+        "date": "2026-08-06",
+        "value": 32.6
+      },
+      {
+        "date": "2026-08-07",
+        "value": 32.59
+      },
+      {
+        "date": "2026-08-08",
+        "value": 32.58
+      },
+      {
+        "date": "2026-08-09",
+        "value": 32.57
+      },
+      {
+        "date": "2026-08-10",
+        "value": 32.56
+      },
+      {
+        "date": "2026-08-11",
+        "value": 32.56
+      },
+      {
+        "date": "2026-08-12",
+        "value": 32.55
+      },
+      {
+        "date": "2026-08-13",
+        "value": 32.54
+      },
+      {
+        "date": "2026-08-14",
+        "value": 32.53
+      },
+      {
+        "date": "2026-08-15",
+        "value": 32.52
+      },
+      {
+        "date": "2026-08-16",
+        "value": 32.51
+      },
+      {
+        "date": "2026-08-17",
+        "value": 32.5
+      },
+      {
+        "date": "2026-08-18",
+        "value": 32.49
+      },
+      {
+        "date": "2026-08-19",
+        "value": 32.48
+      },
+      {
+        "date": "2026-08-20",
+        "value": 32.47
+      },
+      {
+        "date": "2026-08-21",
+        "value": 32.46
       }
     ],
     "Dawn - National Coalition": [
@@ -46097,6 +46193,90 @@
       {
         "date": "2026-07-31",
         "value": 7.18
+      },
+      {
+        "date": "2026-08-01",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-02",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-03",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-04",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-05",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-06",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-07",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-08",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-09",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-10",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-11",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-12",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-13",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-14",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-15",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-16",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-17",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-18",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-19",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-20",
+        "value": 7.18
+      },
+      {
+        "date": "2026-08-21",
+        "value": 7.18
       }
     ],
     "Motorists for Themselves": [
@@ -48778,6 +48958,90 @@
       },
       {
         "date": "2026-07-31",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-01",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-02",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-03",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-04",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-05",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-06",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-07",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-08",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-09",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-10",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-11",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-12",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-13",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-14",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-15",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-16",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-17",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-18",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-19",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-20",
+        "value": 5.12
+      },
+      {
+        "date": "2026-08-21",
         "value": 5.12
       }
     ],
@@ -89296,6 +89560,90 @@
     {
       "date": "2026-07-31",
       "value": 44.96
+    },
+    {
+      "date": "2026-08-01",
+      "value": 44.95
+    },
+    {
+      "date": "2026-08-02",
+      "value": 44.94
+    },
+    {
+      "date": "2026-08-03",
+      "value": 44.93
+    },
+    {
+      "date": "2026-08-04",
+      "value": 44.92
+    },
+    {
+      "date": "2026-08-05",
+      "value": 44.91
+    },
+    {
+      "date": "2026-08-06",
+      "value": 44.9
+    },
+    {
+      "date": "2026-08-07",
+      "value": 44.89
+    },
+    {
+      "date": "2026-08-08",
+      "value": 44.88
+    },
+    {
+      "date": "2026-08-09",
+      "value": 44.87
+    },
+    {
+      "date": "2026-08-10",
+      "value": 44.86
+    },
+    {
+      "date": "2026-08-11",
+      "value": 44.86
+    },
+    {
+      "date": "2026-08-12",
+      "value": 44.85
+    },
+    {
+      "date": "2026-08-13",
+      "value": 44.84
+    },
+    {
+      "date": "2026-08-14",
+      "value": 44.83
+    },
+    {
+      "date": "2026-08-15",
+      "value": 44.82
+    },
+    {
+      "date": "2026-08-16",
+      "value": 44.81
+    },
+    {
+      "date": "2026-08-17",
+      "value": 44.8
+    },
+    {
+      "date": "2026-08-18",
+      "value": 44.79
+    },
+    {
+      "date": "2026-08-19",
+      "value": 44.78
+    },
+    {
+      "date": "2026-08-20",
+      "value": 44.77
+    },
+    {
+      "date": "2026-08-21",
+      "value": 44.76
     }
   ],
   "activePartiesByDate": {
@@ -113145,9 +113493,114 @@
       "ANO 2011",
       "Freedom and Direct Democracy",
       "Motorists for Themselves"
+    ],
+    "2026-08-01": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-02": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-03": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-04": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-05": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-06": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-07": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-08": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-09": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-10": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-11": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-12": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-13": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-14": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-15": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-16": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-17": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-18": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-19": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-20": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
+    ],
+    "2026-08-21": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves"
     ]
   },
-  "latestUpdate": "2026-07-31",
+  "latestUpdate": "2026-08-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
