@@ -1518,8 +1518,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Action,2.6,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-07-28,Action,3.3,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-07-29,Action,2.6,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
-2025-07-31,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
-2025-07-31,Action,4.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
+2025-07-30,Action,4.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-07-31,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-08-07,Action,3.0,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-08-25,Action,2.6,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
@@ -1534,6 +1533,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-09-22,Action,3.3,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-09-22,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
+2025-09-25,Action,3.0,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-09-26,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-09-29,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-10-01,Action,3.2,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
@@ -1561,7 +1561,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Action,3.1,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-11-06,Action,3.6,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-11-06,Action,2.8,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
-2025-11-07,Action,3.4,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-11-10,Action,3.0,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-11-12,Action,3.4,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
 2025-11-13,Action,3.0,Centre,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Action_(Italian_political_party)
@@ -6176,9 +6175,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Brothers of Italy,28.0,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-07-28,Brothers of Italy,29.9,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-07-29,Brothers of Italy,27.9,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
+2025-07-30,Brothers of Italy,28.5,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-07-30,Brothers of Italy,30.2,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
-2025-07-31,Brothers of Italy,28.8,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
-2025-07-31,Brothers of Italy,28.5,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-07-31,Brothers of Italy,28.8,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-08-07,Brothers of Italy,29.1,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-08-25,Brothers of Italy,28.8,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
@@ -6193,6 +6191,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Brothers of Italy,29.4,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-09-22,Brothers of Italy,30.2,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-09-22,Brothers of Italy,28.4,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
+2025-09-25,Brothers of Italy,29.7,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-09-26,Brothers of Italy,29.2,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-09-29,Brothers of Italy,30.5,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-10-01,Brothers of Italy,28.1,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
@@ -6220,7 +6219,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Brothers of Italy,30.2,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-11-06,Brothers of Italy,31.1,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-11-06,Brothers of Italy,29.5,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
-2025-11-07,Brothers of Italy,31.1,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-11-10,Brothers of Italy,31.3,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-11-12,Brothers of Italy,30.7,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
 2025-11-13,Brothers of Italy,30.4,Right-wing to far-right,National conservatism Right-wing populism Post-fascism,https://en.wikipedia.org/wiki/Brothers_of_Italy
@@ -11397,9 +11395,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Democratic Party,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-07-28,Democratic Party,22.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-07-29,Democratic Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
+2025-07-30,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-07-30,Democratic Party,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
-2025-07-31,Democratic Party,22.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
-2025-07-31,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-07-31,Democratic Party,22.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-08-07,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-08-25,Democratic Party,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
@@ -11414,6 +11411,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-09-22,Democratic Party,21.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-09-22,Democratic Party,22.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
+2025-09-25,Democratic Party,21.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-09-26,Democratic Party,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-09-29,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-10-01,Democratic Party,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
@@ -11441,7 +11439,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-11-06,Democratic Party,21.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-11-06,Democratic Party,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
-2025-11-07,Democratic Party,21.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-11-10,Democratic Party,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-11-12,Democratic Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
 2025-11-13,Democratic Party,21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Democratic_Party_(Italy)
@@ -15433,9 +15430,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Five Star Movement,14.3,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-07-28,Five Star Movement,13.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-07-29,Five Star Movement,11.0,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
+2025-07-30,Five Star Movement,13.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-07-30,Five Star Movement,12.0,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
-2025-07-31,Five Star Movement,12.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
-2025-07-31,Five Star Movement,13.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-07-31,Five Star Movement,12.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-08-07,Five Star Movement,12.3,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-08-25,Five Star Movement,12.9,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
@@ -15450,6 +15446,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Five Star Movement,12.4,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-09-22,Five Star Movement,13.5,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-09-22,Five Star Movement,12.7,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
+2025-09-25,Five Star Movement,12.5,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-09-26,Five Star Movement,14.1,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-09-29,Five Star Movement,13.7,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-10-01,Five Star Movement,13.1,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
@@ -15477,7 +15474,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Five Star Movement,12.2,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-11-06,Five Star Movement,11.5,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-11-06,Five Star Movement,12.5,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
-2025-11-07,Five Star Movement,11.5,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-11-10,Five Star Movement,12.8,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-11-12,Five Star Movement,12.9,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
 2025-11-13,Five Star Movement,12.0,Left-wing,Populism Green politics,https://en.wikipedia.org/wiki/Five_Star_Movement
@@ -19195,9 +19191,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Forza Italia,8.1,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-07-28,Forza Italia,8.1,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-07-29,Forza Italia,9.1,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
+2025-07-30,Forza Italia,8.4,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-07-30,Forza Italia,8.8,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
-2025-07-31,Forza Italia,8.5,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
-2025-07-31,Forza Italia,8.4,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-07-31,Forza Italia,8.5,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-08-07,Forza Italia,8.8,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-08-25,Forza Italia,8.3,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
@@ -19212,6 +19207,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Forza Italia,8.8,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-09-22,Forza Italia,8.0,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-09-22,Forza Italia,8.4,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
+2025-09-25,Forza Italia,8.6,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-09-26,Forza Italia,9.3,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-09-29,Forza Italia,8.0,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-10-01,Forza Italia,9.6,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
@@ -19239,7 +19235,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Forza Italia,8.5,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-11-06,Forza Italia,11.2,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-11-06,Forza Italia,8.3,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
-2025-11-07,Forza Italia,11.2,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-11-10,Forza Italia,8.1,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-11-12,Forza Italia,8.7,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
 2025-11-13,Forza Italia,8.3,Centre-right,Liberal conservatism Christian democracy Populism,https://en.wikipedia.org/wiki/Forza_Italia_(2013)
@@ -22612,9 +22607,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Greens and Left Alliance,5.8,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-07-28,Greens and Left Alliance,6.7,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-07-29,Greens and Left Alliance,6.3,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
+2025-07-30,Greens and Left Alliance,6.9,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-07-30,Greens and Left Alliance,6.3,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
-2025-07-31,Greens and Left Alliance,6.5,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
-2025-07-31,Greens and Left Alliance,6.9,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-07-31,Greens and Left Alliance,6.5,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-08-07,Greens and Left Alliance,6.6,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-08-25,Greens and Left Alliance,7.0,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
@@ -22629,6 +22623,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Greens and Left Alliance,6.5,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-09-22,Greens and Left Alliance,6.7,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-09-22,Greens and Left Alliance,7.0,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
+2025-09-25,Greens and Left Alliance,6.5,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-09-26,Greens and Left Alliance,6.1,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-09-29,Greens and Left Alliance,6.5,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-10-01,Greens and Left Alliance,5.9,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
@@ -22656,7 +22651,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Greens and Left Alliance,6.6,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-11-06,Greens and Left Alliance,6.0,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-11-06,Greens and Left Alliance,6.9,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
-2025-11-07,Greens and Left Alliance,6.0,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-11-10,Greens and Left Alliance,6.7,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-11-12,Greens and Left Alliance,6.7,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
 2025-11-13,Greens and Left Alliance,6.6,Left-wing,Democratic socialism Green politics,https://en.wikipedia.org/wiki/Greens_and_Left_Alliance
@@ -25001,8 +24995,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Italia Viva,2.2,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-07-28,Italia Viva,2.6,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-07-29,Italia Viva,2.8,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
-2025-07-31,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
-2025-07-31,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
+2025-07-30,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-07-31,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-08-07,Italia Viva,2.4,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-08-25,Italia Viva,1.5,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
@@ -25017,6 +25010,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Italia Viva,2.2,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-09-22,Italia Viva,2.2,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-09-22,Italia Viva,2.1,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
+2025-09-25,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-09-26,Italia Viva,2.2,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-09-29,Italia Viva,2.2,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-10-01,Italia Viva,2.5,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
@@ -25044,7 +25038,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-11-06,Italia Viva,2.9,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-11-06,Italia Viva,2.3,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
-2025-11-07,Italia Viva,2.4,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-11-10,Italia Viva,2.5,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-11-12,Italia Viva,2.4,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
 2025-11-13,Italia Viva,2.5,Centre to centre-left,Liberalism ( Italian ),https://en.wikipedia.org/wiki/Italia_Viva
@@ -29213,9 +29206,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Lega,8.5,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-07-28,Lega,8.4,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-07-29,Lega,8.7,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
+2025-07-30,Lega,8.3,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-07-30,Lega,8.8,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
-2025-07-31,Lega,8.7,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
-2025-07-31,Lega,8.3,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-07-31,Lega,8.7,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-08-07,Lega,8.5,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-08-25,Lega,8.6,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
@@ -29230,6 +29222,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,Lega,8.5,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-09-22,Lega,9.0,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-09-22,Lega,8.5,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
+2025-09-25,Lega,8.8,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-09-26,Lega,8.2,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-09-29,Lega,9.0,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-10-01,Lega,8.4,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
@@ -29257,7 +29250,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Lega,8.4,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-11-06,Lega,8.3,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-11-06,Lega,8.1,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
-2025-11-07,Lega,8.3,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-11-10,Lega,8.0,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-11-12,Lega,8.1,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
 2025-11-13,Lega,8.4,Right-wing to far-right,Right-wing populism Conservatism Nationalism Regionalism Federalism Faction: Padanian nationalism,https://en.wikipedia.org/wiki/Lega_(political_party)
@@ -33214,8 +33206,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,More Europe,2.2,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-07-28,More Europe,2.1,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-07-29,More Europe,1.3,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
-2025-07-31,More Europe,1.8,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
-2025-07-31,More Europe,1.7,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
+2025-07-30,More Europe,1.7,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-07-31,More Europe,1.8,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-08-07,More Europe,1.8,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-08-25,More Europe,1.3,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
@@ -33230,6 +33221,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-18,More Europe,1.9,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-09-22,More Europe,2.0,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-09-22,More Europe,1.4,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
+2025-09-25,More Europe,1.8,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-09-26,More Europe,2.4,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-09-29,More Europe,1.9,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-10-01,More Europe,2.2,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
@@ -33256,7 +33248,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,More Europe,1.7,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-11-06,More Europe,1.6,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-11-06,More Europe,1.1,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
-2025-11-07,More Europe,1.9,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-11-10,More Europe,1.5,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-11-12,More Europe,1.5,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
 2025-11-13,More Europe,1.7,Centre,Liberalism ( Italian ) Pro-Europeanism,https://en.wikipedia.org/wiki/More_Europe
@@ -35972,9 +35963,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-06-05,Sovereign Popular Democracy,1.3,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-07-03,Sovereign Popular Democracy,1.5,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-07-17,Sovereign Popular Democracy,1.4,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
-2025-07-31,Sovereign Popular Democracy,1.4,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-08-25,Sovereign Popular Democracy,1.0,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-09-15,Sovereign Popular Democracy,1.1,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
+2025-09-25,Sovereign Popular Democracy,1.4,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-10-05,Sovereign Popular Democracy,1.0,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-10-19,Sovereign Popular Democracy,1.1,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
 2025-10-26,Sovereign Popular Democracy,1.0,Big tent (claimed),Populism Sovereigntism Hard Euroscepticism Anti-globalism,https://en.wikipedia.org/wiki/Sovereign_Popular_Democracy
@@ -37727,8 +37718,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-24,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-07-28,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-07-29,Us Moderates,1.5,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
-2025-07-31,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
-2025-07-31,Us Moderates,0.6,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
+2025-07-30,Us Moderates,0.6,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-07-31,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-08-07,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-08-25,Us Moderates,0.9,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
@@ -37741,6 +37731,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-15,Us Moderates,0.9,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-09-18,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-09-22,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
+2025-09-25,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-09-26,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-10-02,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-10-05,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
@@ -37762,7 +37753,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-05,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-11-06,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-11-06,Us Moderates,0.9,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
-2025-11-07,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-11-10,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-11-12,Us Moderates,1.1,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
 2025-11-13,Us Moderates,1.0,Centre to centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Us_Moderates
