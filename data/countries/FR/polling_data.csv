@@ -612,6 +612,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-08-25,Debout la France,1.5,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-08-28,Debout la France,3.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
+2026-09-01,Debout la France,3.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2025-09-25,Dominique de Villepin,5.0,,,,
 2025-10-31,Dominique de Villepin,5.0,,,,
 2026-02-27,Dominique de Villepin,4.5,,,,
@@ -619,6 +620,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-07-10,Dominique de Villepin,2.5,,,,
 2026-07-24,Dominique de Villepin,3.0,,,,
 2026-08-28,Dominique de Villepin,2.0,,,,
+2026-09-01,Dominique de Villepin,3.5,,,,
 2012-10-12,Europe Écologie Les Verts,2.0,,Green politics; Environmentalism,,Eva Joly
 2013-04-15,Europe Écologie Les Verts,1.5,,Green politics; Environmentalism,,Eva Joly
 2013-04-17,Europe Écologie Les Verts,3.0,,Green politics; Environmentalism,,Eva Joly
@@ -1091,6 +1093,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Europe Écologie Les Verts,3.0,,Green politics; Environmentalism,,Marine Tondelier
 2026-08-25,Europe Écologie Les Verts,3.0,,Green politics; Environmentalism,,Marine Tondelier
 2026-08-28,Europe Écologie Les Verts,3.5,,Green politics; Environmentalism,,Marine Tondelier
+2026-09-01,Europe Écologie Les Verts,2.0,,Green politics; Environmentalism,,Marine Tondelier
 2023-10-25,Gabriel Attal,19.0,,,,
 2024-01-10,Gabriel Attal,24.0,,,,
 2024-02-01,Gabriel Attal,22.0,,,,
@@ -1134,6 +1137,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Horizons,14.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2026-08-25,Horizons,14.5,,Liberal conservatism; Centrism,,Édouard Philippe
 2026-08-28,Horizons,17.0,,Liberal conservatism; Centrism,,Édouard Philippe
+2026-09-01,Horizons,18.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2012-10-12,La France Insoumise,10.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2013-04-15,La France Insoumise,11.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2013-04-17,La France Insoumise,11.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
@@ -1754,6 +1758,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,La France Insoumise,16.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2026-08-25,La France Insoumise,16.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2026-08-28,La France Insoumise,14.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
+2026-09-01,La France Insoumise,18.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2016-03-14,La République En Marche,14.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-04-28,La République En Marche,20.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-09-28,La République En Marche,12.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
@@ -2950,6 +2955,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Les Républicains,6.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-08-25,Les Républicains,6.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-08-28,Les Républicains,6.5,,Conservatism; Liberal conservatism,,Bruno Retailleau
+2026-09-01,Les Républicains,7.5,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2012-10-12,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-15,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-17,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
@@ -3432,6 +3438,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2026-08-25,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2026-08-28,Lutte Ouvrière,1.5,,Trotskyism,,Nathalie Arthaud
+2026-09-01,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2012-10-12,Mouvement Démocrate,7.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-15,Mouvement Démocrate,10.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-17,Mouvement Démocrate,11.0,,Centrism; Christian democracy,,François Bayrou
@@ -4396,6 +4403,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Parti Communiste Français,2.0,,Communism,,Fabien Roussel
 2026-08-25,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
 2026-08-28,Parti Communiste Français,3.0,,Communism,,Fabien Roussel
+2026-09-01,Parti Communiste Français,2.0,,Communism,,Fabien Roussel
 2016-11-28,Parti Radical de Gauche,1.0,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-11-30,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-12-04,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
@@ -5204,6 +5212,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Parti Socialiste,10.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-08-25,Parti Socialiste,11.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-08-28,Parti Socialiste,11.5,,Social democracy; Eco-socialism,,Raphaël Glucksmann
+2026-09-01,Parti Socialiste,11.5,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2012-10-12,Rassemblement National,19.5,,Far-right; Nationalism,,Marine Le Pen
 2013-04-15,Rassemblement National,22.0,,Far-right; Nationalism,,Marine Le Pen
 2013-04-17,Rassemblement National,21.0,,Far-right; Nationalism,,Marine Le Pen
@@ -5822,6 +5831,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Rassemblement National,35.0,,Far-right; Nationalism,,Marine Le Pen
 2026-08-25,Rassemblement National,33.0,,Far-right; Nationalism,,Marine Le Pen
 2026-08-28,Rassemblement National,34.0,,Far-right; Nationalism,,Marine Le Pen
+2026-09-01,Rassemblement National,30.0,,Far-right; Nationalism,,Marine Le Pen
 2021-02-24,Reconquête,17.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-06-09,Reconquête,5.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-07-05,Reconquête,5.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
@@ -6148,6 +6158,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url,candidate
 2026-08-19,Reconquête,3.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-08-25,Reconquête,3.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-08-28,Reconquête,4.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
+2026-09-01,Reconquête,3.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2016-06-17,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-04,Résistons!,1.0,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-17,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
