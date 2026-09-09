@@ -15,7 +15,7 @@
     "Niki",
     "Voice of Reason"
   ],
-  "latestSupport": 13.5,
+  "latestSupport": 13.6,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3349,10 +3349,6 @@
         "value": 10.05
       },
       {
-        "date": "2026-08-26",
-        "value": 8.6
-      },
-      {
         "date": "2026-09-01",
         "value": 9.4
       },
@@ -3363,6 +3359,10 @@
       {
         "date": "2026-09-04",
         "value": 9.3
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9.1
       }
     ],
     "Independent Greeks": [
@@ -5655,10 +5655,6 @@
         "value": 0.3
       },
       {
-        "date": "2026-08-26",
-        "value": 1.2
-      },
-      {
         "date": "2026-09-01",
         "value": 0.7
       },
@@ -5669,6 +5665,10 @@
       {
         "date": "2026-09-04",
         "value": 0.6
+      },
+      {
+        "date": "2026-09-08",
+        "value": 1.2
       }
     ],
     "Spartans": [
@@ -7047,10 +7047,6 @@
         "value": 3.25
       },
       {
-        "date": "2026-08-26",
-        "value": 3.5
-      },
-      {
         "date": "2026-09-01",
         "value": 3.9
       },
@@ -7060,6 +7056,10 @@
       },
       {
         "date": "2026-09-04",
+        "value": 3.5
+      },
+      {
+        "date": "2026-09-08",
         "value": 3.5
       }
     ]
@@ -31838,47 +31838,63 @@
       },
       {
         "date": "2026-08-25",
-        "value": 9.2
+        "value": 9.23
       },
       {
         "date": "2026-08-26",
-        "value": 9.19
+        "value": 9.25
       },
       {
         "date": "2026-08-27",
-        "value": 9.18
+        "value": 9.26
       },
       {
         "date": "2026-08-28",
-        "value": 9.16
+        "value": 9.28
       },
       {
         "date": "2026-08-29",
-        "value": 9.15
+        "value": 9.3
       },
       {
         "date": "2026-08-30",
-        "value": 9.14
-      },
-      {
-        "date": "2026-08-31",
-        "value": 9.12
-      },
-      {
-        "date": "2026-09-01",
-        "value": 9.11
-      },
-      {
-        "date": "2026-09-02",
-        "value": 9.21
-      },
-      {
-        "date": "2026-09-03",
         "value": 9.31
       },
       {
+        "date": "2026-08-31",
+        "value": 9.33
+      },
+      {
+        "date": "2026-09-01",
+        "value": 9.35
+      },
+      {
+        "date": "2026-09-02",
+        "value": 9.22
+      },
+      {
+        "date": "2026-09-03",
+        "value": 9.09
+      },
+      {
         "date": "2026-09-04",
-        "value": 9.17
+        "value": 9.45
+      },
+      {
+        "date": "2026-09-05",
+        "value": 9.4
+      },
+      {
+        "date": "2026-09-06",
+        "value": 9.36
+      },
+      {
+        "date": "2026-09-07",
+        "value": 9.31
+      },
+      {
+        "date": "2026-09-08",
+        "value": 9.27
       }
     ],
     "Independent Greeks": [
@@ -46864,15 +46880,15 @@
       },
       {
         "date": "2026-08-25",
-        "value": 0.96
+        "value": 0.93
       },
       {
         "date": "2026-08-26",
-        "value": 0.98
+        "value": 0.92
       },
       {
         "date": "2026-08-27",
-        "value": 0.95
+        "value": 0.92
       },
       {
         "date": "2026-08-28",
@@ -46880,30 +46896,46 @@
       },
       {
         "date": "2026-08-29",
-        "value": 0.88
+        "value": 0.9
       },
       {
         "date": "2026-08-30",
-        "value": 0.85
+        "value": 0.9
       },
       {
         "date": "2026-08-31",
-        "value": 0.81
+        "value": 0.89
       },
       {
         "date": "2026-09-01",
-        "value": 0.78
+        "value": 0.88
       },
       {
         "date": "2026-09-02",
-        "value": 0.87
+        "value": 0.83
       },
       {
         "date": "2026-09-03",
-        "value": 0.96
+        "value": 0.78
       },
       {
         "date": "2026-09-04",
+        "value": 0.84
+      },
+      {
+        "date": "2026-09-05",
+        "value": 0.83
+      },
+      {
+        "date": "2026-09-06",
+        "value": 0.82
+      },
+      {
+        "date": "2026-09-07",
+        "value": 0.81
+      },
+      {
+        "date": "2026-09-08",
         "value": 0.8
       }
     ],
@@ -54416,39 +54448,39 @@
       },
       {
         "date": "2026-08-25",
-        "value": 3.47
+        "value": 3.45
       },
       {
         "date": "2026-08-26",
-        "value": 3.51
+        "value": 3.47
       },
       {
         "date": "2026-08-27",
-        "value": 3.53
+        "value": 3.49
       },
       {
         "date": "2026-08-28",
-        "value": 3.55
+        "value": 3.51
       },
       {
         "date": "2026-08-29",
-        "value": 3.57
+        "value": 3.53
       },
       {
         "date": "2026-08-30",
-        "value": 3.59
+        "value": 3.55
       },
       {
         "date": "2026-08-31",
-        "value": 3.61
+        "value": 3.57
       },
       {
         "date": "2026-09-01",
-        "value": 3.63
+        "value": 3.59
       },
       {
         "date": "2026-09-02",
-        "value": 3.63
+        "value": 3.61
       },
       {
         "date": "2026-09-03",
@@ -54456,6 +54488,22 @@
       },
       {
         "date": "2026-09-04",
+        "value": 3.63
+      },
+      {
+        "date": "2026-09-05",
+        "value": 3.6
+      },
+      {
+        "date": "2026-09-06",
+        "value": 3.58
+      },
+      {
+        "date": "2026-09-07",
+        "value": 3.55
+      },
+      {
+        "date": "2026-09-08",
         "value": 3.53
       }
     ]
@@ -71307,47 +71355,63 @@
     },
     {
       "date": "2026-08-25",
-      "value": 13.63
+      "value": 13.61
     },
     {
       "date": "2026-08-26",
-      "value": 13.68
+      "value": 13.64
     },
     {
       "date": "2026-08-27",
-      "value": 13.66
+      "value": 13.67
     },
     {
       "date": "2026-08-28",
-      "value": 13.62
+      "value": 13.7
     },
     {
       "date": "2026-08-29",
-      "value": 13.6
+      "value": 13.73
     },
     {
       "date": "2026-08-30",
-      "value": 13.58
+      "value": 13.76
     },
     {
       "date": "2026-08-31",
-      "value": 13.54
+      "value": 13.79
     },
     {
       "date": "2026-09-01",
-      "value": 13.52
+      "value": 13.82
     },
     {
       "date": "2026-09-02",
-      "value": 13.71
+      "value": 13.66
     },
     {
       "date": "2026-09-03",
-      "value": 13.9
+      "value": 13.5
     },
     {
       "date": "2026-09-04",
-      "value": 13.5
+      "value": 13.92
+    },
+    {
+      "date": "2026-09-05",
+      "value": 13.83
+    },
+    {
+      "date": "2026-09-06",
+      "value": 13.76
+    },
+    {
+      "date": "2026-09-07",
+      "value": 13.67
+    },
+    {
+      "date": "2026-09-08",
+      "value": 13.6
     }
   ],
   "activePartiesByDate": {
@@ -90683,31 +90747,37 @@
     "2026-08-26": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-08-27": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-08-28": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-08-29": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-08-30": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-08-31": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-01": [
@@ -90729,9 +90799,29 @@
       "Greek Solution",
       "Niki",
       "Voice of Reason"
+    ],
+    "2026-09-05": [
+      "Greek Solution",
+      "Niki",
+      "Voice of Reason"
+    ],
+    "2026-09-06": [
+      "Greek Solution",
+      "Niki",
+      "Voice of Reason"
+    ],
+    "2026-09-07": [
+      "Greek Solution",
+      "Niki",
+      "Voice of Reason"
+    ],
+    "2026-09-08": [
+      "Greek Solution",
+      "Niki",
+      "Voice of Reason"
     ]
   },
-  "latestUpdate": "2026-09-04",
+  "latestUpdate": "2026-09-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
