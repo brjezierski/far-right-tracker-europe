@@ -7,7 +7,7 @@
   "activeParties": [
     "Sweden Democrats"
   ],
-  "latestSupport": 19.74,
+  "latestSupport": 19.46,
   "datapointsByParty": {
     "Sweden Democrats": [
       {
@@ -3029,6 +3029,10 @@
       {
         "date": "2026-09-05",
         "value": 19.7
+      },
+      {
+        "date": "2026-09-08",
+        "value": 19.3
       }
     ]
   },
@@ -20437,6 +20441,18 @@
       {
         "date": "2026-09-05",
         "value": 19.74
+      },
+      {
+        "date": "2026-09-06",
+        "value": 19.65
+      },
+      {
+        "date": "2026-09-07",
+        "value": 19.55
+      },
+      {
+        "date": "2026-09-08",
+        "value": 19.46
       }
     ]
   },
@@ -37940,6 +37956,18 @@
     {
       "date": "2026-09-05",
       "value": 19.74
+    },
+    {
+      "date": "2026-09-06",
+      "value": 19.65
+    },
+    {
+      "date": "2026-09-07",
+      "value": 19.55
+    },
+    {
+      "date": "2026-09-08",
+      "value": 19.46
     }
   ],
   "activePartiesByDate": {
@@ -51067,9 +51095,18 @@
     ],
     "2026-09-05": [
       "Sweden Democrats"
+    ],
+    "2026-09-06": [
+      "Sweden Democrats"
+    ],
+    "2026-09-07": [
+      "Sweden Democrats"
+    ],
+    "2026-09-08": [
+      "Sweden Democrats"
     ]
   },
-  "latestUpdate": "2026-09-05",
+  "latestUpdate": "2026-09-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Swedish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Swedish_general_election",

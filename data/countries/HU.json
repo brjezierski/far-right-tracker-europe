@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 30.799999999999997,
+  "latestSupport": 32.2,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2384,6 +2384,10 @@
       {
         "date": "2026-09-01",
         "value": 22.0
+      },
+      {
+        "date": "2026-09-08",
+        "value": 27.0
       }
     ],
     "Jobbik": [
@@ -5740,6 +5744,10 @@
       {
         "date": "2026-09-01",
         "value": 7.0
+      },
+      {
+        "date": "2026-09-08",
+        "value": 10.0
       }
     ]
   },
@@ -23716,6 +23724,34 @@
       {
         "date": "2026-09-01",
         "value": 23.4
+      },
+      {
+        "date": "2026-09-02",
+        "value": 23.51
+      },
+      {
+        "date": "2026-09-03",
+        "value": 23.63
+      },
+      {
+        "date": "2026-09-04",
+        "value": 23.74
+      },
+      {
+        "date": "2026-09-05",
+        "value": 23.86
+      },
+      {
+        "date": "2026-09-06",
+        "value": 23.97
+      },
+      {
+        "date": "2026-09-07",
+        "value": 24.09
+      },
+      {
+        "date": "2026-09-08",
+        "value": 24.2
       }
     ],
     "Jobbik": [
@@ -52116,6 +52152,34 @@
       {
         "date": "2026-09-01",
         "value": 7.4
+      },
+      {
+        "date": "2026-09-02",
+        "value": 7.49
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7.57
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7.66
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7.74
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7.83
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7.91
+      },
+      {
+        "date": "2026-09-08",
+        "value": 8.0
       }
     ]
   },
@@ -70247,6 +70311,34 @@
     {
       "date": "2026-09-01",
       "value": 30.8
+    },
+    {
+      "date": "2026-09-02",
+      "value": 31.0
+    },
+    {
+      "date": "2026-09-03",
+      "value": 31.2
+    },
+    {
+      "date": "2026-09-04",
+      "value": 31.4
+    },
+    {
+      "date": "2026-09-05",
+      "value": 31.6
+    },
+    {
+      "date": "2026-09-06",
+      "value": 31.8
+    },
+    {
+      "date": "2026-09-07",
+      "value": 32.0
+    },
+    {
+      "date": "2026-09-08",
+      "value": 32.2
     }
   ],
   "activePartiesByDate": {
@@ -90873,9 +90965,37 @@
     "2026-09-01": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-09-02": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-03": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-04": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-05": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-06": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-07": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-09-08": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-09-01",
+  "latestUpdate": "2026-09-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",
