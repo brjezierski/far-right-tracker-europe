@@ -13,7 +13,7 @@
     "Party of Young People",
     "S.O.S. Romania"
   ],
-  "latestSupport": 40.47,
+  "latestSupport": 41.35,
   "datapointsByParty": {
     "AUR Alliance": [
       {
@@ -611,6 +611,10 @@
       {
         "date": "2026-07-24",
         "value": 34.0
+      },
+      {
+        "date": "2026-09-07",
+        "value": 40.2
       }
     ],
     "Party of Young People": [
@@ -749,6 +753,10 @@
       {
         "date": "2026-07-03",
         "value": 1.3
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2.2
       }
     ],
     "S.O.S. Romania": [
@@ -999,6 +1007,10 @@
       {
         "date": "2026-07-24",
         "value": 3.0
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1.8
       }
     ]
   },
@@ -10927,6 +10939,186 @@
       {
         "date": "2026-07-24",
         "value": 35.8
+      },
+      {
+        "date": "2026-07-25",
+        "value": 35.83
+      },
+      {
+        "date": "2026-07-26",
+        "value": 35.86
+      },
+      {
+        "date": "2026-07-27",
+        "value": 35.89
+      },
+      {
+        "date": "2026-07-28",
+        "value": 35.92
+      },
+      {
+        "date": "2026-07-29",
+        "value": 35.95
+      },
+      {
+        "date": "2026-07-30",
+        "value": 35.98
+      },
+      {
+        "date": "2026-07-31",
+        "value": 36.01
+      },
+      {
+        "date": "2026-08-01",
+        "value": 36.04
+      },
+      {
+        "date": "2026-08-02",
+        "value": 36.07
+      },
+      {
+        "date": "2026-08-03",
+        "value": 36.1
+      },
+      {
+        "date": "2026-08-04",
+        "value": 36.13
+      },
+      {
+        "date": "2026-08-05",
+        "value": 36.16
+      },
+      {
+        "date": "2026-08-06",
+        "value": 36.19
+      },
+      {
+        "date": "2026-08-07",
+        "value": 36.22
+      },
+      {
+        "date": "2026-08-08",
+        "value": 36.25
+      },
+      {
+        "date": "2026-08-09",
+        "value": 36.28
+      },
+      {
+        "date": "2026-08-10",
+        "value": 36.31
+      },
+      {
+        "date": "2026-08-11",
+        "value": 36.34
+      },
+      {
+        "date": "2026-08-12",
+        "value": 36.37
+      },
+      {
+        "date": "2026-08-13",
+        "value": 36.4
+      },
+      {
+        "date": "2026-08-14",
+        "value": 36.43
+      },
+      {
+        "date": "2026-08-15",
+        "value": 36.46
+      },
+      {
+        "date": "2026-08-16",
+        "value": 36.48
+      },
+      {
+        "date": "2026-08-17",
+        "value": 36.51
+      },
+      {
+        "date": "2026-08-18",
+        "value": 36.54
+      },
+      {
+        "date": "2026-08-19",
+        "value": 36.57
+      },
+      {
+        "date": "2026-08-20",
+        "value": 36.6
+      },
+      {
+        "date": "2026-08-21",
+        "value": 36.63
+      },
+      {
+        "date": "2026-08-22",
+        "value": 36.66
+      },
+      {
+        "date": "2026-08-23",
+        "value": 36.69
+      },
+      {
+        "date": "2026-08-24",
+        "value": 36.72
+      },
+      {
+        "date": "2026-08-25",
+        "value": 36.75
+      },
+      {
+        "date": "2026-08-26",
+        "value": 36.78
+      },
+      {
+        "date": "2026-08-27",
+        "value": 36.81
+      },
+      {
+        "date": "2026-08-28",
+        "value": 36.84
+      },
+      {
+        "date": "2026-08-29",
+        "value": 36.87
+      },
+      {
+        "date": "2026-08-30",
+        "value": 36.9
+      },
+      {
+        "date": "2026-08-31",
+        "value": 36.93
+      },
+      {
+        "date": "2026-09-01",
+        "value": 36.96
+      },
+      {
+        "date": "2026-09-02",
+        "value": 36.99
+      },
+      {
+        "date": "2026-09-03",
+        "value": 37.02
+      },
+      {
+        "date": "2026-09-04",
+        "value": 37.05
+      },
+      {
+        "date": "2026-09-05",
+        "value": 37.08
+      },
+      {
+        "date": "2026-09-06",
+        "value": 37.11
+      },
+      {
+        "date": "2026-09-07",
+        "value": 37.14
       }
     ],
     "Party of Young People": [
@@ -12941,6 +13133,270 @@
       {
         "date": "2026-07-03",
         "value": 1.9
+      },
+      {
+        "date": "2026-07-04",
+        "value": 1.9
+      },
+      {
+        "date": "2026-07-05",
+        "value": 1.89
+      },
+      {
+        "date": "2026-07-06",
+        "value": 1.89
+      },
+      {
+        "date": "2026-07-07",
+        "value": 1.89
+      },
+      {
+        "date": "2026-07-08",
+        "value": 1.88
+      },
+      {
+        "date": "2026-07-09",
+        "value": 1.88
+      },
+      {
+        "date": "2026-07-10",
+        "value": 1.88
+      },
+      {
+        "date": "2026-07-11",
+        "value": 1.87
+      },
+      {
+        "date": "2026-07-12",
+        "value": 1.87
+      },
+      {
+        "date": "2026-07-13",
+        "value": 1.87
+      },
+      {
+        "date": "2026-07-14",
+        "value": 1.86
+      },
+      {
+        "date": "2026-07-15",
+        "value": 1.86
+      },
+      {
+        "date": "2026-07-16",
+        "value": 1.86
+      },
+      {
+        "date": "2026-07-17",
+        "value": 1.85
+      },
+      {
+        "date": "2026-07-18",
+        "value": 1.85
+      },
+      {
+        "date": "2026-07-19",
+        "value": 1.85
+      },
+      {
+        "date": "2026-07-20",
+        "value": 1.84
+      },
+      {
+        "date": "2026-07-21",
+        "value": 1.84
+      },
+      {
+        "date": "2026-07-22",
+        "value": 1.84
+      },
+      {
+        "date": "2026-07-23",
+        "value": 1.83
+      },
+      {
+        "date": "2026-07-24",
+        "value": 1.83
+      },
+      {
+        "date": "2026-07-25",
+        "value": 1.83
+      },
+      {
+        "date": "2026-07-26",
+        "value": 1.82
+      },
+      {
+        "date": "2026-07-27",
+        "value": 1.82
+      },
+      {
+        "date": "2026-07-28",
+        "value": 1.82
+      },
+      {
+        "date": "2026-07-29",
+        "value": 1.81
+      },
+      {
+        "date": "2026-07-30",
+        "value": 1.81
+      },
+      {
+        "date": "2026-07-31",
+        "value": 1.81
+      },
+      {
+        "date": "2026-08-01",
+        "value": 1.8
+      },
+      {
+        "date": "2026-08-02",
+        "value": 1.8
+      },
+      {
+        "date": "2026-08-03",
+        "value": 1.8
+      },
+      {
+        "date": "2026-08-04",
+        "value": 1.79
+      },
+      {
+        "date": "2026-08-05",
+        "value": 1.79
+      },
+      {
+        "date": "2026-08-06",
+        "value": 1.79
+      },
+      {
+        "date": "2026-08-07",
+        "value": 1.78
+      },
+      {
+        "date": "2026-08-08",
+        "value": 1.78
+      },
+      {
+        "date": "2026-08-09",
+        "value": 1.78
+      },
+      {
+        "date": "2026-08-10",
+        "value": 1.77
+      },
+      {
+        "date": "2026-08-11",
+        "value": 1.77
+      },
+      {
+        "date": "2026-08-12",
+        "value": 1.77
+      },
+      {
+        "date": "2026-08-13",
+        "value": 1.76
+      },
+      {
+        "date": "2026-08-14",
+        "value": 1.76
+      },
+      {
+        "date": "2026-08-15",
+        "value": 1.76
+      },
+      {
+        "date": "2026-08-16",
+        "value": 1.75
+      },
+      {
+        "date": "2026-08-17",
+        "value": 1.75
+      },
+      {
+        "date": "2026-08-18",
+        "value": 1.75
+      },
+      {
+        "date": "2026-08-19",
+        "value": 1.74
+      },
+      {
+        "date": "2026-08-20",
+        "value": 1.74
+      },
+      {
+        "date": "2026-08-21",
+        "value": 1.74
+      },
+      {
+        "date": "2026-08-22",
+        "value": 1.73
+      },
+      {
+        "date": "2026-08-23",
+        "value": 1.73
+      },
+      {
+        "date": "2026-08-24",
+        "value": 1.73
+      },
+      {
+        "date": "2026-08-25",
+        "value": 1.72
+      },
+      {
+        "date": "2026-08-26",
+        "value": 1.72
+      },
+      {
+        "date": "2026-08-27",
+        "value": 1.72
+      },
+      {
+        "date": "2026-08-28",
+        "value": 1.71
+      },
+      {
+        "date": "2026-08-29",
+        "value": 1.71
+      },
+      {
+        "date": "2026-08-30",
+        "value": 1.71
+      },
+      {
+        "date": "2026-08-31",
+        "value": 1.7
+      },
+      {
+        "date": "2026-09-01",
+        "value": 1.7
+      },
+      {
+        "date": "2026-09-02",
+        "value": 1.7
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1.69
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1.69
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1.69
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1.68
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1.68
       }
     ],
     "S.O.S. Romania": [
@@ -17091,6 +17547,186 @@
       {
         "date": "2026-07-24",
         "value": 2.77
+      },
+      {
+        "date": "2026-07-25",
+        "value": 2.76
+      },
+      {
+        "date": "2026-07-26",
+        "value": 2.76
+      },
+      {
+        "date": "2026-07-27",
+        "value": 2.75
+      },
+      {
+        "date": "2026-07-28",
+        "value": 2.75
+      },
+      {
+        "date": "2026-07-29",
+        "value": 2.74
+      },
+      {
+        "date": "2026-07-30",
+        "value": 2.74
+      },
+      {
+        "date": "2026-07-31",
+        "value": 2.73
+      },
+      {
+        "date": "2026-08-01",
+        "value": 2.73
+      },
+      {
+        "date": "2026-08-02",
+        "value": 2.72
+      },
+      {
+        "date": "2026-08-03",
+        "value": 2.72
+      },
+      {
+        "date": "2026-08-04",
+        "value": 2.71
+      },
+      {
+        "date": "2026-08-05",
+        "value": 2.71
+      },
+      {
+        "date": "2026-08-06",
+        "value": 2.7
+      },
+      {
+        "date": "2026-08-07",
+        "value": 2.7
+      },
+      {
+        "date": "2026-08-08",
+        "value": 2.69
+      },
+      {
+        "date": "2026-08-09",
+        "value": 2.68
+      },
+      {
+        "date": "2026-08-10",
+        "value": 2.68
+      },
+      {
+        "date": "2026-08-11",
+        "value": 2.67
+      },
+      {
+        "date": "2026-08-12",
+        "value": 2.67
+      },
+      {
+        "date": "2026-08-13",
+        "value": 2.66
+      },
+      {
+        "date": "2026-08-14",
+        "value": 2.66
+      },
+      {
+        "date": "2026-08-15",
+        "value": 2.65
+      },
+      {
+        "date": "2026-08-16",
+        "value": 2.65
+      },
+      {
+        "date": "2026-08-17",
+        "value": 2.64
+      },
+      {
+        "date": "2026-08-18",
+        "value": 2.64
+      },
+      {
+        "date": "2026-08-19",
+        "value": 2.63
+      },
+      {
+        "date": "2026-08-20",
+        "value": 2.63
+      },
+      {
+        "date": "2026-08-21",
+        "value": 2.62
+      },
+      {
+        "date": "2026-08-22",
+        "value": 2.62
+      },
+      {
+        "date": "2026-08-23",
+        "value": 2.61
+      },
+      {
+        "date": "2026-08-24",
+        "value": 2.6
+      },
+      {
+        "date": "2026-08-25",
+        "value": 2.6
+      },
+      {
+        "date": "2026-08-26",
+        "value": 2.59
+      },
+      {
+        "date": "2026-08-27",
+        "value": 2.59
+      },
+      {
+        "date": "2026-08-28",
+        "value": 2.58
+      },
+      {
+        "date": "2026-08-29",
+        "value": 2.58
+      },
+      {
+        "date": "2026-08-30",
+        "value": 2.57
+      },
+      {
+        "date": "2026-08-31",
+        "value": 2.57
+      },
+      {
+        "date": "2026-09-01",
+        "value": 2.56
+      },
+      {
+        "date": "2026-09-02",
+        "value": 2.56
+      },
+      {
+        "date": "2026-09-03",
+        "value": 2.55
+      },
+      {
+        "date": "2026-09-04",
+        "value": 2.55
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2.54
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2.54
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2.53
       }
     ]
   },
@@ -25269,87 +25905,267 @@
     },
     {
       "date": "2026-07-04",
-      "value": 39.48
+      "value": 41.38
     },
     {
       "date": "2026-07-05",
-      "value": 39.44
+      "value": 41.33
     },
     {
       "date": "2026-07-06",
-      "value": 39.39
+      "value": 41.28
     },
     {
       "date": "2026-07-07",
-      "value": 39.35
+      "value": 41.24
     },
     {
       "date": "2026-07-08",
-      "value": 39.3
+      "value": 41.18
     },
     {
       "date": "2026-07-09",
-      "value": 39.26
+      "value": 41.14
     },
     {
       "date": "2026-07-10",
-      "value": 39.21
+      "value": 41.09
     },
     {
       "date": "2026-07-11",
-      "value": 39.16
+      "value": 41.03
     },
     {
       "date": "2026-07-12",
-      "value": 39.12
+      "value": 40.99
     },
     {
       "date": "2026-07-13",
-      "value": 39.07
+      "value": 40.94
     },
     {
       "date": "2026-07-14",
-      "value": 39.03
+      "value": 40.89
     },
     {
       "date": "2026-07-15",
-      "value": 38.98
+      "value": 40.84
     },
     {
       "date": "2026-07-16",
-      "value": 38.94
+      "value": 40.8
     },
     {
       "date": "2026-07-17",
-      "value": 38.89
+      "value": 40.74
     },
     {
       "date": "2026-07-18",
-      "value": 38.84
+      "value": 40.69
     },
     {
       "date": "2026-07-19",
-      "value": 38.8
+      "value": 40.65
     },
     {
       "date": "2026-07-20",
-      "value": 38.75
+      "value": 40.59
     },
     {
       "date": "2026-07-21",
-      "value": 38.71
+      "value": 40.55
     },
     {
       "date": "2026-07-22",
-      "value": 38.66
+      "value": 40.5
     },
     {
       "date": "2026-07-23",
-      "value": 38.62
+      "value": 40.45
     },
     {
       "date": "2026-07-24",
-      "value": 38.57
+      "value": 40.4
+    },
+    {
+      "date": "2026-07-25",
+      "value": 40.42
+    },
+    {
+      "date": "2026-07-26",
+      "value": 40.44
+    },
+    {
+      "date": "2026-07-27",
+      "value": 40.46
+    },
+    {
+      "date": "2026-07-28",
+      "value": 40.49
+    },
+    {
+      "date": "2026-07-29",
+      "value": 40.5
+    },
+    {
+      "date": "2026-07-30",
+      "value": 40.53
+    },
+    {
+      "date": "2026-07-31",
+      "value": 40.55
+    },
+    {
+      "date": "2026-08-01",
+      "value": 40.57
+    },
+    {
+      "date": "2026-08-02",
+      "value": 40.59
+    },
+    {
+      "date": "2026-08-03",
+      "value": 40.62
+    },
+    {
+      "date": "2026-08-04",
+      "value": 40.63
+    },
+    {
+      "date": "2026-08-05",
+      "value": 40.66
+    },
+    {
+      "date": "2026-08-06",
+      "value": 40.68
+    },
+    {
+      "date": "2026-08-07",
+      "value": 40.7
+    },
+    {
+      "date": "2026-08-08",
+      "value": 40.72
+    },
+    {
+      "date": "2026-08-09",
+      "value": 40.74
+    },
+    {
+      "date": "2026-08-10",
+      "value": 40.76
+    },
+    {
+      "date": "2026-08-11",
+      "value": 40.78
+    },
+    {
+      "date": "2026-08-12",
+      "value": 40.81
+    },
+    {
+      "date": "2026-08-13",
+      "value": 40.82
+    },
+    {
+      "date": "2026-08-14",
+      "value": 40.85
+    },
+    {
+      "date": "2026-08-15",
+      "value": 40.87
+    },
+    {
+      "date": "2026-08-16",
+      "value": 40.88
+    },
+    {
+      "date": "2026-08-17",
+      "value": 40.9
+    },
+    {
+      "date": "2026-08-18",
+      "value": 40.93
+    },
+    {
+      "date": "2026-08-19",
+      "value": 40.94
+    },
+    {
+      "date": "2026-08-20",
+      "value": 40.97
+    },
+    {
+      "date": "2026-08-21",
+      "value": 40.99
+    },
+    {
+      "date": "2026-08-22",
+      "value": 41.01
+    },
+    {
+      "date": "2026-08-23",
+      "value": 41.03
+    },
+    {
+      "date": "2026-08-24",
+      "value": 41.05
+    },
+    {
+      "date": "2026-08-25",
+      "value": 41.07
+    },
+    {
+      "date": "2026-08-26",
+      "value": 41.09
+    },
+    {
+      "date": "2026-08-27",
+      "value": 41.12
+    },
+    {
+      "date": "2026-08-28",
+      "value": 41.13
+    },
+    {
+      "date": "2026-08-29",
+      "value": 41.16
+    },
+    {
+      "date": "2026-08-30",
+      "value": 41.18
+    },
+    {
+      "date": "2026-08-31",
+      "value": 41.2
+    },
+    {
+      "date": "2026-09-01",
+      "value": 41.22
+    },
+    {
+      "date": "2026-09-02",
+      "value": 41.25
+    },
+    {
+      "date": "2026-09-03",
+      "value": 41.26
+    },
+    {
+      "date": "2026-09-04",
+      "value": 41.29
+    },
+    {
+      "date": "2026-09-05",
+      "value": 41.31
+    },
+    {
+      "date": "2026-09-06",
+      "value": 41.33
+    },
+    {
+      "date": "2026-09-07",
+      "value": 41.35
     }
   ],
   "activePartiesByDate": {
@@ -33797,9 +34613,234 @@
       "Alliance for the Union of Romanians",
       "Party of Young People",
       "S.O.S. Romania"
+    ],
+    "2026-07-25": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-26": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-27": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-28": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-29": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-30": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-07-31": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-01": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-02": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-03": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-04": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-05": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-06": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-07": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-08": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-09": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-10": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-11": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-12": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-13": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-14": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-15": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-16": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-17": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-18": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-19": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-20": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-21": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-22": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-23": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-24": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-25": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-26": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-27": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-28": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-29": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-30": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-08-31": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-01": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-02": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-03": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-04": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-05": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-06": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
+    ],
+    "2026-09-07": [
+      "Alliance for the Union of Romanians",
+      "Party of Young People",
+      "S.O.S. Romania"
     ]
   },
-  "latestUpdate": "2026-07-24",
+  "latestUpdate": "2026-09-07",
   "sources": [
     "https://en.wikipedia.org/wiki/2016_Romanian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Romanian_parliamentary_election",
