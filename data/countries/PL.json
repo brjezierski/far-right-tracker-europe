@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 42.4,
+  "latestSupport": 42.46,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3895,7 +3895,7 @@
       },
       {
         "date": "2026-09-09",
-        "value": 12.6
+        "value": 13.7
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4425,7 +4425,7 @@
       },
       {
         "date": "2026-09-09",
-        "value": 6.9
+        "value": 7.35
       }
     ],
     "Law and Justice": [
@@ -6455,7 +6455,7 @@
       },
       {
         "date": "2026-09-09",
-        "value": 17.5
+        "value": 16.25
       }
     ],
     "New Hope": [
@@ -20525,15 +20525,15 @@
       },
       {
         "date": "2026-09-07",
-        "value": 14.07
+        "value": 14.14
       },
       {
         "date": "2026-09-08",
-        "value": 13.97
+        "value": 14.12
       },
       {
         "date": "2026-09-09",
-        "value": 13.87
+        "value": 14.09
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22347,15 +22347,15 @@
       },
       {
         "date": "2026-09-07",
-        "value": 8.2
+        "value": 8.23
       },
       {
         "date": "2026-09-08",
-        "value": 8.1
+        "value": 8.16
       },
       {
         "date": "2026-09-09",
-        "value": 8.0
+        "value": 8.09
       }
     ],
     "Law and Justice": [
@@ -38053,15 +38053,15 @@
       },
       {
         "date": "2026-09-07",
-        "value": 20.94
+        "value": 20.86
       },
       {
         "date": "2026-09-08",
-        "value": 20.74
+        "value": 20.57
       },
       {
         "date": "2026-09-09",
-        "value": 20.53
+        "value": 20.28
       }
     ],
     "New Hope": [
@@ -66110,15 +66110,15 @@
     },
     {
       "date": "2026-09-07",
-      "value": 43.21
+      "value": 43.23
     },
     {
       "date": "2026-09-08",
-      "value": 42.81
+      "value": 42.85
     },
     {
       "date": "2026-09-09",
-      "value": 42.4
+      "value": 42.46
     }
   ],
   "activePartiesByDate": {
