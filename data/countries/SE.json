@@ -7,7 +7,7 @@
   "activeParties": [
     "Sweden Democrats"
   ],
-  "latestSupport": 19.19,
+  "latestSupport": 19.25,
   "datapointsByParty": {
     "Sweden Democrats": [
       {
@@ -3040,7 +3040,7 @@
       },
       {
         "date": "2026-09-11",
-        "value": 19.25
+        "value": 19.57
       }
     ]
   },
@@ -20472,7 +20472,7 @@
       },
       {
         "date": "2026-09-11",
-        "value": 19.19
+        "value": 19.25
       }
     ]
   },
@@ -37999,7 +37999,7 @@
     },
     {
       "date": "2026-09-11",
-      "value": 19.19
+      "value": 19.25
     }
   ],
   "activePartiesByDate": {
