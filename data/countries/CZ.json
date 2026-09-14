@@ -16,7 +16,7 @@
     "Motorists for Themselves",
     "Svobodní"
   ],
-  "latestSupport": 45.440000000000005,
+  "latestSupport": 45.13999999999999,
   "datapointsByParty": {
     "ANO 2011": [
       {
@@ -2242,6 +2242,10 @@
       {
         "date": "2026-09-02",
         "value": 31.0
+      },
+      {
+        "date": "2026-09-07",
+        "value": 31.1
       }
     ],
     "Dawn - National Coalition": [
@@ -4778,6 +4782,10 @@
       {
         "date": "2026-09-02",
         "value": 7.4
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7.6
       }
     ],
     "Motorists for Themselves": [
@@ -5200,6 +5208,10 @@
       {
         "date": "2026-09-02",
         "value": 4.4
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4.9
       }
     ],
     "Realists": [
@@ -6052,6 +6064,10 @@
       {
         "date": "2026-09-02",
         "value": 1.2
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1.1
       }
     ],
     "Tricolour": [
@@ -25054,6 +25070,26 @@
       {
         "date": "2026-09-02",
         "value": 32.34
+      },
+      {
+        "date": "2026-09-03",
+        "value": 32.3
+      },
+      {
+        "date": "2026-09-04",
+        "value": 32.25
+      },
+      {
+        "date": "2026-09-05",
+        "value": 32.21
+      },
+      {
+        "date": "2026-09-06",
+        "value": 32.16
+      },
+      {
+        "date": "2026-09-07",
+        "value": 32.12
       }
     ],
     "Dawn - National Coalition": [
@@ -46390,6 +46426,26 @@
       {
         "date": "2026-09-02",
         "value": 7.16
+      },
+      {
+        "date": "2026-09-03",
+        "value": 7.15
+      },
+      {
+        "date": "2026-09-04",
+        "value": 7.14
+      },
+      {
+        "date": "2026-09-05",
+        "value": 7.12
+      },
+      {
+        "date": "2026-09-06",
+        "value": 7.11
+      },
+      {
+        "date": "2026-09-07",
+        "value": 7.1
       }
     ],
     "Motorists for Themselves": [
@@ -49204,6 +49260,26 @@
       {
         "date": "2026-09-02",
         "value": 4.84
+      },
+      {
+        "date": "2026-09-03",
+        "value": 4.82
+      },
+      {
+        "date": "2026-09-04",
+        "value": 4.81
+      },
+      {
+        "date": "2026-09-05",
+        "value": 4.79
+      },
+      {
+        "date": "2026-09-06",
+        "value": 4.78
+      },
+      {
+        "date": "2026-09-07",
+        "value": 4.76
       }
     ],
     "Realists": [
@@ -68432,6 +68508,26 @@
       {
         "date": "2026-09-02",
         "value": 1.1
+      },
+      {
+        "date": "2026-09-03",
+        "value": 1.11
+      },
+      {
+        "date": "2026-09-04",
+        "value": 1.12
+      },
+      {
+        "date": "2026-09-05",
+        "value": 1.14
+      },
+      {
+        "date": "2026-09-06",
+        "value": 1.15
+      },
+      {
+        "date": "2026-09-07",
+        "value": 1.16
       }
     ],
     "Tricolour": [
@@ -90197,6 +90293,26 @@
     {
       "date": "2026-09-02",
       "value": 45.44
+    },
+    {
+      "date": "2026-09-03",
+      "value": 45.38
+    },
+    {
+      "date": "2026-09-04",
+      "value": 45.32
+    },
+    {
+      "date": "2026-09-05",
+      "value": 45.26
+    },
+    {
+      "date": "2026-09-06",
+      "value": 45.2
+    },
+    {
+      "date": "2026-09-07",
+      "value": 45.14
     }
   ],
   "activePartiesByDate": {
@@ -114212,9 +114328,39 @@
       "Freedom and Direct Democracy",
       "Motorists for Themselves",
       "Svobodní"
+    ],
+    "2026-09-03": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní"
+    ],
+    "2026-09-04": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní"
+    ],
+    "2026-09-05": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní"
+    ],
+    "2026-09-06": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní"
+    ],
+    "2026-09-07": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní"
     ]
   },
-  "latestUpdate": "2026-09-02",
+  "latestUpdate": "2026-09-07",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
