@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 38.5,
+  "latestSupport": 38.8,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -2686,11 +2686,11 @@
       },
       {
         "date": "2026-09-09",
-        "value": 34.0
+        "value": 33.5
       },
       {
         "date": "2026-09-10",
-        "value": 32.0
+        "value": 32.5
       }
     ],
     "Reconquête": [
@@ -3316,7 +3316,7 @@
       },
       {
         "date": "2026-09-10",
-        "value": 2.0
+        "value": 3.5
       }
     ]
   },
@@ -42362,27 +42362,27 @@
       },
       {
         "date": "2026-09-04",
-        "value": 33.23
+        "value": 33.22
       },
       {
         "date": "2026-09-05",
-        "value": 33.27
+        "value": 33.23
       },
       {
         "date": "2026-09-06",
-        "value": 33.3
+        "value": 33.25
       },
       {
         "date": "2026-09-07",
-        "value": 33.33
+        "value": 33.27
       },
       {
         "date": "2026-09-08",
-        "value": 33.37
+        "value": 33.28
       },
       {
         "date": "2026-09-09",
-        "value": 33.4
+        "value": 33.3
       },
       {
         "date": "2026-09-10",
@@ -49676,7 +49676,7 @@
       },
       {
         "date": "2026-09-10",
-        "value": 3.1
+        "value": 3.4
       }
     ]
   },
@@ -69983,31 +69983,31 @@
     },
     {
       "date": "2026-09-04",
-      "value": 38.95
+      "value": 38.94
     },
     {
       "date": "2026-09-05",
-      "value": 39.0
+      "value": 38.96
     },
     {
       "date": "2026-09-06",
-      "value": 39.05
+      "value": 39.0
     },
     {
       "date": "2026-09-07",
-      "value": 39.1
+      "value": 39.04
     },
     {
       "date": "2026-09-08",
-      "value": 39.15
+      "value": 39.06
     },
     {
       "date": "2026-09-09",
-      "value": 39.2
+      "value": 39.1
     },
     {
       "date": "2026-09-10",
-      "value": 38.5
+      "value": 38.8
     }
   ],
   "activePartiesByDate": {

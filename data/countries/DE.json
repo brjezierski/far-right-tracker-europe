@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 28.18,
+  "latestSupport": 28.53,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9785,6 +9785,14 @@
       {
         "date": "2026-09-07",
         "value": 28.67
+      },
+      {
+        "date": "2026-09-10",
+        "value": 29.0
+      },
+      {
+        "date": "2026-09-14",
+        "value": 30.0
       }
     ]
   },
@@ -28657,6 +28665,34 @@
       {
         "date": "2026-09-07",
         "value": 28.18
+      },
+      {
+        "date": "2026-09-08",
+        "value": 28.18
+      },
+      {
+        "date": "2026-09-09",
+        "value": 28.18
+      },
+      {
+        "date": "2026-09-10",
+        "value": 28.18
+      },
+      {
+        "date": "2026-09-11",
+        "value": 28.27
+      },
+      {
+        "date": "2026-09-12",
+        "value": 28.36
+      },
+      {
+        "date": "2026-09-13",
+        "value": 28.44
+      },
+      {
+        "date": "2026-09-14",
+        "value": 28.53
       }
     ]
   },
@@ -47580,6 +47616,34 @@
     {
       "date": "2026-09-07",
       "value": 28.18
+    },
+    {
+      "date": "2026-09-08",
+      "value": 28.18
+    },
+    {
+      "date": "2026-09-09",
+      "value": 28.18
+    },
+    {
+      "date": "2026-09-10",
+      "value": 28.18
+    },
+    {
+      "date": "2026-09-11",
+      "value": 28.27
+    },
+    {
+      "date": "2026-09-12",
+      "value": 28.36
+    },
+    {
+      "date": "2026-09-13",
+      "value": 28.44
+    },
+    {
+      "date": "2026-09-14",
+      "value": 28.53
     }
   ],
   "activePartiesByDate": {
@@ -61772,9 +61836,30 @@
     ],
     "2026-09-07": [
       "Alternative for Germany"
+    ],
+    "2026-09-08": [
+      "Alternative for Germany"
+    ],
+    "2026-09-09": [
+      "Alternative for Germany"
+    ],
+    "2026-09-10": [
+      "Alternative for Germany"
+    ],
+    "2026-09-11": [
+      "Alternative for Germany"
+    ],
+    "2026-09-12": [
+      "Alternative for Germany"
+    ],
+    "2026-09-13": [
+      "Alternative for Germany"
+    ],
+    "2026-09-14": [
+      "Alternative for Germany"
     ]
   },
-  "latestUpdate": "2026-09-07",
+  "latestUpdate": "2026-09-14",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_German_federal_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_German_federal_election",
