@@ -8,7 +8,7 @@
   "activeParties": [
     "Freedom Party of Austria"
   ],
-  "latestSupport": 38.4,
+  "latestSupport": 38.2,
   "datapointsByParty": {
     "Freedom Party of Austria": [
       {
@@ -1493,7 +1493,7 @@
       },
       {
         "date": "2020-01-16",
-        "value": 5.67
+        "value": 8.0
       },
       {
         "date": "2020-01-23",
@@ -3134,6 +3134,10 @@
       {
         "date": "2026-09-08",
         "value": 39.0
+      },
+      {
+        "date": "2026-09-10",
+        "value": 38.0
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -12315,119 +12319,119 @@
       },
       {
         "date": "2020-01-16",
-        "value": 12.83
+        "value": 13.3
       },
       {
         "date": "2020-01-17",
-        "value": 12.79
+        "value": 13.26
       },
       {
         "date": "2020-01-18",
-        "value": 12.74
+        "value": 13.21
       },
       {
         "date": "2020-01-19",
-        "value": 12.7
+        "value": 13.17
       },
       {
         "date": "2020-01-20",
-        "value": 12.66
+        "value": 13.13
       },
       {
         "date": "2020-01-21",
-        "value": 12.62
+        "value": 13.09
       },
       {
         "date": "2020-01-22",
-        "value": 12.57
+        "value": 13.04
       },
       {
         "date": "2020-01-23",
-        "value": 12.53
+        "value": 13.0
       },
       {
         "date": "2020-01-24",
-        "value": 12.55
+        "value": 13.03
       },
       {
         "date": "2020-01-25",
-        "value": 12.58
+        "value": 13.05
       },
       {
         "date": "2020-01-26",
-        "value": 12.61
+        "value": 13.07
       },
       {
         "date": "2020-01-27",
-        "value": 12.63
+        "value": 13.1
       },
       {
         "date": "2020-01-28",
-        "value": 12.65
+        "value": 13.12
       },
       {
         "date": "2020-01-29",
-        "value": 12.68
+        "value": 13.15
       },
       {
         "date": "2020-01-30",
-        "value": 12.71
+        "value": 13.17
       },
       {
         "date": "2020-01-31",
-        "value": 12.73
+        "value": 13.2
       },
       {
         "date": "2020-02-01",
-        "value": 12.7
+        "value": 13.17
       },
       {
         "date": "2020-02-02",
-        "value": 12.66
+        "value": 13.13
       },
       {
         "date": "2020-02-03",
-        "value": 12.63
+        "value": 13.1
       },
       {
         "date": "2020-02-04",
-        "value": 12.6
+        "value": 13.07
       },
       {
         "date": "2020-02-05",
-        "value": 12.56
+        "value": 13.03
       },
       {
         "date": "2020-02-06",
-        "value": 12.53
+        "value": 13.0
       },
       {
         "date": "2020-02-07",
-        "value": 12.46
+        "value": 12.93
       },
       {
         "date": "2020-02-08",
-        "value": 12.4
+        "value": 12.87
       },
       {
         "date": "2020-02-09",
-        "value": 12.33
+        "value": 12.8
       },
       {
         "date": "2020-02-10",
-        "value": 12.26
+        "value": 12.73
       },
       {
         "date": "2020-02-11",
-        "value": 12.2
+        "value": 12.67
       },
       {
         "date": "2020-02-12",
-        "value": 12.13
+        "value": 12.6
       },
       {
         "date": "2020-02-13",
-        "value": 13.16
+        "value": 13.4
       },
       {
         "date": "2020-02-14",
@@ -22024,6 +22028,14 @@
       {
         "date": "2026-09-08",
         "value": 38.4
+      },
+      {
+        "date": "2026-09-09",
+        "value": 38.3
+      },
+      {
+        "date": "2026-09-10",
+        "value": 38.2
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -32180,119 +32192,119 @@
     },
     {
       "date": "2020-01-16",
-      "value": 12.83
+      "value": 13.3
     },
     {
       "date": "2020-01-17",
-      "value": 12.79
+      "value": 13.26
     },
     {
       "date": "2020-01-18",
-      "value": 12.74
+      "value": 13.21
     },
     {
       "date": "2020-01-19",
-      "value": 12.7
+      "value": 13.17
     },
     {
       "date": "2020-01-20",
-      "value": 12.66
+      "value": 13.13
     },
     {
       "date": "2020-01-21",
-      "value": 12.62
+      "value": 13.09
     },
     {
       "date": "2020-01-22",
-      "value": 12.57
+      "value": 13.04
     },
     {
       "date": "2020-01-23",
-      "value": 12.53
+      "value": 13.0
     },
     {
       "date": "2020-01-24",
-      "value": 12.55
+      "value": 13.03
     },
     {
       "date": "2020-01-25",
-      "value": 12.58
+      "value": 13.05
     },
     {
       "date": "2020-01-26",
-      "value": 12.61
+      "value": 13.07
     },
     {
       "date": "2020-01-27",
-      "value": 12.63
+      "value": 13.1
     },
     {
       "date": "2020-01-28",
-      "value": 12.65
+      "value": 13.12
     },
     {
       "date": "2020-01-29",
-      "value": 12.68
+      "value": 13.15
     },
     {
       "date": "2020-01-30",
-      "value": 12.71
+      "value": 13.17
     },
     {
       "date": "2020-01-31",
-      "value": 12.73
+      "value": 13.2
     },
     {
       "date": "2020-02-01",
-      "value": 12.7
+      "value": 13.17
     },
     {
       "date": "2020-02-02",
-      "value": 12.66
+      "value": 13.13
     },
     {
       "date": "2020-02-03",
-      "value": 12.63
+      "value": 13.1
     },
     {
       "date": "2020-02-04",
-      "value": 12.6
+      "value": 13.07
     },
     {
       "date": "2020-02-05",
-      "value": 12.56
+      "value": 13.03
     },
     {
       "date": "2020-02-06",
-      "value": 12.53
+      "value": 13.0
     },
     {
       "date": "2020-02-07",
-      "value": 12.46
+      "value": 12.93
     },
     {
       "date": "2020-02-08",
-      "value": 12.4
+      "value": 12.87
     },
     {
       "date": "2020-02-09",
-      "value": 12.33
+      "value": 12.8
     },
     {
       "date": "2020-02-10",
-      "value": 12.26
+      "value": 12.73
     },
     {
       "date": "2020-02-11",
-      "value": 12.2
+      "value": 12.67
     },
     {
       "date": "2020-02-12",
-      "value": 12.13
+      "value": 12.6
     },
     {
       "date": "2020-02-13",
-      "value": 13.16
+      "value": 13.4
     },
     {
       "date": "2020-02-14",
@@ -41889,6 +41901,14 @@
     {
       "date": "2026-09-08",
       "value": 38.4
+    },
+    {
+      "date": "2026-09-09",
+      "value": 38.3
+    },
+    {
+      "date": "2026-09-10",
+      "value": 38.2
     }
   ],
   "activePartiesByDate": {
@@ -56341,9 +56361,15 @@
     ],
     "2026-09-08": [
       "Freedom Party of Austria"
+    ],
+    "2026-09-09": [
+      "Freedom Party of Austria"
+    ],
+    "2026-09-10": [
+      "Freedom Party of Austria"
     ]
   },
-  "latestUpdate": "2026-09-08",
+  "latestUpdate": "2026-09-10",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",
