@@ -149,6 +149,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2016-03-14,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
 2016-04-03,Free Democrats,8.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
 2016-04-03,Free Democrats,10.0,Centre to centre-left,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Free_Democrats_(Georgia)
+2025-01-30,Free People's Party,4.3,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/Free_People's_Party_(Georgia)
+2025-06-29,Free People's Party,1.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/Free_People's_Party_(Georgia)
+2025-07-05,Free People's Party,3.2,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/Free_People's_Party_(Georgia)
 2012-10-01,Georgian Dream,55.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
 2012-11-25,Georgian Dream,66.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
 2013-03-27,Georgian Dream,63.0,Syncretic Fiscal: Centre-left Social: Right-wing,Populism Conservatism Social democracy Euroscepticism National conservatism,https://en.wikipedia.org/wiki/Georgian_Dream
@@ -265,30 +268,27 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2020-10-28,Lelo for Georgia,4.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
 2020-10-28,Lelo for Georgia,3.9,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
 2020-10-28,Lelo for Georgia,3.0,Centre Faction: Left-wing,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Lelo_for_Georgia
-2018-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2019-06-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2019-09-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2019-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2019-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2019-12-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-01-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-02-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-02-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-07-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-08-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-08-28,New Political Centre - Girchi,5.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-09-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-09-28,New Political Centre - Girchi,2.5,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,1.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,2.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,4.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2020-10-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2025-01-30,New Political Centre - Girchi,4.3,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2025-06-29,New Political Centre - Girchi,1.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
-2025-07-05,New Political Centre - Girchi,3.2,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Centre_%E2%80%93_Girchi
+2018-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-06-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-09-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2019-12-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-01-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-02-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-02-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-07-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-08-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-08-28,New Political Centre - Girchi,5.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-09-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-09-28,New Political Centre - Girchi,2.5,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,1.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.7,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,4.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,2.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,3.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
+2020-10-28,New Political Centre - Girchi,1.0,Right-wing,Libertarianism,https://en.wikipedia.org/wiki/New_Political_Center_%E2%80%94_Girchi
 2014-06-15,State for the People,3.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
 2014-08-07,State for the People,16.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
 2015-01-01,State for the People,2.0,Centre-right,Christian democracy Conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/State_for_the_People_(political_coalition)
