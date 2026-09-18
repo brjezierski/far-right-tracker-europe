@@ -16,7 +16,7 @@
     "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 14.520000000000001,
+  "latestSupport": 14.7,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3346,10 +3346,6 @@
         "value": 10.1
       },
       {
-        "date": "2026-08-29",
-        "value": 10.0
-      },
-      {
         "date": "2026-09-01",
         "value": 9.4
       },
@@ -3358,16 +3354,12 @@
         "value": 9.0
       },
       {
+        "date": "2026-09-09",
+        "value": 10.0
+      },
+      {
         "date": "2026-09-10",
         "value": 9.05
-      },
-      {
-        "date": "2026-09-12",
-        "value": 9.2
-      },
-      {
-        "date": "2026-09-14",
-        "value": 8.4
       },
       {
         "date": "2026-09-15",
@@ -3375,7 +3367,11 @@
       },
       {
         "date": "2026-09-16",
-        "value": 8.6
+        "value": 8.3
+      },
+      {
+        "date": "2026-09-17",
+        "value": 8.57
       }
     ],
     "Independent Greeks": [
@@ -5676,16 +5672,12 @@
         "value": 1.2
       },
       {
+        "date": "2026-09-09",
+        "value": 1.0
+      },
+      {
         "date": "2026-09-10",
         "value": 0.8
-      },
-      {
-        "date": "2026-09-12",
-        "value": 0.7
-      },
-      {
-        "date": "2026-09-14",
-        "value": 1.1
       },
       {
         "date": "2026-09-15",
@@ -5693,6 +5685,10 @@
       },
       {
         "date": "2026-09-16",
+        "value": 1.3
+      },
+      {
+        "date": "2026-09-17",
         "value": 1.0
       }
     ],
@@ -6268,6 +6264,10 @@
       {
         "date": "2026-09-15",
         "value": 1.3
+      },
+      {
+        "date": "2026-09-16",
+        "value": 1.4
       }
     ],
     "Voice of Reason": [
@@ -7072,10 +7072,6 @@
         "value": 3.5
       },
       {
-        "date": "2026-08-29",
-        "value": 4.0
-      },
-      {
         "date": "2026-09-01",
         "value": 3.9
       },
@@ -7084,16 +7080,12 @@
         "value": 3.7
       },
       {
+        "date": "2026-09-09",
+        "value": 4.0
+      },
+      {
         "date": "2026-09-10",
         "value": 4.25
-      },
-      {
-        "date": "2026-09-12",
-        "value": 3.9
-      },
-      {
-        "date": "2026-09-14",
-        "value": 3.9
       },
       {
         "date": "2026-09-15",
@@ -7101,7 +7093,11 @@
       },
       {
         "date": "2026-09-16",
-        "value": 3.6
+        "value": 3.65
+      },
+      {
+        "date": "2026-09-17",
+        "value": 3.7
       }
     ]
   },
@@ -31879,67 +31875,67 @@
       },
       {
         "date": "2026-08-25",
-        "value": 8.9
+        "value": 8.86
       },
       {
         "date": "2026-08-26",
-        "value": 8.98
+        "value": 8.89
       },
       {
         "date": "2026-08-27",
-        "value": 9.06
+        "value": 8.93
       },
       {
         "date": "2026-08-28",
-        "value": 9.14
+        "value": 8.96
       },
       {
         "date": "2026-08-29",
-        "value": 9.22
+        "value": 8.99
       },
       {
         "date": "2026-08-30",
-        "value": 9.27
+        "value": 9.03
       },
       {
         "date": "2026-08-31",
-        "value": 9.31
+        "value": 9.06
       },
       {
         "date": "2026-09-01",
-        "value": 9.36
+        "value": 9.1
       },
       {
         "date": "2026-09-02",
-        "value": 9.34
+        "value": 9.11
       },
       {
         "date": "2026-09-03",
-        "value": 9.31
+        "value": 9.12
       },
       {
         "date": "2026-09-04",
-        "value": 9.29
+        "value": 9.13
       },
       {
         "date": "2026-09-05",
-        "value": 9.27
+        "value": 9.13
       },
       {
         "date": "2026-09-06",
-        "value": 9.25
+        "value": 9.14
       },
       {
         "date": "2026-09-07",
-        "value": 9.22
+        "value": 9.15
       },
       {
         "date": "2026-09-08",
-        "value": 9.2
+        "value": 9.16
       },
       {
         "date": "2026-09-09",
-        "value": 9.36
+        "value": 9.2
       },
       {
         "date": "2026-09-10",
@@ -31955,19 +31951,23 @@
       },
       {
         "date": "2026-09-13",
-        "value": 9.17
+        "value": 9.25
       },
       {
         "date": "2026-09-14",
-        "value": 9.01
+        "value": 9.16
       },
       {
         "date": "2026-09-15",
-        "value": 8.71
+        "value": 9.07
       },
       {
         "date": "2026-09-16",
-        "value": 8.63
+        "value": 8.85
+      },
+      {
+        "date": "2026-09-17",
+        "value": 8.76
       }
     ],
     "Independent Greeks": [
@@ -47013,35 +47013,39 @@
       },
       {
         "date": "2026-09-09",
-        "value": 0.83
+        "value": 0.92
       },
       {
         "date": "2026-09-10",
-        "value": 0.88
+        "value": 0.8
       },
       {
         "date": "2026-09-11",
-        "value": 0.81
+        "value": 0.83
       },
       {
         "date": "2026-09-12",
-        "value": 0.74
+        "value": 0.86
       },
       {
         "date": "2026-09-13",
-        "value": 0.82
-      },
-      {
-        "date": "2026-09-14",
         "value": 0.9
       },
       {
+        "date": "2026-09-14",
+        "value": 0.93
+      },
+      {
         "date": "2026-09-15",
-        "value": 0.98
+        "value": 0.96
       },
       {
         "date": "2026-09-16",
-        "value": 0.94
+        "value": 1.08
+      },
+      {
+        "date": "2026-09-17",
+        "value": 1.04
       }
     ],
     "Spartans": [
@@ -51276,6 +51280,10 @@
       {
         "date": "2026-09-15",
         "value": 1.14
+      },
+      {
+        "date": "2026-09-16",
+        "value": 1.1
       }
     ],
     "Voice of Reason": [
@@ -54769,67 +54777,67 @@
       },
       {
         "date": "2026-08-25",
-        "value": 3.4
+        "value": 3.39
       },
       {
         "date": "2026-08-26",
-        "value": 3.42
+        "value": 3.4
       },
       {
         "date": "2026-08-27",
-        "value": 3.44
+        "value": 3.41
       },
       {
         "date": "2026-08-28",
-        "value": 3.46
+        "value": 3.42
       },
       {
         "date": "2026-08-29",
-        "value": 3.48
+        "value": 3.43
       },
       {
         "date": "2026-08-30",
-        "value": 3.53
+        "value": 3.44
       },
       {
         "date": "2026-08-31",
-        "value": 3.59
+        "value": 3.45
       },
       {
         "date": "2026-09-01",
-        "value": 3.64
+        "value": 3.46
       },
       {
         "date": "2026-09-02",
-        "value": 3.65
+        "value": 3.48
       },
       {
         "date": "2026-09-03",
-        "value": 3.66
+        "value": 3.49
       },
       {
         "date": "2026-09-04",
-        "value": 3.67
+        "value": 3.51
       },
       {
         "date": "2026-09-05",
-        "value": 3.69
+        "value": 3.53
       },
       {
         "date": "2026-09-06",
-        "value": 3.7
+        "value": 3.55
       },
       {
         "date": "2026-09-07",
-        "value": 3.71
+        "value": 3.56
       },
       {
         "date": "2026-09-08",
-        "value": 3.72
+        "value": 3.58
       },
       {
         "date": "2026-09-09",
-        "value": 3.79
+        "value": 3.72
       },
       {
         "date": "2026-09-10",
@@ -54837,27 +54845,31 @@
       },
       {
         "date": "2026-09-11",
-        "value": 3.91
+        "value": 3.87
       },
       {
         "date": "2026-09-12",
-        "value": 3.95
+        "value": 3.86
       },
       {
         "date": "2026-09-13",
-        "value": 3.94
+        "value": 3.86
       },
       {
         "date": "2026-09-14",
-        "value": 3.93
+        "value": 3.85
       },
       {
         "date": "2026-09-15",
-        "value": 3.83
+        "value": 3.85
       },
       {
         "date": "2026-09-16",
-        "value": 3.81
+        "value": 3.8
+      },
+      {
+        "date": "2026-09-17",
+        "value": 3.8
       }
     ]
   },
@@ -71708,95 +71720,99 @@
     },
     {
       "date": "2026-08-25",
-      "value": 14.36
+      "value": 14.31
     },
     {
       "date": "2026-08-26",
-      "value": 14.45
+      "value": 14.34
     },
     {
       "date": "2026-08-27",
-      "value": 14.55
+      "value": 14.39
     },
     {
       "date": "2026-08-28",
-      "value": 14.64
+      "value": 14.42
     },
     {
       "date": "2026-08-29",
-      "value": 14.73
+      "value": 14.45
     },
     {
       "date": "2026-08-30",
-      "value": 14.83
+      "value": 14.5
     },
     {
       "date": "2026-08-31",
-      "value": 14.92
+      "value": 14.53
     },
     {
       "date": "2026-09-01",
-      "value": 13.88
+      "value": 14.57
     },
     {
       "date": "2026-09-02",
-      "value": 13.86
+      "value": 14.6
     },
     {
       "date": "2026-09-03",
-      "value": 13.82
+      "value": 14.6
     },
     {
       "date": "2026-09-04",
-      "value": 13.8
+      "value": 14.62
     },
     {
       "date": "2026-09-05",
-      "value": 13.78
+      "value": 14.62
     },
     {
       "date": "2026-09-06",
-      "value": 13.76
+      "value": 14.64
     },
     {
       "date": "2026-09-07",
-      "value": 13.72
+      "value": 14.64
     },
     {
       "date": "2026-09-08",
-      "value": 13.7
+      "value": 13.52
     },
     {
       "date": "2026-09-09",
-      "value": 13.98
-    },
-    {
-      "date": "2026-09-10",
-      "value": 14.26
-    },
-    {
-      "date": "2026-09-11",
-      "value": 14.14
-    },
-    {
-      "date": "2026-09-12",
-      "value": 14.02
-    },
-    {
-      "date": "2026-09-13",
-      "value": 13.93
-    },
-    {
-      "date": "2026-09-14",
       "value": 13.84
     },
     {
+      "date": "2026-09-10",
+      "value": 14.18
+    },
+    {
+      "date": "2026-09-11",
+      "value": 14.12
+    },
+    {
+      "date": "2026-09-12",
+      "value": 14.05
+    },
+    {
+      "date": "2026-09-13",
+      "value": 14.01
+    },
+    {
+      "date": "2026-09-14",
+      "value": 13.94
+    },
+    {
       "date": "2026-09-15",
-      "value": 14.66
+      "value": 15.02
     },
     {
       "date": "2026-09-16",
-      "value": 13.38
+      "value": 14.83
+    },
+    {
+      "date": "2026-09-17",
+      "value": 13.6
     }
   ],
   "activePartiesByDate": {
@@ -91168,36 +91184,43 @@
     "2026-09-01": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-02": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-03": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-04": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-05": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-06": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-07": [
       "Greek Solution",
       "Niki",
+      "Spartans",
       "Voice of Reason"
     ],
     "2026-09-08": [
@@ -91246,9 +91269,15 @@
       "Niki",
       "Spartans",
       "Voice of Reason"
+    ],
+    "2026-09-17": [
+      "Greek Solution",
+      "Niki",
+      "Spartans",
+      "Voice of Reason"
     ]
   },
-  "latestUpdate": "2026-09-16",
+  "latestUpdate": "2026-09-17",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",

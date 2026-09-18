@@ -5112,6 +5112,10 @@
       {
         "date": "2026-09-15",
         "value": 23.0
+      },
+      {
+        "date": "2026-09-16",
+        "value": 23.0
       }
     ],
     "Restore Britain": [
@@ -23883,6 +23887,10 @@
       },
       {
         "date": "2026-09-15",
+        "value": 23.4
+      },
+      {
+        "date": "2026-09-16",
         "value": 23.4
       }
     ],
@@ -62751,6 +62759,10 @@
     {
       "date": "2026-09-15",
       "value": 27.6
+    },
+    {
+      "date": "2026-09-16",
+      "value": 23.4
     }
   ],
   "activePartiesByDate": {
@@ -81182,9 +81194,13 @@
     "2026-09-15": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-09-16": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-09-15",
+  "latestUpdate": "2026-09-16",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
