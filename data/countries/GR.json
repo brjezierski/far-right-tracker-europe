@@ -16,7 +16,7 @@
     "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 14.7,
+  "latestSupport": 14.32,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3371,7 +3371,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 8.57
+        "value": 8.65
+      },
+      {
+        "date": "2026-09-18",
+        "value": 8.2
       }
     ],
     "Independent Greeks": [
@@ -5689,7 +5693,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 1.0
+        "value": 0.95
+      },
+      {
+        "date": "2026-09-18",
+        "value": 1.1
       }
     ],
     "Spartans": [
@@ -7097,7 +7105,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 3.7
+        "value": 3.65
+      },
+      {
+        "date": "2026-09-18",
+        "value": 3.8
       }
     ]
   },
@@ -31967,7 +31979,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 8.76
+        "value": 8.78
+      },
+      {
+        "date": "2026-09-18",
+        "value": 8.42
       }
     ],
     "Independent Greeks": [
@@ -47045,7 +47061,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 1.04
+        "value": 1.03
+      },
+      {
+        "date": "2026-09-18",
+        "value": 1.05
       }
     ],
     "Spartans": [
@@ -54869,7 +54889,11 @@
       },
       {
         "date": "2026-09-17",
-        "value": 3.8
+        "value": 3.79
+      },
+      {
+        "date": "2026-09-18",
+        "value": 3.75
       }
     ]
   },
@@ -71813,6 +71837,10 @@
     {
       "date": "2026-09-17",
       "value": 13.6
+    },
+    {
+      "date": "2026-09-18",
+      "value": 13.22
     }
   ],
   "activePartiesByDate": {
@@ -91275,9 +91303,15 @@
       "Niki",
       "Spartans",
       "Voice of Reason"
+    ],
+    "2026-09-18": [
+      "Greek Solution",
+      "Niki",
+      "Spartans",
+      "Voice of Reason"
     ]
   },
-  "latestUpdate": "2026-09-17",
+  "latestUpdate": "2026-09-18",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",
