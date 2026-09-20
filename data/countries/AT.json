@@ -3138,6 +3138,10 @@
       {
         "date": "2026-09-10",
         "value": 38.0
+      },
+      {
+        "date": "2026-09-15",
+        "value": 37.0
       }
     ],
     "Team HC Strache - Alliance for Austria": [
@@ -22035,6 +22039,26 @@
       },
       {
         "date": "2026-09-10",
+        "value": 38.2
+      },
+      {
+        "date": "2026-09-11",
+        "value": 38.2
+      },
+      {
+        "date": "2026-09-12",
+        "value": 38.2
+      },
+      {
+        "date": "2026-09-13",
+        "value": 38.2
+      },
+      {
+        "date": "2026-09-14",
+        "value": 38.2
+      },
+      {
+        "date": "2026-09-15",
         "value": 38.2
       }
     ],
@@ -41909,6 +41933,26 @@
     {
       "date": "2026-09-10",
       "value": 38.2
+    },
+    {
+      "date": "2026-09-11",
+      "value": 38.2
+    },
+    {
+      "date": "2026-09-12",
+      "value": 38.2
+    },
+    {
+      "date": "2026-09-13",
+      "value": 38.2
+    },
+    {
+      "date": "2026-09-14",
+      "value": 38.2
+    },
+    {
+      "date": "2026-09-15",
+      "value": 38.2
     }
   ],
   "activePartiesByDate": {
@@ -56367,9 +56411,24 @@
     ],
     "2026-09-10": [
       "Freedom Party of Austria"
+    ],
+    "2026-09-11": [
+      "Freedom Party of Austria"
+    ],
+    "2026-09-12": [
+      "Freedom Party of Austria"
+    ],
+    "2026-09-13": [
+      "Freedom Party of Austria"
+    ],
+    "2026-09-14": [
+      "Freedom Party of Austria"
+    ],
+    "2026-09-15": [
+      "Freedom Party of Austria"
     ]
   },
-  "latestUpdate": "2026-09-10",
+  "latestUpdate": "2026-09-15",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Austrian_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Austrian_legislative_election",
