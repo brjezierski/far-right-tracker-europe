@@ -17,7 +17,7 @@
     "National Democratic Alternative",
     "New Democratic Party of Serbia"
   ],
-  "latestSupport": 5.0,
+  "latestSupport": 4.88,
   "datapointsByParty": {
     "Dveri": [
       {
@@ -1038,6 +1038,10 @@
       },
       {
         "date": "2026-09-04",
+        "value": 2.1
+      },
+      {
+        "date": "2026-09-21",
         "value": 2.1
       }
     ],
@@ -40153,6 +40157,74 @@
       {
         "date": "2026-09-04",
         "value": 2.48
+      },
+      {
+        "date": "2026-09-05",
+        "value": 2.47
+      },
+      {
+        "date": "2026-09-06",
+        "value": 2.47
+      },
+      {
+        "date": "2026-09-07",
+        "value": 2.46
+      },
+      {
+        "date": "2026-09-08",
+        "value": 2.45
+      },
+      {
+        "date": "2026-09-09",
+        "value": 2.44
+      },
+      {
+        "date": "2026-09-10",
+        "value": 2.44
+      },
+      {
+        "date": "2026-09-11",
+        "value": 2.43
+      },
+      {
+        "date": "2026-09-12",
+        "value": 2.42
+      },
+      {
+        "date": "2026-09-13",
+        "value": 2.42
+      },
+      {
+        "date": "2026-09-14",
+        "value": 2.41
+      },
+      {
+        "date": "2026-09-15",
+        "value": 2.4
+      },
+      {
+        "date": "2026-09-16",
+        "value": 2.4
+      },
+      {
+        "date": "2026-09-17",
+        "value": 2.39
+      },
+      {
+        "date": "2026-09-18",
+        "value": 2.38
+      },
+      {
+        "date": "2026-09-19",
+        "value": 2.37
+      },
+      {
+        "date": "2026-09-20",
+        "value": 2.37
+      },
+      {
+        "date": "2026-09-21",
+        "value": 2.36
       }
     ],
     "National Gathering": [
@@ -91602,6 +91674,74 @@
     {
       "date": "2026-09-04",
       "value": 2.48
+    },
+    {
+      "date": "2026-09-05",
+      "value": 2.47
+    },
+    {
+      "date": "2026-09-06",
+      "value": 2.47
+    },
+    {
+      "date": "2026-09-07",
+      "value": 2.46
+    },
+    {
+      "date": "2026-09-08",
+      "value": 2.45
+    },
+    {
+      "date": "2026-09-09",
+      "value": 2.44
+    },
+    {
+      "date": "2026-09-10",
+      "value": 2.44
+    },
+    {
+      "date": "2026-09-11",
+      "value": 2.43
+    },
+    {
+      "date": "2026-09-12",
+      "value": 2.42
+    },
+    {
+      "date": "2026-09-13",
+      "value": 2.42
+    },
+    {
+      "date": "2026-09-14",
+      "value": 2.41
+    },
+    {
+      "date": "2026-09-15",
+      "value": 2.4
+    },
+    {
+      "date": "2026-09-16",
+      "value": 2.4
+    },
+    {
+      "date": "2026-09-17",
+      "value": 2.39
+    },
+    {
+      "date": "2026-09-18",
+      "value": 2.38
+    },
+    {
+      "date": "2026-09-19",
+      "value": 2.37
+    },
+    {
+      "date": "2026-09-20",
+      "value": 2.37
+    },
+    {
+      "date": "2026-09-21",
+      "value": 2.36
     }
   ],
   "activePartiesByDate": {
@@ -118516,9 +118656,77 @@
     "2026-09-04": [
       "National Democratic Alternative",
       "New Democratic Party of Serbia"
+    ],
+    "2026-09-05": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-06": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-07": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-08": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-09": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-10": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-11": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-12": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-13": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-14": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-15": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-16": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-17": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-18": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-19": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-20": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
+    ],
+    "2026-09-21": [
+      "National Democratic Alternative",
+      "New Democratic Party of Serbia"
     ]
   },
-  "latestUpdate": "2026-09-04",
+  "latestUpdate": "2026-09-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Serbian_parliamentary_election",
     "https://en.wikipedia.org/wiki/2020_Serbian_parliamentary_election",
