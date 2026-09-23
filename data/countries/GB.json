@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.0,
+  "latestSupport": 26.0,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5120,6 +5120,10 @@
       {
         "date": "2026-09-18",
         "value": 24.0
+      },
+      {
+        "date": "2026-09-21",
+        "value": 21.0
       }
     ],
     "Restore Britain": [
@@ -5461,6 +5465,10 @@
       },
       {
         "date": "2026-09-16",
+        "value": 3.0
+      },
+      {
+        "date": "2026-09-21",
         "value": 3.0
       }
     ],
@@ -23908,6 +23916,18 @@
       {
         "date": "2026-09-18",
         "value": 23.7
+      },
+      {
+        "date": "2026-09-19",
+        "value": 23.43
+      },
+      {
+        "date": "2026-09-20",
+        "value": 23.17
+      },
+      {
+        "date": "2026-09-21",
+        "value": 22.9
       }
     ],
     "Restore Britain": [
@@ -24902,6 +24922,26 @@
       {
         "date": "2026-09-16",
         "value": 3.3
+      },
+      {
+        "date": "2026-09-17",
+        "value": 3.26
+      },
+      {
+        "date": "2026-09-18",
+        "value": 3.22
+      },
+      {
+        "date": "2026-09-19",
+        "value": 3.18
+      },
+      {
+        "date": "2026-09-20",
+        "value": 3.14
+      },
+      {
+        "date": "2026-09-21",
+        "value": 3.1
       }
     ],
     "UK Independence Party": [
@@ -62786,11 +62826,23 @@
     },
     {
       "date": "2026-09-17",
-      "value": 23.6
+      "value": 26.86
     },
     {
       "date": "2026-09-18",
-      "value": 23.7
+      "value": 26.92
+    },
+    {
+      "date": "2026-09-19",
+      "value": 26.61
+    },
+    {
+      "date": "2026-09-20",
+      "value": 26.31
+    },
+    {
+      "date": "2026-09-21",
+      "value": 26.0
     }
   ],
   "activePartiesByDate": {
@@ -81234,9 +81286,21 @@
     "2026-09-18": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-09-19": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-09-20": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-09-21": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-09-18",
+  "latestUpdate": "2026-09-21",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",

@@ -17,7 +17,7 @@
     "National Democratic Alternative",
     "New Democratic Party of Serbia"
   ],
-  "latestSupport": 4.88,
+  "latestSupport": 5.02,
   "datapointsByParty": {
     "Dveri": [
       {
@@ -1042,7 +1042,7 @@
       },
       {
         "date": "2026-09-21",
-        "value": 2.1
+        "value": 2.8
       }
     ],
     "National Gathering": [
@@ -40160,71 +40160,71 @@
       },
       {
         "date": "2026-09-05",
-        "value": 2.47
+        "value": 2.48
       },
       {
         "date": "2026-09-06",
-        "value": 2.47
+        "value": 2.48
       },
       {
         "date": "2026-09-07",
-        "value": 2.46
+        "value": 2.48
       },
       {
         "date": "2026-09-08",
-        "value": 2.45
+        "value": 2.48
       },
       {
         "date": "2026-09-09",
-        "value": 2.44
+        "value": 2.49
       },
       {
         "date": "2026-09-10",
-        "value": 2.44
+        "value": 2.49
       },
       {
         "date": "2026-09-11",
-        "value": 2.43
+        "value": 2.49
       },
       {
         "date": "2026-09-12",
-        "value": 2.42
+        "value": 2.49
       },
       {
         "date": "2026-09-13",
-        "value": 2.42
+        "value": 2.49
       },
       {
         "date": "2026-09-14",
-        "value": 2.41
+        "value": 2.49
       },
       {
         "date": "2026-09-15",
-        "value": 2.4
+        "value": 2.49
       },
       {
         "date": "2026-09-16",
-        "value": 2.4
+        "value": 2.49
       },
       {
         "date": "2026-09-17",
-        "value": 2.39
+        "value": 2.5
       },
       {
         "date": "2026-09-18",
-        "value": 2.38
+        "value": 2.5
       },
       {
         "date": "2026-09-19",
-        "value": 2.37
+        "value": 2.5
       },
       {
         "date": "2026-09-20",
-        "value": 2.37
+        "value": 2.5
       },
       {
         "date": "2026-09-21",
-        "value": 2.36
+        "value": 2.5
       }
     ],
     "National Gathering": [
@@ -91677,71 +91677,71 @@
     },
     {
       "date": "2026-09-05",
-      "value": 2.47
+      "value": 2.48
     },
     {
       "date": "2026-09-06",
-      "value": 2.47
+      "value": 2.48
     },
     {
       "date": "2026-09-07",
-      "value": 2.46
+      "value": 2.48
     },
     {
       "date": "2026-09-08",
-      "value": 2.45
+      "value": 2.48
     },
     {
       "date": "2026-09-09",
-      "value": 2.44
+      "value": 2.49
     },
     {
       "date": "2026-09-10",
-      "value": 2.44
+      "value": 2.49
     },
     {
       "date": "2026-09-11",
-      "value": 2.43
+      "value": 2.49
     },
     {
       "date": "2026-09-12",
-      "value": 2.42
+      "value": 2.49
     },
     {
       "date": "2026-09-13",
-      "value": 2.42
+      "value": 2.49
     },
     {
       "date": "2026-09-14",
-      "value": 2.41
+      "value": 2.49
     },
     {
       "date": "2026-09-15",
-      "value": 2.4
+      "value": 2.49
     },
     {
       "date": "2026-09-16",
-      "value": 2.4
+      "value": 2.49
     },
     {
       "date": "2026-09-17",
-      "value": 2.39
+      "value": 2.5
     },
     {
       "date": "2026-09-18",
-      "value": 2.38
+      "value": 2.5
     },
     {
       "date": "2026-09-19",
-      "value": 2.37
+      "value": 2.5
     },
     {
       "date": "2026-09-20",
-      "value": 2.37
+      "value": 2.5
     },
     {
       "date": "2026-09-21",
-      "value": 2.36
+      "value": 2.5
     }
   ],
   "activePartiesByDate": {
