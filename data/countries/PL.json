@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 41.79,
+  "latestSupport": 42.56999999999999,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3907,7 +3907,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 13.54
+        "value": 12.9
+      },
+      {
+        "date": "2026-09-21",
+        "value": 11.2
+      },
+      {
+        "date": "2026-09-22",
+        "value": 14.29
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4449,7 +4457,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 9.09
+        "value": 10.9
+      },
+      {
+        "date": "2026-09-21",
+        "value": 8.8
+      },
+      {
+        "date": "2026-09-22",
+        "value": 6.99
       }
     ],
     "Law and Justice": [
@@ -4647,7 +4663,7 @@
       },
       {
         "date": "2016-09-15",
-        "value": 36.0
+        "value": 29.5
       },
       {
         "date": "2016-09-16",
@@ -6491,7 +6507,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 19.89
+        "value": 17.2
+      },
+      {
+        "date": "2026-09-21",
+        "value": 19.2
+      },
+      {
+        "date": "2026-09-22",
+        "value": 23.34
       }
     ],
     "New Hope": [
@@ -20613,7 +20637,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 13.83
+        "value": 13.7
+      },
+      {
+        "date": "2026-09-21",
+        "value": 12.92
+      },
+      {
+        "date": "2026-09-22",
+        "value": 13.04
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22479,7 +22511,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 8.43
+        "value": 8.79
+      },
+      {
+        "date": "2026-09-21",
+        "value": 9.19
+      },
+      {
+        "date": "2026-09-22",
+        "value": 9.12
       }
     ],
     "Law and Justice": [
@@ -23601,95 +23641,95 @@
       },
       {
         "date": "2016-09-15",
-        "value": 36.66
-      },
-      {
-        "date": "2016-09-16",
-        "value": 35.7
-      },
-      {
-        "date": "2016-09-17",
-        "value": 35.79
-      },
-      {
-        "date": "2016-09-18",
-        "value": 35.88
-      },
-      {
-        "date": "2016-09-19",
-        "value": 35.97
-      },
-      {
-        "date": "2016-09-20",
-        "value": 36.06
-      },
-      {
-        "date": "2016-09-21",
-        "value": 35.92
-      },
-      {
-        "date": "2016-09-22",
-        "value": 35.78
-      },
-      {
-        "date": "2016-09-23",
-        "value": 35.64
-      },
-      {
-        "date": "2016-09-24",
-        "value": 35.5
-      },
-      {
-        "date": "2016-09-25",
         "value": 35.36
       },
       {
+        "date": "2016-09-16",
+        "value": 34.4
+      },
+      {
+        "date": "2016-09-17",
+        "value": 34.49
+      },
+      {
+        "date": "2016-09-18",
+        "value": 34.58
+      },
+      {
+        "date": "2016-09-19",
+        "value": 34.67
+      },
+      {
+        "date": "2016-09-20",
+        "value": 34.76
+      },
+      {
+        "date": "2016-09-21",
+        "value": 34.62
+      },
+      {
+        "date": "2016-09-22",
+        "value": 34.48
+      },
+      {
+        "date": "2016-09-23",
+        "value": 34.34
+      },
+      {
+        "date": "2016-09-24",
+        "value": 34.2
+      },
+      {
+        "date": "2016-09-25",
+        "value": 34.06
+      },
+      {
         "date": "2016-09-26",
-        "value": 35.22
+        "value": 33.92
       },
       {
         "date": "2016-09-27",
-        "value": 35.08
+        "value": 33.78
       },
       {
         "date": "2016-09-28",
-        "value": 34.94
+        "value": 33.64
       },
       {
         "date": "2016-09-29",
-        "value": 34.8
+        "value": 33.5
       },
       {
         "date": "2016-09-30",
-        "value": 34.66
+        "value": 33.36
       },
       {
         "date": "2016-10-01",
-        "value": 34.42
+        "value": 33.12
       },
       {
         "date": "2016-10-02",
-        "value": 34.18
+        "value": 32.88
       },
       {
         "date": "2016-10-03",
-        "value": 33.94
+        "value": 32.64
       },
       {
         "date": "2016-10-04",
-        "value": 33.7
+        "value": 32.4
       },
       {
         "date": "2016-10-05",
-        "value": 33.46
+        "value": 32.16
       },
       {
         "date": "2016-10-06",
-        "value": 33.05
+        "value": 32.18
       },
       {
         "date": "2016-10-07",
-        "value": 32.63
+        "value": 32.2
       },
       {
         "date": "2016-10-08",
@@ -38229,7 +38269,15 @@
       },
       {
         "date": "2026-09-20",
-        "value": 19.53
+        "value": 18.99
+      },
+      {
+        "date": "2026-09-21",
+        "value": 18.99
+      },
+      {
+        "date": "2026-09-22",
+        "value": 20.41
       }
     ],
     "New Hope": [
@@ -51702,95 +51750,95 @@
     },
     {
       "date": "2016-09-15",
-      "value": 39.16
-    },
-    {
-      "date": "2016-09-16",
-      "value": 37.98
-    },
-    {
-      "date": "2016-09-17",
-      "value": 38.13
-    },
-    {
-      "date": "2016-09-18",
-      "value": 38.28
-    },
-    {
-      "date": "2016-09-19",
-      "value": 38.43
-    },
-    {
-      "date": "2016-09-20",
-      "value": 38.58
-    },
-    {
-      "date": "2016-09-21",
-      "value": 38.46
-    },
-    {
-      "date": "2016-09-22",
-      "value": 38.34
-    },
-    {
-      "date": "2016-09-23",
-      "value": 38.22
-    },
-    {
-      "date": "2016-09-24",
-      "value": 38.1
-    },
-    {
-      "date": "2016-09-25",
-      "value": 37.98
-    },
-    {
-      "date": "2016-09-26",
       "value": 37.86
     },
     {
+      "date": "2016-09-16",
+      "value": 36.68
+    },
+    {
+      "date": "2016-09-17",
+      "value": 36.83
+    },
+    {
+      "date": "2016-09-18",
+      "value": 36.98
+    },
+    {
+      "date": "2016-09-19",
+      "value": 37.13
+    },
+    {
+      "date": "2016-09-20",
+      "value": 37.28
+    },
+    {
+      "date": "2016-09-21",
+      "value": 37.16
+    },
+    {
+      "date": "2016-09-22",
+      "value": 37.04
+    },
+    {
+      "date": "2016-09-23",
+      "value": 36.92
+    },
+    {
+      "date": "2016-09-24",
+      "value": 36.8
+    },
+    {
+      "date": "2016-09-25",
+      "value": 36.68
+    },
+    {
+      "date": "2016-09-26",
+      "value": 36.56
+    },
+    {
       "date": "2016-09-27",
-      "value": 37.74
+      "value": 36.44
     },
     {
       "date": "2016-09-28",
-      "value": 37.62
+      "value": 36.32
     },
     {
       "date": "2016-09-29",
-      "value": 37.5
+      "value": 36.2
     },
     {
       "date": "2016-09-30",
-      "value": 37.38
+      "value": 36.08
     },
     {
       "date": "2016-10-01",
-      "value": 37.26
+      "value": 35.96
     },
     {
       "date": "2016-10-02",
-      "value": 37.14
+      "value": 35.84
     },
     {
       "date": "2016-10-03",
-      "value": 37.02
+      "value": 35.72
     },
     {
       "date": "2016-10-04",
-      "value": 36.9
+      "value": 35.6
     },
     {
       "date": "2016-10-05",
-      "value": 36.78
+      "value": 35.48
     },
     {
       "date": "2016-10-06",
-      "value": 36.28
+      "value": 35.41
     },
     {
       "date": "2016-10-07",
-      "value": 35.76
+      "value": 35.33
     },
     {
       "date": "2016-10-08",
@@ -66330,7 +66378,15 @@
     },
     {
       "date": "2026-09-20",
-      "value": 41.79
+      "value": 41.48
+    },
+    {
+      "date": "2026-09-21",
+      "value": 41.1
+    },
+    {
+      "date": "2026-09-22",
+      "value": 42.57
     }
   ],
   "activePartiesByDate": {
@@ -82945,9 +83001,19 @@
       "Confederation Liberty and Independence",
       "Confederation of the Polish Crown",
       "Law and Justice"
+    ],
+    "2026-09-21": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-09-22": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
     ]
   },
-  "latestUpdate": "2026-09-20",
+  "latestUpdate": "2026-09-22",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
