@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 42.56999999999999,
+  "latestSupport": 42.65,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3915,7 +3915,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 14.29
+        "value": 14.14
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4465,7 +4465,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 6.99
+        "value": 7.8
       }
     ],
     "Law and Justice": [
@@ -6515,7 +6515,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 23.34
+        "value": 23.1
       }
     ],
     "New Hope": [
@@ -20645,7 +20645,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 13.04
+        "value": 13.01
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22519,7 +22519,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 9.12
+        "value": 9.28
       }
     ],
     "Law and Justice": [
@@ -38277,7 +38277,7 @@
       },
       {
         "date": "2026-09-22",
-        "value": 20.41
+        "value": 20.36
       }
     ],
     "New Hope": [
@@ -66386,7 +66386,7 @@
     },
     {
       "date": "2026-09-22",
-      "value": 42.57
+      "value": 42.65
     }
   ],
   "activePartiesByDate": {
