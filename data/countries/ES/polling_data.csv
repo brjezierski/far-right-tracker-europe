@@ -2809,6 +2809,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Basque Nationalist Party,0.9,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
 2026-09-10,Basque Nationalist Party,1.1,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
 2026-09-10,Basque Nationalist Party,0.3,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
+2026-09-17,Basque Nationalist Party,0.3,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
 2026-09-18,Basque Nationalist Party,1.1,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
 2026-09-21,Basque Nationalist Party,1.1,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
 2026-09-25,Basque Nationalist Party,1.1,Centre,Basque nationalism Christian democracy Factions: Conservative liberalism Social democracy,https://en.wikipedia.org/wiki/Basque_Nationalist_Party
@@ -3921,6 +3922,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Canarian Coalition,0.5,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2026-09-10,Canarian Coalition,0.4,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2026-09-10,Canarian Coalition,0.2,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
+2026-09-17,Canarian Coalition,0.2,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2026-09-18,Canarian Coalition,0.4,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2026-09-21,Canarian Coalition,0.5,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2026-09-25,Canarian Coalition,0.4,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
@@ -8640,6 +8642,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,EH Bildu,1.3,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
 2026-09-10,EH Bildu,1.4,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
 2026-09-10,EH Bildu,0.7,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
+2026-09-17,EH Bildu,0.9,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
 2026-09-18,EH Bildu,1.4,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
 2026-09-21,EH Bildu,1.4,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
 2026-09-25,EH Bildu,1.4,Left-wing to far-left,Basque independence Left-wing nationalism Abertzale left Socialism,https://en.wikipedia.org/wiki/EH_Bildu
@@ -10061,6 +10064,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Galician Nationalist Bloc,0.8,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
 2026-09-10,Galician Nationalist Bloc,0.9,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
 2026-09-10,Galician Nationalist Bloc,0.8,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
+2026-09-17,Galician Nationalist Bloc,0.6,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
 2026-09-18,Galician Nationalist Bloc,0.9,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
 2026-09-21,Galician Nationalist Bloc,0.8,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
 2026-09-25,Galician Nationalist Bloc,0.9,Left-wing,Galician nationalism Socialism Left-wing nationalism Eco-nationalism Republicanism Euroscepticism Faction: Galician independence,https://en.wikipedia.org/wiki/Galician_Nationalist_Bloc
@@ -14031,8 +14035,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-15,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-15,People's Party,35.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-15,People's Party,30.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-15,People's Party,37.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-15,People's Party,34.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-15,People's Party,25.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-15,People's Party,19.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-16,People's Party,27.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14067,8 +14069,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-19,People's Party,28.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-19,People's Party,28.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-19,People's Party,19.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-19,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-19,People's Party,58.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-20,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-21,People's Party,35.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-21,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-21,People's Party,32.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14080,6 +14082,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-22,People's Party,37.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-22,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-22,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-22,People's Party,24.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-22,People's Party,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-23,People's Party,28.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-23,People's Party,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14099,7 +14102,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-06,People's Party,23.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-06,People's Party,22.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-07,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-08-07,People's Party,20.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-11,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-13,People's Party,28.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-13,People's Party,22.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14113,6 +14115,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-08-26,People's Party,28.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-27,People's Party,30.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-27,People's Party,21.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-08-28,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-28,People's Party,23.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-29,People's Party,24.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-08-30,People's Party,28.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14126,6 +14129,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-09-03,People's Party,20.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-09-06,People's Party,25.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-09-07,People's Party,19.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-09-07,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-09-07,People's Party,20.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-09-09,People's Party,28.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-09-09,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-09-10,People's Party,26.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14217,7 +14222,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-10-23,People's Party,24.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-24,People's Party,29.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-26,People's Party,35.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-10-26,People's Party,24.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-27,People's Party,34.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-27,People's Party,37.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-27,People's Party,28.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14286,7 +14290,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2023-11-27,People's Party,21.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-11-27,People's Party,23.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-11-27,People's Party,19.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-11-27,People's Party,37.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-11-27,People's Party,35.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-11-27,People's Party,25.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-12-01,People's Party,28.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14533,6 +14536,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-01-03,People's Party,12.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-03,People's Party,14.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-03,People's Party,13.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-01-09,People's Party,32.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-01-09,People's Party,19.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-10,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-11,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-17,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14563,11 +14568,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-02-28,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-02-28,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-07,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-03-07,People's Party,11.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-07,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-03-07,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-03-07,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-03-07,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-14,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-16,People's Party,35.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-16,People's Party,23.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14588,9 +14589,14 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-25,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-25,People's Party,34.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-25,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-04-27,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-27,People's Party,21.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-30,People's Party,15.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-02,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-06,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-06,People's Party,13.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-06,People's Party,14.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-08,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-08,People's Party,20.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-09,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-16,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-19,People's Party,35.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14598,6 +14604,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-05-21,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-22,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-22,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-22,People's Party,23.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-23,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-23,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-23,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14609,9 +14616,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-06-06,People's Party,13.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-06,People's Party,14.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-07,People's Party,18.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-06-12,People's Party,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-12,People's Party,18.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-06-12,People's Party,18.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-13,People's Party,35.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-13,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-17,People's Party,36.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14657,7 +14662,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-05,People's Party,31.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-05,People's Party,35.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-06,People's Party,35.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-09-06,People's Party,16.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-09-06,People's Party,17.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-09-06,People's Party,17.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-09,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-11,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-11,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14684,6 +14690,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-10-17,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-24,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-26,People's Party,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-10-26,People's Party,17.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-10-31,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-31,People's Party,13.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-04,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-04,People's Party,28.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14691,26 +14699,21 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-06,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-07,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-11-08,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-08,People's Party,18.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-08,People's Party,21.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-11,People's Party,15.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-11-12,People's Party,26.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-11-12,People's Party,15.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-14,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-14,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-14,People's Party,33.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-11-14,People's Party,20.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-19,People's Party,29.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-21,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-21,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-28,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-01,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-05,People's Party,17.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-05,People's Party,28.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-05,People's Party,15.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-07,People's Party,33.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-15,People's Party,13.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-18,People's Party,15.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-19,People's Party,31.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14719,7 +14722,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-12-29,People's Party,32.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-03,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-05,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-01-09,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-10,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-10,People's Party,28.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-10,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14733,10 +14735,9 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-25,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-30,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-30,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-02-02,People's Party,18.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-02-06,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-06,People's Party,20.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-06,People's Party,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-02-06,People's Party,16.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-10,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-12,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-13,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14756,10 +14757,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,People's Party,16.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-06,People's Party,18.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-06,People's Party,19.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-03-06,People's Party,30.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-06,People's Party,15.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-12,People's Party,12.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-03-13,People's Party,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-20,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-21,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-23,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14769,7 +14768,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-26,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-27,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-31,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-04-03,People's Party,30.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-08,People's Party,30.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-09,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-10,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14789,9 +14787,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-05-15,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-15,People's Party,16.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-15,People's Party,17.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-05-18,People's Party,31.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-18,People's Party,18.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-05-19,People's Party,15.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-22,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-22,People's Party,34.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-22,People's Party,28.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14804,13 +14800,10 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-01,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-01,People's Party,15.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-01,People's Party,20.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-04,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-05,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-11,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-12,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-06-12,People's Party,18.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-06-18,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-06-18,People's Party,15.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-06-19,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-26,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-26,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-28,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14826,6 +14819,8 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-06,People's Party,15.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-06,People's Party,16.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-06,People's Party,16.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-07-06,People's Party,28.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-07-06,People's Party,18.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-09,People's Party,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-09,People's Party,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-17,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14834,7 +14829,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-20,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-20,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-20,People's Party,23.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-07-21,People's Party,18.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-08-01,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-08-04,People's Party,34.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-08-06,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14850,14 +14844,11 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-02,People's Party,20.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-03,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,People's Party,16.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-03,People's Party,17.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-04,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-08,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-10,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-10,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-11,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-18,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-21,People's Party,34.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-21,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -16068,6 +16059,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-10,Podemos,2.8,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-09-10,Podemos,1.4,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-09-11,Podemos,3.3,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
+2026-09-17,Podemos,1.9,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-09-18,Podemos,3.3,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-09-21,Podemos,3.7,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-09-21,Podemos,3.3,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
@@ -18207,6 +18199,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Republican Left of Catalonia,1.9,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-09-10,Republican Left of Catalonia,1.9,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-09-10,Republican Left of Catalonia,1.6,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
+2026-09-17,Republican Left of Catalonia,1.8,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-09-18,Republican Left of Catalonia,1.9,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-09-21,Republican Left of Catalonia,2.0,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-09-25,Republican Left of Catalonia,2.0,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
@@ -20108,6 +20101,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-10,Se Acabó La Fiesta,2.5,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-09-10,Se Acabó La Fiesta,1.3,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-09-11,Se Acabó La Fiesta,1.8,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
+2026-09-17,Se Acabó La Fiesta,0.9,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-09-18,Se Acabó La Fiesta,2.0,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-09-21,Se Acabó La Fiesta,1.0,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-09-21,Se Acabó La Fiesta,1.7,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
@@ -23318,6 +23312,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-10,Spanish Socialist Workers' Party,25.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-09-10,Spanish Socialist Workers' Party,21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-09-11,Spanish Socialist Workers' Party,26.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2026-09-17,Spanish Socialist Workers' Party,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-09-18,Spanish Socialist Workers' Party,25.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-09-21,Spanish Socialist Workers' Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-09-21,Spanish Socialist Workers' Party,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -24266,6 +24261,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-10,Sumar,6.9,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2026-09-10,Sumar,4.1,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2026-09-11,Sumar,6.1,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
+2026-09-17,Sumar,4.7,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2026-09-18,Sumar,6.8,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2026-09-21,Sumar,4.5,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2026-09-21,Sumar,6.4,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
@@ -25900,6 +25896,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Together for Catalonia,1.4,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-09-10,Together for Catalonia,1.1,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-09-10,Together for Catalonia,0.5,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
+2026-09-17,Together for Catalonia,0.5,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-09-18,Together for Catalonia,1.2,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-09-21,Together for Catalonia,1.5,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-09-25,Together for Catalonia,1.2,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
@@ -30050,7 +30047,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-06,Vox,18.5,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2025-11-07,Vox,18.9,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2025-11-08,Vox,16.9,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-2025-11-08,Vox,2.2,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2025-11-08,Vox,15.3,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2025-11-11,Vox,12.1,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2025-11-12,Vox,20.9,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
@@ -30245,6 +30241,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-10,Vox,18.9,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-09-10,Vox,11.7,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-09-11,Vox,18.6,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
+2026-09-17,Vox,10.7,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-09-18,Vox,19.1,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-09-21,Vox,17.3,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-09-21,Vox,17.8,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
