@@ -14,7 +14,7 @@
   "activeParties": [
     "Revival"
   ],
-  "latestSupport": 5.06,
+  "latestSupport": 5.2,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -924,6 +924,10 @@
       {
         "date": "2026-09-29",
         "value": 6.6
+      },
+      {
+        "date": "2026-10-02",
+        "value": 5.7
       }
     ],
     "United Patriots": [
@@ -12138,6 +12142,18 @@
       {
         "date": "2026-09-29",
         "value": 5.06
+      },
+      {
+        "date": "2026-09-30",
+        "value": 5.11
+      },
+      {
+        "date": "2026-10-01",
+        "value": 5.15
+      },
+      {
+        "date": "2026-10-02",
+        "value": 5.2
       }
     ],
     "United Patriots": [
@@ -36491,6 +36507,18 @@
     {
       "date": "2026-09-29",
       "value": 5.06
+    },
+    {
+      "date": "2026-09-30",
+      "value": 5.11
+    },
+    {
+      "date": "2026-10-01",
+      "value": 5.15
+    },
+    {
+      "date": "2026-10-02",
+      "value": 5.2
     }
   ],
   "activePartiesByDate": {
@@ -50220,9 +50248,18 @@
     ],
     "2026-09-29": [
       "Revival"
+    ],
+    "2026-09-30": [
+      "Revival"
+    ],
+    "2026-10-01": [
+      "Revival"
+    ],
+    "2026-10-02": [
+      "Revival"
     ]
   },
-  "latestUpdate": "2026-09-29",
+  "latestUpdate": "2026-10-02",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",
