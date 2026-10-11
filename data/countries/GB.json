@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.07,
+  "latestSupport": 27.27,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5159,6 +5159,10 @@
       },
       {
         "date": "2026-10-07",
+        "value": 23.0
+      },
+      {
+        "date": "2026-10-09",
         "value": 23.0
       }
     ],
@@ -24056,6 +24060,14 @@
       {
         "date": "2026-10-07",
         "value": 23.27
+      },
+      {
+        "date": "2026-10-08",
+        "value": 23.37
+      },
+      {
+        "date": "2026-10-09",
+        "value": 23.47
       }
     ],
     "Restore Britain": [
@@ -63091,6 +63103,14 @@
     {
       "date": "2026-10-07",
       "value": 23.27
+    },
+    {
+      "date": "2026-10-08",
+      "value": 23.37
+    },
+    {
+      "date": "2026-10-09",
+      "value": 23.47
     }
   ],
   "activePartiesByDate": {
@@ -81610,9 +81630,17 @@
     "2026-10-07": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-10-08": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-10-09": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-10-07",
+  "latestUpdate": "2026-10-09",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
