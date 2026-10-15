@@ -1359,8 +1359,16 @@
         "value": 1.0
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-07",
         "value": 2.0
+      },
+      {
+        "date": "2026-10-08",
+        "value": 2.0
+      },
+      {
+        "date": "2026-10-14",
+        "value": 1.0
       }
     ],
     "Rassemblement National": [
@@ -2729,8 +2737,16 @@
         "value": 32.0
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-07",
+        "value": 37.0
+      },
+      {
+        "date": "2026-10-08",
         "value": 35.0
+      },
+      {
+        "date": "2026-10-14",
+        "value": 32.0
       }
     ],
     "Reconquête": [
@@ -3375,8 +3391,16 @@
         "value": 4.0
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-07",
+        "value": 4.5
+      },
+      {
+        "date": "2026-10-08",
         "value": 5.0
+      },
+      {
+        "date": "2026-10-14",
+        "value": 3.0
       }
     ]
   },
@@ -23024,23 +23048,31 @@
       },
       {
         "date": "2026-10-08",
-        "value": 2.0
+        "value": 1.8
       },
       {
         "date": "2026-10-09",
-        "value": 2.0
+        "value": 1.77
       },
       {
         "date": "2026-10-10",
-        "value": 2.0
+        "value": 1.73
       },
       {
         "date": "2026-10-11",
-        "value": 2.0
+        "value": 1.7
       },
       {
         "date": "2026-10-12",
-        "value": 2.0
+        "value": 1.67
+      },
+      {
+        "date": "2026-10-13",
+        "value": 1.63
+      },
+      {
+        "date": "2026-10-14",
+        "value": 1.6
       }
     ],
     "Rassemblement National": [
@@ -42654,55 +42686,63 @@
       },
       {
         "date": "2026-09-30",
-        "value": 32.94
+        "value": 33.01
       },
       {
         "date": "2026-10-01",
-        "value": 32.98
+        "value": 33.12
       },
       {
         "date": "2026-10-02",
-        "value": 33.02
+        "value": 33.24
       },
       {
         "date": "2026-10-03",
-        "value": 33.05
+        "value": 33.35
       },
       {
         "date": "2026-10-04",
-        "value": 33.09
+        "value": 33.46
       },
       {
         "date": "2026-10-05",
-        "value": 33.13
+        "value": 33.57
       },
       {
         "date": "2026-10-06",
-        "value": 33.17
+        "value": 33.69
       },
       {
         "date": "2026-10-07",
-        "value": 33.21
+        "value": 33.8
       },
       {
         "date": "2026-10-08",
-        "value": 33.25
+        "value": 34.6
       },
       {
         "date": "2026-10-09",
-        "value": 33.28
+        "value": 34.53
       },
       {
         "date": "2026-10-10",
-        "value": 33.32
+        "value": 34.47
       },
       {
         "date": "2026-10-11",
-        "value": 33.36
+        "value": 34.4
       },
       {
         "date": "2026-10-12",
-        "value": 33.4
+        "value": 34.33
+      },
+      {
+        "date": "2026-10-13",
+        "value": 34.27
+      },
+      {
+        "date": "2026-10-14",
+        "value": 34.2
       }
     ],
     "Reconquête": [
@@ -50072,7 +50112,7 @@
       },
       {
         "date": "2026-09-30",
-        "value": 4.42
+        "value": 4.43
       },
       {
         "date": "2026-10-01",
@@ -50084,43 +50124,51 @@
       },
       {
         "date": "2026-10-03",
-        "value": 4.49
+        "value": 4.5
       },
       {
         "date": "2026-10-04",
-        "value": 4.52
+        "value": 4.53
       },
       {
         "date": "2026-10-05",
-        "value": 4.54
+        "value": 4.55
       },
       {
         "date": "2026-10-06",
-        "value": 4.56
+        "value": 4.57
       },
       {
         "date": "2026-10-07",
-        "value": 4.58
+        "value": 4.6
       },
       {
         "date": "2026-10-08",
-        "value": 4.61
+        "value": 4.9
       },
       {
         "date": "2026-10-09",
-        "value": 4.63
+        "value": 4.8
       },
       {
         "date": "2026-10-10",
-        "value": 4.65
+        "value": 4.7
       },
       {
         "date": "2026-10-11",
-        "value": 4.68
+        "value": 4.6
       },
       {
         "date": "2026-10-12",
-        "value": 4.7
+        "value": 4.5
+      },
+      {
+        "date": "2026-10-13",
+        "value": 4.4
+      },
+      {
+        "date": "2026-10-14",
+        "value": 4.3
       }
     ]
   },
@@ -70531,54 +70579,62 @@
     },
     {
       "date": "2026-09-30",
-      "value": 39.36
+      "value": 39.44
     },
     {
       "date": "2026-10-01",
-      "value": 39.43
+      "value": 39.57
     },
     {
       "date": "2026-10-02",
-      "value": 39.49
+      "value": 39.71
     },
     {
       "date": "2026-10-03",
-      "value": 39.54
+      "value": 39.85
     },
     {
       "date": "2026-10-04",
-      "value": 39.61
+      "value": 39.99
     },
     {
       "date": "2026-10-05",
-      "value": 39.67
+      "value": 40.12
     },
     {
       "date": "2026-10-06",
-      "value": 39.73
+      "value": 40.26
     },
     {
       "date": "2026-10-07",
-      "value": 39.79
+      "value": 40.4
     },
     {
       "date": "2026-10-08",
-      "value": 39.86
+      "value": 41.3
     },
     {
       "date": "2026-10-09",
-      "value": 39.91
+      "value": 41.1
     },
     {
       "date": "2026-10-10",
-      "value": 39.97
+      "value": 40.9
     },
     {
       "date": "2026-10-11",
-      "value": 40.04
+      "value": 40.7
     },
     {
       "date": "2026-10-12",
+      "value": 40.5
+    },
+    {
+      "date": "2026-10-13",
+      "value": 40.3
+    },
+    {
+      "date": "2026-10-14",
       "value": 40.1
     }
   ],
@@ -92908,9 +92964,19 @@
       "Debout la France",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-10-13": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-10-14": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-10-12",
+  "latestUpdate": "2026-10-14",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
