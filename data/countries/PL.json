@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 40.92,
+  "latestSupport": 42.7,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3928,6 +3928,10 @@
       {
         "date": "2026-10-08",
         "value": 12.8
+      },
+      {
+        "date": "2026-10-13",
+        "value": 11.8
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4490,6 +4494,10 @@
       {
         "date": "2026-10-08",
         "value": 7.3
+      },
+      {
+        "date": "2026-10-13",
+        "value": 11.31
       }
     ],
     "Law and Justice": [
@@ -6552,6 +6560,10 @@
       {
         "date": "2026-10-08",
         "value": 18.2
+      },
+      {
+        "date": "2026-10-13",
+        "value": 25.03
       }
     ],
     "New Hope": [
@@ -20746,6 +20758,26 @@
       {
         "date": "2026-10-08",
         "value": 13.16
+      },
+      {
+        "date": "2026-10-09",
+        "value": 13.18
+      },
+      {
+        "date": "2026-10-10",
+        "value": 13.21
+      },
+      {
+        "date": "2026-10-11",
+        "value": 13.23
+      },
+      {
+        "date": "2026-10-12",
+        "value": 13.26
+      },
+      {
+        "date": "2026-10-13",
+        "value": 13.28
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22684,6 +22716,26 @@
       {
         "date": "2026-10-08",
         "value": 8.07
+      },
+      {
+        "date": "2026-10-09",
+        "value": 8.17
+      },
+      {
+        "date": "2026-10-10",
+        "value": 8.27
+      },
+      {
+        "date": "2026-10-11",
+        "value": 8.37
+      },
+      {
+        "date": "2026-10-12",
+        "value": 8.47
+      },
+      {
+        "date": "2026-10-13",
+        "value": 8.57
       }
     ],
     "Law and Justice": [
@@ -38506,6 +38558,26 @@
       {
         "date": "2026-10-08",
         "value": 19.69
+      },
+      {
+        "date": "2026-10-09",
+        "value": 19.92
+      },
+      {
+        "date": "2026-10-10",
+        "value": 20.15
+      },
+      {
+        "date": "2026-10-11",
+        "value": 20.39
+      },
+      {
+        "date": "2026-10-12",
+        "value": 20.62
+      },
+      {
+        "date": "2026-10-13",
+        "value": 20.85
       }
     ],
     "New Hope": [
@@ -66679,6 +66751,26 @@
     {
       "date": "2026-10-08",
       "value": 40.92
+    },
+    {
+      "date": "2026-10-09",
+      "value": 41.27
+    },
+    {
+      "date": "2026-10-10",
+      "value": 41.63
+    },
+    {
+      "date": "2026-10-11",
+      "value": 41.99
+    },
+    {
+      "date": "2026-10-12",
+      "value": 42.35
+    },
+    {
+      "date": "2026-10-13",
+      "value": 42.7
     }
   ],
   "activePartiesByDate": {
@@ -83383,9 +83475,34 @@
       "Confederation Liberty and Independence",
       "Confederation of the Polish Crown",
       "Law and Justice"
+    ],
+    "2026-10-09": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-10-10": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-10-11": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-10-12": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
+    ],
+    "2026-10-13": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
     ]
   },
-  "latestUpdate": "2026-10-08",
+  "latestUpdate": "2026-10-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",

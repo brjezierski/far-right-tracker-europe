@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 40.1,
+  "latestSupport": 40.77,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1368,7 +1368,7 @@
       },
       {
         "date": "2026-10-14",
-        "value": 1.0
+        "value": 1.33
       }
     ],
     "Rassemblement National": [
@@ -2746,7 +2746,7 @@
       },
       {
         "date": "2026-10-14",
-        "value": 32.0
+        "value": 34.0
       }
     ],
     "Reconquête": [
@@ -3400,7 +3400,7 @@
       },
       {
         "date": "2026-10-14",
-        "value": 3.0
+        "value": 4.0
       }
     ]
   },
@@ -23052,27 +23052,27 @@
       },
       {
         "date": "2026-10-09",
-        "value": 1.77
+        "value": 1.78
       },
       {
         "date": "2026-10-10",
-        "value": 1.73
+        "value": 1.76
       },
       {
         "date": "2026-10-11",
-        "value": 1.7
+        "value": 1.73
       },
       {
         "date": "2026-10-12",
-        "value": 1.67
+        "value": 1.71
       },
       {
         "date": "2026-10-13",
-        "value": 1.63
+        "value": 1.69
       },
       {
         "date": "2026-10-14",
-        "value": 1.6
+        "value": 1.67
       }
     ],
     "Rassemblement National": [
@@ -42722,27 +42722,27 @@
       },
       {
         "date": "2026-10-09",
-        "value": 34.53
+        "value": 34.6
       },
       {
         "date": "2026-10-10",
-        "value": 34.47
+        "value": 34.6
       },
       {
         "date": "2026-10-11",
-        "value": 34.4
+        "value": 34.6
       },
       {
         "date": "2026-10-12",
-        "value": 34.33
+        "value": 34.6
       },
       {
         "date": "2026-10-13",
-        "value": 34.27
+        "value": 34.6
       },
       {
         "date": "2026-10-14",
-        "value": 34.2
+        "value": 34.6
       }
     ],
     "Reconquête": [
@@ -50148,27 +50148,27 @@
       },
       {
         "date": "2026-10-09",
-        "value": 4.8
+        "value": 4.83
       },
       {
         "date": "2026-10-10",
-        "value": 4.7
+        "value": 4.77
       },
       {
         "date": "2026-10-11",
-        "value": 4.6
+        "value": 4.7
       },
       {
         "date": "2026-10-12",
-        "value": 4.5
+        "value": 4.63
       },
       {
         "date": "2026-10-13",
-        "value": 4.4
+        "value": 4.57
       },
       {
         "date": "2026-10-14",
-        "value": 4.3
+        "value": 4.5
       }
     ]
   },
@@ -70615,27 +70615,27 @@
     },
     {
       "date": "2026-10-09",
-      "value": 41.1
+      "value": 41.21
     },
     {
       "date": "2026-10-10",
-      "value": 40.9
+      "value": 41.13
     },
     {
       "date": "2026-10-11",
-      "value": 40.7
+      "value": 41.03
     },
     {
       "date": "2026-10-12",
-      "value": 40.5
+      "value": 40.94
     },
     {
       "date": "2026-10-13",
-      "value": 40.3
+      "value": 40.86
     },
     {
       "date": "2026-10-14",
-      "value": 40.1
+      "value": 40.77
     }
   ],
   "activePartiesByDate": {
