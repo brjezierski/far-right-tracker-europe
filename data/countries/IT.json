@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 40.75,
+  "latestSupport": 40.839999999999996,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10268,6 +10268,10 @@
       {
         "date": "2026-10-14",
         "value": 27.5
+      },
+      {
+        "date": "2026-10-15",
+        "value": 27.65
       }
     ],
     "CasaPound": [
@@ -18362,6 +18366,10 @@
       {
         "date": "2026-10-14",
         "value": 5.8
+      },
+      {
+        "date": "2026-10-15",
+        "value": 5.65
       }
     ],
     "Lega Nord": [
@@ -22746,6 +22754,10 @@
       {
         "date": "2026-10-14",
         "value": 7.3
+      },
+      {
+        "date": "2026-10-15",
+        "value": 7.05
       }
     ]
   },
@@ -42630,6 +42642,10 @@
       {
         "date": "2026-10-14",
         "value": 27.55
+      },
+      {
+        "date": "2026-10-15",
+        "value": 27.72
       }
     ],
     "CasaPound": [
@@ -58464,6 +58480,10 @@
       {
         "date": "2026-10-14",
         "value": 5.7
+      },
+      {
+        "date": "2026-10-15",
+        "value": 5.61
       }
     ],
     "Lega Nord": [
@@ -66852,6 +66872,10 @@
       {
         "date": "2026-10-14",
         "value": 7.5
+      },
+      {
+        "date": "2026-10-15",
+        "value": 7.51
       }
     ]
   },
@@ -86775,6 +86799,10 @@
     {
       "date": "2026-10-14",
       "value": 40.75
+    },
+    {
+      "date": "2026-10-15",
+      "value": 40.84
     }
   ],
   "activePartiesByDate": {
@@ -107860,9 +107888,14 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-10-15": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-10-14",
+  "latestUpdate": "2026-10-15",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
