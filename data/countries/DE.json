@@ -7,7 +7,7 @@
   "activeParties": [
     "Alternative for Germany"
   ],
-  "latestSupport": 29.0,
+  "latestSupport": 28.75,
   "datapointsByParty": {
     "Alternative for Germany": [
       {
@@ -9860,7 +9860,7 @@
       },
       {
         "date": "2026-10-19",
-        "value": 30.0
+        "value": 28.75
       }
     ]
   },
@@ -28892,15 +28892,15 @@
       },
       {
         "date": "2026-10-17",
-        "value": 28.87
+        "value": 28.78
       },
       {
         "date": "2026-10-18",
-        "value": 28.93
+        "value": 28.77
       },
       {
         "date": "2026-10-19",
-        "value": 29.0
+        "value": 28.75
       }
     ]
   },
@@ -47983,15 +47983,15 @@
     },
     {
       "date": "2026-10-17",
-      "value": 28.87
+      "value": 28.78
     },
     {
       "date": "2026-10-18",
-      "value": 28.93
+      "value": 28.77
     },
     {
       "date": "2026-10-19",
-      "value": 29.0
+      "value": 28.75
     }
   ],
   "activePartiesByDate": {
