@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.099999999999998,
+  "latestSupport": 27.229999999999997,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5179,7 +5179,7 @@
       },
       {
         "date": "2026-10-19",
-        "value": 23.0
+        "value": 22.67
       }
     ],
     "Restore Britain": [
@@ -5569,7 +5569,7 @@
       },
       {
         "date": "2026-10-19",
-        "value": 3.0
+        "value": 4.0
       }
     ],
     "UK Independence Party": [
@@ -24123,23 +24123,23 @@
       },
       {
         "date": "2026-10-15",
-        "value": 22.4
+        "value": 22.39
       },
       {
         "date": "2026-10-16",
-        "value": 22.4
+        "value": 22.37
       },
       {
         "date": "2026-10-17",
-        "value": 22.4
+        "value": 22.36
       },
       {
         "date": "2026-10-18",
-        "value": 22.4
+        "value": 22.34
       },
       {
         "date": "2026-10-19",
-        "value": 22.4
+        "value": 22.33
       }
     ],
     "Restore Britain": [
@@ -25249,23 +25249,23 @@
       },
       {
         "date": "2026-10-15",
-        "value": 4.86
+        "value": 4.9
       },
       {
         "date": "2026-10-16",
-        "value": 4.82
+        "value": 4.9
       },
       {
         "date": "2026-10-17",
-        "value": 4.78
+        "value": 4.9
       },
       {
         "date": "2026-10-18",
-        "value": 4.74
+        "value": 4.9
       },
       {
         "date": "2026-10-19",
-        "value": 4.7
+        "value": 4.9
       }
     ],
     "UK Independence Party": [
@@ -63262,23 +63262,23 @@
     },
     {
       "date": "2026-10-15",
-      "value": 27.26
+      "value": 27.29
     },
     {
       "date": "2026-10-16",
-      "value": 27.22
+      "value": 27.27
     },
     {
       "date": "2026-10-17",
-      "value": 27.18
+      "value": 27.26
     },
     {
       "date": "2026-10-18",
-      "value": 27.14
+      "value": 27.24
     },
     {
       "date": "2026-10-19",
-      "value": 27.1
+      "value": 27.23
     }
   ],
   "activePartiesByDate": {

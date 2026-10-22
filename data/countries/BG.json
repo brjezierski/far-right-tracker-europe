@@ -14,7 +14,7 @@
   "activeParties": [
     "Revival"
   ],
-  "latestSupport": 5.2,
+  "latestSupport": 5.38,
   "datapointsByParty": {
     "Bulgarian Patriots": [
       {
@@ -928,6 +928,10 @@
       {
         "date": "2026-10-02",
         "value": 5.7
+      },
+      {
+        "date": "2026-10-19",
+        "value": 5.1
       }
     ],
     "United Patriots": [
@@ -12154,6 +12158,74 @@
       {
         "date": "2026-10-02",
         "value": 5.2
+      },
+      {
+        "date": "2026-10-03",
+        "value": 5.21
+      },
+      {
+        "date": "2026-10-04",
+        "value": 5.22
+      },
+      {
+        "date": "2026-10-05",
+        "value": 5.23
+      },
+      {
+        "date": "2026-10-06",
+        "value": 5.24
+      },
+      {
+        "date": "2026-10-07",
+        "value": 5.25
+      },
+      {
+        "date": "2026-10-08",
+        "value": 5.26
+      },
+      {
+        "date": "2026-10-09",
+        "value": 5.27
+      },
+      {
+        "date": "2026-10-10",
+        "value": 5.28
+      },
+      {
+        "date": "2026-10-11",
+        "value": 5.3
+      },
+      {
+        "date": "2026-10-12",
+        "value": 5.31
+      },
+      {
+        "date": "2026-10-13",
+        "value": 5.32
+      },
+      {
+        "date": "2026-10-14",
+        "value": 5.33
+      },
+      {
+        "date": "2026-10-15",
+        "value": 5.34
+      },
+      {
+        "date": "2026-10-16",
+        "value": 5.35
+      },
+      {
+        "date": "2026-10-17",
+        "value": 5.36
+      },
+      {
+        "date": "2026-10-18",
+        "value": 5.37
+      },
+      {
+        "date": "2026-10-19",
+        "value": 5.38
       }
     ],
     "United Patriots": [
@@ -36519,6 +36591,74 @@
     {
       "date": "2026-10-02",
       "value": 5.2
+    },
+    {
+      "date": "2026-10-03",
+      "value": 5.21
+    },
+    {
+      "date": "2026-10-04",
+      "value": 5.22
+    },
+    {
+      "date": "2026-10-05",
+      "value": 5.23
+    },
+    {
+      "date": "2026-10-06",
+      "value": 5.24
+    },
+    {
+      "date": "2026-10-07",
+      "value": 5.25
+    },
+    {
+      "date": "2026-10-08",
+      "value": 5.26
+    },
+    {
+      "date": "2026-10-09",
+      "value": 5.27
+    },
+    {
+      "date": "2026-10-10",
+      "value": 5.28
+    },
+    {
+      "date": "2026-10-11",
+      "value": 5.3
+    },
+    {
+      "date": "2026-10-12",
+      "value": 5.31
+    },
+    {
+      "date": "2026-10-13",
+      "value": 5.32
+    },
+    {
+      "date": "2026-10-14",
+      "value": 5.33
+    },
+    {
+      "date": "2026-10-15",
+      "value": 5.34
+    },
+    {
+      "date": "2026-10-16",
+      "value": 5.35
+    },
+    {
+      "date": "2026-10-17",
+      "value": 5.36
+    },
+    {
+      "date": "2026-10-18",
+      "value": 5.37
+    },
+    {
+      "date": "2026-10-19",
+      "value": 5.38
     }
   ],
   "activePartiesByDate": {
@@ -50257,9 +50397,60 @@
     ],
     "2026-10-02": [
       "Revival"
+    ],
+    "2026-10-03": [
+      "Revival"
+    ],
+    "2026-10-04": [
+      "Revival"
+    ],
+    "2026-10-05": [
+      "Revival"
+    ],
+    "2026-10-06": [
+      "Revival"
+    ],
+    "2026-10-07": [
+      "Revival"
+    ],
+    "2026-10-08": [
+      "Revival"
+    ],
+    "2026-10-09": [
+      "Revival"
+    ],
+    "2026-10-10": [
+      "Revival"
+    ],
+    "2026-10-11": [
+      "Revival"
+    ],
+    "2026-10-12": [
+      "Revival"
+    ],
+    "2026-10-13": [
+      "Revival"
+    ],
+    "2026-10-14": [
+      "Revival"
+    ],
+    "2026-10-15": [
+      "Revival"
+    ],
+    "2026-10-16": [
+      "Revival"
+    ],
+    "2026-10-17": [
+      "Revival"
+    ],
+    "2026-10-18": [
+      "Revival"
+    ],
+    "2026-10-19": [
+      "Revival"
     ]
   },
-  "latestUpdate": "2026-10-02",
+  "latestUpdate": "2026-10-19",
   "sources": [
     "https://en.wikipedia.org/wiki/2017_Bulgarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/April_2021_Bulgarian_parliamentary_election",
