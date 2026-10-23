@@ -9,7 +9,7 @@
     "Slovenian Democratic Party",
     "Slovenian National Party"
   ],
-  "latestSupport": 30.880000000000003,
+  "latestSupport": 30.78,
   "datapointsByParty": {
     "Slovenian Democratic Party": [
       {
@@ -1287,6 +1287,10 @@
       {
         "date": "2026-10-08",
         "value": 27.0
+      },
+      {
+        "date": "2026-10-14",
+        "value": 28.5
       }
     ],
     "Slovenian National Party": [
@@ -2317,6 +2321,10 @@
       {
         "date": "2026-10-08",
         "value": 3.4
+      },
+      {
+        "date": "2026-10-14",
+        "value": 1.8
       }
     ]
   },
@@ -19853,6 +19861,30 @@
       {
         "date": "2026-10-08",
         "value": 28.6
+      },
+      {
+        "date": "2026-10-09",
+        "value": 28.58
+      },
+      {
+        "date": "2026-10-10",
+        "value": 28.56
+      },
+      {
+        "date": "2026-10-11",
+        "value": 28.54
+      },
+      {
+        "date": "2026-10-12",
+        "value": 28.52
+      },
+      {
+        "date": "2026-10-13",
+        "value": 28.5
+      },
+      {
+        "date": "2026-10-14",
+        "value": 28.48
       }
     ],
     "Slovenian National Party": [
@@ -37219,6 +37251,30 @@
       {
         "date": "2026-10-08",
         "value": 2.28
+      },
+      {
+        "date": "2026-10-09",
+        "value": 2.28
+      },
+      {
+        "date": "2026-10-10",
+        "value": 2.29
+      },
+      {
+        "date": "2026-10-11",
+        "value": 2.29
+      },
+      {
+        "date": "2026-10-12",
+        "value": 2.29
+      },
+      {
+        "date": "2026-10-13",
+        "value": 2.3
+      },
+      {
+        "date": "2026-10-14",
+        "value": 2.3
       }
     ]
   },
@@ -55106,6 +55162,30 @@
     {
       "date": "2026-10-08",
       "value": 30.88
+    },
+    {
+      "date": "2026-10-09",
+      "value": 30.86
+    },
+    {
+      "date": "2026-10-10",
+      "value": 30.85
+    },
+    {
+      "date": "2026-10-11",
+      "value": 30.83
+    },
+    {
+      "date": "2026-10-12",
+      "value": 30.81
+    },
+    {
+      "date": "2026-10-13",
+      "value": 30.8
+    },
+    {
+      "date": "2026-10-14",
+      "value": 30.78
     }
   ],
   "activePartiesByDate": {
@@ -72961,9 +73041,33 @@
     "2026-10-08": [
       "Slovenian Democratic Party",
       "Slovenian National Party"
+    ],
+    "2026-10-09": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-10-10": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-10-11": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-10-12": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-10-13": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
+    ],
+    "2026-10-14": [
+      "Slovenian Democratic Party",
+      "Slovenian National Party"
     ]
   },
-  "latestUpdate": "2026-10-08",
+  "latestUpdate": "2026-10-14",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Slovenian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Slovenian_parliamentary_election",

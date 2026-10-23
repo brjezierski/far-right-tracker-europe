@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 27.229999999999997,
+  "latestSupport": 27.0,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5171,7 +5171,7 @@
       },
       {
         "date": "2026-10-12",
-        "value": 21.0
+        "value": 21.33
       },
       {
         "date": "2026-10-14",
@@ -5180,6 +5180,10 @@
       {
         "date": "2026-10-19",
         "value": 22.67
+      },
+      {
+        "date": "2026-10-22",
+        "value": 20.0
       }
     ],
     "Restore Britain": [
@@ -5561,7 +5565,7 @@
       },
       {
         "date": "2026-10-12",
-        "value": 3.5
+        "value": 5.0
       },
       {
         "date": "2026-10-14",
@@ -24111,35 +24115,47 @@
       },
       {
         "date": "2026-10-12",
-        "value": 22.67
+        "value": 22.73
       },
       {
         "date": "2026-10-13",
-        "value": 22.54
+        "value": 22.6
       },
       {
         "date": "2026-10-14",
-        "value": 22.4
+        "value": 22.47
       },
       {
         "date": "2026-10-15",
-        "value": 22.39
+        "value": 22.46
       },
       {
         "date": "2026-10-16",
-        "value": 22.37
+        "value": 22.44
       },
       {
         "date": "2026-10-17",
-        "value": 22.36
+        "value": 22.43
       },
       {
         "date": "2026-10-18",
-        "value": 22.34
+        "value": 22.41
       },
       {
         "date": "2026-10-19",
-        "value": 22.33
+        "value": 22.4
+      },
+      {
+        "date": "2026-10-20",
+        "value": 22.2
+      },
+      {
+        "date": "2026-10-21",
+        "value": 22.0
+      },
+      {
+        "date": "2026-10-22",
+        "value": 21.8
       }
     ],
     "Restore Britain": [
@@ -25213,59 +25229,59 @@
       },
       {
         "date": "2026-10-06",
-        "value": 4.9
+        "value": 4.94
       },
       {
         "date": "2026-10-07",
-        "value": 4.8
+        "value": 4.89
       },
       {
         "date": "2026-10-08",
-        "value": 4.7
+        "value": 4.83
       },
       {
         "date": "2026-10-09",
-        "value": 4.6
+        "value": 4.77
       },
       {
         "date": "2026-10-10",
-        "value": 4.5
+        "value": 4.71
       },
       {
         "date": "2026-10-11",
-        "value": 4.4
+        "value": 4.66
       },
       {
         "date": "2026-10-12",
-        "value": 4.3
-      },
-      {
-        "date": "2026-10-13",
         "value": 4.6
       },
       {
-        "date": "2026-10-14",
+        "date": "2026-10-13",
         "value": 4.9
+      },
+      {
+        "date": "2026-10-14",
+        "value": 5.2
       },
       {
         "date": "2026-10-15",
-        "value": 4.9
+        "value": 5.2
       },
       {
         "date": "2026-10-16",
-        "value": 4.9
+        "value": 5.2
       },
       {
         "date": "2026-10-17",
-        "value": 4.9
+        "value": 5.2
       },
       {
         "date": "2026-10-18",
-        "value": 4.9
+        "value": 5.2
       },
       {
         "date": "2026-10-19",
-        "value": 4.9
+        "value": 5.2
       }
     ],
     "UK Independence Party": [
@@ -63226,23 +63242,23 @@
     },
     {
       "date": "2026-10-06",
-      "value": 27.67
+      "value": 27.71
     },
     {
       "date": "2026-10-07",
-      "value": 27.67
+      "value": 27.76
     },
     {
       "date": "2026-10-08",
-      "value": 27.67
+      "value": 27.8
     },
     {
       "date": "2026-10-09",
-      "value": 27.67
+      "value": 27.84
     },
     {
       "date": "2026-10-10",
-      "value": 27.57
+      "value": 27.78
     },
     {
       "date": "2026-10-11",
@@ -63250,35 +63266,47 @@
     },
     {
       "date": "2026-10-12",
-      "value": 26.97
+      "value": 27.33
     },
     {
       "date": "2026-10-13",
-      "value": 27.14
+      "value": 27.5
     },
     {
       "date": "2026-10-14",
-      "value": 27.3
+      "value": 27.67
     },
     {
       "date": "2026-10-15",
-      "value": 27.29
+      "value": 27.66
     },
     {
       "date": "2026-10-16",
-      "value": 27.27
+      "value": 27.64
     },
     {
       "date": "2026-10-17",
-      "value": 27.26
+      "value": 27.63
     },
     {
       "date": "2026-10-18",
-      "value": 27.24
+      "value": 27.61
     },
     {
       "date": "2026-10-19",
-      "value": 27.23
+      "value": 27.6
+    },
+    {
+      "date": "2026-10-20",
+      "value": 22.2
+    },
+    {
+      "date": "2026-10-21",
+      "value": 22.0
+    },
+    {
+      "date": "2026-10-22",
+      "value": 21.8
     }
   ],
   "activePartiesByDate": {
@@ -81845,9 +81873,21 @@
     "2026-10-19": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-10-20": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-10-21": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-10-22": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-10-19",
+  "latestUpdate": "2026-10-22",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
