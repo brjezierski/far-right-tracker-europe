@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 27.46,
+  "latestSupport": 27.85,
   "datapointsByParty": {
     "Chega": [
       {
@@ -1272,7 +1272,7 @@
       },
       {
         "date": "2026-10-12",
-        "value": 24.0
+        "value": 25.95
       }
     ]
   },
@@ -13836,23 +13836,23 @@
       },
       {
         "date": "2026-10-08",
-        "value": 27.99
+        "value": 28.07
       },
       {
         "date": "2026-10-09",
-        "value": 27.86
+        "value": 28.01
       },
       {
         "date": "2026-10-10",
-        "value": 27.72
+        "value": 27.96
       },
       {
         "date": "2026-10-11",
-        "value": 27.59
+        "value": 27.9
       },
       {
         "date": "2026-10-12",
-        "value": 27.46
+        "value": 27.85
       }
     ]
   },
@@ -26747,23 +26747,23 @@
     },
     {
       "date": "2026-10-08",
-      "value": 27.99
+      "value": 28.07
     },
     {
       "date": "2026-10-09",
-      "value": 27.86
+      "value": 28.01
     },
     {
       "date": "2026-10-10",
-      "value": 27.72
+      "value": 27.96
     },
     {
       "date": "2026-10-11",
-      "value": 27.59
+      "value": 27.9
     },
     {
       "date": "2026-10-12",
-      "value": 27.46
+      "value": 27.85
     }
   ],
   "activePartiesByDate": {
