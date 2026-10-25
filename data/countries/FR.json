@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 39.8,
+  "latestSupport": 39.650000000000006,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1388,7 +1388,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 1.0
+        "value": 1.25
       }
     ],
     "Rassemblement National": [
@@ -2786,7 +2786,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 36.0
+        "value": 34.75
       }
     ],
     "Reconquête": [
@@ -3460,7 +3460,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 4.0
+        "value": 4.25
       }
     ]
   },
@@ -23164,7 +23164,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 1.8
+        "value": 1.85
       }
     ],
     "Rassemblement National": [
@@ -42866,7 +42866,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 34.2
+        "value": 33.95
       }
     ],
     "Reconquête": [
@@ -50324,7 +50324,7 @@
       },
       {
         "date": "2026-10-22",
-        "value": 3.8
+        "value": 3.85
       }
     ]
   },
@@ -70823,7 +70823,7 @@
     },
     {
       "date": "2026-10-22",
-      "value": 39.8
+      "value": 39.65
     }
   ],
   "activePartiesByDate": {
