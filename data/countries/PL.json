@@ -14,7 +14,7 @@
     "Confederation of the Polish Crown",
     "Law and Justice"
   ],
-  "latestSupport": 44.19,
+  "latestSupport": 43.36,
   "datapointsByParty": {
     "Confederation Liberty and Independence": [
       {
@@ -3948,6 +3948,10 @@
       {
         "date": "2026-10-21",
         "value": 12.18
+      },
+      {
+        "date": "2026-10-22",
+        "value": 10.0
       }
     ],
     "Confederation of the Polish Crown": [
@@ -4530,6 +4534,10 @@
       {
         "date": "2026-10-21",
         "value": 8.03
+      },
+      {
+        "date": "2026-10-22",
+        "value": 8.0
       }
     ],
     "Law and Justice": [
@@ -6612,6 +6620,10 @@
       {
         "date": "2026-10-21",
         "value": 22.06
+      },
+      {
+        "date": "2026-10-22",
+        "value": 26.0
       }
     ],
     "New Hope": [
@@ -20858,6 +20870,10 @@
       {
         "date": "2026-10-21",
         "value": 12.62
+      },
+      {
+        "date": "2026-10-22",
+        "value": 12.26
       }
     ],
     "Confederation of the Polish Crown": [
@@ -22848,6 +22864,10 @@
       {
         "date": "2026-10-21",
         "value": 9.61
+      },
+      {
+        "date": "2026-10-22",
+        "value": 8.95
       }
     ],
     "Law and Justice": [
@@ -38722,6 +38742,10 @@
       {
         "date": "2026-10-21",
         "value": 21.96
+      },
+      {
+        "date": "2026-10-22",
+        "value": 22.15
       }
     ],
     "New Hope": [
@@ -66947,6 +66971,10 @@
     {
       "date": "2026-10-21",
       "value": 44.19
+    },
+    {
+      "date": "2026-10-22",
+      "value": 43.36
     }
   ],
   "activePartiesByDate": {
@@ -83716,9 +83744,14 @@
       "Confederation Liberty and Independence",
       "Confederation of the Polish Crown",
       "Law and Justice"
+    ],
+    "2026-10-22": [
+      "Confederation Liberty and Independence",
+      "Confederation of the Polish Crown",
+      "Law and Justice"
     ]
   },
-  "latestUpdate": "2026-10-21",
+  "latestUpdate": "2026-10-22",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Polish_parliamentary_election",
