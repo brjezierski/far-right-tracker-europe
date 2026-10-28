@@ -15,7 +15,7 @@
     "Homeland Movement",
     "The Bridge"
   ],
-  "latestSupport": 13.68,
+  "latestSupport": 13.82,
   "datapointsByParty": {
     "Croatian Growth": [
       {
@@ -499,6 +499,10 @@
       {
         "date": "2026-09-22",
         "value": 0.3
+      },
+      {
+        "date": "2026-10-27",
+        "value": 1.2
       }
     ],
     "Home and National Rally": [
@@ -673,6 +677,10 @@
       {
         "date": "2026-10-11",
         "value": 1.5
+      },
+      {
+        "date": "2026-10-27",
+        "value": 1.7
       }
     ],
     "Homeland Movement": [
@@ -1591,6 +1599,10 @@
       {
         "date": "2026-10-11",
         "value": 1.8
+      },
+      {
+        "date": "2026-10-27",
+        "value": 2.2
       }
     ],
     "Independents for Croatia": [
@@ -3263,6 +3275,10 @@
       {
         "date": "2026-10-11",
         "value": 9.8
+      },
+      {
+        "date": "2026-10-27",
+        "value": 10.1
       }
     ]
   },
@@ -13605,6 +13621,146 @@
       {
         "date": "2026-09-22",
         "value": 0.74
+      },
+      {
+        "date": "2026-09-23",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-24",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-25",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-26",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-27",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-28",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-29",
+        "value": 0.74
+      },
+      {
+        "date": "2026-09-30",
+        "value": 0.74
+      },
+      {
+        "date": "2026-10-01",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-02",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-03",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-04",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-05",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-06",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-07",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-08",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-09",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-10",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-11",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-12",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-13",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-14",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-15",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-16",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-17",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-18",
+        "value": 0.75
+      },
+      {
+        "date": "2026-10-19",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-20",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-21",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-22",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-23",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-24",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-25",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-26",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-27",
+        "value": 0.76
       }
     ],
     "Home and National Rally": [
@@ -16319,6 +16475,70 @@
       {
         "date": "2026-10-11",
         "value": 1.34
+      },
+      {
+        "date": "2026-10-12",
+        "value": 1.34
+      },
+      {
+        "date": "2026-10-13",
+        "value": 1.34
+      },
+      {
+        "date": "2026-10-14",
+        "value": 1.34
+      },
+      {
+        "date": "2026-10-15",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-16",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-17",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-18",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-19",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-20",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-21",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-22",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-23",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-24",
+        "value": 1.32
+      },
+      {
+        "date": "2026-10-25",
+        "value": 1.32
+      },
+      {
+        "date": "2026-10-26",
+        "value": 1.32
+      },
+      {
+        "date": "2026-10-27",
+        "value": 1.32
       }
     ],
     "Homeland Movement": [
@@ -26021,6 +26241,70 @@
       {
         "date": "2026-10-11",
         "value": 2.24
+      },
+      {
+        "date": "2026-10-12",
+        "value": 2.24
+      },
+      {
+        "date": "2026-10-13",
+        "value": 2.23
+      },
+      {
+        "date": "2026-10-14",
+        "value": 2.23
+      },
+      {
+        "date": "2026-10-15",
+        "value": 2.22
+      },
+      {
+        "date": "2026-10-16",
+        "value": 2.22
+      },
+      {
+        "date": "2026-10-17",
+        "value": 2.21
+      },
+      {
+        "date": "2026-10-18",
+        "value": 2.21
+      },
+      {
+        "date": "2026-10-19",
+        "value": 2.2
+      },
+      {
+        "date": "2026-10-20",
+        "value": 2.2
+      },
+      {
+        "date": "2026-10-21",
+        "value": 2.19
+      },
+      {
+        "date": "2026-10-22",
+        "value": 2.19
+      },
+      {
+        "date": "2026-10-23",
+        "value": 2.18
+      },
+      {
+        "date": "2026-10-24",
+        "value": 2.18
+      },
+      {
+        "date": "2026-10-25",
+        "value": 2.17
+      },
+      {
+        "date": "2026-10-26",
+        "value": 2.17
+      },
+      {
+        "date": "2026-10-27",
+        "value": 2.16
       }
     ],
     "Independents for Croatia": [
@@ -44213,6 +44497,70 @@
       {
         "date": "2026-10-11",
         "value": 9.36
+      },
+      {
+        "date": "2026-10-12",
+        "value": 9.37
+      },
+      {
+        "date": "2026-10-13",
+        "value": 9.39
+      },
+      {
+        "date": "2026-10-14",
+        "value": 9.4
+      },
+      {
+        "date": "2026-10-15",
+        "value": 9.41
+      },
+      {
+        "date": "2026-10-16",
+        "value": 9.43
+      },
+      {
+        "date": "2026-10-17",
+        "value": 9.44
+      },
+      {
+        "date": "2026-10-18",
+        "value": 9.46
+      },
+      {
+        "date": "2026-10-19",
+        "value": 9.47
+      },
+      {
+        "date": "2026-10-20",
+        "value": 9.48
+      },
+      {
+        "date": "2026-10-21",
+        "value": 9.5
+      },
+      {
+        "date": "2026-10-22",
+        "value": 9.51
+      },
+      {
+        "date": "2026-10-23",
+        "value": 9.53
+      },
+      {
+        "date": "2026-10-24",
+        "value": 9.54
+      },
+      {
+        "date": "2026-10-25",
+        "value": 9.55
+      },
+      {
+        "date": "2026-10-26",
+        "value": 9.57
+      },
+      {
+        "date": "2026-10-27",
+        "value": 9.58
       }
     ]
   },
@@ -58875,79 +59223,143 @@
     },
     {
       "date": "2026-09-23",
-      "value": 12.52
+      "value": 13.26
     },
     {
       "date": "2026-09-24",
-      "value": 12.54
+      "value": 13.28
     },
     {
       "date": "2026-09-25",
-      "value": 12.57
+      "value": 13.31
     },
     {
       "date": "2026-09-26",
-      "value": 12.6
+      "value": 13.34
     },
     {
       "date": "2026-09-27",
-      "value": 12.61
+      "value": 13.35
     },
     {
       "date": "2026-09-28",
-      "value": 12.64
+      "value": 13.38
     },
     {
       "date": "2026-09-29",
-      "value": 12.66
+      "value": 13.4
     },
     {
       "date": "2026-09-30",
-      "value": 12.68
+      "value": 13.42
     },
     {
       "date": "2026-10-01",
-      "value": 12.71
+      "value": 13.46
     },
     {
       "date": "2026-10-02",
-      "value": 12.73
+      "value": 13.48
     },
     {
       "date": "2026-10-03",
-      "value": 12.76
+      "value": 13.51
     },
     {
       "date": "2026-10-04",
-      "value": 12.78
+      "value": 13.53
     },
     {
       "date": "2026-10-05",
-      "value": 12.8
+      "value": 13.55
     },
     {
       "date": "2026-10-06",
-      "value": 12.83
+      "value": 13.58
     },
     {
       "date": "2026-10-07",
-      "value": 12.84
+      "value": 13.59
     },
     {
       "date": "2026-10-08",
-      "value": 12.87
+      "value": 13.62
     },
     {
       "date": "2026-10-09",
-      "value": 12.9
+      "value": 13.65
     },
     {
       "date": "2026-10-10",
-      "value": 12.92
+      "value": 13.67
     },
     {
       "date": "2026-10-11",
-      "value": 12.94
+      "value": 13.69
+    },
+    {
+      "date": "2026-10-12",
+      "value": 13.7
+    },
+    {
+      "date": "2026-10-13",
+      "value": 13.71
+    },
+    {
+      "date": "2026-10-14",
+      "value": 13.72
+    },
+    {
+      "date": "2026-10-15",
+      "value": 13.71
+    },
+    {
+      "date": "2026-10-16",
+      "value": 13.73
+    },
+    {
+      "date": "2026-10-17",
+      "value": 13.73
+    },
+    {
+      "date": "2026-10-18",
+      "value": 13.75
+    },
+    {
+      "date": "2026-10-19",
+      "value": 13.76
+    },
+    {
+      "date": "2026-10-20",
+      "value": 13.77
+    },
+    {
+      "date": "2026-10-21",
+      "value": 13.78
+    },
+    {
+      "date": "2026-10-22",
+      "value": 13.79
+    },
+    {
+      "date": "2026-10-23",
+      "value": 13.8
+    },
+    {
+      "date": "2026-10-24",
+      "value": 13.8
+    },
+    {
+      "date": "2026-10-25",
+      "value": 13.8
+    },
+    {
+      "date": "2026-10-26",
+      "value": 13.82
+    },
+    {
+      "date": "2026-10-27",
+      "value": 13.82
     }
   ],
   "activePartiesByDate": {
@@ -76305,9 +76717,105 @@
       "Home and National Rally",
       "Homeland Movement",
       "The Bridge"
+    ],
+    "2026-10-12": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-13": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-14": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-15": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-16": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-17": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-18": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-19": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-20": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-21": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-22": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-23": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-24": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-25": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-26": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-27": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
     ]
   },
-  "latestUpdate": "2026-10-11",
+  "latestUpdate": "2026-10-27",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Croatian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Croatian_parliamentary_election",
