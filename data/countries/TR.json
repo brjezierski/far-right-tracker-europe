@@ -15,7 +15,7 @@
     "New Welfare Party",
     "Victory Party"
   ],
-  "latestSupport": 59.50000000000001,
+  "latestSupport": 59.34,
   "datapointsByParty": {
     "Good Party": [
       {
@@ -977,6 +977,10 @@
       {
         "date": "2026-10-16",
         "value": 9.4
+      },
+      {
+        "date": "2026-10-29",
+        "value": 10.9
       }
     ],
     "Justice and Development Party": [
@@ -2503,6 +2507,10 @@
       {
         "date": "2026-10-16",
         "value": 38.2
+      },
+      {
+        "date": "2026-10-29",
+        "value": 31.9
       }
     ],
     "Nationalist Movement Party": [
@@ -4017,6 +4025,10 @@
       {
         "date": "2026-10-16",
         "value": 7.7
+      },
+      {
+        "date": "2026-10-29",
+        "value": 10.5
       }
     ],
     "New Welfare Party": [
@@ -20993,6 +21005,58 @@
       {
         "date": "2026-10-16",
         "value": 8.32
+      },
+      {
+        "date": "2026-10-17",
+        "value": 8.38
+      },
+      {
+        "date": "2026-10-18",
+        "value": 8.44
+      },
+      {
+        "date": "2026-10-19",
+        "value": 8.5
+      },
+      {
+        "date": "2026-10-20",
+        "value": 8.56
+      },
+      {
+        "date": "2026-10-21",
+        "value": 8.62
+      },
+      {
+        "date": "2026-10-22",
+        "value": 8.68
+      },
+      {
+        "date": "2026-10-23",
+        "value": 8.74
+      },
+      {
+        "date": "2026-10-24",
+        "value": 8.8
+      },
+      {
+        "date": "2026-10-25",
+        "value": 8.86
+      },
+      {
+        "date": "2026-10-26",
+        "value": 8.92
+      },
+      {
+        "date": "2026-10-27",
+        "value": 8.98
+      },
+      {
+        "date": "2026-10-28",
+        "value": 9.04
+      },
+      {
+        "date": "2026-10-29",
+        "value": 9.1
       }
     ],
     "Justice and Development Party": [
@@ -42251,6 +42315,58 @@
       {
         "date": "2026-10-16",
         "value": 35.24
+      },
+      {
+        "date": "2026-10-17",
+        "value": 35.13
+      },
+      {
+        "date": "2026-10-18",
+        "value": 35.03
+      },
+      {
+        "date": "2026-10-19",
+        "value": 34.92
+      },
+      {
+        "date": "2026-10-20",
+        "value": 34.82
+      },
+      {
+        "date": "2026-10-21",
+        "value": 34.71
+      },
+      {
+        "date": "2026-10-22",
+        "value": 34.6
+      },
+      {
+        "date": "2026-10-23",
+        "value": 34.5
+      },
+      {
+        "date": "2026-10-24",
+        "value": 34.39
+      },
+      {
+        "date": "2026-10-25",
+        "value": 34.28
+      },
+      {
+        "date": "2026-10-26",
+        "value": 34.18
+      },
+      {
+        "date": "2026-10-27",
+        "value": 34.07
+      },
+      {
+        "date": "2026-10-28",
+        "value": 33.97
+      },
+      {
+        "date": "2026-10-29",
+        "value": 33.86
       }
     ],
     "Nationalist Movement Party": [
@@ -63509,6 +63625,58 @@
       {
         "date": "2026-10-16",
         "value": 9.96
+      },
+      {
+        "date": "2026-10-17",
+        "value": 9.99
+      },
+      {
+        "date": "2026-10-18",
+        "value": 10.03
+      },
+      {
+        "date": "2026-10-19",
+        "value": 10.06
+      },
+      {
+        "date": "2026-10-20",
+        "value": 10.1
+      },
+      {
+        "date": "2026-10-21",
+        "value": 10.13
+      },
+      {
+        "date": "2026-10-22",
+        "value": 10.16
+      },
+      {
+        "date": "2026-10-23",
+        "value": 10.2
+      },
+      {
+        "date": "2026-10-24",
+        "value": 10.23
+      },
+      {
+        "date": "2026-10-25",
+        "value": 10.26
+      },
+      {
+        "date": "2026-10-26",
+        "value": 10.3
+      },
+      {
+        "date": "2026-10-27",
+        "value": 10.33
+      },
+      {
+        "date": "2026-10-28",
+        "value": 10.37
+      },
+      {
+        "date": "2026-10-29",
+        "value": 10.4
       }
     ],
     "New Welfare Party": [
@@ -93988,6 +94156,58 @@
     {
       "date": "2026-10-16",
       "value": 59.5
+    },
+    {
+      "date": "2026-10-17",
+      "value": 53.5
+    },
+    {
+      "date": "2026-10-18",
+      "value": 53.5
+    },
+    {
+      "date": "2026-10-19",
+      "value": 53.48
+    },
+    {
+      "date": "2026-10-20",
+      "value": 53.48
+    },
+    {
+      "date": "2026-10-21",
+      "value": 53.46
+    },
+    {
+      "date": "2026-10-22",
+      "value": 53.44
+    },
+    {
+      "date": "2026-10-23",
+      "value": 53.44
+    },
+    {
+      "date": "2026-10-24",
+      "value": 53.42
+    },
+    {
+      "date": "2026-10-25",
+      "value": 53.4
+    },
+    {
+      "date": "2026-10-26",
+      "value": 53.4
+    },
+    {
+      "date": "2026-10-27",
+      "value": 53.38
+    },
+    {
+      "date": "2026-10-28",
+      "value": 53.38
+    },
+    {
+      "date": "2026-10-29",
+      "value": 53.36
     }
   ],
   "activePartiesByDate": {
@@ -122919,9 +123139,100 @@
       "Nationalist Movement Party",
       "New Welfare Party",
       "Victory Party"
+    ],
+    "2026-10-17": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-18": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-19": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-20": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-21": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-22": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-23": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-24": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-25": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-26": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-27": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-28": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
+    ],
+    "2026-10-29": [
+      "Good Party",
+      "Justice and Development Party",
+      "Nationalist Movement Party",
+      "New Welfare Party",
+      "Victory Party"
     ]
   },
-  "latestUpdate": "2026-10-16",
+  "latestUpdate": "2026-10-29",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_June_2015_Turkish_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_November_2015_Turkish_general_election",

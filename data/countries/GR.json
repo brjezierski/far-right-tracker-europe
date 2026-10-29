@@ -2,7 +2,6 @@
   "country": "Greece",
   "iso2": "GR",
   "parties": [
-    "Alliance of Greeks",
     "Golden Dawn",
     "Greek Solution",
     "Independent Greeks",
@@ -12,47 +11,12 @@
     "Voice of Reason"
   ],
   "activeParties": [
-    "Alliance of Greeks",
     "Greek Solution",
     "Niki",
     "Voice of Reason"
   ],
-  "latestSupport": 16.36,
+  "latestSupport": 12.809999999999999,
   "datapointsByParty": {
-    "Alliance of Greeks": [
-      {
-        "date": "2026-10-10",
-        "value": 3.6
-      },
-      {
-        "date": "2026-10-13",
-        "value": 4.35
-      },
-      {
-        "date": "2026-10-14",
-        "value": 4.2
-      },
-      {
-        "date": "2026-10-19",
-        "value": 2.8
-      },
-      {
-        "date": "2026-10-20",
-        "value": 3.75
-      },
-      {
-        "date": "2026-10-21",
-        "value": 3.6
-      },
-      {
-        "date": "2026-10-22",
-        "value": 3.7
-      },
-      {
-        "date": "2026-10-23",
-        "value": 3.9
-      }
-    ],
     "Golden Dawn": [
       {
         "date": "2015-02-13",
@@ -7293,24 +7257,6 @@
     ]
   },
   "seriesByParty": {
-    "Alliance of Greeks": [
-      {
-        "date": "2026-10-20",
-        "value": 3.74
-      },
-      {
-        "date": "2026-10-21",
-        "value": 3.74
-      },
-      {
-        "date": "2026-10-22",
-        "value": 3.61
-      },
-      {
-        "date": "2026-10-23",
-        "value": 3.55
-      }
-    ],
     "Golden Dawn": [
       {
         "date": "2015-03-18",
@@ -72605,19 +72551,19 @@
     },
     {
       "date": "2026-10-20",
-      "value": 15.88
+      "value": 12.14
     },
     {
       "date": "2026-10-21",
-      "value": 16.1
+      "value": 12.36
     },
     {
       "date": "2026-10-22",
-      "value": 16.38
+      "value": 12.77
     },
     {
       "date": "2026-10-23",
-      "value": 16.36
+      "value": 12.81
     }
   ],
   "activePartiesByDate": {
@@ -92213,85 +92159,71 @@
       "Voice of Reason"
     ],
     "2026-10-10": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-11": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-12": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-13": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-14": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-15": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-16": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-17": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-18": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-19": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-20": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-21": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-22": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
     ],
     "2026-10-23": [
-      "Alliance of Greeks",
       "Greek Solution",
       "Niki",
       "Voice of Reason"
