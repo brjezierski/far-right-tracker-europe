@@ -12,7 +12,7 @@
     "JA21",
     "Party for Freedom"
   ],
-  "latestSupport": 45.81,
+  "latestSupport": 44.07,
   "datapointsByParty": {
     "Belang van Nederland": [
       {
@@ -2915,7 +2915,7 @@
       },
       {
         "date": "2026-10-26",
-        "value": 13.0
+        "value": 10.9
       }
     ],
     "JA21": [
@@ -4177,7 +4177,7 @@
       },
       {
         "date": "2026-10-26",
-        "value": 16.0
+        "value": 13.2
       }
     ],
     "Party for Freedom": [
@@ -8051,7 +8051,7 @@
       },
       {
         "date": "2026-10-26",
-        "value": 21.0
+        "value": 17.2
       }
     ]
   },
@@ -25497,15 +25497,15 @@
       },
       {
         "date": "2026-10-24",
-        "value": 11.63
+        "value": 11.49
       },
       {
         "date": "2026-10-25",
-        "value": 11.37
+        "value": 11.09
       },
       {
         "date": "2026-10-26",
-        "value": 11.1
+        "value": 10.68
       }
     ],
     "JA21": [
@@ -33959,15 +33959,15 @@
       },
       {
         "date": "2026-10-24",
-        "value": 16.66
+        "value": 16.47
       },
       {
         "date": "2026-10-25",
-        "value": 16.66
+        "value": 16.29
       },
       {
         "date": "2026-10-26",
-        "value": 16.66
+        "value": 16.1
       }
     ],
     "Party for Freedom": [
@@ -54449,15 +54449,15 @@
       },
       {
         "date": "2026-10-24",
-        "value": 17.38
+        "value": 17.13
       },
       {
         "date": "2026-10-25",
-        "value": 17.72
+        "value": 17.21
       },
       {
         "date": "2026-10-26",
-        "value": 18.05
+        "value": 17.29
       }
     ]
   },
@@ -75084,15 +75084,15 @@
     },
     {
       "date": "2026-10-24",
-      "value": 45.67
+      "value": 45.09
     },
     {
       "date": "2026-10-25",
-      "value": 45.75
+      "value": 44.59
     },
     {
       "date": "2026-10-26",
-      "value": 45.81
+      "value": 44.07
     }
   ],
   "activePartiesByDate": {
