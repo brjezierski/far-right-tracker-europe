@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 26.37,
+  "latestSupport": 26.17,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5192,6 +5192,10 @@
       {
         "date": "2026-10-26",
         "value": 22.67
+      },
+      {
+        "date": "2026-10-29",
+        "value": 21.0
       }
     ],
     "Restore Britain": [
@@ -5590,6 +5594,10 @@
       {
         "date": "2026-10-26",
         "value": 4.5
+      },
+      {
+        "date": "2026-10-29",
+        "value": 5.0
       }
     ],
     "UK Independence Party": [
@@ -24188,6 +24196,18 @@
       {
         "date": "2026-10-26",
         "value": 21.87
+      },
+      {
+        "date": "2026-10-27",
+        "value": 21.8
+      },
+      {
+        "date": "2026-10-28",
+        "value": 21.74
+      },
+      {
+        "date": "2026-10-29",
+        "value": 21.67
       }
     ],
     "Restore Britain": [
@@ -25341,6 +25361,18 @@
       },
       {
         "date": "2026-10-26",
+        "value": 4.5
+      },
+      {
+        "date": "2026-10-27",
+        "value": 4.5
+      },
+      {
+        "date": "2026-10-28",
+        "value": 4.5
+      },
+      {
+        "date": "2026-10-29",
         "value": 4.5
       }
     ],
@@ -63383,6 +63415,18 @@
     {
       "date": "2026-10-26",
       "value": 26.37
+    },
+    {
+      "date": "2026-10-27",
+      "value": 26.3
+    },
+    {
+      "date": "2026-10-28",
+      "value": 26.24
+    },
+    {
+      "date": "2026-10-29",
+      "value": 26.17
     }
   ],
   "activePartiesByDate": {
@@ -81977,9 +82021,21 @@
     "2026-10-26": [
       "Reform UK",
       "Restore Britain"
+    ],
+    "2026-10-27": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-10-28": [
+      "Reform UK",
+      "Restore Britain"
+    ],
+    "2026-10-29": [
+      "Reform UK",
+      "Restore Britain"
     ]
   },
-  "latestUpdate": "2026-10-26",
+  "latestUpdate": "2026-10-29",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_United_Kingdom_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_United_Kingdom_general_election",
