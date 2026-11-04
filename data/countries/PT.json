@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 27.69,
+  "latestSupport": 27.01,
   "datapointsByParty": {
     "Chega": [
       {
@@ -1281,6 +1281,10 @@
       {
         "date": "2026-10-25",
         "value": 26.0
+      },
+      {
+        "date": "2026-10-26",
+        "value": 27.3
       }
     ]
   },
@@ -13913,6 +13917,10 @@
       {
         "date": "2026-10-25",
         "value": 27.69
+      },
+      {
+        "date": "2026-10-26",
+        "value": 27.01
       }
     ]
   },
@@ -26876,6 +26884,10 @@
     {
       "date": "2026-10-25",
       "value": 27.69
+    },
+    {
+      "date": "2026-10-26",
+      "value": 27.01
     }
   ],
   "activePartiesByDate": {
@@ -36390,9 +36402,12 @@
     ],
     "2026-10-25": [
       "Chega"
+    ],
+    "2026-10-26": [
+      "Chega"
     ]
   },
-  "latestUpdate": "2026-10-25",
+  "latestUpdate": "2026-10-26",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
