@@ -7,7 +7,7 @@
   "activeParties": [
     "Progress Party"
   ],
-  "latestSupport": 33.17,
+  "latestSupport": 33.9,
   "datapointsByParty": {
     "Progress Party": [
       {
@@ -3080,7 +3080,7 @@
       },
       {
         "date": "2021-08-13",
-        "value": 8.53
+        "value": 8.52
       },
       {
         "date": "2021-08-16",
@@ -4705,6 +4705,18 @@
       {
         "date": "2026-10-21",
         "value": 31.6
+      },
+      {
+        "date": "2026-10-23",
+        "value": 37.6
+      },
+      {
+        "date": "2026-10-30",
+        "value": 32.2
+      },
+      {
+        "date": "2026-11-02",
+        "value": 34.2
       }
     ]
   },
@@ -16220,11 +16232,11 @@
       },
       {
         "date": "2021-08-18",
-        "value": 9.6
+        "value": 9.59
       },
       {
         "date": "2021-08-19",
-        "value": 10.47
+        "value": 10.46
       },
       {
         "date": "2021-08-20",
@@ -23781,6 +23793,54 @@
       {
         "date": "2026-10-21",
         "value": 33.17
+      },
+      {
+        "date": "2026-10-22",
+        "value": 33.42
+      },
+      {
+        "date": "2026-10-23",
+        "value": 33.67
+      },
+      {
+        "date": "2026-10-24",
+        "value": 33.66
+      },
+      {
+        "date": "2026-10-25",
+        "value": 33.65
+      },
+      {
+        "date": "2026-10-26",
+        "value": 33.64
+      },
+      {
+        "date": "2026-10-27",
+        "value": 33.63
+      },
+      {
+        "date": "2026-10-28",
+        "value": 33.62
+      },
+      {
+        "date": "2026-10-29",
+        "value": 33.61
+      },
+      {
+        "date": "2026-10-30",
+        "value": 33.6
+      },
+      {
+        "date": "2026-10-31",
+        "value": 33.7
+      },
+      {
+        "date": "2026-11-01",
+        "value": 33.8
+      },
+      {
+        "date": "2026-11-02",
+        "value": 33.9
       }
     ]
   },
@@ -35359,11 +35419,11 @@
     },
     {
       "date": "2021-08-18",
-      "value": 9.6
+      "value": 9.59
     },
     {
       "date": "2021-08-19",
-      "value": 10.47
+      "value": 10.46
     },
     {
       "date": "2021-08-20",
@@ -42920,6 +42980,54 @@
     {
       "date": "2026-10-21",
       "value": 33.17
+    },
+    {
+      "date": "2026-10-22",
+      "value": 33.42
+    },
+    {
+      "date": "2026-10-23",
+      "value": 33.67
+    },
+    {
+      "date": "2026-10-24",
+      "value": 33.66
+    },
+    {
+      "date": "2026-10-25",
+      "value": 33.65
+    },
+    {
+      "date": "2026-10-26",
+      "value": 33.64
+    },
+    {
+      "date": "2026-10-27",
+      "value": 33.63
+    },
+    {
+      "date": "2026-10-28",
+      "value": 33.62
+    },
+    {
+      "date": "2026-10-29",
+      "value": 33.61
+    },
+    {
+      "date": "2026-10-30",
+      "value": 33.6
+    },
+    {
+      "date": "2026-10-31",
+      "value": 33.7
+    },
+    {
+      "date": "2026-11-01",
+      "value": 33.8
+    },
+    {
+      "date": "2026-11-02",
+      "value": 33.9
     }
   ],
   "activePartiesByDate": {
@@ -57274,9 +57382,45 @@
     ],
     "2026-10-21": [
       "Progress Party"
+    ],
+    "2026-10-22": [
+      "Progress Party"
+    ],
+    "2026-10-23": [
+      "Progress Party"
+    ],
+    "2026-10-24": [
+      "Progress Party"
+    ],
+    "2026-10-25": [
+      "Progress Party"
+    ],
+    "2026-10-26": [
+      "Progress Party"
+    ],
+    "2026-10-27": [
+      "Progress Party"
+    ],
+    "2026-10-28": [
+      "Progress Party"
+    ],
+    "2026-10-29": [
+      "Progress Party"
+    ],
+    "2026-10-30": [
+      "Progress Party"
+    ],
+    "2026-10-31": [
+      "Progress Party"
+    ],
+    "2026-11-01": [
+      "Progress Party"
+    ],
+    "2026-11-02": [
+      "Progress Party"
     ]
   },
-  "latestUpdate": "2026-10-21",
+  "latestUpdate": "2026-11-02",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Norwegian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Norwegian_parliamentary_election",
