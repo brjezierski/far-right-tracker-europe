@@ -17,7 +17,7 @@
     "Svobodní",
     "Tricolour"
   ],
-  "latestSupport": 46.02,
+  "latestSupport": 45.86,
   "datapointsByParty": {
     "ANO 2011": [
       {
@@ -2267,6 +2267,10 @@
       {
         "date": "2026-10-06",
         "value": 31.3
+      },
+      {
+        "date": "2026-11-03",
+        "value": 29.9
       }
     ],
     "Dawn - National Coalition": [
@@ -4827,6 +4831,10 @@
       {
         "date": "2026-10-06",
         "value": 7.5
+      },
+      {
+        "date": "2026-11-03",
+        "value": 7.0
       }
     ],
     "Motorists for Themselves": [
@@ -5273,6 +5281,10 @@
       {
         "date": "2026-10-06",
         "value": 4.6
+      },
+      {
+        "date": "2026-11-03",
+        "value": 5.9
       }
     ],
     "Realists": [
@@ -25291,6 +25303,118 @@
       {
         "date": "2026-10-06",
         "value": 30.42
+      },
+      {
+        "date": "2026-10-07",
+        "value": 30.41
+      },
+      {
+        "date": "2026-10-08",
+        "value": 30.4
+      },
+      {
+        "date": "2026-10-09",
+        "value": 30.39
+      },
+      {
+        "date": "2026-10-10",
+        "value": 30.39
+      },
+      {
+        "date": "2026-10-11",
+        "value": 30.38
+      },
+      {
+        "date": "2026-10-12",
+        "value": 30.37
+      },
+      {
+        "date": "2026-10-13",
+        "value": 30.36
+      },
+      {
+        "date": "2026-10-14",
+        "value": 30.35
+      },
+      {
+        "date": "2026-10-15",
+        "value": 30.34
+      },
+      {
+        "date": "2026-10-16",
+        "value": 30.33
+      },
+      {
+        "date": "2026-10-17",
+        "value": 30.33
+      },
+      {
+        "date": "2026-10-18",
+        "value": 30.32
+      },
+      {
+        "date": "2026-10-19",
+        "value": 30.31
+      },
+      {
+        "date": "2026-10-20",
+        "value": 30.3
+      },
+      {
+        "date": "2026-10-21",
+        "value": 30.29
+      },
+      {
+        "date": "2026-10-22",
+        "value": 30.28
+      },
+      {
+        "date": "2026-10-23",
+        "value": 30.27
+      },
+      {
+        "date": "2026-10-24",
+        "value": 30.27
+      },
+      {
+        "date": "2026-10-25",
+        "value": 30.26
+      },
+      {
+        "date": "2026-10-26",
+        "value": 30.25
+      },
+      {
+        "date": "2026-10-27",
+        "value": 30.24
+      },
+      {
+        "date": "2026-10-28",
+        "value": 30.23
+      },
+      {
+        "date": "2026-10-29",
+        "value": 30.22
+      },
+      {
+        "date": "2026-10-30",
+        "value": 30.21
+      },
+      {
+        "date": "2026-10-31",
+        "value": 30.21
+      },
+      {
+        "date": "2026-11-01",
+        "value": 30.2
+      },
+      {
+        "date": "2026-11-02",
+        "value": 30.19
+      },
+      {
+        "date": "2026-11-03",
+        "value": 30.18
       }
     ],
     "Dawn - National Coalition": [
@@ -46763,6 +46887,118 @@
       {
         "date": "2026-10-06",
         "value": 7.84
+      },
+      {
+        "date": "2026-10-07",
+        "value": 7.84
+      },
+      {
+        "date": "2026-10-08",
+        "value": 7.83
+      },
+      {
+        "date": "2026-10-09",
+        "value": 7.83
+      },
+      {
+        "date": "2026-10-10",
+        "value": 7.82
+      },
+      {
+        "date": "2026-10-11",
+        "value": 7.82
+      },
+      {
+        "date": "2026-10-12",
+        "value": 7.81
+      },
+      {
+        "date": "2026-10-13",
+        "value": 7.81
+      },
+      {
+        "date": "2026-10-14",
+        "value": 7.81
+      },
+      {
+        "date": "2026-10-15",
+        "value": 7.8
+      },
+      {
+        "date": "2026-10-16",
+        "value": 7.8
+      },
+      {
+        "date": "2026-10-17",
+        "value": 7.79
+      },
+      {
+        "date": "2026-10-18",
+        "value": 7.79
+      },
+      {
+        "date": "2026-10-19",
+        "value": 7.78
+      },
+      {
+        "date": "2026-10-20",
+        "value": 7.78
+      },
+      {
+        "date": "2026-10-21",
+        "value": 7.78
+      },
+      {
+        "date": "2026-10-22",
+        "value": 7.77
+      },
+      {
+        "date": "2026-10-23",
+        "value": 7.77
+      },
+      {
+        "date": "2026-10-24",
+        "value": 7.76
+      },
+      {
+        "date": "2026-10-25",
+        "value": 7.76
+      },
+      {
+        "date": "2026-10-26",
+        "value": 7.75
+      },
+      {
+        "date": "2026-10-27",
+        "value": 7.75
+      },
+      {
+        "date": "2026-10-28",
+        "value": 7.75
+      },
+      {
+        "date": "2026-10-29",
+        "value": 7.74
+      },
+      {
+        "date": "2026-10-30",
+        "value": 7.74
+      },
+      {
+        "date": "2026-10-31",
+        "value": 7.73
+      },
+      {
+        "date": "2026-11-01",
+        "value": 7.73
+      },
+      {
+        "date": "2026-11-02",
+        "value": 7.72
+      },
+      {
+        "date": "2026-11-03",
+        "value": 7.72
       }
     ],
     "Motorists for Themselves": [
@@ -49713,6 +49949,118 @@
       {
         "date": "2026-10-06",
         "value": 4.94
+      },
+      {
+        "date": "2026-10-07",
+        "value": 4.95
+      },
+      {
+        "date": "2026-10-08",
+        "value": 4.95
+      },
+      {
+        "date": "2026-10-09",
+        "value": 4.96
+      },
+      {
+        "date": "2026-10-10",
+        "value": 4.97
+      },
+      {
+        "date": "2026-10-11",
+        "value": 4.98
+      },
+      {
+        "date": "2026-10-12",
+        "value": 4.98
+      },
+      {
+        "date": "2026-10-13",
+        "value": 4.99
+      },
+      {
+        "date": "2026-10-14",
+        "value": 5.0
+      },
+      {
+        "date": "2026-10-15",
+        "value": 5.0
+      },
+      {
+        "date": "2026-10-16",
+        "value": 5.01
+      },
+      {
+        "date": "2026-10-17",
+        "value": 5.02
+      },
+      {
+        "date": "2026-10-18",
+        "value": 5.03
+      },
+      {
+        "date": "2026-10-19",
+        "value": 5.03
+      },
+      {
+        "date": "2026-10-20",
+        "value": 5.04
+      },
+      {
+        "date": "2026-10-21",
+        "value": 5.05
+      },
+      {
+        "date": "2026-10-22",
+        "value": 5.05
+      },
+      {
+        "date": "2026-10-23",
+        "value": 5.06
+      },
+      {
+        "date": "2026-10-24",
+        "value": 5.07
+      },
+      {
+        "date": "2026-10-25",
+        "value": 5.08
+      },
+      {
+        "date": "2026-10-26",
+        "value": 5.08
+      },
+      {
+        "date": "2026-10-27",
+        "value": 5.09
+      },
+      {
+        "date": "2026-10-28",
+        "value": 5.1
+      },
+      {
+        "date": "2026-10-29",
+        "value": 5.1
+      },
+      {
+        "date": "2026-10-30",
+        "value": 5.11
+      },
+      {
+        "date": "2026-10-31",
+        "value": 5.12
+      },
+      {
+        "date": "2026-11-01",
+        "value": 5.13
+      },
+      {
+        "date": "2026-11-02",
+        "value": 5.13
+      },
+      {
+        "date": "2026-11-03",
+        "value": 5.14
       }
     ],
     "Realists": [
@@ -98302,6 +98650,118 @@
     {
       "date": "2026-10-06",
       "value": 44.42
+    },
+    {
+      "date": "2026-10-07",
+      "value": 43.2
+    },
+    {
+      "date": "2026-10-08",
+      "value": 43.18
+    },
+    {
+      "date": "2026-10-09",
+      "value": 43.18
+    },
+    {
+      "date": "2026-10-10",
+      "value": 43.18
+    },
+    {
+      "date": "2026-10-11",
+      "value": 43.18
+    },
+    {
+      "date": "2026-10-12",
+      "value": 43.16
+    },
+    {
+      "date": "2026-10-13",
+      "value": 43.16
+    },
+    {
+      "date": "2026-10-14",
+      "value": 43.16
+    },
+    {
+      "date": "2026-10-15",
+      "value": 43.14
+    },
+    {
+      "date": "2026-10-16",
+      "value": 43.14
+    },
+    {
+      "date": "2026-10-17",
+      "value": 43.14
+    },
+    {
+      "date": "2026-10-18",
+      "value": 43.14
+    },
+    {
+      "date": "2026-10-19",
+      "value": 43.12
+    },
+    {
+      "date": "2026-10-20",
+      "value": 43.12
+    },
+    {
+      "date": "2026-10-21",
+      "value": 43.12
+    },
+    {
+      "date": "2026-10-22",
+      "value": 43.1
+    },
+    {
+      "date": "2026-10-23",
+      "value": 43.1
+    },
+    {
+      "date": "2026-10-24",
+      "value": 43.1
+    },
+    {
+      "date": "2026-10-25",
+      "value": 43.1
+    },
+    {
+      "date": "2026-10-26",
+      "value": 43.08
+    },
+    {
+      "date": "2026-10-27",
+      "value": 43.08
+    },
+    {
+      "date": "2026-10-28",
+      "value": 43.08
+    },
+    {
+      "date": "2026-10-29",
+      "value": 43.06
+    },
+    {
+      "date": "2026-10-30",
+      "value": 43.06
+    },
+    {
+      "date": "2026-10-31",
+      "value": 43.06
+    },
+    {
+      "date": "2026-11-01",
+      "value": 43.06
+    },
+    {
+      "date": "2026-11-02",
+      "value": 43.04
+    },
+    {
+      "date": "2026-11-03",
+      "value": 43.04
     }
   ],
   "activePartiesByDate": {
@@ -122604,9 +123064,205 @@
       "Motorists for Themselves",
       "Svobodní",
       "Tricolour"
+    ],
+    "2026-10-07": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-08": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-09": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-10": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-11": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-12": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-13": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-14": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-15": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-16": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-17": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-18": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-19": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-20": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-21": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-22": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-23": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-24": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-25": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-26": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-27": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-28": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-29": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-30": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-10-31": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-11-01": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-11-02": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
+    ],
+    "2026-11-03": [
+      "ANO 2011",
+      "Freedom and Direct Democracy",
+      "Motorists for Themselves",
+      "Svobodní",
+      "Tricolour"
     ]
   },
-  "latestUpdate": "2026-10-06",
+  "latestUpdate": "2026-11-03",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_Czech_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Czech_parliamentary_election",
