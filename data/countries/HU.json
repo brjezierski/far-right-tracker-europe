@@ -10,7 +10,7 @@
     "Fidesz-KDNP",
     "Our Homeland Movement"
   ],
-  "latestSupport": 34.0,
+  "latestSupport": 34.4,
   "datapointsByParty": {
     "Fidesz-KDNP": [
       {
@@ -2412,6 +2412,10 @@
       {
         "date": "2026-10-18",
         "value": 23.0
+      },
+      {
+        "date": "2026-11-02",
+        "value": 26.0
       }
     ],
     "Jobbik": [
@@ -5796,6 +5800,10 @@
       {
         "date": "2026-10-18",
         "value": 9.0
+      },
+      {
+        "date": "2026-11-02",
+        "value": 8.0
       }
     ]
   },
@@ -23960,6 +23968,66 @@
       {
         "date": "2026-10-18",
         "value": 25.2
+      },
+      {
+        "date": "2026-10-19",
+        "value": 25.21
+      },
+      {
+        "date": "2026-10-20",
+        "value": 25.23
+      },
+      {
+        "date": "2026-10-21",
+        "value": 25.24
+      },
+      {
+        "date": "2026-10-22",
+        "value": 25.25
+      },
+      {
+        "date": "2026-10-23",
+        "value": 25.27
+      },
+      {
+        "date": "2026-10-24",
+        "value": 25.28
+      },
+      {
+        "date": "2026-10-25",
+        "value": 25.29
+      },
+      {
+        "date": "2026-10-26",
+        "value": 25.31
+      },
+      {
+        "date": "2026-10-27",
+        "value": 25.32
+      },
+      {
+        "date": "2026-10-28",
+        "value": 25.33
+      },
+      {
+        "date": "2026-10-29",
+        "value": 25.35
+      },
+      {
+        "date": "2026-10-30",
+        "value": 25.36
+      },
+      {
+        "date": "2026-10-31",
+        "value": 25.37
+      },
+      {
+        "date": "2026-11-01",
+        "value": 25.39
+      },
+      {
+        "date": "2026-11-02",
+        "value": 25.4
       }
     ],
     "Jobbik": [
@@ -52548,6 +52616,66 @@
       {
         "date": "2026-10-18",
         "value": 8.8
+      },
+      {
+        "date": "2026-10-19",
+        "value": 8.81
+      },
+      {
+        "date": "2026-10-20",
+        "value": 8.83
+      },
+      {
+        "date": "2026-10-21",
+        "value": 8.84
+      },
+      {
+        "date": "2026-10-22",
+        "value": 8.85
+      },
+      {
+        "date": "2026-10-23",
+        "value": 8.87
+      },
+      {
+        "date": "2026-10-24",
+        "value": 8.88
+      },
+      {
+        "date": "2026-10-25",
+        "value": 8.89
+      },
+      {
+        "date": "2026-10-26",
+        "value": 8.91
+      },
+      {
+        "date": "2026-10-27",
+        "value": 8.92
+      },
+      {
+        "date": "2026-10-28",
+        "value": 8.93
+      },
+      {
+        "date": "2026-10-29",
+        "value": 8.95
+      },
+      {
+        "date": "2026-10-30",
+        "value": 8.96
+      },
+      {
+        "date": "2026-10-31",
+        "value": 8.97
+      },
+      {
+        "date": "2026-11-01",
+        "value": 8.99
+      },
+      {
+        "date": "2026-11-02",
+        "value": 9.0
       }
     ]
   },
@@ -70867,6 +70995,66 @@
     {
       "date": "2026-10-18",
       "value": 34.0
+    },
+    {
+      "date": "2026-10-19",
+      "value": 34.02
+    },
+    {
+      "date": "2026-10-20",
+      "value": 34.06
+    },
+    {
+      "date": "2026-10-21",
+      "value": 34.08
+    },
+    {
+      "date": "2026-10-22",
+      "value": 34.1
+    },
+    {
+      "date": "2026-10-23",
+      "value": 34.14
+    },
+    {
+      "date": "2026-10-24",
+      "value": 34.16
+    },
+    {
+      "date": "2026-10-25",
+      "value": 34.18
+    },
+    {
+      "date": "2026-10-26",
+      "value": 34.22
+    },
+    {
+      "date": "2026-10-27",
+      "value": 34.24
+    },
+    {
+      "date": "2026-10-28",
+      "value": 34.26
+    },
+    {
+      "date": "2026-10-29",
+      "value": 34.3
+    },
+    {
+      "date": "2026-10-30",
+      "value": 34.32
+    },
+    {
+      "date": "2026-10-31",
+      "value": 34.34
+    },
+    {
+      "date": "2026-11-01",
+      "value": 34.38
+    },
+    {
+      "date": "2026-11-02",
+      "value": 34.4
     }
   ],
   "activePartiesByDate": {
@@ -91681,9 +91869,69 @@
     "2026-10-18": [
       "Fidesz-KDNP",
       "Our Homeland Movement"
+    ],
+    "2026-10-19": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-20": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-21": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-22": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-23": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-24": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-25": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-26": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-27": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-28": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-29": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-30": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-10-31": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-11-01": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
+    ],
+    "2026-11-02": [
+      "Fidesz-KDNP",
+      "Our Homeland Movement"
     ]
   },
-  "latestUpdate": "2026-10-18",
+  "latestUpdate": "2026-11-02",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Hungarian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Hungarian_parliamentary_election",

@@ -15,7 +15,7 @@
     "Homeland Movement",
     "The Bridge"
   ],
-  "latestSupport": 13.82,
+  "latestSupport": 13.84,
   "datapointsByParty": {
     "Croatian Growth": [
       {
@@ -503,6 +503,10 @@
       {
         "date": "2026-10-27",
         "value": 1.2
+      },
+      {
+        "date": "2026-11-08",
+        "value": 0.9
       }
     ],
     "Home and National Rally": [
@@ -681,6 +685,10 @@
       {
         "date": "2026-10-27",
         "value": 1.7
+      },
+      {
+        "date": "2026-11-08",
+        "value": 1.6
       }
     ],
     "Homeland Movement": [
@@ -1603,6 +1611,10 @@
       {
         "date": "2026-10-27",
         "value": 2.2
+      },
+      {
+        "date": "2026-11-08",
+        "value": 1.7
       }
     ],
     "Independents for Croatia": [
@@ -3279,6 +3291,10 @@
       {
         "date": "2026-10-27",
         "value": 10.1
+      },
+      {
+        "date": "2026-11-08",
+        "value": 9.4
       }
     ]
   },
@@ -13761,6 +13777,54 @@
       {
         "date": "2026-10-27",
         "value": 0.76
+      },
+      {
+        "date": "2026-10-28",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-29",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-30",
+        "value": 0.76
+      },
+      {
+        "date": "2026-10-31",
+        "value": 0.75
+      },
+      {
+        "date": "2026-11-01",
+        "value": 0.75
+      },
+      {
+        "date": "2026-11-02",
+        "value": 0.75
+      },
+      {
+        "date": "2026-11-03",
+        "value": 0.75
+      },
+      {
+        "date": "2026-11-04",
+        "value": 0.75
+      },
+      {
+        "date": "2026-11-05",
+        "value": 0.74
+      },
+      {
+        "date": "2026-11-06",
+        "value": 0.74
+      },
+      {
+        "date": "2026-11-07",
+        "value": 0.74
+      },
+      {
+        "date": "2026-11-08",
+        "value": 0.74
       }
     ],
     "Home and National Rally": [
@@ -16539,6 +16603,54 @@
       {
         "date": "2026-10-27",
         "value": 1.32
+      },
+      {
+        "date": "2026-10-28",
+        "value": 1.33
+      },
+      {
+        "date": "2026-10-29",
+        "value": 1.35
+      },
+      {
+        "date": "2026-10-30",
+        "value": 1.36
+      },
+      {
+        "date": "2026-10-31",
+        "value": 1.37
+      },
+      {
+        "date": "2026-11-01",
+        "value": 1.39
+      },
+      {
+        "date": "2026-11-02",
+        "value": 1.4
+      },
+      {
+        "date": "2026-11-03",
+        "value": 1.41
+      },
+      {
+        "date": "2026-11-04",
+        "value": 1.43
+      },
+      {
+        "date": "2026-11-05",
+        "value": 1.44
+      },
+      {
+        "date": "2026-11-06",
+        "value": 1.45
+      },
+      {
+        "date": "2026-11-07",
+        "value": 1.47
+      },
+      {
+        "date": "2026-11-08",
+        "value": 1.48
       }
     ],
     "Homeland Movement": [
@@ -26305,6 +26417,54 @@
       {
         "date": "2026-10-27",
         "value": 2.16
+      },
+      {
+        "date": "2026-10-28",
+        "value": 2.15
+      },
+      {
+        "date": "2026-10-29",
+        "value": 2.14
+      },
+      {
+        "date": "2026-10-30",
+        "value": 2.12
+      },
+      {
+        "date": "2026-10-31",
+        "value": 2.11
+      },
+      {
+        "date": "2026-11-01",
+        "value": 2.1
+      },
+      {
+        "date": "2026-11-02",
+        "value": 2.09
+      },
+      {
+        "date": "2026-11-03",
+        "value": 2.08
+      },
+      {
+        "date": "2026-11-04",
+        "value": 2.07
+      },
+      {
+        "date": "2026-11-05",
+        "value": 2.06
+      },
+      {
+        "date": "2026-11-06",
+        "value": 2.04
+      },
+      {
+        "date": "2026-11-07",
+        "value": 2.03
+      },
+      {
+        "date": "2026-11-08",
+        "value": 2.02
       }
     ],
     "Independents for Croatia": [
@@ -44561,6 +44721,54 @@
       {
         "date": "2026-10-27",
         "value": 9.58
+      },
+      {
+        "date": "2026-10-28",
+        "value": 9.58
+      },
+      {
+        "date": "2026-10-29",
+        "value": 9.58
+      },
+      {
+        "date": "2026-10-30",
+        "value": 9.59
+      },
+      {
+        "date": "2026-10-31",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-01",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-02",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-03",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-04",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-05",
+        "value": 9.59
+      },
+      {
+        "date": "2026-11-06",
+        "value": 9.6
+      },
+      {
+        "date": "2026-11-07",
+        "value": 9.6
+      },
+      {
+        "date": "2026-11-08",
+        "value": 9.6
       }
     ]
   },
@@ -59360,6 +59568,54 @@
     {
       "date": "2026-10-27",
       "value": 13.82
+    },
+    {
+      "date": "2026-10-28",
+      "value": 13.82
+    },
+    {
+      "date": "2026-10-29",
+      "value": 13.83
+    },
+    {
+      "date": "2026-10-30",
+      "value": 13.83
+    },
+    {
+      "date": "2026-10-31",
+      "value": 13.82
+    },
+    {
+      "date": "2026-11-01",
+      "value": 13.83
+    },
+    {
+      "date": "2026-11-02",
+      "value": 13.83
+    },
+    {
+      "date": "2026-11-03",
+      "value": 13.83
+    },
+    {
+      "date": "2026-11-04",
+      "value": 13.84
+    },
+    {
+      "date": "2026-11-05",
+      "value": 13.83
+    },
+    {
+      "date": "2026-11-06",
+      "value": 13.83
+    },
+    {
+      "date": "2026-11-07",
+      "value": 13.84
+    },
+    {
+      "date": "2026-11-08",
+      "value": 13.84
     }
   ],
   "activePartiesByDate": {
@@ -76805,9 +77061,81 @@
       "Home and National Rally",
       "Homeland Movement",
       "The Bridge"
+    ],
+    "2026-10-28": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-29": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-30": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-10-31": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-01": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-02": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-03": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-04": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-05": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-06": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-07": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
+    ],
+    "2026-11-08": [
+      "Croatian Sovereignists",
+      "Home and National Rally",
+      "Homeland Movement",
+      "The Bridge"
     ]
   },
-  "latestUpdate": "2026-10-27",
+  "latestUpdate": "2026-11-08",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2020_Croatian_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Croatian_parliamentary_election",
