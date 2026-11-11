@@ -371,7 +371,6 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2021-04-30,ANO 2011,20.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-04,ANO 2011,21.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-10,ANO 2011,21.2,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2021-05-17,ANO 2011,34.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-19,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-19,ANO 2011,22.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-21,ANO 2011,27.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -613,6 +612,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,ANO 2011,28.8,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2026-10-06,ANO 2011,31.3,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2026-10-30,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2026-10-31,ANO 2011,32.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2026-11-03,ANO 2011,29.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-04-17,Alliance for the Future,2.6,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic)
 2021-05-10,Alliance for the Future,1.5,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic)
@@ -1017,6 +1017,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Civic Democratic Party,12.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2026-10-06,Civic Democratic Party,11.3,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2026-10-30,Civic Democratic Party,12.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
+2026-10-31,Civic Democratic Party,10.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2026-11-03,Civic Democratic Party,10.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2013-10-26,Communist Party of Bohemia and Moravia,14.9,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2013-11-13,Communist Party of Bohemia and Moravia,17.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1579,6 +1580,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-30,Communist Party of Bohemia and Moravia,2.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2026-10-05,Communist Party of Bohemia and Moravia,3.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2026-10-06,Communist Party of Bohemia and Moravia,1.8,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2026-10-31,Communist Party of Bohemia and Moravia,2.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2026-11-03,Communist Party of Bohemia and Moravia,2.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2013-10-26,Czech Pirate Party,2.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2013-11-13,Czech Pirate Party,3.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -2231,6 +2233,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Czech Pirate Party,6.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2026-10-06,Czech Pirate Party,7.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2026-10-30,Czech Pirate Party,7.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2026-10-31,Czech Pirate Party,7.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2026-11-03,Czech Pirate Party,6.6,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2021-04-01,Czech Sovereignty of Social Democracy,6.2,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy
 2021-04-17,Czech Sovereignty of Social Democracy,32.2,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy
@@ -3092,6 +3095,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Freedom and Direct Democracy,8.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2026-10-06,Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2026-10-30,Freedom and Direct Democracy,5.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2026-10-31,Freedom and Direct Democracy,8.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2026-11-03,Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2013-10-26,Green Party,3.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2013-11-13,Green Party,2.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3822,6 +3826,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,KDU-ČSL,3.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2026-10-06,KDU-ČSL,2.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2026-10-30,KDU-ČSL,4.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
+2026-10-31,KDU-ČSL,4.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2026-11-03,KDU-ČSL,4.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2026-01-07,"Law, Respect, Expertise",1.1,,,
 2026-02-17,"Law, Respect, Expertise",1.6,,,
@@ -3834,6 +3839,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-30,"Law, Respect, Expertise",2.0,,,
 2026-10-05,"Law, Respect, Expertise",1.2,,,
 2026-10-06,"Law, Respect, Expertise",1.8,,,
+2026-10-31,"Law, Respect, Expertise",2.0,,,
 2026-11-03,"Law, Respect, Expertise",1.3,,,
 2014-04-09,Mayors and Independents,1.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2014-10-11,Mayors and Independents,3.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4261,6 +4267,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Mayors and Independents,18.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2026-10-06,Mayors and Independents,16.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2026-10-30,Mayors and Independents,23.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2026-10-31,Mayors and Independents,18.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2026-11-03,Mayors and Independents,17.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-06-30,Motorists for Themselves,2.7,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2024-08-08,Motorists for Themselves,4.1,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
@@ -4389,6 +4396,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Motorists for Themselves,5.7,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2026-10-06,Motorists for Themselves,4.6,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2026-10-30,Motorists for Themselves,4.5,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
+2026-10-31,Motorists for Themselves,3.0,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2026-11-03,Motorists for Themselves,5.9,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2026-02-17,Our Czechia,4.7,,,
 2026-02-27,Our Czechia,3.5,,,
@@ -4418,6 +4426,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,Our Czechia,2.3,,,
 2026-10-06,Our Czechia,1.9,,,
 2026-10-30,Our Czechia,3.0,,,
+2026-10-31,Our Czechia,3.0,,,
 2026-11-03,Our Czechia,4.7,,,
 2020-10-25,Pirates and Mayors,24.5,Centre,Liberalism Progressivism Decentralization Environmentalism Direct democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Pirates_and_Mayors
 2021-01-10,Pirates and Mayors,19.3,Centre,Liberalism Progressivism Decentralization Environmentalism Direct democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Pirates_and_Mayors
@@ -5917,6 +5926,7 @@ date,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,TOP 09,2.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2026-10-06,TOP 09,3.7,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2026-10-30,TOP 09,2.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
+2026-10-31,TOP 09,2.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2026-11-03,TOP 09,2.8,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2019-06-17,Tricolour,1.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2019-06-26,Tricolour,3.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
