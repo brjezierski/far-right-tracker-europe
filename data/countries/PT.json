@@ -7,7 +7,7 @@
   "activeParties": [
     "Chega"
   ],
-  "latestSupport": 26.62,
+  "latestSupport": 27.28,
   "datapointsByParty": {
     "Chega": [
       {
@@ -1288,6 +1288,10 @@
       },
       {
         "date": "2026-10-26",
+        "value": 27.3
+      },
+      {
+        "date": "2026-11-02",
         "value": 27.3
       }
     ]
@@ -13925,6 +13929,34 @@
       {
         "date": "2026-10-26",
         "value": 26.62
+      },
+      {
+        "date": "2026-10-27",
+        "value": 26.71
+      },
+      {
+        "date": "2026-10-28",
+        "value": 26.81
+      },
+      {
+        "date": "2026-10-29",
+        "value": 26.9
+      },
+      {
+        "date": "2026-10-30",
+        "value": 27.0
+      },
+      {
+        "date": "2026-10-31",
+        "value": 27.09
+      },
+      {
+        "date": "2026-11-01",
+        "value": 27.19
+      },
+      {
+        "date": "2026-11-02",
+        "value": 27.28
       }
     ]
   },
@@ -26892,6 +26924,34 @@
     {
       "date": "2026-10-26",
       "value": 26.62
+    },
+    {
+      "date": "2026-10-27",
+      "value": 26.71
+    },
+    {
+      "date": "2026-10-28",
+      "value": 26.81
+    },
+    {
+      "date": "2026-10-29",
+      "value": 26.9
+    },
+    {
+      "date": "2026-10-30",
+      "value": 27.0
+    },
+    {
+      "date": "2026-10-31",
+      "value": 27.09
+    },
+    {
+      "date": "2026-11-01",
+      "value": 27.19
+    },
+    {
+      "date": "2026-11-02",
+      "value": 27.28
     }
   ],
   "activePartiesByDate": {
@@ -36409,9 +36469,30 @@
     ],
     "2026-10-26": [
       "Chega"
+    ],
+    "2026-10-27": [
+      "Chega"
+    ],
+    "2026-10-28": [
+      "Chega"
+    ],
+    "2026-10-29": [
+      "Chega"
+    ],
+    "2026-10-30": [
+      "Chega"
+    ],
+    "2026-10-31": [
+      "Chega"
+    ],
+    "2026-11-01": [
+      "Chega"
+    ],
+    "2026-11-02": [
+      "Chega"
     ]
   },
-  "latestUpdate": "2026-10-26",
+  "latestUpdate": "2026-11-02",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Portuguese_legislative_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Portuguese_legislative_election",
