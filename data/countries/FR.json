@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 37.83,
+  "latestSupport": 37.93,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1400,6 +1400,10 @@
       },
       {
         "date": "2026-11-10",
+        "value": 1.5
+      },
+      {
+        "date": "2026-11-12",
         "value": 2.0
       }
     ],
@@ -2810,7 +2814,11 @@
       },
       {
         "date": "2026-11-10",
-        "value": 27.0
+        "value": 30.5
+      },
+      {
+        "date": "2026-11-12",
+        "value": 31.0
       }
     ],
     "Reconquête": [
@@ -3496,7 +3504,11 @@
       },
       {
         "date": "2026-11-10",
-        "value": 2.0
+        "value": 2.5
+      },
+      {
+        "date": "2026-11-12",
+        "value": 3.0
       }
     ]
   },
@@ -23260,23 +23272,31 @@
       },
       {
         "date": "2026-11-06",
-        "value": 1.47
+        "value": 1.45
       },
       {
         "date": "2026-11-07",
-        "value": 1.47
+        "value": 1.43
       },
       {
         "date": "2026-11-08",
-        "value": 1.47
+        "value": 1.41
       },
       {
         "date": "2026-11-09",
-        "value": 1.47
+        "value": 1.39
       },
       {
         "date": "2026-11-10",
+        "value": 1.37
+      },
+      {
+        "date": "2026-11-11",
         "value": 1.47
+      },
+      {
+        "date": "2026-11-12",
+        "value": 1.57
       }
     ],
     "Rassemblement National": [
@@ -43038,23 +43058,31 @@
       },
       {
         "date": "2026-11-06",
-        "value": 34.07
+        "value": 34.21
       },
       {
         "date": "2026-11-07",
-        "value": 33.71
+        "value": 33.99
       },
       {
         "date": "2026-11-08",
-        "value": 33.35
+        "value": 33.77
       },
       {
         "date": "2026-11-09",
-        "value": 32.99
+        "value": 33.55
       },
       {
         "date": "2026-11-10",
-        "value": 32.63
+        "value": 33.33
+      },
+      {
+        "date": "2026-11-11",
+        "value": 33.13
+      },
+      {
+        "date": "2026-11-12",
+        "value": 32.93
       }
     ],
     "Reconquête": [
@@ -50572,23 +50600,31 @@
       },
       {
         "date": "2026-11-06",
-        "value": 3.97
+        "value": 3.99
       },
       {
         "date": "2026-11-07",
-        "value": 3.91
+        "value": 3.95
       },
       {
         "date": "2026-11-08",
-        "value": 3.85
+        "value": 3.91
       },
       {
         "date": "2026-11-09",
-        "value": 3.79
+        "value": 3.87
       },
       {
         "date": "2026-11-10",
-        "value": 3.73
+        "value": 3.83
+      },
+      {
+        "date": "2026-11-11",
+        "value": 3.63
+      },
+      {
+        "date": "2026-11-12",
+        "value": 3.43
       }
     ]
   },
@@ -71147,23 +71183,31 @@
     },
     {
       "date": "2026-11-06",
-      "value": 39.51
+      "value": 39.65
     },
     {
       "date": "2026-11-07",
-      "value": 39.09
+      "value": 39.37
     },
     {
       "date": "2026-11-08",
-      "value": 38.67
+      "value": 39.09
     },
     {
       "date": "2026-11-09",
-      "value": 38.25
+      "value": 38.81
     },
     {
       "date": "2026-11-10",
-      "value": 37.83
+      "value": 38.53
+    },
+    {
+      "date": "2026-11-11",
+      "value": 38.23
+    },
+    {
+      "date": "2026-11-12",
+      "value": 37.93
     }
   ],
   "activePartiesByDate": {
@@ -93637,9 +93681,19 @@
       "Debout la France",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-11-11": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
+    ],
+    "2026-11-12": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-11-10",
+  "latestUpdate": "2026-11-12",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
