@@ -13,10 +13,9 @@
   "activeParties": [
     "Greek Solution",
     "Niki",
-    "Spartans",
     "Voice of Reason"
   ],
-  "latestSupport": 12.97,
+  "latestSupport": 11.709999999999999,
   "datapointsByParty": {
     "Golden Dawn": [
       {
@@ -3427,11 +3426,15 @@
       },
       {
         "date": "2026-11-11",
-        "value": 7.3
+        "value": 7.15
       },
       {
         "date": "2026-11-12",
-        "value": 7.05
+        "value": 7.1
+      },
+      {
+        "date": "2026-11-13",
+        "value": 7.0
       }
     ],
     "Independent Greeks": [
@@ -5809,7 +5812,11 @@
       },
       {
         "date": "2026-11-12",
-        "value": 1.25
+        "value": 1.2
+      },
+      {
+        "date": "2026-11-13",
+        "value": 1.2
       }
     ],
     "Spartans": [
@@ -7289,11 +7296,15 @@
       },
       {
         "date": "2026-11-11",
-        "value": 3.7
+        "value": 3.8
       },
       {
         "date": "2026-11-12",
-        "value": 3.8
+        "value": 3.7
+      },
+      {
+        "date": "2026-11-13",
+        "value": 3.9
       }
     ]
   },
@@ -32379,15 +32390,19 @@
       },
       {
         "date": "2026-11-10",
-        "value": 6.85
+        "value": 6.83
       },
       {
         "date": "2026-11-11",
-        "value": 6.89
+        "value": 6.86
       },
       {
         "date": "2026-11-12",
-        "value": 6.82
+        "value": 6.8
+      },
+      {
+        "date": "2026-11-13",
+        "value": 6.81
       }
     ],
     "Independent Greeks": [
@@ -47689,7 +47704,11 @@
       },
       {
         "date": "2026-11-12",
-        "value": 1.29
+        "value": 1.28
+      },
+      {
+        "date": "2026-11-13",
+        "value": 1.12
       }
     ],
     "Spartans": [
@@ -55945,15 +55964,19 @@
       },
       {
         "date": "2026-11-10",
-        "value": 3.52
+        "value": 3.53
       },
       {
         "date": "2026-11-11",
-        "value": 3.5
+        "value": 3.52
       },
       {
         "date": "2026-11-12",
         "value": 3.56
+      },
+      {
+        "date": "2026-11-13",
+        "value": 3.78
       }
     ]
   },
@@ -73112,15 +73135,19 @@
     },
     {
       "date": "2026-11-10",
-      "value": 11.7
+      "value": 11.69
     },
     {
       "date": "2026-11-11",
-      "value": 11.71
+      "value": 11.7
     },
     {
       "date": "2026-11-12",
-      "value": 11.67
+      "value": 11.64
+    },
+    {
+      "date": "2026-11-13",
+      "value": 11.71
     }
   ],
   "activePartiesByDate": {
@@ -92889,9 +92916,14 @@
       "Niki",
       "Spartans",
       "Voice of Reason"
+    ],
+    "2026-11-13": [
+      "Greek Solution",
+      "Niki",
+      "Voice of Reason"
     ]
   },
-  "latestUpdate": "2026-11-12",
+  "latestUpdate": "2026-11-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_September_2015_Greek_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Greek_parliamentary_election",

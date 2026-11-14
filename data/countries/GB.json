@@ -10,7 +10,7 @@
     "Reform UK",
     "Restore Britain"
   ],
-  "latestSupport": 25.229999999999997,
+  "latestSupport": 25.13,
   "datapointsByParty": {
     "Reform UK": [
       {
@@ -5223,7 +5223,7 @@
       },
       {
         "date": "2026-11-12",
-        "value": 23.0
+        "value": 21.0
       }
     ],
     "Restore Britain": [
@@ -5641,7 +5641,7 @@
       },
       {
         "date": "2026-11-12",
-        "value": 2.0
+        "value": 3.5
       }
     ],
     "UK Independence Party": [
@@ -24299,15 +24299,15 @@
       },
       {
         "date": "2026-11-10",
-        "value": 21.2
+        "value": 21.06
       },
       {
         "date": "2026-11-11",
-        "value": 21.26
+        "value": 21.0
       },
       {
         "date": "2026-11-12",
-        "value": 21.33
+        "value": 20.93
       }
     ],
     "Restore Britain": [
@@ -25521,15 +25521,15 @@
       },
       {
         "date": "2026-11-10",
-        "value": 4.23
+        "value": 4.33
       },
       {
         "date": "2026-11-11",
-        "value": 4.07
+        "value": 4.27
       },
       {
         "date": "2026-11-12",
-        "value": 3.9
+        "value": 4.2
       }
     ],
     "UK Independence Party": [
@@ -63630,15 +63630,15 @@
     },
     {
       "date": "2026-11-10",
-      "value": 25.43
+      "value": 25.39
     },
     {
       "date": "2026-11-11",
-      "value": 25.33
+      "value": 25.27
     },
     {
       "date": "2026-11-12",
-      "value": 25.23
+      "value": 25.13
     }
   ],
   "activePartiesByDate": {

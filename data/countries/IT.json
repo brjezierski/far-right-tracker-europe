@@ -14,7 +14,7 @@
     "Lega",
     "National Future"
   ],
-  "latestSupport": 39.68,
+  "latestSupport": 40.11000000000001,
   "datapointsByParty": {
     "Brothers of Italy": [
       {
@@ -10307,7 +10307,7 @@
       },
       {
         "date": "2026-11-02",
-        "value": 29.0
+        "value": 28.5
       },
       {
         "date": "2026-11-03",
@@ -10327,7 +10327,11 @@
       },
       {
         "date": "2026-11-11",
-        "value": 27.25
+        "value": 27.57
+      },
+      {
+        "date": "2026-11-12",
+        "value": 27.9
       }
     ],
     "CasaPound": [
@@ -18481,7 +18485,11 @@
       },
       {
         "date": "2026-11-11",
-        "value": 5.9
+        "value": 5.93
+      },
+      {
+        "date": "2026-11-12",
+        "value": 5.7
       }
     ],
     "Lega Nord": [
@@ -22793,7 +22801,7 @@
       },
       {
         "date": "2026-09-10",
-        "value": 7.57
+        "value": 7.58
       },
       {
         "date": "2026-09-14",
@@ -22905,7 +22913,7 @@
       },
       {
         "date": "2026-11-02",
-        "value": 5.8
+        "value": 6.15
       },
       {
         "date": "2026-11-03",
@@ -22925,7 +22933,11 @@
       },
       {
         "date": "2026-11-11",
-        "value": 6.05
+        "value": 6.2
+      },
+      {
+        "date": "2026-11-12",
+        "value": 6.9
       }
     ]
   },
@@ -42877,51 +42889,55 @@
       },
       {
         "date": "2026-10-31",
-        "value": 27.89
+        "value": 27.86
       },
       {
         "date": "2026-11-01",
-        "value": 27.99
+        "value": 27.92
       },
       {
         "date": "2026-11-02",
-        "value": 28.08
+        "value": 27.98
       },
       {
         "date": "2026-11-03",
-        "value": 27.48
+        "value": 27.38
       },
       {
         "date": "2026-11-04",
-        "value": 27.44
+        "value": 27.34
       },
       {
         "date": "2026-11-05",
-        "value": 27.53
+        "value": 27.43
       },
       {
         "date": "2026-11-06",
-        "value": 27.58
+        "value": 27.48
       },
       {
         "date": "2026-11-07",
-        "value": 27.63
+        "value": 27.53
       },
       {
         "date": "2026-11-08",
-        "value": 27.68
+        "value": 27.58
       },
       {
         "date": "2026-11-09",
-        "value": 27.73
+        "value": 27.63
       },
       {
         "date": "2026-11-10",
-        "value": 27.55
+        "value": 27.54
       },
       {
         "date": "2026-11-11",
-        "value": 27.38
+        "value": 27.44
+      },
+      {
+        "date": "2026-11-12",
+        "value": 27.76
       }
     ],
     "CasaPound": [
@@ -58868,6 +58884,10 @@
       {
         "date": "2026-11-11",
         "value": 6.13
+      },
+      {
+        "date": "2026-11-12",
+        "value": 5.79
       }
     ],
     "Lega Nord": [
@@ -67119,35 +67139,35 @@
       },
       {
         "date": "2026-09-10",
-        "value": 7.49
+        "value": 7.5
       },
       {
         "date": "2026-09-11",
-        "value": 7.48
+        "value": 7.49
       },
       {
         "date": "2026-09-12",
-        "value": 7.47
+        "value": 7.48
       },
       {
         "date": "2026-09-13",
-        "value": 7.47
+        "value": 7.48
       },
       {
         "date": "2026-09-14",
-        "value": 7.46
+        "value": 7.47
       },
       {
         "date": "2026-09-15",
-        "value": 7.42
+        "value": 7.43
       },
       {
         "date": "2026-09-16",
-        "value": 7.52
+        "value": 7.53
       },
       {
         "date": "2026-09-17",
-        "value": 7.53
+        "value": 7.54
       },
       {
         "date": "2026-09-18",
@@ -67323,51 +67343,55 @@
       },
       {
         "date": "2026-10-31",
-        "value": 6.69
+        "value": 6.71
       },
       {
         "date": "2026-11-01",
-        "value": 6.58
+        "value": 6.63
       },
       {
         "date": "2026-11-02",
-        "value": 6.47
+        "value": 6.54
       },
       {
         "date": "2026-11-03",
-        "value": 6.37
+        "value": 6.44
       },
       {
         "date": "2026-11-04",
-        "value": 6.3
+        "value": 6.37
       },
       {
         "date": "2026-11-05",
-        "value": 6.13
+        "value": 6.2
       },
       {
         "date": "2026-11-06",
-        "value": 6.13
+        "value": 6.2
       },
       {
         "date": "2026-11-07",
-        "value": 6.12
+        "value": 6.2
       },
       {
         "date": "2026-11-08",
-        "value": 6.12
+        "value": 6.19
       },
       {
         "date": "2026-11-09",
-        "value": 6.12
+        "value": 6.19
       },
       {
         "date": "2026-11-10",
-        "value": 6.14
+        "value": 6.2
       },
       {
         "date": "2026-11-11",
-        "value": 6.17
+        "value": 6.2
+      },
+      {
+        "date": "2026-11-12",
+        "value": 6.56
       }
     ]
   },
@@ -87154,35 +87178,35 @@
     },
     {
       "date": "2026-09-10",
-      "value": 39.75
+      "value": 39.76
     },
     {
       "date": "2026-09-11",
-      "value": 39.85
+      "value": 39.86
     },
     {
       "date": "2026-09-12",
-      "value": 39.94
+      "value": 39.95
     },
     {
       "date": "2026-09-13",
-      "value": 40.05
+      "value": 40.06
     },
     {
       "date": "2026-09-14",
-      "value": 40.15
+      "value": 40.16
     },
     {
       "date": "2026-09-15",
-      "value": 40.19
+      "value": 40.2
     },
     {
       "date": "2026-09-16",
-      "value": 40.25
+      "value": 40.26
     },
     {
       "date": "2026-09-17",
-      "value": 40.19
+      "value": 40.2
     },
     {
       "date": "2026-09-18",
@@ -87358,51 +87382,55 @@
     },
     {
       "date": "2026-10-31",
-      "value": 40.08
+      "value": 40.07
     },
     {
       "date": "2026-11-01",
-      "value": 40.05
+      "value": 40.03
     },
     {
       "date": "2026-11-02",
-      "value": 40.01
+      "value": 39.98
     },
     {
       "date": "2026-11-03",
-      "value": 39.71
+      "value": 39.68
     },
     {
       "date": "2026-11-04",
-      "value": 39.74
+      "value": 39.71
     },
     {
       "date": "2026-11-05",
-      "value": 39.7
+      "value": 39.67
     },
     {
       "date": "2026-11-06",
-      "value": 39.75
+      "value": 39.72
     },
     {
       "date": "2026-11-07",
-      "value": 39.79
+      "value": 39.77
     },
     {
       "date": "2026-11-08",
-      "value": 39.85
+      "value": 39.82
     },
     {
       "date": "2026-11-09",
-      "value": 39.9
+      "value": 39.87
     },
     {
       "date": "2026-11-10",
-      "value": 39.78
+      "value": 39.83
     },
     {
       "date": "2026-11-11",
-      "value": 39.68
+      "value": 39.77
+    },
+    {
+      "date": "2026-11-12",
+      "value": 40.11
     }
   ],
   "activePartiesByDate": {
@@ -108628,9 +108656,14 @@
       "Brothers of Italy",
       "Lega",
       "National Future"
+    ],
+    "2026-11-12": [
+      "Brothers of Italy",
+      "Lega",
+      "National Future"
     ]
   },
-  "latestUpdate": "2026-11-11",
+  "latestUpdate": "2026-11-12",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2018_Italian_general_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Italian_general_election",
