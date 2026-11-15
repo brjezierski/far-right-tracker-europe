@@ -11,7 +11,7 @@
     "Rassemblement National",
     "Reconquête"
   ],
-  "latestSupport": 37.93,
+  "latestSupport": 38.0,
   "datapointsByParty": {
     "Debout la France": [
       {
@@ -1405,6 +1405,10 @@
       {
         "date": "2026-11-12",
         "value": 2.0
+      },
+      {
+        "date": "2026-11-13",
+        "value": 3.0
       }
     ],
     "Rassemblement National": [
@@ -2819,6 +2823,10 @@
       {
         "date": "2026-11-12",
         "value": 31.0
+      },
+      {
+        "date": "2026-11-13",
+        "value": 33.0
       }
     ],
     "Reconquête": [
@@ -3509,6 +3517,10 @@
       {
         "date": "2026-11-12",
         "value": 3.0
+      },
+      {
+        "date": "2026-11-13",
+        "value": 4.5
       }
     ]
   },
@@ -23297,6 +23309,10 @@
       {
         "date": "2026-11-12",
         "value": 1.57
+      },
+      {
+        "date": "2026-11-13",
+        "value": 1.8
       }
     ],
     "Rassemblement National": [
@@ -43083,6 +43099,10 @@
       {
         "date": "2026-11-12",
         "value": 32.93
+      },
+      {
+        "date": "2026-11-13",
+        "value": 32.7
       }
     ],
     "Reconquête": [
@@ -50625,6 +50645,10 @@
       {
         "date": "2026-11-12",
         "value": 3.43
+      },
+      {
+        "date": "2026-11-13",
+        "value": 3.5
       }
     ]
   },
@@ -71208,6 +71232,10 @@
     {
       "date": "2026-11-12",
       "value": 37.93
+    },
+    {
+      "date": "2026-11-13",
+      "value": 38.0
     }
   ],
   "activePartiesByDate": {
@@ -93691,9 +93719,14 @@
       "Debout la France",
       "Rassemblement National",
       "Reconquête"
+    ],
+    "2026-11-13": [
+      "Debout la France",
+      "Rassemblement National",
+      "Reconquête"
     ]
   },
-  "latestUpdate": "2026-11-12",
+  "latestUpdate": "2026-11-13",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2017_French_presidential_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_French_presidential_election",
