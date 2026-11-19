@@ -8,7 +8,7 @@
   "activeParties": [
     "Finns Party"
   ],
-  "latestSupport": 15.96,
+  "latestSupport": 15.78,
   "datapointsByParty": {
     "Finnish Reform Movement": [
       {
@@ -1216,6 +1216,10 @@
       {
         "date": "2026-11-03",
         "value": 16.7
+      },
+      {
+        "date": "2026-11-11",
+        "value": 15.4
       }
     ]
   },
@@ -20658,6 +20662,38 @@
       {
         "date": "2026-11-03",
         "value": 15.96
+      },
+      {
+        "date": "2026-11-04",
+        "value": 15.94
+      },
+      {
+        "date": "2026-11-05",
+        "value": 15.92
+      },
+      {
+        "date": "2026-11-06",
+        "value": 15.89
+      },
+      {
+        "date": "2026-11-07",
+        "value": 15.87
+      },
+      {
+        "date": "2026-11-08",
+        "value": 15.85
+      },
+      {
+        "date": "2026-11-09",
+        "value": 15.82
+      },
+      {
+        "date": "2026-11-10",
+        "value": 15.8
+      },
+      {
+        "date": "2026-11-11",
+        "value": 15.78
       }
     ]
   },
@@ -37909,6 +37945,38 @@
     {
       "date": "2026-11-03",
       "value": 15.96
+    },
+    {
+      "date": "2026-11-04",
+      "value": 15.94
+    },
+    {
+      "date": "2026-11-05",
+      "value": 15.92
+    },
+    {
+      "date": "2026-11-06",
+      "value": 15.89
+    },
+    {
+      "date": "2026-11-07",
+      "value": 15.87
+    },
+    {
+      "date": "2026-11-08",
+      "value": 15.85
+    },
+    {
+      "date": "2026-11-09",
+      "value": 15.82
+    },
+    {
+      "date": "2026-11-10",
+      "value": 15.8
+    },
+    {
+      "date": "2026-11-11",
+      "value": 15.78
     }
   ],
   "activePartiesByDate": {
@@ -51811,9 +51879,33 @@
     ],
     "2026-11-03": [
       "Finns Party"
+    ],
+    "2026-11-04": [
+      "Finns Party"
+    ],
+    "2026-11-05": [
+      "Finns Party"
+    ],
+    "2026-11-06": [
+      "Finns Party"
+    ],
+    "2026-11-07": [
+      "Finns Party"
+    ],
+    "2026-11-08": [
+      "Finns Party"
+    ],
+    "2026-11-09": [
+      "Finns Party"
+    ],
+    "2026-11-10": [
+      "Finns Party"
+    ],
+    "2026-11-11": [
+      "Finns Party"
     ]
   },
-  "latestUpdate": "2026-11-03",
+  "latestUpdate": "2026-11-11",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Finnish_parliamentary_election",
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Finnish_parliamentary_election",
