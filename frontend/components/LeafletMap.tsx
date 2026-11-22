@@ -113,10 +113,14 @@ export default function LeafletMap({
       keyboard: false,
     });
 
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      subdomains: "abcd",
-    }).addTo(map);
+    // CARTO's raster tiles now require an API key; Esri's light gray basemap does not.
+    L.tileLayer(
+      "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+      {
+        attribution: "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
+        maxNativeZoom: 16,
+      },
+    ).addTo(map);
 
     mapRef.current = map;
     let isMounted = true;
