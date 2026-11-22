@@ -183,7 +183,8 @@ export default function LeafletMap({
 
             // Click to navigate
             layer.on("click", function () {
-              if (iso2) {
+              // Only countries with data have a generated page.
+              if (iso2 && summary?.countries[iso2]) {
                 router.push(`/country/${iso2}`);
               }
             });

@@ -21,3 +21,4 @@ data/countries/*.json
 # Pipeline debug output
 debug*
 a_table*
+*.tsbuildinfo
