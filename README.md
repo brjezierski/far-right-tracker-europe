@@ -1,181 +1,71 @@
-# Europe Nationalist Parties Support Map
+# Far-Right Tracker Europe
 
-This project displays a choropleth map of Europe showing support percentages for nationalist (often far-right populist) parties by country. Hover to see party names and current support; click a country to view time-series trends, toggle time ranges, and see data sources.
+[![CI](https://github.com/brjezierski/far-right-tracker-europe/actions/workflows/ci.yml/badge.svg)](https://github.com/brjezierski/far-right-tracker-europe/actions/workflows/ci.yml)
+[![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+[![Data: CC BY-SA 4.0](https://img.shields.io/badge/data-CC%20BY--SA%204.0-lightgrey.svg)](DATA_LICENSE.md)
 
-## Architecture
+An interactive map of polling support for far-right and national-conservative parties across Europe.
+Drag the timeline to see how support has moved since 2010, hover a country for its parties, and click
+it for the per-party time series and sources.
 
-- Frontend: Next.js (React) + TypeScript + MapLibre GL JS + `@macrostrat/choropleth` utilities + ECharts for time-series.
-- Data pipeline: Python module scraping Wikipedia for active nationalist parties, fetching polling/aggregated vote-intention per country, and outputting JSON to `data/` consumed by the frontend.
-- Update: Daily via a GitHub Actions workflow.
+**Live site:** https://brjezierski.github.io/far-right-tracker-europe/
 
-## Data sources
+All numbers come from the opinion-polling pages on Wikipedia. What counts as "far-right" is explained in
+[documentation/methodology.md](documentation/methodology.md), including the limits of that definition.
 
-- Polling data is taken from Wikipedia country-specific opinion polling pages (scraped tables)
-- The party position and ideology is taken from its Wikipedia article
+## How it works
+
+```
+Wikipedia polling pages ──► pipeline/ (Python, `frt`) ──► data/ (CSV + JSON) ──► frontend/ (Next.js) ──► GitHub Pages
+```
+
+- `pipeline/` scrapes the polling tables, annotates each party with its position and ideology, cleans the
+  series and writes one folder of CSVs per country.
+- `frontend/` is a static Next.js site (Leaflet map, ECharts charts) that reads `data/` at build time.
+- Two GitHub Actions run it: **Update data** (daily, scrapes and commits changed data, then deploys) and
+  **Deploy site** (on pushes that touch the frontend or data).
+
+More detail: [architecture](documentation/architecture.md) · [data format](documentation/data-format.md) ·
+[known issues](documentation/known-issues.md).
 
 ## Getting started
 
-Prerequisites:
-
-- Node.js 18+
-- Python 3.10+
-
-Install and run:
-
-1. Install frontend deps
-   ```bash
-   cd frontend
-   npm install
-   ```
-2. Set up uv environment and activate
-  ```
-  source .venv/bin/activate
-  ```
-3. Install data pipeline deps and fetch data
-   ```bash
-   cd ../data-pipeline
-   python -m pipeline.update
-   ```
-4. Start the frontend (in another terminal)
-   ```bash
-   cd ../frontend
-   npm run dev
-   ```
-5. Open http://localhost:3000
-6. Alternatively, to generate the new static website run
-   ```
-   cd ../frontend
-   npm run build 
-   ```
-
-## Updating data daily
-
-- A GitHub Actions workflow `.github/workflows/update-data.yml` runs daily to refresh JSON under `data/` and commit changes.
-
-### Data Pipeline
-
-1. Collect and save polling data for **all parties** found in polling tables (not just far-right)
-2. Store data in **CSV format** instead of JSON for better data analysis compatibility
-3. Include political position and ideology metadata for each party
-4. Generate summary.json from CSV files rather than in-memory data
-
-
-## Project structure
-
-- `frontend/` - Next.js app serving the map and country detail pages, reading JSON from `../data`.
-- `data-pipeline/` - Python scraping/ETL code. Produces:
-  - `../data/summary.json` - country-level latest support and parties
-  - `../data/countries/<ISO2>.json` - time series and sources
-- `data/` - Generated JSON files.
-
-### Data structure
-
-
-#### Country Directories (`data/countries/{ISO2}/`)
-
-Each country now has its own directory containing:
-
-##### `polling_data.csv`
-Time series polling data for all parties:
-```csv
-date,party,polling_value,political_position,ideology,wikipedia_url
-2025-09-01,Social_Democratic_Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
-2025-09-01,Alternative_for_Germany,17.2,Far-right,Right-wing populism,https://en.wikipedia.org/wiki/...
-2025-08-29,Social_Democratic_Party,24.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
-```
-
-##### `parties.csv`
-Party metadata:
-```csv
-party,political_position,ideology,wikipedia_url
-Social_Democratic_Party,Centre-left,Social democracy,https://en.wikipedia.org/wiki/...
-Alternative_for_Germany,Far-right,Right-wing populism,https://en.wikipedia.org/wiki/...
-```
-
-##### `metadata.json`
-Country and source information:
-```json
-{
-  "country": "Germany",
-  "iso2": "DE",
-  "sources": [
-    {"type": "wikipedia", "url": "https://en.wikipedia.org/wiki/..."}
-  ],
-  "updatedAt": "2025-09-04T..."
-}
-```
-
-#### Summary File (`data/summary.json`)
-
-Generated from CSV data:
-```json
-{
-  "countries": {
-    "DE": {
-      "country": "Germany",
-      "iso2": "DE",
-      "parties": ["Social_Democratic_Party", "Alternative_for_Germany", ...],
-      "farRightParties": ["Alternative_for_Germany"],
-      "latestSupport": 85.5,
-      "latestFarRightSupport": 17.2,
-      "latestUpdate": "2025-09-04T..."
-    }
-  },
-  "updatedAt": "2025-09-04T..."
-}
-```
-
-## Usage
+You need [uv](https://docs.astral.sh/uv/) and Node.js 20+ (`frontend/.nvmrc`).
 
 ```bash
-# Run for all countries (full scraping)
-python -m pipeline.update
-
-# Run for specific country  
-python -m pipeline.update Germany
-
-# Rebuild summary.json from existing CSV data without scraping
-python -m pipeline.update --no-scraping
-
-# Rebuild summary for specific country from CSV data
-python -m pipeline.update Germany --no-scraping
-
-# Enable debug mode (saves debug CSV files and prints detailed parsing info)
-python -m pipeline.update Netherlands --debug
+make setup        # install Python and Node dependencies
+make summary      # build the JSON the site needs from the CSVs already in data/ (no scraping)
+make dev          # start the site at http://localhost:3000
 ```
 
-## Dynamic Far-Right Classification
+Other commands:
 
-The system now determines far-right classification dynamically when generating `summary.json`:
+```bash
+make data                    # scrape every country (slow, hits Wikipedia)
+make data COUNTRY=Germany    # scrape one country
+make build                   # static site in frontend/out
+make lint test               # what CI runs
+```
 
-1. **No Pre-stored Classification**: The CSV files no longer store `is_far_right` flags
-2. **Dynamic Evaluation**: Far-right status is determined by checking if any of the defined categories (`far-right`, `national-conservatism`) appear in the party's political position or ideology
-3. **Flexible Categories**: You can modify the `CATEGORIES` list and rebuild the summary without re-scraping data
-4. **No-Scraping Mode**: Use `--no-scraping` to rebuild `summary.json` from existing CSV data with current category definitions
+The CLI behind these is `frt update [COUNTRY] [--no-scraping] [--debug]`; run it from `pipeline/` with
+`uv run frt update --help`.
 
+## Repository layout
 
-# Issues
+| Path | What |
+| --- | --- |
+| `pipeline/` | Python package `frt`: scraping, classification, postprocessing, CLI, tests |
+| `pipeline/config/polling_sources.json` | Which Wikipedia pages and table headers to scrape per country |
+| `frontend/` | Next.js app |
+| `data/` | Committed CSVs and metadata per country, plus `summary.json` |
+| `documentation/` | Methodology, data format, architecture, known issues |
 
-Clicking on Bosnia
-Error: Page "/country/[iso2]/page" is missing param "/country/BA" in "generateStaticParams()", which is required with "output: export" config.
-Prompt: Disallow clicking on countries which don't have any data to display
+## Contributing
 
-Data display:
-- Lithuania 2024 latest polling not matching
-- Turkey data
+See [CONTRIBUTING.md](CONTRIBUTING.md). Wrong party, wrong number or a classification you disagree with?
+Open a [data error issue](../../issues/new?template=data-error.md).
 
-Lithuanian green party is excluded even though it is in ECR
-Reformed Political Party??
+## Licence
 
-
-# Past
-  "Russia": {
-    "links": [
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2016_Russian_legislative_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2021_Russian_legislative_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Russian_legislative_election"
-    ],
-    "headers": ["Pre-campaign polls"]
-  },
-
-
+Code is MIT ([LICENSE](LICENSE)). The data is derived from Wikipedia and is licensed CC BY-SA 4.0
+([DATA_LICENSE.md](DATA_LICENSE.md)).
