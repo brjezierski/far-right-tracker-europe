@@ -50,7 +50,8 @@ Install and run:
 
 ## Updating data daily
 
-- A GitHub Actions workflow `.github/workflows/update-data.yml` runs daily to refresh JSON under `data/` and commit changes.
+- `.github/workflows/refresh-data.yml` runs daily to refresh JSON under `data/`, commit the changes, then call the deploy workflow.
+- `.github/workflows/deploy-site.yml` builds the frontend and commits the output to `docs/` (served by GitHub Pages). It runs after each data refresh, on pushes to `main` that touch `frontend/` or `data/`, and manually.
 
 ### Data Pipeline
 
