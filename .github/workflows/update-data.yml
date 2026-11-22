@@ -1,4 +1,4 @@
-name: Update Data
+name: Update data
 
 on:
   schedule:
@@ -6,37 +6,37 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write  # Add this!
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
-      - name: Install uv
-        uses: astral-sh/setup-uv@v4
-      - name: Set up Python
-        run: uv python install 3.11
-      - name: Install deps
-        run: uv sync
-      - name: Run update
-        run: uv run python -m data-pipeline.pipeline.update
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      - name: Install frontend dependencies
+      - uses: astral-sh/setup-uv@v4
+      - name: Scrape and rebuild data
         run: |
-          cd frontend
-          npm ci
-      - name: Build static site
+          uv sync
+          uv run python -m data-pipeline.pipeline.update
+      - name: Commit and push if data changed
+        id: commit
         run: |
-          cd frontend
-          npm run build
-      - name: Commit and push
-        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json data/countries/ docs/
-          git commit -m "chore(data): daily refresh" || echo "No changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git commit -m "chore(data): daily refresh"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
