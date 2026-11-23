@@ -32,6 +32,11 @@ def normalize_party_name(s: str) -> str:
     return re.sub(r"\W+", "", s.lower()).replace("_", "").replace("party", "")
 
 
+def clean_section_title(text: str) -> str:
+    """Strip the trailing edit link, e.g. "[edit]" or "[değiştir|kaynağı değiştir]", from a heading."""
+    return re.sub(r"\[[^\]]*\]$", "", text).strip()
+
+
 def parse_date(
     s: str | tuple,
     url: str,
@@ -187,7 +192,7 @@ class WikipediaPollingFetcher:
                                     else node.get_text(strip=True)
                                 )
                                 # remove [edit] from text
-                                node_header_text = re.sub(r"\[edit\]$", "", text_in_node).strip()
+                                node_header_text = clean_section_title(text_in_node)
 
                         if node is None or node.name in stopping_headers:
                             if len(df_dict) > 0:
