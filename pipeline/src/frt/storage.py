@@ -217,7 +217,9 @@ def read_country_data_from_csv(
 
         # Dynamically classify parties as far-right based on categories
         latest_data["is_far_right"] = latest_data.apply(
-            lambda row: is_party_far_right(row["political_position"], row["ideology"], categories),
+            lambda row: is_party_far_right(
+                row["political_position"], row["ideology"], categories, iso2, row["party"]
+            ),
             axis=1,
         )
 

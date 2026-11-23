@@ -68,6 +68,8 @@ def rebuild_summary_from_csv(selected_country=None):
                                 party.get("political_position", ""),
                                 party.get("ideology", ""),
                                 CATEGORIES,
+                                iso2,
+                                party["party"],
                             ),
                         }
         except Exception as e:

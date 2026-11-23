@@ -1,0 +1,6 @@
+{
+  "allow": {},
+  "deny": {
+    "HU": ["Fidesz-KDNP", "Fidesz–KDNP", "Jobbik"]
+  }
+}

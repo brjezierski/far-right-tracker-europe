@@ -13,14 +13,17 @@ The project does not run or verify polls. It is only as accurate as Wikipedia's 
 
 ## What counts as far-right
 
-A party is classified as far-right if its Wikipedia **political position** or **ideology** text contains
-any of the categories in `CATEGORIES` (`pipeline/src/frt/classification.py`):
+A party is classified as far-right if its Wikipedia **political position** contains a category in
+`CATEGORIES` (`pipeline/src/frt/classification.py`), currently only `far-right`. The ideology text is
+consulted only when the position is empty (as for some French parties). `national-conservatism` alone no
+longer qualifies a party.
 
-- `far-right`
-- `national-conservatism`
+Matching is case-insensitive and treats spaces as hyphens. It is a substring match: "Right-wing to
+far-right" counts.
 
-Matching is case-insensitive and treats spaces as hyphens, so "Far right" and "far-right" both match. It is
-a substring match: "Centre-right to far-right" counts.
+Per-country overrides live in `pipeline/config/classification_overrides.json`: a party in `allow` is
+always far-right, a party in `deny` never is, whatever the Wikipedia text says. Names must match the
+`party` column of the country's `parties.csv`.
 
 Consequences worth knowing:
 

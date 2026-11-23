@@ -12,3 +12,4 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 DATA_DIR = Path(os.environ.get("FRT_DATA_DIR", REPO_ROOT / "data"))
 COUNTRIES_DIR = DATA_DIR / "countries"
 SOURCES_PATH = REPO_ROOT / "pipeline" / "config" / "polling_sources.json"
+OVERRIDES_PATH = REPO_ROOT / "pipeline" / "config" / "classification_overrides.json"
