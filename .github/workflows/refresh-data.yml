@@ -21,7 +21,7 @@ jobs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v7
-      - uses: astral-sh/setup-uv@v4
+      - uses: astral-sh/setup-uv@v7
       - name: Scrape and rebuild data
         working-directory: pipeline
         run: |
