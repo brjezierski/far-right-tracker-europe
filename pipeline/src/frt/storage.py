@@ -13,6 +13,7 @@ from frt.config import COUNTRIES_DIR
 from frt.postprocessing import (
     calculate_rolling_average,
     create_daily_series,
+    drop_duplicate_polls,
     filter_pre_2010_datapoints,
     remove_anomalous_values,
     remove_isolated_datapoints,
@@ -99,6 +100,7 @@ def save_country_polling_csv(
             for point in time_series:
                 row_data = {
                     "date": point["date"],
+                    "pollster": point.get("pollster", ""),
                     "party": actual_party_name,
                     "polling_value": point["value"],
                     "political_position": party_info.get("political_position"),
@@ -115,6 +117,9 @@ def save_country_polling_csv(
             df["date"] = pd.to_datetime(df["date"])
 
             df = df.sort_values(["party", "date"])
+
+            # Drop repeats from overlapping source pages before neighbours are counted.
+            df = drop_duplicate_polls(df)
 
             # Filter out pre-2010 datapoints
             logger.info(f"Filtering pre-2010 datapoints for {country}...")
