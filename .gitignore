@@ -1,11 +1,24 @@
-node_modules
-.next
-out
+# Dependencies and build output
+node_modules/
+.next/
+out/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor / OS
 .DS_Store
-data-pipeline/__pycache__
-data-pipeline/pipeline/__pycache__/*pyc
-tests/
-settings.json
-.python-version
+.claude/
+
+# Generated from the CSVs by `frt update --no-scraping`; the site build creates them
+data/countries/*.json
+
+# Pipeline debug output
 debug*
 a_table*
+*.tsbuildinfo
