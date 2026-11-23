@@ -136,10 +136,6 @@ def save_country_polling_csv(
                 logger.info(f"Removing anomalous values for {country}...")
                 df = remove_anomalous_values(df, threshold=10.0, debug=True)
 
-            # Overlapping source pages repeat rows; dedupe after filtering, since
-            # remove_isolated_datapoints counts neighbours.
-            df = df.drop_duplicates()
-
             if not df.empty:
                 df.to_csv(country_dir / "polling_data.csv", index=False)
             else:

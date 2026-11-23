@@ -46,7 +46,6 @@ Applied per country when scraping (`storage.py`, `postprocessing.py`):
    year.
 3. For Spain, Austria, Poland, the Czech Republic and Portugal, anomalous values are removed: points that
    differ by more than 10 percentage points from both the previous and the next poll.
-4. Exact duplicate rows (from overlapping source pages) are dropped.
 
 The chart series is a rolling average over 5 polls, interpolated to one value per day between the first and
 last point.
