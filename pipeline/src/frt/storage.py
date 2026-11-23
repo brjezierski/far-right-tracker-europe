@@ -18,7 +18,6 @@ from frt.postprocessing import (
     remove_isolated_datapoints,
 )
 from frt.series import (
-    calculate_latest_total_support_with_parties,
     calculate_support_from_series,
     generate_daily_support_series,
     get_active_parties_for_date,
@@ -243,17 +242,6 @@ def read_country_data_from_csv(
             # Mark as far-right only if in selected_parties
             party_metadata_for_calc[party] = {"is_far_right": party in selected_parties}
 
-        # Always use calculate_latest_total_support_with_parties to determine active parties
-        result = calculate_latest_total_support_with_parties(
-            series_for_calc, party_metadata_for_calc
-        )
-        if result:
-            _, active_parties = result
-        else:
-            active_parties = []
-
-        logger.info(f"Found {len(active_parties)} active far-right parties")
-
         # Generate both datapointsByParty (raw polls) and seriesByParty (rolling average + daily interpolation)
         datapoints_by_party = {}
         series_by_party = {}
@@ -318,25 +306,23 @@ def read_country_data_from_csv(
                 global_end,
             )
 
-        # Calculate latestSupport using the same logic as the map tooltip
-        # This sums the latest values from seriesByParty for all active parties at today's date
+        # activeParties and latestSupport share one rule: far-right parties seen in the last
+        # 3 polling dates across all parties, so the two fields cannot disagree.
         from datetime import date
 
         today = date.today().strftime("%Y-%m-%d")
+        active_parties = get_active_parties_for_date(
+            series_for_calc, party_metadata_for_calc, today
+        )
         recalculated_latest_support = calculate_support_from_series(
-            datapoints_by_party,
+            series_for_calc,
             series_by_party,
             party_metadata_for_calc,
             target_date=today,
         )
 
-        # Get active parties for logging
-        active_parties_for_today = get_active_parties_for_date(
-            datapoints_by_party, party_metadata_for_calc, today
-        )
-
         logger.info(
-            f"Active parties: {active_parties_for_today} with latest combined support: {recalculated_latest_support:.2f}%"
+            f"Active parties: {active_parties} with latest combined support: {recalculated_latest_support:.2f}%"
         )
 
         # Read metadata
