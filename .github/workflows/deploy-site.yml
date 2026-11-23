@@ -22,7 +22,7 @@ jobs:
     steps:
       # Always build main: when called after a data refresh, the triggering
       # sha predates the refresh commit.
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: main
       - uses: astral-sh/setup-uv@v4
