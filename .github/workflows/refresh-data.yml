@@ -41,8 +41,12 @@ jobs:
           git pull --rebase origin main
           git push origin HEAD:main
           echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Check sources
+        working-directory: pipeline
+        run: uv run frt check
 
   deploy:
     needs: refresh
-    if: needs.refresh.outputs.changed == 'true'
+    # Still deploy fresh data when the source check fails the refresh job.
+    if: always() && needs.refresh.outputs.changed == 'true'
     uses: ./.github/workflows/deploy-site.yml

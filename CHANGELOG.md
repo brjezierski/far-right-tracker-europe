@@ -8,3 +8,4 @@
   fields the map uses.
 - Added CI (ruff, pytest, typecheck, lint), a Makefile, tests, and documentation.
 - Removed the unused MapLibre map and its dependencies; countries without data are no longer clickable.
+- Added `frt check`, run after the nightly refresh, which fails the job on broken or redirected source links and on stale or missing polls.
