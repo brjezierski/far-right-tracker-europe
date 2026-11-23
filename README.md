@@ -22,8 +22,8 @@ Wikipedia polling pages ──► pipeline/ (Python, `frt`) ──► data/ (CSV
 - `pipeline/` scrapes the polling tables, annotates each party with its position and ideology, cleans the
   series and writes one folder of CSVs per country.
 - `frontend/` is a static Next.js site (Leaflet map, ECharts charts) that reads `data/` at build time.
-- Two GitHub Actions run it: **Update data** (daily, scrapes and commits changed data, then deploys) and
-  **Deploy site** (on pushes that touch the frontend or data).
+- Two GitHub Actions run it: **Refresh data** (daily, scrapes and commits changed data, then deploys) and
+  **Build and deploy site** (on pushes that touch the frontend or data).
 
 More detail: [architecture](documentation/architecture.md) · [data format](documentation/data-format.md) ·
 [known issues](documentation/known-issues.md).

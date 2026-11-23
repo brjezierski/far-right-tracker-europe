@@ -36,9 +36,9 @@
 ## Workflows
 
 - **CI** (`ci.yml`): ruff and pytest for the pipeline; typecheck and lint for the frontend. Runs on PRs.
-- **Update data** (`update-data.yml`): daily at 23:00 UTC. Scrapes, commits `data/` only if it changed,
+- **Refresh data** (`refresh-data.yml`): daily at 23:00 UTC. Scrapes, commits `data/` only if it changed,
   then calls the deploy workflow.
-- **Deploy site** (`deploy.yml`): generates the per-country JSON from the CSVs, builds the site and
+- **Build and deploy site** (`deploy-site.yml`): generates the per-country JSON from the CSVs, builds the site and
   publishes it with GitHub Pages. The built site is not committed.
 
 Pages must be configured with **Source: GitHub Actions** (Settings → Pages).

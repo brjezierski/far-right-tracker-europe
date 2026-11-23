@@ -1,9 +1,9 @@
-name: Deploy site
+name: Build and deploy site
 
 on:
   push:
     branches: [main]
-    paths: ["frontend/**", "data/**", "pipeline/**", ".github/workflows/deploy.yml"]
+    paths: ["frontend/**", "data/**", "pipeline/**", ".github/workflows/deploy-site.yml"]
   workflow_call: {}
   workflow_dispatch: {}
 
@@ -13,14 +13,18 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: deploy-site
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Always build main: when called after a data refresh, the triggering
+      # sha predates the refresh commit.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: astral-sh/setup-uv@v4
       - name: Generate per-country JSON from CSV
         working-directory: pipeline

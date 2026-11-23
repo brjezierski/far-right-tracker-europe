@@ -1,4 +1,4 @@
-name: Update data
+name: Refresh data
 
 on:
   schedule:
@@ -10,8 +10,12 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
 jobs:
-  update:
+  refresh:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
@@ -34,10 +38,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(data): daily refresh"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
   deploy:
-    needs: update
-    if: needs.update.outputs.changed == 'true'
-    uses: ./.github/workflows/deploy.yml
+    needs: refresh
+    if: needs.refresh.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy-site.yml
