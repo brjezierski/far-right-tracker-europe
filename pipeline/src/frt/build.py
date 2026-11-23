@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
-import time
+from concurrent.futures import ThreadPoolExecutor
 
 from frt.classification import CATEGORIES
 from frt.config import COUNTRIES_DIR, DATA_DIR
@@ -73,12 +73,14 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
             # Get headers for this country (applies to all URLs)
             headers = get_polling_headers(country)
 
-            # Process each URL and merge the data
-            for url in urls:
-                # wait 3 seconds between countries to avoid overwhelming the server
-                time.sleep(3)
+            fetchers = [WikipediaPollingFetcher(url, headers) for url in urls]
+            # Downloads are spaced by the shared rate limit; parsing overlaps with the waits.
+            pool = ThreadPoolExecutor(max_workers=2)
+            futures = [pool.submit(fetcher.prefetch, country) for fetcher in fetchers]
 
-                fetcher = WikipediaPollingFetcher(url, headers)
+            # Process each URL and merge the data
+            for url, fetcher, future in zip(urls, fetchers, futures, strict=True):
+                future.result()
                 logger.info(f"Fetching latest support data from {url} for {country}...")
                 url_latest_total, url_series_by_party, url_party_metadata = (
                     fetcher.fetch_latest_and_series(country, CATEGORIES)
@@ -95,6 +97,8 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
 
                 # Keep track of all sources
                 sources.append(url)
+
+            pool.shutdown()
 
         # Recalculate latest total support based on merged data
         if series_by_party and party_metadata:

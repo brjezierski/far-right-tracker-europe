@@ -3,12 +3,13 @@ from __future__ import annotations
 import logging
 import re
 from datetime import datetime
+from functools import cache
 
 import pandas as pd
-import requests
 from bs4 import BeautifulSoup
 from dateparser import parse
 
+from frt.scraping.http import polite_get
 from frt.scraping.parties import annotate_parties_positions, clean_text
 from frt.scraping.sources import COUNTRY_EXCLUDED_HEADERS
 from frt.scraping.tables import (
@@ -30,6 +31,25 @@ logger = logging.getLogger(__name__)
 
 def normalize_party_name(s: str) -> str:
     return re.sub(r"\W+", "", s.lower()).replace("_", "").replace("party", "")
+
+
+_FULL_DATE = re.compile(r"\d{1,2} [A-Za-z]{3,9} \d{4}")
+
+
+@cache
+def _parse_cached(s: str, relative_base: datetime | None) -> datetime | None:
+    """dateparser.parse with DMY order; memoised because tables repeat the same strings."""
+    # Complete "D Month YYYY" dates skip dateparser, which is far slower.
+    if _FULL_DATE.fullmatch(s):
+        for fmt in ("%d %B %Y", "%d %b %Y"):
+            try:
+                return datetime.strptime(s, fmt)
+            except ValueError:
+                pass
+    settings = {"DATE_ORDER": "DMY"}
+    if relative_base is not None:
+        settings["RELATIVE_BASE"] = relative_base
+    return parse(s, settings=settings)  # type: ignore
 
 
 def parse_date(
@@ -74,7 +94,6 @@ def parse_date(
     ):
         s = f"{s} {table_header_key}"
 
-    settings = {"DATE_ORDER": "DMY"}
     if "%" in s:
         return None, False
     # if s contains only the year return 1st of Jan of that year
@@ -86,6 +105,7 @@ def parse_date(
     if prev_date is None and not _contains_year(s) and election_year:
         prev_date = pd.Timestamp(int(election_year.group(1)), 1, 1)
 
+    relative_base = None
     if prev_date:
         # if s does not contain a 4-digit year and has Jan as substring and the month of prev_date is December, then set  prev_date to 01.01 of next year
         if (
@@ -93,10 +113,10 @@ def parse_date(
         ):
             logger.info("WARNING: Niche use case!! Check.")
             prev_date = pd.Timestamp(year=prev_date.year + 1, month=1, day=1)
-        settings["RELATIVE_BASE"] = prev_date.to_pydatetime()  # type: ignore # .strftime("%Y-%m-%d")
+        relative_base = prev_date.to_pydatetime()  # type: ignore
 
     try:
-        parsed_date = parse(s, settings=settings)  # type: ignore
+        parsed_date = _parse_cached(s, relative_base)
         if parsed_date:
             # if parsed_date is before the prev_date, and the year of parsed_date is not in s, then assume the year is next year
             if (
@@ -128,6 +148,14 @@ class WikipediaPollingFetcher:
     def __init__(self, url: str, headers: list[str] | None = None):
         self.url = url
         self.headers = headers
+        self._tables: dict[str, list[pd.DataFrame]] | None = None
+
+    def prefetch(self, country: str) -> None:
+        """Download and parse the tables now, so they can be fetched in a worker thread."""
+        try:
+            self._tables = self.fetch_tables(country)
+        except Exception:
+            self._tables = None
 
     def fetch_tables(self, country: str) -> dict[str, list[pd.DataFrame]]:
         """Prefer the first table under the section whose heading equals the current year.
@@ -138,7 +166,7 @@ class WikipediaPollingFetcher:
                 "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)"
             }
 
-            r = requests.get(self.url, timeout=30, headers=headers)
+            r = polite_get(self.url, headers=headers)
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "lxml")
             years = []
@@ -246,7 +274,7 @@ class WikipediaPollingFetcher:
             # Last resort: try custom parser on all tables
             try:
                 logger.info(f"Error fetching specific year tables, returning all tables. {e}")
-                r = requests.get(self.url, timeout=30)
+                r = polite_get(self.url)
                 soup = BeautifulSoup(r.text, "lxml")
                 fallback_dfs = parse_all_tables_from_soup(soup)
                 return {"": fallback_dfs}
@@ -263,7 +291,7 @@ class WikipediaPollingFetcher:
         Also annotates party political positions into data/all_parties.json using header links when available.
         """
         try:
-            tables_dict = self.fetch_tables(country)
+            tables_dict = self._tables if self._tables is not None else self.fetch_tables(country)
             logger.info(f"Fetched {len(tables_dict)} tables")
         except Exception:
             return None, {}, {}

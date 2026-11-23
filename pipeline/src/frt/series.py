@@ -1,7 +1,8 @@
 from __future__ import annotations
 
 import logging
-from datetime import datetime
+from bisect import bisect_right
+from datetime import datetime, timedelta
 
 logger = logging.getLogger(__name__)
 
@@ -92,14 +93,14 @@ def get_active_parties_for_date(
         List of party names that are active and far-right
     """
 
-    target_dt = datetime.strptime(target_date, "%Y-%m-%d")
+    datetime.strptime(target_date, "%Y-%m-%d")  # validate the format
 
     # Collect all unique polling dates across all parties that are <= target_date
+    # (zero-padded ISO strings compare like dates)
     all_dates = set()
     for datapoints in datapoints_by_party.values():
         for point in datapoints:
-            point_dt = datetime.strptime(point["date"], "%Y-%m-%d")
-            if point_dt <= target_dt:
+            if point["date"] <= target_date:
                 all_dates.add(point["date"])
 
     if not all_dates:
@@ -145,10 +146,24 @@ def generate_daily_support_series(
         - daily_support_series: [{date, value}, ...]
         - active_parties_by_date: {date: [party_names]}
     """
-    from datetime import timedelta
-
     daily_support = []
     active_parties_by_date = {}
+
+    # Index once so each day is a bisect plus set lookups instead of a scan of every poll.
+    far_right = [
+        party
+        for party in datapoints_by_party
+        if party_metadata.get(party, {}).get("is_far_right", False)
+    ]
+    poll_dates = {party: {pt["date"] for pt in datapoints_by_party[party]} for party in far_right}
+    unique_dates = sorted({pt["date"] for pts in datapoints_by_party.values() for pt in pts})
+    value_by_date: dict[str, dict[str, float]] = {}
+    for party in far_right:
+        if party in series_by_party:
+            values: dict[str, float] = {}
+            for point in series_by_party[party]:
+                values.setdefault(point["date"], point["value"])
+            value_by_date[party] = values
 
     current_date = datetime.strptime(start_date, "%Y-%m-%d")
     end_dt = datetime.strptime(end_date, "%Y-%m-%d")
@@ -156,22 +171,19 @@ def generate_daily_support_series(
     while current_date <= end_dt:
         date_str = current_date.strftime("%Y-%m-%d")
 
-        # Get active parties for this date
-        active_parties = get_active_parties_for_date(datapoints_by_party, party_metadata, date_str)
+        # Active parties appear in at least one of the 3 latest polling dates up to this day
+        end = bisect_right(unique_dates, date_str)
+        latest_3 = unique_dates[max(0, end - 3) : end]
+        active_parties = [
+            party for party in far_right if any(d in poll_dates[party] for d in latest_3)
+        ]
         active_parties_by_date[date_str] = active_parties
 
         # Calculate total support from active parties
         total_support = 0.0
         for party in active_parties:
-            if party not in series_by_party:
-                continue
-
-            # Find the value for this date in the series
-            party_series = series_by_party[party]
-            for point in party_series:
-                if point["date"] == date_str:
-                    total_support += point["value"]
-                    break
+            if party in value_by_date and date_str in value_by_date[party]:
+                total_support += value_by_date[party][date_str]
 
         daily_support.append({"date": date_str, "value": round(total_support, 2)})
 
