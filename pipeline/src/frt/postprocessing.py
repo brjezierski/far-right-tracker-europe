@@ -3,6 +3,19 @@
 import pandas as pd
 
 
+def drop_duplicate_polls(df: pd.DataFrame) -> pd.DataFrame:
+    """Drop rows that repeat the same poll: same date, pollster, party and value.
+
+    The value is part of the key so two different figures from one pollster and day are kept.
+    Tradeoff: if a table has no usable pollster cell, two real polls with the same date, party
+    and value are indistinguishable from a repeat and are collapsed.
+    """
+    key = [
+        c for c in ["date", "pollster", "party", "candidate", "polling_value"] if c in df.columns
+    ]
+    return df.drop_duplicates(subset=key)
+
+
 def remove_isolated_datapoints(
     df: pd.DataFrame, min_neighbors: int = 2, debug: bool = False
 ) -> pd.DataFrame:

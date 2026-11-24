@@ -1,10 +1,42 @@
 from __future__ import annotations
 
+import json
 import logging
 from bisect import bisect_right
 from datetime import datetime, timedelta
 
 logger = logging.getLogger(__name__)
+
+
+def load_party_overlaps(iso2: str) -> dict[str, list[str]]:
+    """Return {alliance: [member parties]} for a country (see config/party_overlaps.json)."""
+    from frt.config import OVERLAPS_PATH
+
+    if not OVERLAPS_PATH.exists():
+        return {}
+    with open(OVERLAPS_PATH, encoding="utf-8") as f:
+        return json.load(f).get(iso2, {})
+
+
+def hide_overlapping_members(
+    datapoints_by_party: dict, series_by_party: dict, overlaps: dict[str, list[str]]
+) -> None:
+    """Remove member parties' polls and series while their alliance is polled, in place.
+
+    An alliance and its lead party are polled as separate rows (e.g. United Right and Law and
+    Justice). Showing both counts the same voters twice, so the members are cut for the span
+    between the alliance's first and last poll.
+    """
+    for alliance, members in overlaps.items():
+        polls = datapoints_by_party.get(alliance)
+        if not polls:
+            continue
+        start = min(p["date"] for p in polls)
+        end = max(p["date"] for p in polls)
+        for member in members:
+            for data in (datapoints_by_party, series_by_party):
+                if member in data:
+                    data[member] = [p for p in data[member] if not start <= p["date"] <= end]
 
 
 def calculate_latest_total_support(
