@@ -8,7 +8,8 @@ export default function AboutSection() {
         <strong>Polling data.</strong> The polls come from Wikipedia’s
         country-specific “Opinion polling for the … election” pages, since it is
         the most extensive open-source data source and its structure is
-        consistent enough to scrape across countries. A Python scraper
+        consistent enough to scrape across countries. Swiss polls since 2024 come
+        from the French Wikipedia article on the 2027 election. A Python scraper
         (requests, BeautifulSoup and pandas) pulls the tables and parses the
         dates, skipping election-result rows and some alternative-scenario
         tables. A GitHub Actions workflow refreshes the data daily. The scraper

@@ -22,6 +22,11 @@ def get_polling_source(country: str) -> list[str]:
     return []
 
 
+def get_party_aliases(country: str) -> dict[str, str]:
+    """Return table party names to rename, e.g. from a page in another language."""
+    return WIKI_POLLING_PAGES.get(country, {}).get("party_aliases", {})
+
+
 def get_polling_headers(country: str) -> list[str] | None:
     """Return the list of headers for the given country."""
     if country in WIKI_POLLING_PAGES:

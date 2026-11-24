@@ -1,7 +1,8 @@
 # Data licence
 
 The files under `data/` are derived from Wikipedia: opinion-polling tables and party infoboxes from
-[English Wikipedia](https://en.wikipedia.org/), which is available under the
+[English Wikipedia](https://en.wikipedia.org/) (plus, for recent Swiss polls,
+[French Wikipedia](https://fr.wikipedia.org/)), which is available under the
 [Creative Commons Attribution-ShareAlike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The derived data in this repository is therefore also licensed **CC BY-SA 4.0**. If you reuse it, credit

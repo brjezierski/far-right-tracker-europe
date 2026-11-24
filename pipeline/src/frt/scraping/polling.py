@@ -11,7 +11,7 @@ from dateparser import parse
 
 from frt.scraping.http import polite_get
 from frt.scraping.parties import annotate_parties_positions, clean_text
-from frt.scraping.sources import COUNTRY_EXCLUDED_HEADERS
+from frt.scraping.sources import COUNTRY_EXCLUDED_HEADERS, get_party_aliases
 from frt.scraping.tables import (
     extract_hierarchical_value_by_level,
     extract_value_from_hierarchical_tuple,
@@ -38,6 +38,11 @@ def normalize_party_name(s: str) -> str:
 def clean_section_title(text: str) -> str:
     """Strip the trailing edit link, e.g. "[edit]" or "[değiştir|kaynağı değiştir]", from a heading."""
     return re.sub(r"\[[^\]]*\]$", "", text).strip()
+
+
+def is_election_result(pollster: str) -> bool:
+    """Whether a row reports an election outcome instead of a poll (English or French)."""
+    return any(word in pollster.lower() for word in ("election", "élection", "result"))
 
 
 _FULL_DATE = re.compile(r"\d{1,2} [A-Za-z]{3,9} \d{4}")
@@ -82,6 +87,8 @@ def parse_date(
                 break
 
     s = s.strip().replace("-", "–")  # type: ignore
+    # French writes the first of the month as "1er", which dateparser does not read
+    s = re.sub(r"\b1\s*er\b", "1", s)
     # if s has format dddd-dd-dd read as yyyy-mm-dd
     if re.fullmatch(r"\d{4}–\d{2}–\d{2}", s):
         year, month, day = map(int, s.split("–"))
@@ -348,6 +355,7 @@ class WikipediaPollingFetcher:
                         column_name = extract_party_name_from_link(col_info["column_link"])
                         # Clean party name (remove references like [b])
                         column_name = clean_text(column_name)
+                        column_name = get_party_aliases(country).get(column_name, column_name)
                         # Update the column_name in cols_info so it's used later
                         col_info["column_name"] = column_name
                         header_parties.append(
@@ -391,7 +399,8 @@ class WikipediaPollingFetcher:
 
                     # Extract pollster
                     pollster_raw = row[pollster_col] if pollster_col else ""
-                    pollster = extract_value_from_hierarchical_tuple(pollster_raw, "")
+                    # Drop footnote markers such as "[ 39 ]"
+                    pollster = clean_text(extract_value_from_hierarchical_tuple(pollster_raw, ""))
 
                     date, prev_date_year_given = parse_date(
                         date_str, self.url, prev_date, prev_date_year_given, tables_key
@@ -405,7 +414,7 @@ class WikipediaPollingFetcher:
                         continue
 
                     # Skip election results
-                    if "election" in pollster.lower() or "result" in pollster.lower():
+                    if is_election_result(pollster):
                         continue
 
                     for party_col_info in potential_party_cols:

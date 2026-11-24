@@ -7,6 +7,8 @@ implements it is in `pipeline/src/frt/`.
 
 - **Polls:** the country-specific "Opinion polling for the … election" pages on Wikipedia. The pages
   and the table headers to read are listed in `pipeline/config/polling_sources.json`.
+  Switzerland also reads the French Wikipedia article on the 2027 election, because English Wikipedia has
+  no polling page for that cycle.
 - **Party position and ideology:** the infobox of each party's Wikipedia article.
 
 The project does not run or verify polls. It is only as accurate as Wikipedia's tables.
