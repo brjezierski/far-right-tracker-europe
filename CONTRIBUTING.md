@@ -25,6 +25,8 @@ CI runs the same checks.
   next scrape.
 - To fix a party's position or ideology, edit that country's `parties.csv`. The scraper keeps manual
   edits.
+- Wikipedia asks bots to identify an operator. Set `SCRAPER_CONTACT` (an email or URL) in your shell
+  before scraping; the daily workflow reads it from the `SCRAPER_CONTACT` repository secret.
 - To change which pages are scraped for a country, edit `pipeline/config/polling_sources.json`.
 - To change what counts as far-right, see [methodology](documentation/methodology.md).
 
