@@ -3,6 +3,7 @@ import pandas as pd
 from frt.postprocessing import (
     calculate_rolling_average,
     create_daily_series,
+    drop_duplicate_polls,
     filter_pre_2010_datapoints,
     remove_isolated_datapoints,
 )
@@ -38,3 +39,16 @@ def test_create_daily_series_interpolates_between_points():
     out = create_daily_series(series, "2020-01-01", "2020-01-03")
     assert [p["date"] for p in out] == ["2020-01-01", "2020-01-02", "2020-01-03"]
     assert out[1]["value"] == 15.0
+
+
+def test_drop_duplicate_polls_keys_on_date_pollster_party_value():
+    df = pd.DataFrame(
+        [
+            ("2020-01-01", "X", "A", 10.0),
+            ("2020-01-01", "X", "A", 10.0),  # repeat from an overlapping page
+            ("2020-01-01", "Y", "A", 10.0),  # different pollster, same value: real poll
+            ("2020-01-01", "X", "A", 11.0),  # same pollster and day, other figure
+        ],
+        columns=["date", "pollster", "party", "polling_value"],
+    )
+    assert len(drop_duplicate_polls(df)) == 3

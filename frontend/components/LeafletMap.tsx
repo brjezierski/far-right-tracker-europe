@@ -65,9 +65,17 @@ type Summary = {
       parties: string[];
       activeParties?: string[];
       latestSupport: number | null;
+      lastPollDate?: string | null;
+      stale?: boolean;
     }
   >;
 } | null;
+
+function pollNote(c: { lastPollDate?: string | null; stale?: boolean }): string {
+  if (!c.lastPollDate) return "";
+  const note = c.stale ? " (outdated, not shown on map)" : "";
+  return `<br/>Last poll: ${c.lastPollDate}${note}`;
+}
 
 function getColor(support: number | undefined | null): string {
   if (!support || support === 0) return "#e8e8e8";  // Light gray for 0%
@@ -91,7 +99,7 @@ export default function LeafletMap({
     const m = new globalThis.Map<string, number>();
     if (!summary) return m;
     for (const c of Object.values(summary.countries)) {
-      if (c.latestSupport != null) m.set(c.iso2, c.latestSupport);
+      if (c.latestSupport != null && !c.stale) m.set(c.iso2, c.latestSupport);
     }
     return m;
   }, [summary]);
@@ -165,6 +173,7 @@ export default function LeafletMap({
                 } else {
                   html += `<br/>Support: ${support}`;
                 }
+                html += pollNote(c);
               }
               
               // Position popup at capital coordinates if available
@@ -240,6 +249,7 @@ export default function LeafletMap({
           } else {
             html += `<br/>Support: ${supportValue}`;
           }
+          html += pollNote(c);
         }
         
         // Position popup at capital coordinates if available

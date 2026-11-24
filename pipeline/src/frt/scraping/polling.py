@@ -18,6 +18,7 @@ from frt.scraping.tables import (
     parse_all_tables_from_soup,
     parse_html_table_with_hierarchy,
 )
+from frt.scraping.user_agent import user_agent
 from frt.scraping.values import (
     extract_party_name_from_link,
     get_latest_polling_value,
@@ -134,9 +135,7 @@ class WikipediaPollingFetcher:
         If not found, try previous year. Fallback to all tables on the page.
         """
         try:
-            headers = {
-                "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)"
-            }
+            headers = {"User-Agent": user_agent()}
 
             r = requests.get(self.url, timeout=30, headers=headers)
             r.raise_for_status()
@@ -401,6 +400,7 @@ class WikipediaPollingFetcher:
                                 {
                                     "date": date.date().isoformat(),
                                     "value": polling_value,
+                                    "pollster": pollster,
                                 }
                             )
 

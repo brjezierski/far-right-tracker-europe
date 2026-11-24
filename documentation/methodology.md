@@ -42,9 +42,11 @@ are reported as the active parties.
 Applied per country when scraping (`storage.py`, `postprocessing.py`):
 
 1. Polls before 2010 are dropped.
-2. Isolated points are removed: a point with fewer than two other points from the same party within one
+2. Repeated polls (from overlapping source pages) are dropped: rows with the same date, pollster, party
+   and value, before isolated points are counted.
+3. Isolated points are removed: a point with fewer than two other points from the same party within one
    year.
-3. For Spain, Austria, Poland, the Czech Republic and Portugal, anomalous values are removed: points that
+4. For Spain, Austria, Poland, the Czech Republic and Portugal, anomalous values are removed: points that
    differ by more than 10 percentage points from both the previous and the next poll.
 
 The chart series is a rolling average over 5 polls, interpolated to one value per day between the first and

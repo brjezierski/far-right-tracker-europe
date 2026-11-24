@@ -2,6 +2,7 @@
 import { useState, useEffect, useMemo } from "react";
 import dynamic from "next/dynamic";
 import TimelineSlider from "./TimelineSlider";
+import { isStale, lastPollDateAsOf } from "../lib/staleness";
 
 const LeafletMap = dynamic(() => import("./LeafletMap"), { ssr: false });
 
@@ -15,6 +16,8 @@ type Summary = {
       parties: string[];
       activeParties?: string[];
       latestSupport: number | null;
+      lastPollDate?: string | null;
+      stale?: boolean;
     }
   >;
 };
@@ -196,9 +199,13 @@ export default function MapWithTimeline({
         currentDate
       );
 
+      const lastPollDate = lastPollDateAsOf(countryData.datapointsByParty, currentDate);
+
       filteredCountries[iso2] = {
         ...countryInfo,
         latestSupport: supportAtDate,
+        lastPollDate,
+        stale: isStale(lastPollDate, currentDate),
       };
     }
 

@@ -13,15 +13,17 @@ from frt.config import COUNTRIES_DIR
 from frt.postprocessing import (
     calculate_rolling_average,
     create_daily_series,
+    drop_duplicate_polls,
     filter_pre_2010_datapoints,
     remove_anomalous_values,
     remove_isolated_datapoints,
 )
 from frt.series import (
-    calculate_latest_total_support_with_parties,
     calculate_support_from_series,
     generate_daily_support_series,
     get_active_parties_for_date,
+    hide_overlapping_members,
+    load_party_overlaps,
 )
 
 logger = logging.getLogger(__name__)
@@ -99,6 +101,7 @@ def save_country_polling_csv(
             for point in time_series:
                 row_data = {
                     "date": point["date"],
+                    "pollster": point.get("pollster", ""),
                     "party": actual_party_name,
                     "polling_value": point["value"],
                     "political_position": party_info.get("political_position"),
@@ -115,6 +118,9 @@ def save_country_polling_csv(
             df["date"] = pd.to_datetime(df["date"])
 
             df = df.sort_values(["party", "date"])
+
+            # Drop repeats from overlapping source pages before neighbours are counted.
+            df = drop_duplicate_polls(df)
 
             # Filter out pre-2010 datapoints
             logger.info(f"Filtering pre-2010 datapoints for {country}...")
@@ -243,17 +249,6 @@ def read_country_data_from_csv(
             # Mark as far-right only if in selected_parties
             party_metadata_for_calc[party] = {"is_far_right": party in selected_parties}
 
-        # Always use calculate_latest_total_support_with_parties to determine active parties
-        result = calculate_latest_total_support_with_parties(
-            series_for_calc, party_metadata_for_calc
-        )
-        if result:
-            _, active_parties = result
-        else:
-            active_parties = []
-
-        logger.info(f"Found {len(active_parties)} active far-right parties")
-
         # Generate both datapointsByParty (raw polls) and seriesByParty (rolling average + daily interpolation)
         datapoints_by_party = {}
         series_by_party = {}
@@ -304,6 +299,8 @@ def read_country_data_from_csv(
                 if latest_update is None or party_latest > latest_update:
                     latest_update = party_latest
 
+        hide_overlapping_members(datapoints_by_party, series_by_party, load_party_overlaps(iso2))
+
         # Generate daily support series and active parties by date
         daily_support_series = []
         active_parties_by_date = {}
@@ -318,25 +315,23 @@ def read_country_data_from_csv(
                 global_end,
             )
 
-        # Calculate latestSupport using the same logic as the map tooltip
-        # This sums the latest values from seriesByParty for all active parties at today's date
+        # activeParties and latestSupport share one rule: far-right parties seen in the last
+        # 3 polling dates across all parties, so the two fields cannot disagree.
         from datetime import date
 
         today = date.today().strftime("%Y-%m-%d")
+        active_parties = get_active_parties_for_date(
+            series_for_calc, party_metadata_for_calc, today
+        )
         recalculated_latest_support = calculate_support_from_series(
-            datapoints_by_party,
+            series_for_calc,
             series_by_party,
             party_metadata_for_calc,
             target_date=today,
         )
 
-        # Get active parties for logging
-        active_parties_for_today = get_active_parties_for_date(
-            datapoints_by_party, party_metadata_for_calc, today
-        )
-
         logger.info(
-            f"Active parties: {active_parties_for_today} with latest combined support: {recalculated_latest_support:.2f}%"
+            f"Active parties: {active_parties} with latest combined support: {recalculated_latest_support:.2f}%"
         )
 
         # Read metadata

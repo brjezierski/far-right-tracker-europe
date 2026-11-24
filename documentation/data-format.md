@@ -20,6 +20,7 @@ One row per party per poll.
 | Column | Meaning |
 | --- | --- |
 | `date` | Poll date, `YYYY-MM-DD` |
+| `pollster` | Polling organisation, as written in the source table (may be empty) |
 | `party` | Party name as used in the polling table |
 | `polling_value` | Support in percent |
 | `political_position` | From the party's Wikipedia infobox |
