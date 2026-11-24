@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- The home page now explains the methodology below the map: where the polls come from, how parties are
+  classified, and which countries are treated differently or left out.
+
 - The scraper's contact address is no longer in the code. Set `SCRAPER_CONTACT` (a GitHub Actions
   secret for the daily refresh) to include it in the User-Agent sent to Wikipedia.
 
