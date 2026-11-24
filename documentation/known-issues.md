@@ -8,10 +8,9 @@ Carried over from the old README.
 
 ## Data
 
-- `polling_data.csv` contains exact duplicate rows (about 11,700 across 36 countries, 4,100 in DE), most likely
-  from overlapping election pages. They are not removed because the CSV has no pollster column, so two real
-  polls with the same date, party and value cannot be told apart from a duplicate. Dropping them changes
-  published figures (e.g. GB latest support 24.87 -> 25.0). Fix by recording the pollster, then dedupe.
+- Rows scraped before the `pollster` column was added have no pollster and still contain exact duplicates
+  until that country is re-scraped. If a source table has no usable pollster cell, two real polls with the
+  same date, party and value are collapsed as a repeat.
 - Lithuania: latest 2024 polling does not match the source.
 - Turkey: data needs checking.
 - Lithuanian Green party is excluded even though it is in ECR.

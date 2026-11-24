@@ -401,6 +401,7 @@ class WikipediaPollingFetcher:
                                 {
                                     "date": date.date().isoformat(),
                                     "value": polling_value,
+                                    "pollster": pollster,
                                 }
                             )
 
