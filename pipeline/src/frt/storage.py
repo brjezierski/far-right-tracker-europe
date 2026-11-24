@@ -23,6 +23,8 @@ from frt.series import (
     calculate_support_from_series,
     generate_daily_support_series,
     get_active_parties_for_date,
+    hide_overlapping_members,
+    load_party_overlaps,
 )
 
 logger = logging.getLogger(__name__)
@@ -308,6 +310,8 @@ def read_country_data_from_csv(
                 party_latest = party_data["date"].max()
                 if latest_update is None or party_latest > latest_update:
                     latest_update = party_latest
+
+        hide_overlapping_members(datapoints_by_party, series_by_party, load_party_overlaps(iso2))
 
         # Generate daily support series and active parties by date
         daily_support_series = []

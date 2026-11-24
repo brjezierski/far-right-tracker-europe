@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Poland: Law and Justice is no longer shown while United Right is polled, so the stacked chart does
+  not count the same voters twice. Overlaps are configured in `pipeline/config/party_overlaps.json`.
 - Restructured the repository: the scraper is now the installable `frt` package under `pipeline/`.
 - The built site is no longer committed; it is deployed with GitHub Pages Actions.
 - Per-country JSON is generated at build time instead of committed; `summary.json` only carries the
