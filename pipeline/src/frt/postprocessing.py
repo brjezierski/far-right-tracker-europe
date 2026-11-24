@@ -40,28 +40,29 @@ def remove_isolated_datapoints(
     if not pd.api.types.is_datetime64_any_dtype(df["date"]):
         df["date"] = pd.to_datetime(df["date"])
 
-    rows_to_keep = []
+    keep = pd.Series(False, index=df.index)
     rows_removed = []
     for party_name in df["party"].unique():
-        party_df = df[df["party"] == party_name].copy()
+        party_df = df[df["party"] == party_name]
+        dates = party_df["date"]
+        valid = dates.notna()
 
-        for idx, row in party_df.iterrows():
-            current_date = row["date"]
-            one_year_before = current_date - pd.DateOffset(years=1)
-            one_year_after = current_date + pd.DateOffset(years=1)
+        # Count points within +-1 year by binary search on the sorted dates.
+        sorted_dates = dates[valid].sort_values().to_numpy()
+        lower = (dates[valid] - pd.DateOffset(years=1)).to_numpy()
+        upper = (dates[valid] + pd.DateOffset(years=1)).to_numpy()
+        # The point itself always falls inside its own window, hence the -1.
+        neighbors = pd.Series(0, index=party_df.index)
+        neighbors[valid] = (
+            sorted_dates.searchsorted(upper, side="right")
+            - sorted_dates.searchsorted(lower, side="left")
+            - 1
+        )
 
-            # Count other datapoints in the ±1 year range (excluding current point)
-            nearby_points = party_df[
-                (party_df["date"] >= one_year_before)
-                & (party_df["date"] <= one_year_after)
-                & (party_df.index != idx)
-            ]
-
-            # Keep the point if it has at least min_neighbors neighbors
-            if len(nearby_points) >= min_neighbors:
-                rows_to_keep.append(idx)
-            else:
-                rows_removed.append((party_name, current_date, len(nearby_points)))
+        keep_party = neighbors >= min_neighbors
+        keep[party_df.index] = keep_party
+        for idx in party_df.index[~keep_party]:
+            rows_removed.append((party_name, dates[idx], neighbors[idx]))
 
     if debug and rows_removed:
         print(f"Removed {len(rows_removed)} isolated datapoints:")
@@ -69,8 +70,8 @@ def remove_isolated_datapoints(
             print(f"  {party} on {date.date()}: {neighbors} neighbors")
 
     # Filter dataframe to keep only non-isolated points
-    if rows_to_keep:
-        return df.loc[rows_to_keep]
+    if keep.any():
+        return df[keep]
     else:
         return pd.DataFrame(columns=df.columns)
 

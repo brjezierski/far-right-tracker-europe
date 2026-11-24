@@ -2,13 +2,14 @@ from __future__ import annotations
 
 import logging
 import re
+from concurrent.futures import ThreadPoolExecutor
 
 import pandas as pd
-import requests
 from bs4 import BeautifulSoup
 
 from frt.config import COUNTRIES_DIR
 from frt.countries import get_country_iso_code
+from frt.scraping.http import session
 from frt.scraping.sources import HISTORICAL_SEPARATORS
 from frt.scraping.user_agent import user_agent
 
@@ -43,7 +44,7 @@ def _fetch_political_position(url: str) -> dict | None:
         headers = {
             "User-Agent": user_agent(),
         }
-        r = requests.get(url, timeout=30, headers=headers)
+        r = session.get(url, timeout=30, headers=headers)
         r.raise_for_status()
     except Exception:
         logger.info(f"Error fetching URL: {url}")
@@ -91,6 +92,15 @@ def _fetch_political_position(url: str) -> dict | None:
     return None
 
 
+def _party_url(link: str) -> str | None:
+    if not link:
+        return None
+    if link.startswith("http://") or link.startswith("https://"):
+        return link
+    # ensure single slash between host and path
+    return f"https://en.wikipedia.org/{link.lstrip('/')}"
+
+
 def annotate_parties_positions(
     country: str, parties: list[dict[str, str]], categories: list[str]
 ) -> dict:
@@ -132,6 +142,20 @@ def annotate_parties_positions(
     party_metadata: dict[str, dict] = {}
     party_name_mapping: dict[str, str] = {}  # maps table name to article name
 
+    # Fetch the uncached party pages concurrently; results are consumed in table order below.
+    pending: dict[str, str] = {}
+    for p in parties:
+        name = str(p.get("name") or "").strip()
+        url = _party_url((p.get("link") or "").strip())
+        if name and url and name not in country_cache and name not in pending:
+            pending[name] = url
+    fetched: dict[str, dict | None] = {}
+    if pending:
+        with ThreadPoolExecutor(max_workers=4) as pool:
+            fetched = dict(
+                zip(pending, pool.map(_fetch_political_position, pending.values()), strict=True)
+            )
+
     for p in parties:
         party_name_from_table = str(p.get("name") or "").strip()
         link = (p.get("link") or "").strip()
@@ -141,17 +165,10 @@ def annotate_parties_positions(
 
         # Only fetch from Wikipedia if party is NOT already in the cache
         if not party_description:
-            # Build URL if link provided
-            url = None
-            if link:
-                if link.startswith("http://") or link.startswith("https://"):
-                    url = link
-                else:
-                    # ensure single slash between host and path
-                    url = f"https://en.wikipedia.org/{link.lstrip('/')}"
+            url = _party_url(link)
 
             if url:
-                party_description = _fetch_political_position(url)
+                party_description = fetched[party_name_from_table]
 
                 if party_description:
                     # Add to cache only if it was newly fetched

@@ -2,13 +2,14 @@ from __future__ import annotations
 
 import json
 import logging
-import time
+from concurrent.futures import ThreadPoolExecutor
 
 from frt.classification import CATEGORIES
 from frt.config import COUNTRIES_DIR, DATA_DIR
 from frt.countries import get_country_iso_code
 from frt.scraping.polling import WikipediaPollingFetcher
 from frt.scraping.sources import WIKI_POLLING_PAGES, get_polling_headers, get_polling_source
+from frt.scraping.validators import load_validators, save_validators
 from frt.series import calculate_latest_total_support
 from frt.storage import now_iso, read_country_data_from_csv, save_country_polling_csv, save_json
 from frt.summary import rebuild_summary_from_csv, summarize_country
@@ -16,7 +17,19 @@ from frt.summary import rebuild_summary_from_csv, summarize_country
 logger = logging.getLogger(__name__)
 
 
-def build(selected_country: str | None = None, no_scraping: bool = False):
+def _rebuild_country_json(iso2: str) -> None:
+    """Rewrite the generated per-country JSON from the CSVs already on disk."""
+    metadata_path = COUNTRIES_DIR / iso2 / "metadata.json"
+    metadata = {}
+    if metadata_path.exists():
+        metadata = json.loads(metadata_path.read_text(encoding="utf-8"))
+    country_data = read_country_data_from_csv(iso2, CATEGORIES, metadata.get("latestTotal"))
+    if country_data:
+        country_data["sources"] = metadata.get("sources", [])
+        save_json(COUNTRIES_DIR / f"{iso2}.json", country_data)
+
+
+def build(selected_country: str | None = None, no_scraping: bool = False, force: bool = False):
     if no_scraping:
         if selected_country:
             # Load existing summary or create new one
@@ -64,6 +77,8 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
         logger.info(f"\nProcessing {country}...")
 
         urls = get_polling_source(country)
+        iso2 = get_country_iso_code(country)
+        fetchers: list[WikipediaPollingFetcher] = []
         series_by_party = {}
         party_metadata = {}
         sources = []
@@ -73,12 +88,32 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
             # Get headers for this country (applies to all URLs)
             headers = get_polling_headers(country)
 
-            # Process each URL and merge the data
-            for url in urls:
-                # wait 3 seconds between countries to avoid overwhelming the server
-                time.sleep(3)
+            fetchers = [WikipediaPollingFetcher(url, headers) for url in urls]
+            # Validators only help while the CSV they describe is still there to fall back on.
+            if not force and (COUNTRIES_DIR / iso2 / "polling_data.csv").exists():
+                stored = load_validators(iso2)
+                for fetcher in fetchers:
+                    fetcher.validators = stored.get(fetcher.url)
+            # Downloads are spaced by the shared rate limit; parsing overlaps with the waits.
+            pool = ThreadPoolExecutor(max_workers=2)
+            futures = [pool.submit(fetcher.prefetch, country) for fetcher in fetchers]
+            for future in futures:
+                future.result()
+            pool.shutdown()
 
-                fetcher = WikipediaPollingFetcher(url, headers)
+            if all(f.not_modified for f in fetchers):
+                logger.info(f"All {len(fetchers)} pages unchanged, keeping existing data.")
+                _rebuild_country_json(iso2)
+                continue
+            # A 304 has no body, so the pages that did not change are fetched again in full.
+            for fetcher in fetchers:
+                if fetcher.not_modified:
+                    fetcher.validators = None
+                    fetcher.not_modified = False
+                    fetcher.prefetch(country)
+
+            # Process each URL and merge the data
+            for url, fetcher in zip(urls, fetchers, strict=True):
                 logger.info(f"Fetching latest support data from {url} for {country}...")
                 url_latest_total, url_series_by_party, url_party_metadata = (
                     fetcher.fetch_latest_and_series(country, CATEGORIES)
@@ -100,8 +135,6 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
         if series_by_party and party_metadata:
             latest_total = calculate_latest_total_support(series_by_party, party_metadata)
 
-        iso2 = get_country_iso_code(country)
-
         # Save country data as CSV files first
         save_country_polling_csv(
             country=country,
@@ -112,6 +145,8 @@ def build(selected_country: str | None = None, no_scraping: bool = False):
             updated_at=now_iso(),
             latest_total=latest_total,
         )
+        if fetchers and not any(f.failed for f in fetchers):
+            save_validators(iso2, {f.url: f.new_validators for f in fetchers if f.new_validators})
 
         # Also save individual country JSON for frontend compatibility
         country_data = read_country_data_from_csv(iso2, CATEGORIES, latest_total)
