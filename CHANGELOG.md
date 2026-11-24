@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Denmark: polling now reads "Opinion polling for the 2026 Danish general election" instead of the
+  "next election" page, which became an article without poll tables after the election.
 - Poland: Law and Justice is no longer shown while United Right is polled, so the stacked chart does
   not count the same voters twice. Overlaps are configured in `pipeline/config/party_overlaps.json`.
 - Restructured the repository: the scraper is now the installable `frt` package under `pipeline/`.
