@@ -191,7 +191,8 @@
       "https://en.wikipedia.org/wiki/2020_Lithuanian_parliamentary_election",
       "https://en.wikipedia.org/wiki/2024_Lithuanian_parliamentary_election",
       "https://en.wikipedia.org/wiki/2028_Lithuanian_parliamentary_election"
-    ]
+    ],
+    "headers": ["Opinion polls"]
   },
   "Luxembourg": {
     "links": [

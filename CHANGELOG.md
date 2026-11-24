@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Lithuania: polls from 2025 and 2026 are read from their year sections instead of being dated 2028.
+
 - Poland: Law and Justice is no longer shown while United Right is polled, so the stacked chart does
   not count the same voters twice. Overlaps are configured in `pipeline/config/party_overlaps.json`.
 - Restructured the repository: the scraper is now the installable `frt` package under `pipeline/`.
