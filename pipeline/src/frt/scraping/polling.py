@@ -19,6 +19,7 @@ from frt.scraping.tables import (
     parse_all_tables_from_soup,
     parse_html_table_with_hierarchy,
 )
+from frt.scraping.user_agent import user_agent
 from frt.scraping.validators import conditional_headers, response_validators
 from frt.scraping.values import (
     extract_party_name_from_link,
@@ -169,9 +170,7 @@ class WikipediaPollingFetcher:
         If not found, try previous year. Fallback to all tables on the page.
         """
         try:
-            headers = {
-                "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)"
-            }
+            headers = {"User-Agent": user_agent()}
 
             r = polite_get(self.url, headers={**headers, **conditional_headers(self.validators)})
             if r.status_code == 304:

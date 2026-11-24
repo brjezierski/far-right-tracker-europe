@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import AboutSection from "../components/AboutSection";
 import MapWithTimeline from "../components/MapWithTimeline";
 import styles from "./page.module.css";
 
@@ -85,6 +86,7 @@ export default function HomePage() {
           Data updated: {new Date(summary.updatedAt).toLocaleString()}
         </p>
       )}
+      <AboutSection />
     </main>
   );
 }
