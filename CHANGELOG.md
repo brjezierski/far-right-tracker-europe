@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Belgium: polls are current again. Added the 2029 polling page and restricted all three pages to the
+  Flemish federal polls, so Wallonia, Brussels and seat-projection tables are no longer mixed into one series.
 - Denmark: polling now reads "Opinion polling for the 2026 Danish general election" instead of the
   "next election" page, which became an article without poll tables after the election.
 - The home page now explains the methodology below the map: where the polls come from, how parties are
