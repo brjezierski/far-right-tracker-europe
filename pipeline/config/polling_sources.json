@@ -27,8 +27,10 @@
   "Belgium": {
     "links": [
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Belgian_federal_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
-    ]
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections",
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2029_Belgian_elections"
+    ],
+    "headers": ["Federal", "Flanders"]
   },
   "Bosnia and Herzegovina": {
     "links": [
@@ -78,7 +80,7 @@
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2015_Danish_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Danish_general_election",
       "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2022_Danish_general_election",
-      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election"
+      "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Danish_general_election"
     ],
     "headers": ["Poll results", "Opinion polls"]
   },

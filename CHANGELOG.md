@@ -3,6 +3,15 @@
 ## Unreleased
 
 - Lithuania: polls from 2025 and 2026 are read from their year sections instead of being dated 2028.
+- Belgium: polls are current again. Added the 2029 polling page and restricted all three pages to the
+  Flemish federal polls, so Wallonia, Brussels and seat-projection tables are no longer mixed into one series.
+- Denmark: polling now reads "Opinion polling for the 2026 Danish general election" instead of the
+  "next election" page, which became an article without poll tables after the election.
+- The home page now explains the methodology below the map: where the polls come from, how parties are
+  classified, and which countries are treated differently or left out.
+
+- The scraper's contact address is no longer in the code. Set `SCRAPER_CONTACT` (a GitHub Actions
+  secret for the daily refresh) to include it in the User-Agent sent to Wikipedia.
 
 - Poland: Law and Justice is no longer shown while United Right is polled, so the stacked chart does
   not count the same voters twice. Overlaps are configured in `pipeline/config/party_overlaps.json`.
