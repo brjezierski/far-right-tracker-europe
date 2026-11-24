@@ -31,3 +31,16 @@ def test_update_no_scraping_builds_country_json_and_slim_summary(tmp_path):
         "activeParties",
         "latestSupport",
     }
+
+
+def test_check_flags_stale_and_missing_polls(tmp_path, monkeypatch):
+    from frt import check
+
+    data_dir = tmp_path / "data"
+    shutil.copytree(FIXTURES, data_dir)
+    monkeypatch.setattr(check, "COUNTRIES_DIR", data_dir / "countries")
+    monkeypatch.setattr(check, "WIKI_POLLING_PAGES", {"Luxembourg": {}, "Malta": {}})
+    monkeypatch.setattr(check, "get_country_iso_code", {"Luxembourg": "LU", "Malta": "MT"}.get)
+
+    assert check.check_sources(max_age_days=100000) == ["Malta: no polls"]
+    assert "Luxembourg: last poll" in check.check_sources(max_age_days=0)[0]
