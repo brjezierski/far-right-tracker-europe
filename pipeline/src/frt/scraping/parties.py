@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 from frt.config import COUNTRIES_DIR
 from frt.countries import get_country_iso_code
 from frt.scraping.sources import HISTORICAL_SEPARATORS
+from frt.scraping.user_agent import user_agent
 
 logger = logging.getLogger(__name__)
 
@@ -40,7 +41,7 @@ def _extract_party_name(soup: BeautifulSoup) -> str | None:
 def _fetch_political_position(url: str) -> dict | None:
     try:
         headers = {
-            "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)",
+            "User-Agent": user_agent(),
         }
         r = requests.get(url, timeout=30, headers=headers)
         r.raise_for_status()

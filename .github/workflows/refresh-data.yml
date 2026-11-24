@@ -24,6 +24,8 @@ jobs:
       - uses: astral-sh/setup-uv@v7
       - name: Scrape and rebuild data
         working-directory: pipeline
+        env:
+          SCRAPER_CONTACT: ${{ secrets.SCRAPER_CONTACT }}
         run: |
           uv sync --no-dev
           uv run frt update
