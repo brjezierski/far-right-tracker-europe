@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Denmark: polling now reads "Opinion polling for the 2026 Danish general election" instead of the
+  "next election" page, which became an article without poll tables after the election.
 - The home page now explains the methodology below the map: where the polls come from, how parties are
   classified, and which countries are treated differently or left out.
 
