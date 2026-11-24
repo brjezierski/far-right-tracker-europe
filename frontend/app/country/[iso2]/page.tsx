@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
+import { isStale } from "../../../lib/staleness";
 import TimeSeriesChart from "../../../components/TimeSeriesChart";
 
 function loadCountry(iso2: string) {
@@ -59,6 +60,12 @@ export default function CountryPage({ params }: { params: { iso2: string } }) {
           ? `${data.latestSupport.toFixed(1)}%`
           : "N/A"}
       </p>
+      {data.latestUpdate && (
+        <p style={isStale(data.latestUpdate, new Date()) ? { color: "#b45309" } : undefined}>
+          Last poll: {data.latestUpdate}
+          {isStale(data.latestUpdate, new Date()) && " (outdated, no poll in the last 18 months)"}
+        </p>
+      )}
       <TimeSeriesChart 
         seriesByParty={data.seriesByParty || {}} 
         datapointsByParty={data.datapointsByParty || {}}
