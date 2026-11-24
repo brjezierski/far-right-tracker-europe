@@ -47,7 +47,7 @@ make build                   # static site in frontend/out
 make lint test               # what CI runs
 ```
 
-The CLI behind these is `frt update [COUNTRY] [--no-scraping] [--debug]`; run it from `pipeline/` with
+The CLI behind these is `frt update [COUNTRY] [--no-scraping] [--force] [--debug]`; run it from `pipeline/` with
 `uv run frt update --help`.
 
 ## Repository layout

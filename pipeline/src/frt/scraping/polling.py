@@ -19,6 +19,7 @@ from frt.scraping.tables import (
     parse_all_tables_from_soup,
     parse_html_table_with_hierarchy,
 )
+from frt.scraping.validators import conditional_headers, response_validators
 from frt.scraping.values import (
     extract_party_name_from_link,
     get_latest_polling_value,
@@ -149,6 +150,11 @@ class WikipediaPollingFetcher:
         self.url = url
         self.headers = headers
         self._tables: dict[str, list[pd.DataFrame]] | None = None
+        # Validators from the last run; when set, the page is only downloaded if it changed.
+        self.validators: dict[str, str] | None = None
+        self.not_modified = False
+        self.failed = False
+        self.new_validators: dict[str, str] = {}
 
     def prefetch(self, country: str) -> None:
         """Download and parse the tables now, so they can be fetched in a worker thread."""
@@ -156,6 +162,7 @@ class WikipediaPollingFetcher:
             self._tables = self.fetch_tables(country)
         except Exception:
             self._tables = None
+            self.failed = True
 
     def fetch_tables(self, country: str) -> dict[str, list[pd.DataFrame]]:
         """Prefer the first table under the section whose heading equals the current year.
@@ -166,8 +173,13 @@ class WikipediaPollingFetcher:
                 "User-Agent": "FarRightTrackerBot/1.0 (https://github.com/brjezierski/far-right-tracker-europe; brjezierski@gmail.com)"
             }
 
-            r = polite_get(self.url, headers=headers)
+            r = polite_get(self.url, headers={**headers, **conditional_headers(self.validators)})
+            if r.status_code == 304:
+                self.not_modified = True
+                self.new_validators = self.validators or {}
+                return {}
             r.raise_for_status()
+            self.new_validators = response_validators(r.headers)
             soup = BeautifulSoup(r.text, "lxml")
             years = []
             # get years between current year and current year -10

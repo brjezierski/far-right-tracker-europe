@@ -1,4 +1,4 @@
-"""Command line entry point: ``frt update [COUNTRY] [--no-scraping] [--debug]``."""
+"""Command line entry point: ``frt update [COUNTRY] [--no-scraping] [--force] [--debug]``."""
 
 from __future__ import annotations
 
@@ -20,6 +20,11 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="rebuild JSON outputs from the CSVs already in data/",
     )
+    update.add_argument(
+        "--force",
+        action="store_true",
+        help="download and parse every page even if it is unchanged since the last run",
+    )
     update.add_argument("--debug", action="store_true", help="verbose logging and debug files")
 
     args = parser.parse_args(argv)
@@ -28,7 +33,7 @@ def main(argv: list[str] | None = None) -> int:
         format="%(message)s",
     )
     COUNTRIES_DIR.mkdir(parents=True, exist_ok=True)
-    build(selected_country=args.country, no_scraping=args.no_scraping)
+    build(selected_country=args.country, no_scraping=args.no_scraping, force=args.force)
     return 0
 
 
