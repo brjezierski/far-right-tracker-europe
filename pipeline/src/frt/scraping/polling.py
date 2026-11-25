@@ -45,6 +45,27 @@ def is_election_result(pollster: str) -> bool:
     return any(word in pollster.lower() for word in ("election", "élection", "result"))
 
 
+_POLLSTER_HEADER = re.compile(r"poll(?:ster|ing)|agency|firm|organi[sz]ation|company|institute", re.I)
+
+
+def find_pollster_column(cols_info: list[dict], date_col_info: dict | None) -> str | tuple | None:
+    """Column holding the polling company: the first column, unless that is the date column.
+
+    Some pages (Ireland) put the date first, so fall back to the first non-party column
+    named like a pollster, then to the first non-party column after the date.
+    """
+    if not cols_info:
+        return None
+    first = cols_info[0]
+    if date_col_info is None or first["original"] != date_col_info["original"]:
+        return first["original"]
+    candidates = [c for c in cols_info[1:] if not c["column_link"]]
+    for col_info in candidates:
+        if _POLLSTER_HEADER.search(col_info["column_name"]):
+            return col_info["original"]
+    return candidates[0]["original"] if candidates else first["original"]
+
+
 def row_is_election_result(row, cols_info: list[dict]) -> bool:
     """Whether any non-party cell of a row (poll source, date, ...) marks it as an election outcome.
 
@@ -395,8 +416,7 @@ class WikipediaPollingFetcher:
                 if not potential_party_cols:
                     continue
 
-                # Get pollster column (first column, typically)
-                pollster_col = cols_info[0]["original"] if cols_info else None
+                pollster_col = find_pollster_column(cols_info, date_col_info)
 
                 # Iterate rows from the bottom
                 prev_date: pd.Timestamp | None = None
@@ -498,6 +518,11 @@ class WikipediaPollingFetcher:
         return latest_total, series, party_metadata
 
 
+def _header_link(link: str | None) -> str | None:
+    """Drop in-page anchors (footnote markers) so they are not mistaken for party links."""
+    return None if link and link.startswith("#") else link
+
+
 def process_hierarchical_columns(df: pd.DataFrame) -> list[dict]:
     """
     Process hierarchical column structure from a DataFrame.
@@ -519,6 +544,8 @@ def process_hierarchical_columns(df: pd.DataFrame) -> list[dict]:
             child_text, child_link = (
                 child_info if isinstance(child_info, tuple) and child_info != () else ("", None)
             )
+            parent_link = _header_link(parent_link)
+            child_link = _header_link(child_link)
 
             # For hierarchical columns, create entries for both parent and child
             if child_text:
