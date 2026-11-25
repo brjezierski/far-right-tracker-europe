@@ -60,18 +60,21 @@ def extract_percentage_value(val: str) -> float:
     return float(val.replace("%", "").replace(",", ".").strip().split()[0])
 
 
+MISSING_VALUE_MARKERS = frozenset({"", "-", "–", "—"})
+
+
 def get_polling_value(val: Any, party: str = "", country: str = "") -> float | None:
     """
     Extract a polling value from various data types (string, number, pandas Series).
 
     Args:
-        val: The value to extract from (can be str, int, float, pandas Series, or "-")
+        val: The value to extract from (can be str, int, float, pandas Series, or a dash)
         party: Party name for error messages (optional)
         country: Country name for error messages (optional)
 
     Returns:
         Float value representing the polling percentage, or None if invalid/missing
-        Returns None for "-" (dash) values
+        Returns None for empty and dash ("-", "–", "—") values
 
     Raises:
         ValueError: If the value cannot be converted to a valid polling number
@@ -94,8 +97,8 @@ def get_polling_value(val: Any, party: str = "", country: str = "") -> float | N
 
         # Handle string values
         if isinstance(val, str):
-            # Handle dash/missing values
-            if val == "-":
+            # Hyphen, en dash and em dash all mark a missing poll value on Wikipedia
+            if val.strip() in MISSING_VALUE_MARKERS:
                 return None
 
             return extract_percentage_value(val)

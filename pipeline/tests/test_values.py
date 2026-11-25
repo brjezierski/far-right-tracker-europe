@@ -1,3 +1,4 @@
+import pandas as pd
 import pytest
 
 from frt.scraping.values import extract_percentage_value, get_polling_value
@@ -11,8 +12,13 @@ def test_extract_percentage_value(raw, expected):
     assert extract_percentage_value(raw) == expected
 
 
-def test_get_polling_value_dash_is_missing():
-    assert get_polling_value("-") is None
+@pytest.mark.parametrize("raw", ["-", "–", "—", " – ", ""])
+def test_get_polling_value_dash_is_missing(raw):
+    assert get_polling_value(raw) is None
+
+
+def test_get_polling_value_series_skips_en_dash():
+    assert get_polling_value(pd.Series(["–", "12.5%"]), "Vetëvendosje", "Kosovo") == 12.5
 
 
 def test_get_polling_value_number():
