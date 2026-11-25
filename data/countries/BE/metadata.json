@@ -3,8 +3,9 @@
   "iso2": "BE",
   "sources": [
     "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Belgian_federal_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections"
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2024_Belgian_elections",
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2029_Belgian_elections"
   ],
-  "updatedAt": "2026-11-24T06:53:50Z",
-  "latestTotal": 24.933333333333334
+  "updatedAt": "2026-11-25T05:19:02Z",
+  "latestTotal": 25.066666666666666
 }

@@ -9,7 +9,7 @@
       "activeParties": [
         "Alternative for Germany"
       ],
-      "latestSupport": 27.95
+      "latestSupport": 27.73
     },
     "FI": {
       "country": "Finland",
@@ -54,7 +54,7 @@
         "JA21",
         "Party for Freedom"
       ],
-      "latestSupport": 46.2
+      "latestSupport": 47.54
     },
     "GR": {
       "country": "Greece",
@@ -74,7 +74,7 @@
         "Spartans",
         "Voice of Reason"
       ],
-      "latestSupport": 13.62
+      "latestSupport": 13.73
     },
     "AT": {
       "country": "Austria",
@@ -95,7 +95,7 @@
         "Șor Party"
       ],
       "activeParties": [],
-      "latestSupport": 16.88
+      "latestSupport": 0.0
     },
     "BG": {
       "country": "Bulgaria",
@@ -196,13 +196,12 @@
       "country": "Belgium",
       "iso2": "BE",
       "parties": [
-        "People's Party",
         "Vlaams Belang"
       ],
       "activeParties": [
         "Vlaams Belang"
       ],
-      "latestSupport": 25.2
+      "latestSupport": 24.9
     },
     "AL": {
       "country": "Albania",
@@ -222,9 +221,11 @@
       ],
       "activeParties": [
         "Dawn of Nemunas",
-        "National Alliance"
+        "Electoral Action of Poles in Lithuania - Christian Families Alliance",
+        "National Alliance",
+        "People and Justice Union"
       ],
-      "latestSupport": 19.290000000000003
+      "latestSupport": 23.24
     },
     "SE": {
       "country": "Sweden",
@@ -327,7 +328,7 @@
         "Homeland Movement",
         "The Bridge"
       ],
-      "latestSupport": 13.84
+      "latestSupport": 14.22
     },
     "AM": {
       "country": "Armenia",
@@ -337,7 +338,7 @@
         "Sasna Tsrer Pan-Armenian Party"
       ],
       "activeParties": [],
-      "latestSupport": 2.52
+      "latestSupport": 0.0
     },
     "LV": {
       "country": "Latvia",
@@ -378,7 +379,7 @@
         "Reform UK",
         "Restore Britain"
       ],
-      "latestSupport": 25.0
+      "latestSupport": 25.7
     },
     "ES": {
       "country": "Spain",
@@ -392,7 +393,7 @@
         "Se Acabó La Fiesta",
         "Vox"
       ],
-      "latestSupport": 19.529999999999998
+      "latestSupport": 19.42
     },
     "FR": {
       "country": "France",
@@ -437,7 +438,7 @@
         "New Welfare Party",
         "Victory Party"
       ],
-      "latestSupport": 59.84
+      "latestSupport": 54.49
     },
     "RS": {
       "country": "Serbia",
@@ -463,16 +464,18 @@
       "country": "Denmark",
       "iso2": "DK",
       "parties": [
+        "Citizens' Party",
         "Danish People's Party",
         "Denmark Democrats",
         "New Right",
         "Stram Kurs"
       ],
       "activeParties": [
+        "Citizens' Party",
         "Danish People's Party",
-        "New Right"
+        "Denmark Democrats"
       ],
-      "latestSupport": 6.6899999999999995
+      "latestSupport": 17.62
     },
     "UA": {
       "country": "Ukraine",
@@ -495,7 +498,7 @@
         "Renua"
       ],
       "activeParties": [],
-      "latestSupport": 0.86
+      "latestSupport": 0.0
     },
     "SI": {
       "country": "Slovenia",
@@ -570,5 +573,5 @@
     }
   },
   "parties": {},
-  "updatedAt": "2026-11-24T23:46:05Z"
+  "updatedAt": "2026-11-25T05:26:55Z"
 }

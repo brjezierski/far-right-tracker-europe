@@ -261,7 +261,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,ANO 2011,27.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2018-10-26,CVVM,ANO 2011,30.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2018-11-07,Phoenix Research,ANO 2011,24.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2018-11-15,CVVM [ c ],ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2018-11-15,CVVM,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2018-11-25,Kantar TNS,ANO 2011,32.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2018-11-28,Sanep,ANO 2011,30.1,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2018-11-30,STEM,ANO 2011,35.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -322,7 +322,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,ANO 2011,30.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2020-02-28,Kantar CZ,ANO 2011,31.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2020-03-11,CVVM,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2020-04-30,g82 [ 6 ],ANO 2011,35.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2020-04-30,g82,ANO 2011,35.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2020-05-13,Sanep,ANO 2011,29.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2020-05-19,25.0,ANO 2011,20.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2020-06-01,STEM,ANO 2011,33.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -413,7 +413,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-11-19,Kantar CZ,ANO 2011,27.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-11-24,Sanep,ANO 2011,27.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2022-01-26,Sanep,ANO 2011,29.1,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2022-02-26,Phoenix [ d ],ANO 2011,26.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2022-02-26,Phoenix,ANO 2011,26.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2022-02-28,Sanep,ANO 2011,28.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2022-03-04,Kantar CZ,ANO 2011,25.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2022-03-16,Sanep,ANO 2011,27.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -440,11 +440,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-12,Sanep,ANO 2011,32.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-03-03,Kantar CZ,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-03-07,Median,ANO 2011,32.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2023-03-12,Phoenix [ c ],ANO 2011,27.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2023-03-12,Phoenix,ANO 2011,27.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-03-29,Sanep,ANO 2011,33.1,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-04-03,Median,ANO 2011,34.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-04-06,Kantar CZ,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2023-04-06,Phoenix Research [ c ],ANO 2011,31.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2023-04-06,Phoenix Research,ANO 2011,31.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-04-26,Sanep,ANO 2011,33.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-05-02,Median,ANO 2011,31.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2023-05-05,Kantar CZ,ANO 2011,30.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -482,11 +482,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-30,STEM,ANO 2011,32.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-06-30,Median,ANO 2011,30.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-07-12,NMS,ANO 2011,28.2,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2024-07-12,Phoenix Research [ c ],ANO 2011,26.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2024-07-12,Phoenix Research,ANO 2011,26.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-07-31,Median,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-08-08,NMS,ANO 2011,29.3,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-08-31,Median,ANO 2011,32.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2024-09-08,Phoenix Research [ c ],ANO 2011,26.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2024-09-08,Phoenix Research,ANO 2011,26.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-09-08,STEM,ANO 2011,33.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-09-10,NMS,ANO 2011,32.1,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2024-09-30,Median,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -574,7 +574,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,ANO 2011,30.9,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2025-09-19,Kantar CZ,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2025-09-22,Lord Ashcroft Polls,ANO 2011,34.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2025-09-22,STEM/MARK [ a ],ANO 2011,27.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
+2025-09-22,STEM/MARK,ANO 2011,27.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2025-09-24,STEM,ANO 2011,28.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2025-09-25,Median,ANO 2011,30.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2025-09-26,STEM,ANO 2011,29.3,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -892,7 +892,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Civic Democratic Party,14.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2018-10-26,CVVM,Civic Democratic Party,19.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2018-11-07,Phoenix Research,Civic Democratic Party,14.7,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2018-11-15,CVVM [ c ],Civic Democratic Party,14.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
+2018-11-15,CVVM,Civic Democratic Party,14.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2018-11-25,Kantar TNS,Civic Democratic Party,16.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2018-11-28,Sanep,Civic Democratic Party,16.8,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2018-11-30,STEM,Civic Democratic Party,12.4,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -953,7 +953,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Civic Democratic Party,14.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2020-02-28,Kantar CZ,Civic Democratic Party,13.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2020-03-11,CVVM,Civic Democratic Party,14.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2020-04-30,g82 [ 6 ],Civic Democratic Party,10.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
+2020-04-30,g82,Civic Democratic Party,10.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2020-05-13,Sanep,Civic Democratic Party,13.4,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2020-05-19,25.0,Civic Democratic Party,10.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2020-06-01,STEM,Civic Democratic Party,11.4,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -1275,7 +1275,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Communist Party of Bohemia and Moravia,6.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2018-10-26,CVVM,Communist Party of Bohemia and Moravia,8.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2018-11-07,Phoenix Research,Communist Party of Bohemia and Moravia,5.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2018-11-15,CVVM [ c ],Communist Party of Bohemia and Moravia,10.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2018-11-15,CVVM,Communist Party of Bohemia and Moravia,10.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2018-11-25,Kantar TNS,Communist Party of Bohemia and Moravia,6.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2018-11-28,Sanep,Communist Party of Bohemia and Moravia,6.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2018-11-30,STEM,Communist Party of Bohemia and Moravia,7.6,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1336,7 +1336,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Communist Party of Bohemia and Moravia,8.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2020-02-28,Kantar CZ,Communist Party of Bohemia and Moravia,4.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2020-03-11,CVVM,Communist Party of Bohemia and Moravia,7.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2020-04-30,g82 [ 6 ],Communist Party of Bohemia and Moravia,4.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2020-04-30,g82,Communist Party of Bohemia and Moravia,4.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2020-05-13,Sanep,Communist Party of Bohemia and Moravia,5.9,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2020-05-19,25.0,Communist Party of Bohemia and Moravia,1.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2020-06-01,STEM,Communist Party of Bohemia and Moravia,7.3,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1442,7 +1442,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-05,STEM,Communist Party of Bohemia and Moravia,4.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2023-03-03,Kantar CZ,Communist Party of Bohemia and Moravia,2.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2023-03-07,Median,Communist Party of Bohemia and Moravia,3.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2023-03-12,Phoenix [ c ],Communist Party of Bohemia and Moravia,1.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2023-03-12,Phoenix,Communist Party of Bohemia and Moravia,1.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2023-04-03,Median,Communist Party of Bohemia and Moravia,3.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2023-04-06,Kantar CZ,Communist Party of Bohemia and Moravia,2.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2023-05-02,Median,Communist Party of Bohemia and Moravia,4.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1481,11 +1481,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-30,STEM,Communist Party of Bohemia and Moravia,5.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-06-30,Median,Communist Party of Bohemia and Moravia,4.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-07-12,NMS,Communist Party of Bohemia and Moravia,5.6,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2024-07-12,Phoenix Research [ c ],Communist Party of Bohemia and Moravia,4.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2024-07-12,Phoenix Research,Communist Party of Bohemia and Moravia,4.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-07-31,Median,Communist Party of Bohemia and Moravia,4.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-08-08,NMS,Communist Party of Bohemia and Moravia,5.7,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-08-31,Median,Communist Party of Bohemia and Moravia,3.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2024-09-08,Phoenix Research [ c ],Communist Party of Bohemia and Moravia,5.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
+2024-09-08,Phoenix Research,Communist Party of Bohemia and Moravia,5.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-09-08,STEM,Communist Party of Bohemia and Moravia,4.6,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-09-10,NMS,Communist Party of Bohemia and Moravia,4.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2024-09-30,Median,Communist Party of Bohemia and Moravia,4.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1827,7 +1827,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Czech Pirate Party,16.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2018-10-26,CVVM,Czech Pirate Party,11.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2018-11-07,Phoenix Research,Czech Pirate Party,13.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2018-11-15,CVVM [ c ],Czech Pirate Party,14.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2018-11-15,CVVM,Czech Pirate Party,14.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2018-11-25,Kantar TNS,Czech Pirate Party,19.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2018-11-28,Sanep,Czech Pirate Party,15.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2018-11-30,STEM,Czech Pirate Party,13.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1888,7 +1888,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Czech Pirate Party,11.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2020-02-28,Kantar CZ,Czech Pirate Party,15.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2020-03-11,CVVM,Czech Pirate Party,12.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2020-04-30,g82 [ 6 ],Czech Pirate Party,17.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2020-04-30,g82,Czech Pirate Party,17.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2020-05-13,Sanep,Czech Pirate Party,11.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2020-05-19,25.0,Czech Pirate Party,4.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2020-06-01,STEM,Czech Pirate Party,12.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1935,7 +1935,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-11-24,Sanep,Czech Pirate Party,1.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2022-01-26,Sanep,Czech Pirate Party,5.4,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2022-01-26,Sanep,Czech Pirate Party,1.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2022-02-26,Phoenix [ d ],Czech Pirate Party,7.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2022-02-26,Phoenix,Czech Pirate Party,7.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2022-02-28,Sanep,Czech Pirate Party,5.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2022-02-28,Sanep,Czech Pirate Party,1.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2022-03-04,Kantar CZ,Czech Pirate Party,7.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1975,12 +1975,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-03-03,Kantar CZ,Czech Pirate Party,9.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-03-07,Median,Czech Pirate Party,11.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-03-07,Median,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2023-03-12,Phoenix [ c ],Czech Pirate Party,8.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2023-03-12,Phoenix,Czech Pirate Party,8.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-03-29,Sanep,Czech Pirate Party,9.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-04-03,Median,Czech Pirate Party,8.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-04-03,Median,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-04-06,Kantar CZ,Czech Pirate Party,11.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2023-04-06,Phoenix Research [ c ],Czech Pirate Party,8.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2023-04-06,Phoenix Research,Czech Pirate Party,8.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-04-26,Sanep,Czech Pirate Party,10.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-05-02,Median,Czech Pirate Party,10.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2023-05-02,Median,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -2042,14 +2042,14 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-30,Median,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-07-12,NMS,Czech Pirate Party,9.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-07-12,NMS,Czech Pirate Party,1.6,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2024-07-12,Phoenix Research [ c ],Czech Pirate Party,7.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2024-07-12,Phoenix Research,Czech Pirate Party,7.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-07-31,Median,Czech Pirate Party,8.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-07-31,Median,Czech Pirate Party,2.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-08-08,NMS,Czech Pirate Party,8.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-08-08,NMS,Czech Pirate Party,2.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-08-31,Median,Czech Pirate Party,9.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-08-31,Median,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2024-09-08,Phoenix Research [ c ],Czech Pirate Party,8.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2024-09-08,Phoenix Research,Czech Pirate Party,8.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-09-08,STEM,Czech Pirate Party,7.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-09-08,STEM,Czech Pirate Party,2.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2024-09-10,NMS,Czech Pirate Party,7.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -2187,7 +2187,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Czech Pirate Party,9.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2025-09-19,Kantar CZ,Czech Pirate Party,9.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2025-09-22,Lord Ashcroft Polls,Czech Pirate Party,9.9,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2025-09-22,STEM/MARK [ a ],Czech Pirate Party,11.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
+2025-09-22,STEM/MARK,Czech Pirate Party,11.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2025-09-24,STEM,Czech Pirate Party,9.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2025-09-25,Median,Czech Pirate Party,10.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2025-09-26,STEM,Czech Pirate Party,10.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -2590,7 +2590,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2018-10-26,CVVM,Freedom and Direct Democracy,5.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2018-11-07,Phoenix Research,Freedom and Direct Democracy,7.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2018-11-15,CVVM [ c ],Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2018-11-15,CVVM,Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2018-11-25,Kantar TNS,Freedom and Direct Democracy,5.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2018-11-28,Sanep,Freedom and Direct Democracy,7.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2018-11-30,STEM,Freedom and Direct Democracy,6.9,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2651,7 +2651,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2020-02-28,Kantar CZ,Freedom and Direct Democracy,6.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2020-03-11,CVVM,Freedom and Direct Democracy,4.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2020-04-30,g82 [ 6 ],Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2020-04-30,g82,Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2020-05-13,Sanep,Freedom and Direct Democracy,6.7,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2020-06-01,STEM,Freedom and Direct Democracy,6.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2020-06-05,Kantar CZ Archived 14 June 2020 at the Wayback Machine,Freedom and Direct Democracy,8.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2737,7 +2737,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-11-24,Sanep,Freedom and Direct Democracy,9.9,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-01-26,Sanep,Freedom and Direct Democracy,11.3,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-01-26,Sanep,Freedom and Direct Democracy,1.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2022-02-26,Phoenix [ d ],Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2022-02-26,Phoenix,Freedom and Direct Democracy,7.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-02-28,Sanep,Freedom and Direct Democracy,11.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-02-28,Sanep,Freedom and Direct Democracy,2.1,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-03-04,Kantar CZ,Freedom and Direct Democracy,11.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2780,16 +2780,16 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-03-03,Kantar CZ,Freedom and Direct Democracy,8.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-03-07,Median,Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-03-07,Median,Freedom and Direct Democracy,1.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2023-03-12,Phoenix [ c ],Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2023-03-12,Phoenix [ c ],Freedom and Direct Democracy,4.3,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2023-03-12,Phoenix,Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2023-03-12,Phoenix,Freedom and Direct Democracy,4.3,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-03-29,Sanep,Freedom and Direct Democracy,9.6,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-03-29,Sanep,Freedom and Direct Democracy,6.4,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-03,Median,Freedom and Direct Democracy,10.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-03,Median,Freedom and Direct Democracy,3.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-06,Kantar CZ,Freedom and Direct Democracy,8.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-06,Kantar CZ,Freedom and Direct Democracy,3.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2023-04-06,Phoenix Research [ c ],Freedom and Direct Democracy,9.6,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2023-04-06,Phoenix Research [ c ],Freedom and Direct Democracy,5.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2023-04-06,Phoenix Research,Freedom and Direct Democracy,9.6,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2023-04-06,Phoenix Research,Freedom and Direct Democracy,5.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-26,Sanep,Freedom and Direct Democracy,9.4,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-04-26,Sanep,Freedom and Direct Democracy,6.7,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2023-05-02,Median,Freedom and Direct Democracy,8.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2887,7 +2887,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-12,NMS,Freedom and Direct Democracy,1.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-07-12,NMS,Freedom and Direct Democracy,3.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-07-12,NMS,Freedom and Direct Democracy,1.4,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2024-07-12,Phoenix Research [ c ],Freedom and Direct Democracy,5.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2024-07-12,Phoenix Research,Freedom and Direct Democracy,5.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-07-31,Median,Freedom and Direct Democracy,8.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-07-31,Median,Freedom and Direct Democracy,2.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-08-08,NMS,Freedom and Direct Democracy,6.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2896,8 +2896,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-08-08,NMS,Freedom and Direct Democracy,1.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-08-31,Median,Freedom and Direct Democracy,11.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-08-31,Median,Freedom and Direct Democracy,2.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2024-09-08,Phoenix Research [ c ],Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2024-09-08,Phoenix Research [ c ],Freedom and Direct Democracy,1.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2024-09-08,Phoenix Research,Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2024-09-08,Phoenix Research,Freedom and Direct Democracy,1.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-09-08,STEM,Freedom and Direct Democracy,7.4,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-09-08,STEM,Freedom and Direct Democracy,1.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2024-09-08,STEM,Freedom and Direct Democracy,1.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -3036,7 +3036,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Freedom and Direct Democracy,12.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2025-09-19,Kantar CZ,Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2025-09-22,Lord Ashcroft Polls,Freedom and Direct Democracy,11.1,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2025-09-22,STEM/MARK [ a ],Freedom and Direct Democracy,12.3,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2025-09-22,STEM/MARK,Freedom and Direct Democracy,12.3,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2025-09-24,STEM,Freedom and Direct Democracy,13.8,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2025-09-25,Median,Freedom and Direct Democracy,13.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2025-09-26,STEM,Freedom and Direct Democracy,13.4,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -3292,7 +3292,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-25,Median,Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-10-26,Kantar TNS,Green Party,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-11-07,Phoenix Research,Green Party,0.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2018-11-15,CVVM [ c ],Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
+2018-11-15,CVVM,Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-11-30,STEM,Green Party,0.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-12-09,Median,Green Party,0.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-12-13,CVVM,Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3671,7 +3671,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,KDU-ČSL,6.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2018-10-26,CVVM,KDU-ČSL,7.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2018-11-07,Phoenix Research,KDU-ČSL,5.1,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2018-11-15,CVVM [ c ],KDU-ČSL,5.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
+2018-11-15,CVVM,KDU-ČSL,5.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2018-11-25,Kantar TNS,KDU-ČSL,4.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2018-11-28,Sanep,KDU-ČSL,5.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2018-11-30,STEM,KDU-ČSL,5.1,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3732,7 +3732,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,KDU-ČSL,5.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2020-02-28,Kantar CZ,KDU-ČSL,5.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2020-03-11,CVVM,KDU-ČSL,7.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2020-04-30,g82 [ 6 ],KDU-ČSL,4.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
+2020-04-30,g82,KDU-ČSL,4.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2020-05-13,Sanep,KDU-ČSL,4.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2020-05-19,25.0,KDU-ČSL,10.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2020-06-01,STEM,KDU-ČSL,6.1,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3940,7 +3940,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Mayors and Independents,7.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2018-10-26,CVVM,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2018-11-07,Phoenix Research,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2018-11-15,CVVM [ c ],Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2018-11-15,CVVM,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2018-11-25,Kantar TNS,Mayors and Independents,5.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2018-11-28,Sanep,Mayors and Independents,5.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2018-11-30,STEM,Mayors and Independents,4.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4001,7 +4001,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Mayors and Independents,6.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2020-02-28,Kantar CZ,Mayors and Independents,6.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2020-03-11,CVVM,Mayors and Independents,4.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2020-04-30,g82 [ 6 ],Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2020-04-30,g82,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2020-05-13,Sanep,Mayors and Independents,4.9,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2020-06-01,STEM,Mayors and Independents,4.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2020-06-05,Kantar CZ Archived 14 June 2020 at the Wayback Machine,Mayors and Independents,5.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4039,7 +4039,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-11-19,Kantar CZ,Mayors and Independents,13.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-11-24,Sanep,Mayors and Independents,10.7,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2022-01-26,Sanep,Mayors and Independents,9.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2022-02-26,Phoenix [ d ],Mayors and Independents,10.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2022-02-26,Phoenix,Mayors and Independents,10.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2022-02-28,Sanep,Mayors and Independents,9.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2022-03-04,Kantar CZ,Mayors and Independents,11.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2022-03-16,Sanep,Mayors and Independents,9.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4066,11 +4066,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-12,Sanep,Mayors and Independents,4.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-03-03,Kantar CZ,Mayors and Independents,7.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-03-07,Median,Mayors and Independents,7.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2023-03-12,Phoenix [ c ],Mayors and Independents,5.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2023-03-12,Phoenix,Mayors and Independents,5.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-03-29,Sanep,Mayors and Independents,4.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-04-03,Median,Mayors and Independents,8.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-04-06,Kantar CZ,Mayors and Independents,5.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2023-04-06,Phoenix Research [ c ],Mayors and Independents,7.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2023-04-06,Phoenix Research,Mayors and Independents,7.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-04-26,Sanep,Mayors and Independents,4.7,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-05-02,Median,Mayors and Independents,7.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2023-05-05,Kantar CZ,Mayors and Independents,6.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4108,11 +4108,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-30,STEM,Mayors and Independents,6.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-06-30,Median,Mayors and Independents,9.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-07-12,NMS,Mayors and Independents,10.1,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2024-07-12,Phoenix Research [ c ],Mayors and Independents,7.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2024-07-12,Phoenix Research,Mayors and Independents,7.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-07-31,Median,Mayors and Independents,9.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-08-08,NMS,Mayors and Independents,9.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-08-31,Median,Mayors and Independents,9.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2024-09-08,Phoenix Research [ c ],Mayors and Independents,6.4,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2024-09-08,Phoenix Research,Mayors and Independents,6.4,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-09-08,STEM,Mayors and Independents,6.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-09-10,NMS,Mayors and Independents,9.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2024-09-30,Median,Mayors and Independents,11.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4200,7 +4200,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Mayors and Independents,12.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2025-09-19,Kantar CZ,Mayors and Independents,13.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2025-09-22,Lord Ashcroft Polls,Mayors and Independents,8.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2025-09-22,STEM/MARK [ a ],Mayors and Independents,11.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
+2025-09-22,STEM/MARK,Mayors and Independents,11.6,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2025-09-24,STEM,Mayors and Independents,12.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2025-09-25,Median,Mayors and Independents,10.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2025-09-26,STEM,Mayors and Independents,11.7,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4324,7 +4324,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Motorists for Themselves,5.7,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2025-09-19,Kantar CZ,Motorists for Themselves,6.0,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2025-09-22,Lord Ashcroft Polls,Motorists for Themselves,3.7,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
-2025-09-22,STEM/MARK [ a ],Motorists for Themselves,7.6,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
+2025-09-22,STEM/MARK,Motorists for Themselves,7.6,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2025-09-24,STEM,Motorists for Themselves,5.6,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2025-09-25,Median,Motorists for Themselves,4.5,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
 2025-09-26,STEM,Motorists for Themselves,5.9,Right-wing to far-right,Right-wing populism National conservatism Anti-environmentalism Euroscepticism Klausism,https://en.wikipedia.org/wiki/Motorists_for_Themselves
@@ -4535,7 +4535,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-31,Median,Přísaha,5.0,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2024-08-08,NMS,Přísaha,4.6,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2024-08-31,Median,Přísaha,3.5,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
-2024-09-08,Phoenix Research [ c ],Přísaha,5.1,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
+2024-09-08,Phoenix Research,Přísaha,5.1,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2024-09-08,STEM,Přísaha,3.3,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2024-09-10,NMS,Přísaha,5.2,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2024-09-30,Median,Přísaha,4.5,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
@@ -4614,7 +4614,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Přísaha,2.0,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2025-09-19,Kantar CZ,Přísaha,2.0,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2025-09-22,Lord Ashcroft Polls,Přísaha,2.5,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
-2025-09-22,STEM/MARK [ a ],Přísaha,2.2,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
+2025-09-22,STEM/MARK,Přísaha,2.2,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2025-09-24,STEM,Přísaha,3.4,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2025-09-25,Median,Přísaha,2.0,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
 2025-09-26,STEM,Přísaha,3.2,Right-wing,Populism Euroscepticism,https://en.wikipedia.org/wiki/P%C5%99%C3%ADsaha
@@ -4914,7 +4914,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,Social Democracy,5.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2018-10-26,CVVM,Social Democracy,9.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2018-11-07,Phoenix Research,Social Democracy,5.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2018-11-15,CVVM [ c ],Social Democracy,9.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
+2018-11-15,CVVM,Social Democracy,9.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2018-11-25,Kantar TNS,Social Democracy,5.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2018-11-28,Sanep,Social Democracy,5.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2018-11-30,STEM,Social Democracy,6.6,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -4975,7 +4975,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Social Democracy,7.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2020-02-28,Kantar CZ,Social Democracy,5.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2020-03-11,CVVM,Social Democracy,8.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2020-04-30,g82 [ 6 ],Social Democracy,6.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
+2020-04-30,g82,Social Democracy,6.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2020-05-13,Sanep,Social Democracy,7.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2020-05-19,25.0,Social Democracy,5.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2020-06-01,STEM,Social Democracy,8.9,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -5141,10 +5141,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-12,Sanep,Stačilo!,3.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-03-03,Kantar CZ,Stačilo!,4.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-03-07,Median,Stačilo!,5.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
-2023-03-12,Phoenix [ c ],Stačilo!,2.2,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
+2023-03-12,Phoenix,Stačilo!,2.2,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-04-03,Median,Stačilo!,4.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-04-06,Kantar CZ,Stačilo!,5.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
-2023-04-06,Phoenix Research [ c ],Stačilo!,1.6,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
+2023-04-06,Phoenix Research,Stačilo!,1.6,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-05-02,Median,Stačilo!,4.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-05-05,Kantar CZ,Stačilo!,5.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2023-05-29,STEM,Stačilo!,4.1,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
@@ -5184,7 +5184,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-07-31,Median,Stačilo!,3.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2024-08-08,NMS,Stačilo!,2.8,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2024-08-31,Median,Stačilo!,2.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
-2024-09-08,Phoenix Research [ c ],Stačilo!,1.4,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
+2024-09-08,Phoenix Research,Stačilo!,1.4,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2024-09-08,STEM,Stačilo!,2.8,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2024-09-10,NMS,Stačilo!,2.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2024-09-30,Median,Stačilo!,4.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
@@ -5269,7 +5269,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-16,STEM,Stačilo!,7.7,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2025-09-19,Kantar CZ,Stačilo!,6.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2025-09-22,Lord Ashcroft Polls,Stačilo!,7.4,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
-2025-09-22,STEM/MARK [ a ],Stačilo!,7.9,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
+2025-09-22,STEM/MARK,Stačilo!,7.9,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2025-09-24,STEM,Stačilo!,5.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2025-09-25,Median,Stačilo!,7.0,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2025-09-26,STEM,Stačilo!,5.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
@@ -5470,7 +5470,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-11-15,CVVM,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2019-12-10,STEM,Svobodní,1.8,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2019-12-11,CVVM,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2020-04-30,g82 [ 6 ],Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
+2020-04-30,g82,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2020-05-19,25.0,Svobodní,5.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2020-06-01,STEM,Svobodní,0.7,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2020-07-27,CVVM,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5752,7 +5752,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-10-26,Kantar TNS,TOP 09,5.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2018-10-26,CVVM,TOP 09,3.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2018-11-07,Phoenix Research,TOP 09,3.1,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2018-11-15,CVVM [ c ],TOP 09,3.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
+2018-11-15,CVVM,TOP 09,3.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2018-11-25,Kantar TNS,TOP 09,4.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2018-11-28,Sanep,TOP 09,4.8,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2018-11-30,STEM,TOP 09,4.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5813,7 +5813,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,TOP 09,4.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2020-02-28,Kantar CZ,TOP 09,5.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2020-03-11,CVVM,TOP 09,4.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2020-04-30,g82 [ 6 ],TOP 09,6.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
+2020-04-30,g82,TOP 09,6.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2020-05-13,Sanep,TOP 09,5.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2020-05-19,25.0,TOP 09,3.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2020-06-01,STEM,TOP 09,3.3,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5910,7 +5910,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-13,Median,Tricolour,2.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-02-28,Kantar CZ,Tricolour,3.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-03-11,CVVM,Tricolour,2.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
-2020-04-30,g82 [ 6 ],Tricolour,3.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
+2020-04-30,g82,Tricolour,3.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-05-13,Sanep,Tricolour,5.2,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-06-01,STEM,Tricolour,3.5,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement
 2020-06-05,Kantar CZ Archived 14 June 2020 at the Wayback Machine,Tricolour,2.0,Right-wing to far-right,National conservatism Ultraconservatism Social conservatism Fiscal conservatism Laissez-faire capitalism Klausism Hard Euroscepticism,https://en.wikipedia.org/wiki/Tricolour_Citizens%27_Movement

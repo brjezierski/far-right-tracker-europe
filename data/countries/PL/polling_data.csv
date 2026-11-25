@@ -885,7 +885,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,Civic Coalition,28.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2022-12-30,Estymator / DoRzeczy.pl,Civic Coalition,28.8,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2023-01-02,Social Changes / wPolityce.pl,Civic Coalition,28.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
-2023-01-06,"IBRiS  / ""Rz""",Civic Coalition,25.4,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
+2023-01-06,"IBRiS / ""Rz""",Civic Coalition,25.4,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2023-01-08,United Surveys / WP.pl,Civic Coalition,27.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2023-01-09,Social Changes / wPolityce.pl,Civic Coalition,29.0,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
 2023-01-13,Estymator / DoRzeczy.pl,Civic Coalition,29.4,Centre-right,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Coalition_(Poland)
@@ -1503,12 +1503,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Civic Platform,15.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-04-28,Pollster,Civic Platform,12.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-04-29,IBRiS / Onet,Civic Platform,16.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2016-05-10,"TNS Poland / ""GW""",Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-05-17,Dobra Opinia,Civic Platform,19.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-05-18,TNS Poland,Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-05-22,"Millward Brown / ""GW""",Civic Platform,14.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-05-24,Millward Brown,Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2016-05-25,Pollster [ cz ],Civic Platform,12.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2016-05-25,Pollster,Civic Platform,12.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-05-27,IBRiS / Onet,Civic Platform,16.2,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-06-08,TNS Poland,Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-06-09,CBOS,Civic Platform,15.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
@@ -1517,7 +1517,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Civic Platform,9.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-06-24,IBRiS / Onet,Civic Platform,15.4,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-06-28,"TNS Poland / ""GW""",Civic Platform,18.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2016-06-28,IPSOS / OKO [ cy ],Civic Platform,15.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2016-06-28,IPSOS / OKO,Civic Platform,15.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-07-06,TNS Poland,Civic Platform,18.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-07-07,CBOS,Civic Platform,15.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2016-07-08,Pracownia Mediowa,Civic Platform,19.8,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
@@ -1602,7 +1602,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Civic Platform,22.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-07-12,Kantar Public,Civic Platform,19.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-07-21,Millward Brown,Civic Platform,23.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Civic Platform,23.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2017-07-22,"Kantar Public / ""GW""",Civic Platform,23.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-07-24,Kantar Public / TVP,Civic Platform,21.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-07-27,IBRiS / Onet,Civic Platform,20.6,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-07-28,IPSOS / TVP,Civic Platform,24.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
@@ -1625,10 +1625,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Civic Platform,18.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-10-12,CBOS,Civic Platform,16.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-10-15,"IBRiS / ""SE""",Civic Platform,19.8,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2017-10-17,IBRiS / ZET [ cb ],Civic Platform,20.5,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2017-10-17,IBRiS / ZET,Civic Platform,20.5,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-10-24,IBRiS,Civic Platform,21.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-10-27,Estymator,Civic Platform,22.2,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
-2017-11-05,Kantar Public / TVP [ bz ],Civic Platform,20.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
+2017-11-05,Kantar Public / TVP,Civic Platform,20.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-11-08,Kantar Public,Civic Platform,18.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-11-12,CBOS,Civic Platform,17.0,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
 2017-11-18,IBRiS / Onet,Civic Platform,19.1,Centre-right,Liberal conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Civic_Platform
@@ -2400,7 +2400,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,Confederation Liberty and Independence,7.0,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2022-12-30,Estymator / DoRzeczy.pl,Confederation Liberty and Independence,6.7,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2023-01-02,Social Changes / wPolityce.pl,Confederation Liberty and Independence,9.0,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
-2023-01-06,"IBRiS  / ""Rz""",Confederation Liberty and Independence,6.6,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
+2023-01-06,"IBRiS / ""Rz""",Confederation Liberty and Independence,6.6,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2023-01-08,United Surveys / WP.pl,Confederation Liberty and Independence,6.9,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2023-01-09,Social Changes / wPolityce.pl,Confederation Liberty and Independence,7.0,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
 2023-01-13,Estymator / DoRzeczy.pl,Confederation Liberty and Independence,7.4,Far-right,Right-wing populism Economic liberalism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence
@@ -3197,12 +3197,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-04-28,Pollster,Democratic Left Alliance,6.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-04-29,IBRiS / Onet,Democratic Left Alliance,5.1,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2016-05-10,"TNS Poland / ""GW""",Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-05-17,Dobra Opinia,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-05-18,TNS Poland,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-05-22,"Millward Brown / ""GW""",Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-05-24,Millward Brown,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2016-05-25,Pollster [ cz ],Democratic Left Alliance,7.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2016-05-25,Pollster,Democratic Left Alliance,7.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-05-27,IBRiS / Onet,Democratic Left Alliance,4.9,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-06-08,TNS Poland,Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-06-09,CBOS,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
@@ -3211,7 +3211,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-06-24,IBRiS / Onet,Democratic Left Alliance,4.7,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-06-28,"TNS Poland / ""GW""",Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2016-06-28,IPSOS / OKO [ cy ],Democratic Left Alliance,2.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2016-06-28,IPSOS / OKO,Democratic Left Alliance,2.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-07-06,TNS Poland,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-07-07,CBOS,Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2016-07-08,Pracownia Mediowa,Democratic Left Alliance,2.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
@@ -3297,7 +3297,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Democratic Left Alliance,6.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-07-12,Kantar Public,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-07-21,Millward Brown,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2017-07-22,"Kantar Public / ""GW""",Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-07-24,Kantar Public / TVP,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-07-27,IBRiS / Onet,Democratic Left Alliance,6.2,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-07-28,IPSOS / TVP,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
@@ -3320,10 +3320,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Democratic Left Alliance,7.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-10-12,CBOS,Democratic Left Alliance,2.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-10-15,"IBRiS / ""SE""",Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2017-10-17,IBRiS / ZET [ cb ],Democratic Left Alliance,5.1,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2017-10-17,IBRiS / ZET,Democratic Left Alliance,5.1,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-10-24,IBRiS,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-10-27,Estymator,Democratic Left Alliance,5.4,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
-2017-11-05,Kantar Public / TVP [ bz ],Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
+2017-11-05,Kantar Public / TVP,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-11-08,Kantar Public,Democratic Left Alliance,4.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-11-12,CBOS,Democratic Left Alliance,3.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
 2017-11-18,IBRiS / Onet,Democratic Left Alliance,5.0,Centre-left,Social democracy Pro-Europeanism Atlanticism,https://en.wikipedia.org/wiki/Democratic_Left_Alliance_(Poland)
@@ -3499,12 +3499,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-04-28,Pollster,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-04-29,IBRiS / Onet,Kukiz'15,8.4,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2016-05-10,"TNS Poland / ""GW""",Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-05-17,Dobra Opinia,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-05-18,TNS Poland,Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-05-22,"Millward Brown / ""GW""",Kukiz'15,4.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-05-24,Millward Brown,Kukiz'15,5.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2016-05-25,Pollster [ cz ],Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2016-05-25,Pollster,Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-05-27,IBRiS / Onet,Kukiz'15,7.5,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-06-08,TNS Poland,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-06-09,CBOS,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
@@ -3512,7 +3512,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-06-24,IBRiS / Onet,Kukiz'15,11.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-06-28,"TNS Poland / ""GW""",Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2016-06-28,IPSOS / OKO [ cy ],Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2016-06-28,IPSOS / OKO,Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-07-06,TNS Poland,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-07-07,CBOS,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2016-07-08,Pracownia Mediowa,Kukiz'15,4.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
@@ -3598,7 +3598,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-07-12,Kantar Public,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-07-21,Millward Brown,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Kukiz'15,10.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2017-07-22,"Kantar Public / ""GW""",Kukiz'15,10.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-07-24,Kantar Public / TVP,Kukiz'15,11.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-07-27,IBRiS / Onet,Kukiz'15,11.9,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-07-28,IPSOS / TVP,Kukiz'15,11.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
@@ -3621,10 +3621,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-10-12,CBOS,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-10-15,"IBRiS / ""SE""",Kukiz'15,8.2,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2017-10-17,IBRiS / ZET [ cb ],Kukiz'15,9.7,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2017-10-17,IBRiS / ZET,Kukiz'15,9.7,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-10-24,IBRiS,Kukiz'15,7.6,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-10-27,Estymator,Kukiz'15,9.1,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
-2017-11-05,Kantar Public / TVP [ bz ],Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
+2017-11-05,Kantar Public / TVP,Kukiz'15,7.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-11-08,Kantar Public,Kukiz'15,9.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-11-12,CBOS,Kukiz'15,8.0,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
 2017-11-18,IBRiS / Onet,Kukiz'15,8.1,Right-wing,Right-wing populism Direct democracy,https://en.wikipedia.org/wiki/Kukiz%2715
@@ -4101,12 +4101,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Law and Justice,33.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-04-28,Pollster,Law and Justice,28.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-04-29,IBRiS / Onet,Law and Justice,34.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Law and Justice,34.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2016-05-10,"TNS Poland / ""GW""",Law and Justice,34.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-05-17,Dobra Opinia,Law and Justice,37.1,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-05-18,TNS Poland,Law and Justice,39.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-05-22,"Millward Brown / ""GW""",Law and Justice,34.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-05-24,Millward Brown,Law and Justice,37.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2016-05-25,Pollster [ cz ],Law and Justice,28.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2016-05-25,Pollster,Law and Justice,28.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-05-27,IBRiS / Onet,Law and Justice,32.6,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-06-08,TNS Poland,Law and Justice,40.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-06-09,CBOS,Law and Justice,35.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
@@ -4115,7 +4115,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Law and Justice,29.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-06-24,IBRiS / Onet,Law and Justice,35.5,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-06-28,"TNS Poland / ""GW""",Law and Justice,30.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2016-06-28,IPSOS / OKO [ cy ],Law and Justice,35.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2016-06-28,IPSOS / OKO,Law and Justice,35.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-07-06,TNS Poland,Law and Justice,36.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-07-07,CBOS,Law and Justice,39.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2016-07-08,Pracownia Mediowa,Law and Justice,24.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
@@ -4201,7 +4201,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Law and Justice,36.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-07-12,Kantar Public,Law and Justice,38.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-07-21,Millward Brown,Law and Justice,32.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Law and Justice,33.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2017-07-22,"Kantar Public / ""GW""",Law and Justice,33.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-07-24,Kantar Public / TVP,Law and Justice,35.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-07-27,IBRiS / Onet,Law and Justice,32.3,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-07-28,IPSOS / TVP,Law and Justice,38.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
@@ -4224,10 +4224,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Law and Justice,41.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-10-12,CBOS,Law and Justice,47.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-10-15,"IBRiS / ""SE""",Law and Justice,38.1,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2017-10-17,IBRiS / ZET [ cb ],Law and Justice,38.4,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2017-10-17,IBRiS / ZET,Law and Justice,38.4,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-10-24,IBRiS,Law and Justice,40.2,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-10-27,Estymator,Law and Justice,42.8,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
-2017-11-05,Kantar Public / TVP [ bz ],Law and Justice,40.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
+2017-11-05,Kantar Public / TVP,Law and Justice,40.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-11-08,Kantar Public,Law and Justice,38.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-11-12,CBOS,Law and Justice,45.0,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
 2017-11-18,IBRiS / Onet,Law and Justice,37.7,Right-wing,National conservatism Paternalistic conservatism Right-wing populism,https://en.wikipedia.org/wiki/Law_and_Justice_(Poland)
@@ -4722,12 +4722,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Modern,22.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-04-28,Pollster,Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-04-29,IBRiS / Onet,Modern,22.5,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2016-05-10,"TNS Poland / ""GW""",Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-05-17,Dobra Opinia,Modern,18.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-05-18,TNS Poland,Modern,11.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-05-22,"Millward Brown / ""GW""",Modern,19.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-05-24,Millward Brown,Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2016-05-25,Pollster [ cz ],Modern,17.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2016-05-25,Pollster,Modern,17.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-05-27,IBRiS / Onet,Modern,21.1,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-06-08,TNS Poland,Modern,9.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-06-09,CBOS,Modern,14.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
@@ -4735,7 +4735,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Modern,19.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-06-24,IBRiS / Onet,Modern,19.6,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-06-28,"TNS Poland / ""GW""",Modern,16.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2016-06-28,IPSOS / OKO [ cy ],Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2016-06-28,IPSOS / OKO,Modern,20.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-07-06,TNS Poland,Modern,10.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-07-07,CBOS,Modern,14.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2016-07-08,Pracownia Mediowa,Modern,15.5,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
@@ -4821,7 +4821,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Modern,8.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-07-12,Kantar Public,Modern,8.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-07-21,Millward Brown,Modern,10.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Modern,9.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2017-07-22,"Kantar Public / ""GW""",Modern,9.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-07-24,Kantar Public / TVP,Modern,10.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-07-27,IBRiS / Onet,Modern,10.2,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-07-28,IPSOS / TVP,Modern,10.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
@@ -4844,10 +4844,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Modern,5.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-10-12,CBOS,Modern,6.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-10-15,"IBRiS / ""SE""",Modern,8.7,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2017-10-17,IBRiS / ZET [ cb ],Modern,8.4,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2017-10-17,IBRiS / ZET,Modern,8.4,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-10-24,IBRiS,Modern,8.2,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-10-27,Estymator,Modern,8.4,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
-2017-11-05,Kantar Public / TVP [ bz ],Modern,8.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
+2017-11-05,Kantar Public / TVP,Modern,8.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-11-08,Kantar Public,Modern,7.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-11-12,CBOS,Modern,5.0,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
 2017-11-18,IBRiS / Onet,Modern,7.3,Centre to centre-right,Liberalism Neoliberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Modern_(political_party)
@@ -4966,12 +4966,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-04-28,Pollster,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-04-29,IBRiS / Onet,New Hope,1.4,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2016-05-10,"TNS Poland / ""GW""",New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-05-17,Dobra Opinia,New Hope,4.7,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-05-18,TNS Poland,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-05-22,"Millward Brown / ""GW""",New Hope,6.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-05-24,Millward Brown,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2016-05-25,Pollster [ cz ],New Hope,5.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2016-05-25,Pollster,New Hope,5.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-05-27,IBRiS / Onet,New Hope,3.9,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-06-08,TNS Poland,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-06-09,CBOS,New Hope,3.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
@@ -4980,7 +4980,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-06-24,IBRiS / Onet,New Hope,3.5,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-06-28,"TNS Poland / ""GW""",New Hope,6.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2016-06-28,IPSOS / OKO [ cy ],New Hope,8.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2016-06-28,IPSOS / OKO,New Hope,8.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-07-06,TNS Poland,New Hope,1.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-07-07,CBOS,New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2016-07-08,Pracownia Mediowa,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
@@ -5063,7 +5063,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-07-12,Kantar Public,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-07-21,Millward Brown,New Hope,3.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2017-07-22,"Kantar Public / ""GW""",New Hope,4.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-07-24,Kantar Public / TVP,New Hope,1.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-07-27,IBRiS / Onet,New Hope,1.5,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-07-28,IPSOS / TVP,New Hope,1.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
@@ -5086,10 +5086,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-10-12,CBOS,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-10-15,"IBRiS / ""SE""",New Hope,0.7,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2017-10-17,IBRiS / ZET [ cb ],New Hope,1.5,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2017-10-17,IBRiS / ZET,New Hope,1.5,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-10-24,IBRiS,New Hope,1.1,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-10-27,Estymator,New Hope,1.2,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
-2017-11-05,Kantar Public / TVP [ bz ],New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
+2017-11-05,Kantar Public / TVP,New Hope,2.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-11-08,Kantar Public,New Hope,1.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-11-12,CBOS,New Hope,1.0,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
 2017-11-18,IBRiS / Onet,New Hope,1.2,Far-right,Conservatism Right-libertarianism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/KORWiN_(Poland)
@@ -5213,12 +5213,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-04-28,Pollster,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-04-29,IBRiS / Onet,Partia Razem,1.9,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2016-05-10,"TNS Poland / ""GW""",Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-05-17,Dobra Opinia,Partia Razem,2.6,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-05-18,TNS Poland,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-05-22,"Millward Brown / ""GW""",Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-05-24,Millward Brown,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2016-05-25,Pollster [ cz ],Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2016-05-25,Pollster,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-05-27,IBRiS / Onet,Partia Razem,3.8,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-06-08,TNS Poland,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-06-09,CBOS,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
@@ -5227,7 +5227,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Partia Razem,5.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-06-24,IBRiS / Onet,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-06-28,"TNS Poland / ""GW""",Partia Razem,4.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2016-06-28,IPSOS / OKO [ cy ],Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2016-06-28,IPSOS / OKO,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-07-06,TNS Poland,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-07-07,CBOS,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2016-07-08,Pracownia Mediowa,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
@@ -5312,7 +5312,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Partia Razem,4.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-07-12,Kantar Public,Partia Razem,1.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-07-21,Millward Brown,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2017-07-22,"Kantar Public / ""GW""",Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-07-24,Kantar Public / TVP,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-07-27,IBRiS / Onet,Partia Razem,3.1,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-07-28,IPSOS / TVP,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
@@ -5335,10 +5335,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-10-12,CBOS,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-10-15,"IBRiS / ""SE""",Partia Razem,5.2,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2017-10-17,IBRiS / ZET [ cb ],Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2017-10-17,IBRiS / ZET,Partia Razem,3.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-10-24,IBRiS,Partia Razem,4.1,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-10-27,Estymator,Partia Razem,3.2,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
-2017-11-05,Kantar Public / TVP [ bz ],Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
+2017-11-05,Kantar Public / TVP,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-11-08,Kantar Public,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-11-12,CBOS,Partia Razem,2.0,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
 2017-11-18,IBRiS / Onet,Partia Razem,4.3,Centre-left to left-wing,Social democracy Social liberalism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/Left_Together
@@ -6147,7 +6147,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,Poland 2050,9.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2022-12-30,Estymator / DoRzeczy.pl,Poland 2050,9.4,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2023-01-02,Social Changes / wPolityce.pl,Poland 2050,11.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
-2023-01-06,"IBRiS  / ""Rz""",Poland 2050,9.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
+2023-01-06,"IBRiS / ""Rz""",Poland 2050,9.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2023-01-08,United Surveys / WP.pl,Poland 2050,9.3,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2023-01-09,Social Changes / wPolityce.pl,Poland 2050,10.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
 2023-01-13,Estymator / DoRzeczy.pl,Poland 2050,8.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Poland_2050
@@ -7162,7 +7162,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,Polish Coalition,5.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2022-12-30,Estymator / DoRzeczy.pl,Polish Coalition,6.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2023-01-02,Social Changes / wPolityce.pl,Polish Coalition,5.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
-2023-01-06,"IBRiS  / ""Rz""",Polish Coalition,5.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
+2023-01-06,"IBRiS / ""Rz""",Polish Coalition,5.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2023-01-08,United Surveys / WP.pl,Polish Coalition,5.9,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2023-01-09,Social Changes / wPolityce.pl,Polish Coalition,7.0,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
 2023-01-13,Estymator / DoRzeczy.pl,Polish Coalition,6.7,Centre-right,Christian democracy Conservatism,https://en.wikipedia.org/wiki/Polish_Coalition
@@ -7289,12 +7289,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-04-28,Millward Brown,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-04-28,Pollster,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-04-29,IBRiS / Onet,Polish People's Party,3.5,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2016-05-10,"TNS Poland / ""GW"" [ dc ]",Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2016-05-10,"TNS Poland / ""GW""",Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-05-17,Dobra Opinia,Polish People's Party,3.9,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-05-18,TNS Poland,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-05-22,"Millward Brown / ""GW""",Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-05-24,Millward Brown,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2016-05-25,Pollster [ cz ],Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2016-05-25,Pollster,Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-05-27,IBRiS / Onet,Polish People's Party,4.2,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-06-08,TNS Poland,Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-06-09,CBOS,Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
@@ -7303,7 +7303,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-20,Pollster,Polish People's Party,2.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-06-24,IBRiS / Onet,Polish People's Party,3.2,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-06-28,"TNS Poland / ""GW""",Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2016-06-28,IPSOS / OKO [ cy ],Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2016-06-28,IPSOS / OKO,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-07-06,TNS Poland,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-07-07,CBOS,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2016-07-08,Pracownia Mediowa,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
@@ -7389,7 +7389,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-12,Millward Brown,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-07-12,Kantar Public,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-07-21,Millward Brown,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2017-07-22,"Kantar Public / ""GW"" [ cg ]",Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2017-07-22,"Kantar Public / ""GW""",Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-07-24,Kantar Public / TVP,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-07-27,IBRiS / Onet,Polish People's Party,5.1,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-07-28,IPSOS / TVP,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
@@ -7412,10 +7412,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-11,Kantar Public,Polish People's Party,5.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-10-12,CBOS,Polish People's Party,3.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-10-15,"IBRiS / ""SE""",Polish People's Party,3.6,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2017-10-17,IBRiS / ZET [ cb ],Polish People's Party,5.9,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2017-10-17,IBRiS / ZET,Polish People's Party,5.9,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-10-24,IBRiS,Polish People's Party,5.4,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-10-27,Estymator,Polish People's Party,5.8,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
-2017-11-05,Kantar Public / TVP [ bz ],Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
+2017-11-05,Kantar Public / TVP,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-11-08,Kantar Public,Polish People's Party,5.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-11-12,CBOS,Polish People's Party,4.0,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
 2017-11-18,IBRiS / Onet,Polish People's Party,5.1,Right-wing,Conservatism Christian democracy Social conservatism Economic liberalism,https://en.wikipedia.org/wiki/Polish_People%27s_Party
@@ -8377,7 +8377,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,The Left,9.0,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2022-12-30,Estymator / DoRzeczy.pl,The Left,10.3,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2023-01-02,Social Changes / wPolityce.pl,The Left,8.0,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
-2023-01-06,"IBRiS  / ""Rz""",The Left,8.9,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
+2023-01-06,"IBRiS / ""Rz""",The Left,8.9,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2023-01-08,United Surveys / WP.pl,The Left,8.0,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2023-01-09,Social Changes / wPolityce.pl,The Left,9.0,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
 2023-01-13,Estymator / DoRzeczy.pl,The Left,10.1,Centre-left,Social democracy Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Left_(Poland)
@@ -9913,7 +9913,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-27,Social Changes / wPolityce.pl,United Right,39.0,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
 2022-12-30,Estymator / DoRzeczy.pl,United Right,36.3,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
 2023-01-02,Social Changes / wPolityce.pl,United Right,37.0,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
-2023-01-06,"IBRiS  / ""Rz""",United Right,29.7,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
+2023-01-06,"IBRiS / ""Rz""",United Right,29.7,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
 2023-01-08,United Surveys / WP.pl,United Right,32.3,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
 2023-01-09,Social Changes / wPolityce.pl,United Right,34.0,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)
 2023-01-13,Estymator / DoRzeczy.pl,United Right,36.1,Centre-right to right-wing,National conservatism Social conservatism Social patriotism Left-conservatism Christian democracy Right-wing populism,https://en.wikipedia.org/wiki/United_Right_(Poland)

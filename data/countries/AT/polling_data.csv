@@ -187,7 +187,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-05-08,Market/Der Standard,Austrian People's Party,21.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2017-05-12,Research Affairs/Österreich,Austrian People's Party,35.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2017-05-14,IFES (for SPÖ),Austrian People's Party,28.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-2017-05-17,meinungsraum.at/ORF [ d ],Austrian People's Party,26.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
+2017-05-17,meinungsraum.at/ORF,Austrian People's Party,26.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2017-05-18,Research Affairs/Österreich,Austrian People's Party,35.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2017-05-18,Unique Research/Heute,Austrian People's Party,33.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2017-05-18,OGM/Kurier,Austrian People's Party,31.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
@@ -777,7 +777,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,Austrian People's Party,24.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-09-04,Market-Lazarsfeld,Austrian People's Party,26.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-09-06,IFDD,Austrian People's Party,25.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
-2024-09-06,IFES [ a ],Austrian People's Party,22.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
+2024-09-06,IFES,Austrian People's Party,22.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-09-09,Spectra,Austrian People's Party,24.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-09-10,Market-Lazarsfeld,Austrian People's Party,25.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
 2024-09-11,Unique Research,Austrian People's Party,25.0,Centre-right,Christian democracy Liberal conservatism,https://en.wikipedia.org/wiki/Austrian_People%27s_Party
@@ -1016,7 +1016,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-09-04,Market-Lazarsfeld,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-09-06,IFDD,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
-2024-09-06,IFES [ a ],Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
+2024-09-06,IFES,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-09-09,Spectra,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-09-10,Market-Lazarsfeld,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
 2024-09-11,Unique Research,Communist Party of Austria,3.0,Far-left,Communism Socialism Marxism,https://en.wikipedia.org/wiki/Communist_Party_of_Austria
@@ -1333,7 +1333,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-05-08,Market/Der Standard,Freedom Party of Austria,29.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-05-12,Research Affairs/Österreich,Freedom Party of Austria,25.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-05-14,IFES (for SPÖ),Freedom Party of Austria,26.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
-2017-05-17,meinungsraum.at/ORF [ d ],Freedom Party of Austria,21.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
+2017-05-17,meinungsraum.at/ORF,Freedom Party of Austria,21.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-05-18,Research Affairs/Österreich,Freedom Party of Austria,26.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-05-18,Unique Research/Heute,Freedom Party of Austria,26.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2017-05-18,OGM/Kurier,Freedom Party of Austria,26.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
@@ -1924,7 +1924,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,Freedom Party of Austria,28.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-09-04,Market-Lazarsfeld,Freedom Party of Austria,28.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-09-06,IFDD,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
-2024-09-06,IFES [ a ],Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
+2024-09-06,IFES,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-09-09,Spectra,Freedom Party of Austria,27.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-09-10,Market-Lazarsfeld,Freedom Party of Austria,28.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
 2024-09-11,Unique Research,Freedom Party of Austria,28.0,Far-right,National conservatism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Freedom_Party_of_Austria
@@ -2509,7 +2509,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-05-08,Market/Der Standard,NEOS,7.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2017-05-12,Research Affairs/Österreich,NEOS,7.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2017-05-14,IFES (for SPÖ),NEOS,5.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
-2017-05-17,meinungsraum.at/ORF [ d ],NEOS,5.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
+2017-05-17,meinungsraum.at/ORF,NEOS,5.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2017-05-18,Research Affairs/Österreich,NEOS,7.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2017-05-18,Unique Research/Heute,NEOS,5.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2017-05-18,OGM/Kurier,NEOS,4.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
@@ -3102,7 +3102,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,NEOS,9.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2024-09-04,Market-Lazarsfeld,NEOS,10.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2024-09-06,IFDD,NEOS,9.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
-2024-09-06,IFES [ a ],NEOS,10.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
+2024-09-06,IFES,NEOS,10.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2024-09-09,Spectra,NEOS,10.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2024-09-10,Market-Lazarsfeld,NEOS,10.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
 2024-09-11,Unique Research,NEOS,8.0,Centre,Liberalism ( Austrian ),https://en.wikipedia.org/wiki/NEOS_(Austria)
@@ -3412,7 +3412,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-05-08,Market/Der Standard,Social Democratic Party of Austria,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2017-05-12,Research Affairs/Österreich,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2017-05-14,IFES (for SPÖ),Social Democratic Party of Austria,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
-2017-05-17,meinungsraum.at/ORF [ d ],Social Democratic Party of Austria,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
+2017-05-17,meinungsraum.at/ORF,Social Democratic Party of Austria,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2017-05-18,Research Affairs/Österreich,Social Democratic Party of Austria,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2017-05-18,Unique Research/Heute,Social Democratic Party of Austria,26.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2017-05-18,OGM/Kurier,Social Democratic Party of Austria,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
@@ -3997,7 +3997,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,Social Democratic Party of Austria,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-09-04,Market-Lazarsfeld,Social Democratic Party of Austria,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-09-06,IFDD,Social Democratic Party of Austria,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
-2024-09-06,IFES [ a ],Social Democratic Party of Austria,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
+2024-09-06,IFES,Social Democratic Party of Austria,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-09-09,Spectra,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-09-10,Market-Lazarsfeld,Social Democratic Party of Austria,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
 2024-09-11,Unique Research,Social Democratic Party of Austria,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Austria
@@ -4228,7 +4228,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,The Beer Party,6.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
 2024-09-04,Market-Lazarsfeld,The Beer Party,4.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
 2024-09-06,IFDD,The Beer Party,5.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
-2024-09-06,IFES [ a ],The Beer Party,4.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
+2024-09-06,IFES,The Beer Party,4.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
 2024-09-09,Spectra,The Beer Party,5.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
 2024-09-10,Market-Lazarsfeld,The Beer Party,4.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
 2024-09-11,Unique Research,The Beer Party,4.0,,Social liberalism Political satire,https://en.wikipedia.org/wiki/The_Beer_Party_(Austria)
@@ -4426,7 +4426,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-05-08,Market/Der Standard,The Greens,11.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2017-05-12,Research Affairs/Österreich,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2017-05-14,IFES (for SPÖ),The Greens,12.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
-2017-05-17,meinungsraum.at/ORF [ d ],The Greens,5.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
+2017-05-17,meinungsraum.at/ORF,The Greens,5.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2017-05-18,Research Affairs/Österreich,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2017-05-18,Unique Research/Heute,The Greens,8.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2017-05-18,OGM/Kurier,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
@@ -5027,7 +5027,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-04,Unique Research,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2024-09-04,Market-Lazarsfeld,The Greens,7.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2024-09-06,IFDD,The Greens,8.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
-2024-09-06,IFES [ a ],The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
+2024-09-06,IFES,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2024-09-09,Spectra,The Greens,8.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2024-09-10,Market-Lazarsfeld,The Greens,7.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
 2024-09-11,Unique Research,The Greens,9.0,Centre-left to left-wing,Green politics Eco-feminism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/The_Greens_(Austria)
