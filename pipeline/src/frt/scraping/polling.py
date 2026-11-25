@@ -45,6 +45,21 @@ def is_election_result(pollster: str) -> bool:
     return any(word in pollster.lower() for word in ("election", "élection", "result"))
 
 
+def row_is_election_result(row, cols_info: list[dict]) -> bool:
+    """Whether any non-party cell of a row (poll source, date, ...) marks it as an election outcome.
+
+    The poll source is not always the first column (Romania puts the date first), so every
+    column without a party link is checked.
+    """
+    for col_info in cols_info:
+        if col_info["column_link"]:
+            continue
+        text = clean_text(extract_value_from_hierarchical_tuple(row[col_info["original"]], ""))
+        if is_election_result(text):
+            return True
+    return False
+
+
 _FULL_DATE = re.compile(r"\d{1,2} [A-Za-z]{3,9} \d{4}")
 
 
@@ -414,7 +429,7 @@ class WikipediaPollingFetcher:
                         continue
 
                     # Skip election results
-                    if is_election_result(pollster):
+                    if is_election_result(pollster) or row_is_election_result(row, cols_info):
                         continue
 
                     for party_col_info in potential_party_cols:
