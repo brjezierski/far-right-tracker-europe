@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Switzerland: polls since 2024 are read from the French Wikipedia page on the 2027 election, as English
+  Wikipedia has no polling page for this cycle. Other-language party names are mapped with `party_aliases`
+  in `polling_sources.json`, and footnote markers are no longer kept in pollster names.
 - Lithuania: polls from 2025 and 2026 are read from their year sections instead of being dated 2028.
 - Belgium: polls are current again. Added the 2029 polling page and restricted all three pages to the
   Flemish federal polls, so Wallonia, Brussels and seat-projection tables are no longer mixed into one series.

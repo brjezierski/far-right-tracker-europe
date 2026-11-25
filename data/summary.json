@@ -364,7 +364,7 @@
       "activeParties": [
         "Swiss People's Party"
       ],
-      "latestSupport": 28.22
+      "latestSupport": 28.38
     },
     "GB": {
       "country": "United Kingdom",
@@ -570,5 +570,5 @@
     }
   },
   "parties": {},
-  "updatedAt": "2026-11-24T09:59:00Z"
+  "updatedAt": "2026-11-24T23:46:05Z"
 }

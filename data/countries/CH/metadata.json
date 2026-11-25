@@ -3,8 +3,9 @@
   "iso2": "CH",
   "sources": [
     "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
-    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election"
+    "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2023_Swiss_federal_election",
+    "https://fr.wikipedia.org/wiki/%C3%89lections_f%C3%A9d%C3%A9rales_suisses_de_2027"
   ],
-  "updatedAt": "2026-11-24T08:17:28Z",
-  "latestTotal": 28.900000000000002
+  "updatedAt": "2026-11-24T23:46:04Z",
+  "latestTotal": 28.3
 }
