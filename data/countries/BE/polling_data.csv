@@ -1,5 +1,4 @@
 date,pollster,party,polling_value,political_position,ideology,wikipedia_url
-2014-05-25,25 May 2014,Anders,15.5,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2014-06-25,June 2014,Anders,13.8,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2014-07-25,July 2014,Anders,15.4,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2014-09-09,5–9 Sep 2014,Anders,15.4,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
@@ -36,15 +35,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Anders,14.7,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2018-06-06,29 May–6 June 2018,Anders,13.9,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2018-09-27,20–27 Sep 2018,Anders,12.8,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
-2018-10-14,14 Oct 2018,Anders,13.7,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2018-12-03,27 Nov–3 Dec 2018,Anders,13.4,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2018-12-08,19 Nov–8 Dec 2018,Anders,17.5,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2018-12-17,13–17 Dec 2018,Anders,11.6,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2019-02-11,5–11 Feb 2019,Anders,12.7,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2019-04-14,25 Mar–14 Apr 2019,Anders,14.2,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2019-05-14,6–14 May 2019,Anders,11.2,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
-2019-05-26,26 May 2019,Anders,13.1,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
-2019-05-26,26 May 2019,Anders,13.5,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2019-09-10,2–10 Sep 2019,Anders,13.3,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2019-12-06,29 Nov – 6 Dec 2019,Anders,9.9,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2020-03-09,4 – 9 Mar 2020,Anders,10.3,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
@@ -75,7 +71,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Anders,8.2,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2024-05-31,28 – 31 May 2024,Anders,9.2,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2024-06-04,3 – 4 June 2024,Anders,7.0,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
-2024-06-09,9 June 2024,Anders,8.8,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2024-09-17,11– 17 Sep 2024,Anders,6.8,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2024-11-21,18– 21 Nov 2024,Anders,7.2,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2025-03-11,4– 11 Mar 2025,Anders,6.0,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
@@ -87,7 +82,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,Anders,6.9,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2026-06-09,1– 9 Jun 2026,Anders,6.9,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
 2026-09-15,8– 15 Sep 2026,Anders,6.1,Centre-right,Liberalism ( Belgian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Anders_(political_party)
-2014-05-25,25 May 2014,Christian Democratic and Flemish,18.6,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2014-06-25,June 2014,Christian Democratic and Flemish,15.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2014-07-25,July 2014,Christian Democratic and Flemish,17.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2014-09-09,5–9 Sep 2014,Christian Democratic and Flemish,17.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
@@ -124,15 +118,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Christian Democratic and Flemish,16.4,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2018-06-06,29 May–6 June 2018,Christian Democratic and Flemish,15.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2018-09-27,20–27 Sep 2018,Christian Democratic and Flemish,17.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-2018-10-14,14 Oct 2018,Christian Democratic and Flemish,19.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2018-12-03,27 Nov–3 Dec 2018,Christian Democratic and Flemish,14.6,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2018-12-08,19 Nov–8 Dec 2018,Christian Democratic and Flemish,18.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2018-12-17,13–17 Dec 2018,Christian Democratic and Flemish,15.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2019-02-11,5–11 Feb 2019,Christian Democratic and Flemish,15.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2019-04-14,25 Mar–14 Apr 2019,Christian Democratic and Flemish,14.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2019-05-14,6–14 May 2019,Christian Democratic and Flemish,17.1,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-2019-05-26,26 May 2019,Christian Democratic and Flemish,15.4,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-2019-05-26,26 May 2019,Christian Democratic and Flemish,14.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2019-09-10,2–10 Sep 2019,Christian Democratic and Flemish,11.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2019-12-06,29 Nov – 6 Dec 2019,Christian Democratic and Flemish,11.4,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2020-03-09,4 – 9 Mar 2020,Christian Democratic and Flemish,11.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
@@ -163,7 +154,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Christian Democratic and Flemish,12.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2024-05-31,28 – 31 May 2024,Christian Democratic and Flemish,12.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2024-06-04,3 – 4 June 2024,Christian Democratic and Flemish,12.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-2024-06-09,9 June 2024,Christian Democratic and Flemish,12.8,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2024-09-17,11– 17 Sep 2024,Christian Democratic and Flemish,11.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2024-11-21,18– 21 Nov 2024,Christian Democratic and Flemish,13.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2025-03-11,4– 11 Mar 2025,Christian Democratic and Flemish,11.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
@@ -175,7 +165,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,Christian Democratic and Flemish,12.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2026-06-09,1– 9 Jun 2026,Christian Democratic and Flemish,12.6,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
 2026-09-15,8– 15 Sep 2026,Christian Democratic and Flemish,13.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/Christen-Democratisch_en_Vlaams
-2014-05-25,25 May 2014,Groen,8.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2014-06-25,June 2014,Groen,7.8,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2014-07-25,July 2014,Groen,9.0,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2014-09-09,5–9 Sep 2014,Groen,9.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
@@ -212,15 +201,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Groen,13.8,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2018-06-06,29 May–6 June 2018,Groen,12.4,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2018-09-27,20–27 Sep 2018,Groen,14.1,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-2018-10-14,14 Oct 2018,Groen,13.2,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2018-12-03,27 Nov–3 Dec 2018,Groen,12.2,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2018-12-08,19 Nov–8 Dec 2018,Groen,16.0,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2018-12-17,13–17 Dec 2018,Groen,13.8,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2019-02-11,5–11 Feb 2019,Groen,15.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2019-04-14,25 Mar–14 Apr 2019,Groen,14.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2019-05-14,6–14 May 2019,Groen,12.1,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-2019-05-26,26 May 2019,Groen,10.1,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-2019-05-26,26 May 2019,Groen,9.8,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2019-09-10,2–10 Sep 2019,Groen,11.0,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2019-12-06,29 Nov – 6 Dec 2019,Groen,10.7,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2020-03-09,4 – 9 Mar 2020,Groen,8.8,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
@@ -251,7 +237,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Groen,6.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2024-05-31,28 – 31 May 2024,Groen,6.9,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2024-06-04,3 – 4 June 2024,Groen,6.1,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-2024-06-09,9 June 2024,Groen,7.5,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2024-09-17,11– 17 Sep 2024,Groen,6.5,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2024-11-21,18– 21 Nov 2024,Groen,6.9,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2025-03-11,4– 11 Mar 2025,Groen,6.6,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
@@ -263,7 +248,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,Groen,7.3,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2026-06-09,1– 9 Jun 2026,Groen,7.0,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
 2026-09-15,8– 15 Sep 2026,Groen,6.2,Centre-left,Green politics,https://en.wikipedia.org/wiki/Groen_(political_party)
-2014-05-25,25 May 2014,New Flemish Alliance,32.4,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2014-06-25,June 2014,New Flemish Alliance,38.4,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2014-07-25,July 2014,New Flemish Alliance,32.9,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2014-09-09,5–9 Sep 2014,New Flemish Alliance,31.9,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
@@ -300,15 +284,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,New Flemish Alliance,32.4,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2018-06-06,29 May–6 June 2018,New Flemish Alliance,26.5,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2018-09-27,20–27 Sep 2018,New Flemish Alliance,25.0,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-2018-10-14,14 Oct 2018,New Flemish Alliance,24.8,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2018-12-03,27 Nov–3 Dec 2018,New Flemish Alliance,28.0,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2018-12-08,19 Nov–8 Dec 2018,New Flemish Alliance,28.3,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2018-12-17,13–17 Dec 2018,New Flemish Alliance,30.2,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2019-02-11,5–11 Feb 2019,New Flemish Alliance,27.4,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2019-04-14,25 Mar–14 Apr 2019,New Flemish Alliance,27.9,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2019-05-14,6–14 May 2019,New Flemish Alliance,28.1,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-2019-05-26,26 May 2019,New Flemish Alliance,24.8,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-2019-05-26,26 May 2019,New Flemish Alliance,25.5,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2019-09-10,2–10 Sep 2019,New Flemish Alliance,22.7,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2019-12-06,29 Nov – 6 Dec 2019,New Flemish Alliance,22.1,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2020-03-09,4 – 9 Mar 2020,New Flemish Alliance,20.7,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
@@ -339,7 +320,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,New Flemish Alliance,20.6,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2024-05-31,28 – 31 May 2024,New Flemish Alliance,19.6,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2024-06-04,3 – 4 June 2024,New Flemish Alliance,21.0,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-2024-06-09,9 June 2024,New Flemish Alliance,25.6,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2024-09-17,11– 17 Sep 2024,New Flemish Alliance,26.7,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2024-11-21,18– 21 Nov 2024,New Flemish Alliance,24.6,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2025-03-11,4– 11 Mar 2025,New Flemish Alliance,25.5,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
@@ -351,7 +331,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,New Flemish Alliance,27.7,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2026-06-09,1– 9 Jun 2026,New Flemish Alliance,22.3,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
 2026-09-15,8– 15 Sep 2026,New Flemish Alliance,23.0,Centre-right to right-wing,Flemish nationalism Liberal conservatism,https://en.wikipedia.org/wiki/New_Flemish_Alliance
-2014-05-25,25 May 2014,Vlaams Belang,5.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2014-06-25,June 2014,Vlaams Belang,5.2,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2014-07-25,July 2014,Vlaams Belang,5.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2014-09-09,5–9 Sep 2014,Vlaams Belang,5.5,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
@@ -388,15 +367,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Vlaams Belang,7.5,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2018-06-06,29 May–6 June 2018,Vlaams Belang,9.7,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2018-09-27,20–27 Sep 2018,Vlaams Belang,11.3,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-2018-10-14,14 Oct 2018,Vlaams Belang,13.0,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2018-12-03,27 Nov–3 Dec 2018,Vlaams Belang,11.7,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2018-12-08,19 Nov–8 Dec 2018,Vlaams Belang,7.6,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2018-12-17,13–17 Dec 2018,Vlaams Belang,12.0,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2019-02-11,5–11 Feb 2019,Vlaams Belang,11.1,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2019-04-14,25 Mar–14 Apr 2019,Vlaams Belang,9.3,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2019-05-14,6–14 May 2019,Vlaams Belang,14.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-2019-05-26,26 May 2019,Vlaams Belang,18.5,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-2019-05-26,26 May 2019,Vlaams Belang,18.6,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2019-09-10,2–10 Sep 2019,Vlaams Belang,24.9,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2019-12-06,29 Nov – 6 Dec 2019,Vlaams Belang,27.3,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2020-03-09,4 – 9 Mar 2020,Vlaams Belang,28.0,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
@@ -427,7 +403,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Vlaams Belang,26.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2024-05-31,28 – 31 May 2024,Vlaams Belang,27.2,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2024-06-04,3 – 4 June 2024,Vlaams Belang,25.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-2024-06-09,9 June 2024,Vlaams Belang,21.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2024-09-17,11– 17 Sep 2024,Vlaams Belang,23.2,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2024-11-21,18– 21 Nov 2024,Vlaams Belang,23.5,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2025-03-11,4– 11 Mar 2025,Vlaams Belang,25.7,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
@@ -439,7 +414,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,Vlaams Belang,20.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2026-06-09,1– 9 Jun 2026,Vlaams Belang,26.6,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
 2026-09-15,8– 15 Sep 2026,Vlaams Belang,27.8,Right-wing to far-right,Flemish nationalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Vlaams_Belang
-2014-05-25,25 May 2014,Vooruit,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2014-06-25,June 2014,Vooruit,13.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2014-07-25,July 2014,Vooruit,14.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2014-09-09,5–9 Sep 2014,Vooruit,15.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
@@ -476,15 +450,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Vooruit,9.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2018-06-06,29 May–6 June 2018,Vooruit,11.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2018-09-27,20–27 Sep 2018,Vooruit,12.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-2018-10-14,14 Oct 2018,Vooruit,10.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2018-12-03,27 Nov–3 Dec 2018,Vooruit,12.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2018-12-08,19 Nov–8 Dec 2018,Vooruit,9.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2018-12-17,13–17 Dec 2018,Vooruit,9.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2019-02-11,5–11 Feb 2019,Vooruit,11.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2019-04-14,25 Mar–14 Apr 2019,Vooruit,12.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2019-05-14,6–14 May 2019,Vooruit,11.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-2019-05-26,26 May 2019,Vooruit,10.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-2019-05-26,26 May 2019,Vooruit,10.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2019-09-10,2–10 Sep 2019,Vooruit,8.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2019-12-06,29 Nov – 6 Dec 2019,Vooruit,8.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2020-03-09,4 – 9 Mar 2020,Vooruit,9.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
@@ -515,7 +486,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Vooruit,14.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2024-05-31,28 – 31 May 2024,Vooruit,13.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2024-06-04,3 – 4 June 2024,Vooruit,15.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-2024-06-09,9 June 2024,Vooruit,13.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2024-09-17,11– 17 Sep 2024,Vooruit,14.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2024-11-21,18– 21 Nov 2024,Vooruit,15.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2025-03-11,4– 11 Mar 2025,Vooruit,14.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
@@ -527,7 +497,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-05,9 Mar – 5 Apr 2026,Vooruit,12.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2026-06-09,1– 9 Jun 2026,Vooruit,12.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
 2026-09-15,8– 15 Sep 2026,Vooruit,12.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Forward_(Belgium)
-2014-05-25,25 May 2014,Workers' Party of Belgium,2.8,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2014-06-25,June 2014,Workers' Party of Belgium,3.3,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2014-07-25,July 2014,Workers' Party of Belgium,3.1,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2014-09-09,5–9 Sep 2014,Workers' Party of Belgium,3.1,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
@@ -562,15 +531,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-03-17,26 Feb–17 Mar 2018,Workers' Party of Belgium,4.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2018-06-06,29 May–6 June 2018,Workers' Party of Belgium,6.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2018-09-27,20–27 Sep 2018,Workers' Party of Belgium,4.4,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
-2018-10-14,14 Oct 2018,Workers' Party of Belgium,3.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2018-12-03,27 Nov–3 Dec 2018,Workers' Party of Belgium,6.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2018-12-08,19 Nov–8 Dec 2018,Workers' Party of Belgium,2.5,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2018-12-17,13–17 Dec 2018,Workers' Party of Belgium,5.5,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2019-02-11,5–11 Feb 2019,Workers' Party of Belgium,4.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2019-04-14,25 Mar–14 Apr 2019,Workers' Party of Belgium,5.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2019-05-14,6–14 May 2019,Workers' Party of Belgium,4.7,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
-2019-05-26,26 May 2019,Workers' Party of Belgium,5.3,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
-2019-05-26,26 May 2019,Workers' Party of Belgium,5.6,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2019-09-10,2–10 Sep 2019,Workers' Party of Belgium,6.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2019-12-06,29 Nov – 6 Dec 2019,Workers' Party of Belgium,8.4,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2020-03-09,4 – 9 Mar 2020,Workers' Party of Belgium,9.3,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
@@ -601,7 +567,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-20,14 – 20 May 2024,Workers' Party of Belgium,8.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2024-05-31,28 – 31 May 2024,Workers' Party of Belgium,9.3,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2024-06-04,3 – 4 June 2024,Workers' Party of Belgium,10.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
-2024-06-09,9 June 2024,Workers' Party of Belgium,8.2,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2024-09-17,11– 17 Sep 2024,Workers' Party of Belgium,8.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2024-11-21,18– 21 Nov 2024,Workers' Party of Belgium,7.9,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium
 2025-03-11,4– 11 Mar 2025,Workers' Party of Belgium,10.0,Left-wing to far-left,Marxism Socialism,https://en.wikipedia.org/wiki/Workers%27_Party_of_Belgium

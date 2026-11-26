@@ -71,10 +71,9 @@
       "activeParties": [
         "Greek Solution",
         "Niki",
-        "Spartans",
         "Voice of Reason"
       ],
-      "latestSupport": 13.73
+      "latestSupport": 12.299999999999999
     },
     "AT": {
       "country": "Austria",
@@ -179,7 +178,7 @@
         "Confederation of the Polish Crown",
         "Law and Justice"
       ],
-      "latestSupport": 41.89
+      "latestSupport": 42.17
     },
     "IS": {
       "country": "Iceland",
@@ -276,7 +275,7 @@
         "Lega",
         "National Future"
       ],
-      "latestSupport": 39.88
+      "latestSupport": 39.76
     },
     "LU": {
       "country": "Luxembourg",
@@ -289,7 +288,7 @@
         "Alternative Democratic Reform Party",
         "The Conservatives"
       ],
-      "latestSupport": 11.33
+      "latestSupport": 11.219999999999999
     },
     "MT": {
       "country": "Malta",
@@ -379,7 +378,7 @@
         "Reform UK",
         "Restore Britain"
       ],
-      "latestSupport": 25.7
+      "latestSupport": 25.700000000000003
     },
     "ES": {
       "country": "Spain",
@@ -393,7 +392,7 @@
         "Se Acabó La Fiesta",
         "Vox"
       ],
-      "latestSupport": 19.42
+      "latestSupport": 19.46
     },
     "FR": {
       "country": "France",
@@ -511,7 +510,7 @@
         "Slovenian Democratic Party",
         "Slovenian National Party"
       ],
-      "latestSupport": 29.939999999999998
+      "latestSupport": 29.799999999999997
     },
     "CY": {
       "country": "Cyprus",
@@ -569,9 +568,9 @@
         "Slovakia",
         "We Are Family"
       ],
-      "latestSupport": 31.93
+      "latestSupport": 32.21
     }
   },
   "parties": {},
-  "updatedAt": "2026-11-25T05:26:55Z"
+  "updatedAt": "2026-11-26T04:52:20Z"
 }

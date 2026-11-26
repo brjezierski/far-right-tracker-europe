@@ -5,9 +5,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,Armenia Alliance,17.5,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-06-04,31 May - 4 June 2021,Armenia Alliance,20.6,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-06-10,6-10 June 2021,Armenia Alliance,24.1,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
-2021-06-16,31 May-16 June,Armenia Alliance,12.0,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2021-06-18,11-18 June,Armenia Alliance,28.7,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
-2021-06-20,20 Jun 2021,Armenia Alliance,21.11,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2025-05-02,MPG,Armenia Alliance,8.0,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2026-02-13,IRI,Armenia Alliance,3.0,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
 2026-02-22,EVN Report,Armenia Alliance,3.4,Centre-right,Conservatism Russophilia,https://en.wikipedia.org/wiki/Armenia_Alliance
@@ -44,7 +42,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-08-04,Gallup International /MPG,Bright Armenia,3.8,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2018-08-21,Gallup International/MPG,Bright Armenia,1.2,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2018-08-29,IRI,Bright Armenia,10.0,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
-2018-12-09,9 Dec 2018,Bright Armenia,6.37,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2019-05-09,30 Apr–9 May 2019,Bright Armenia,4.6,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2019-05-31,6–31 May 2019,Bright Armenia,4.0,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2019-10-13,20 Sep–13 Oct 2019,Bright Armenia,6.0,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
@@ -60,7 +57,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-06-04,31 May - 4 June 2021,Bright Armenia,2.9,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2021-06-10,6-10 June 2021,Bright Armenia,3.1,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2021-06-18,11-18 June,Bright Armenia,5.2,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
-2021-06-20,20 Jun 2021,Bright Armenia,1.22,Centre,Classical liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Bright_Armenia
 2025-05-02,MPG,Civil Contract,11.5,Centre,Liberalism Reformism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Contract_(Armenia)
 2026-02-13,IRI,Civil Contract,24.0,Centre,Liberalism Reformism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Contract_(Armenia)
 2026-02-22,EVN Report,Civil Contract,26.1,Centre,Liberalism Reformism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/Civil_Contract_(Armenia)
@@ -80,15 +76,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,Hanrapetutyun Party,2.8,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2021-06-04,31 May - 4 June 2021,Hanrapetutyun Party,2.1,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2021-06-10,6-10 June 2021,Hanrapetutyun Party,2.3,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-16,31 May-16 June,Hanrapetutyun Party,2.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2021-06-18,11-18 June,Hanrapetutyun Party,2.6,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2021-06-20,20 Jun 2021,Hanrapetutyun Party,3.04,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2026-02-13,IRI,Hanrapetutyun Party,1.0,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2026-02-22,EVN Report,Hanrapetutyun Party,2.1,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2026-03-31,EVN Report,Hanrapetutyun Party,2.3,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2026-04-29,MPG,Hanrapetutyun Party,1.7,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
 2026-05-31,EVN Report,Hanrapetutyun Party,0.6,Centre to centre-right,Conservative liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Hanrapetutyun_Party
-2018-12-09,9 Dec 2018,I Have Honor Alliance,4.7,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2019-05-09,30 Apr–9 May 2019,I Have Honor Alliance,1.6,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2019-05-31,6–31 May 2019,I Have Honor Alliance,5.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2019-10-13,20 Sep–13 Oct 2019,I Have Honor Alliance,4.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
@@ -103,13 +96,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,I Have Honor Alliance,2.7,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2021-06-04,31 May - 4 June 2021,I Have Honor Alliance,3.9,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2021-06-10,6-10 June 2021,I Have Honor Alliance,7.4,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-16,31 May-16 June,I Have Honor Alliance,1.0,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2021-06-18,11-18 June,I Have Honor Alliance,10.8,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
-2021-06-20,20 Jun 2021,I Have Honor Alliance,5.22,Centre-right to right-wing,Conservatism Russophilia,https://en.wikipedia.org/wiki/I_Have_Honor_Alliance
 2018-08-04,Gallup International /MPG,My Step Alliance,69.4,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2018-08-21,Gallup International/MPG,My Step Alliance,68.3,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2018-08-29,IRI,My Step Alliance,67.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2018-12-09,9 Dec 2018,My Step Alliance,70.42,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2019-05-09,30 Apr–9 May 2019,My Step Alliance,60.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2019-05-31,6–31 May 2019,My Step Alliance,59.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2019-10-13,20 Sep–13 Oct 2019,My Step Alliance,55.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
@@ -124,9 +114,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,My Step Alliance,22.9,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2021-06-04,31 May - 4 June 2021,My Step Alliance,22.4,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2021-06-10,6-10 June 2021,My Step Alliance,23.8,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-16,31 May-16 June,My Step Alliance,24.0,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2021-06-18,11-18 June,My Step Alliance,25.2,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
-2021-06-20,20 Jun 2021,My Step Alliance,53.95,Centre,Liberal democracy Neoliberalism Reformism,https://en.wikipedia.org/wiki/My_Step_Alliance
 2019-05-09,30 Apr–9 May 2019,National Democratic Alliance,1.21,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2019-05-31,6–31 May 2019,National Democratic Alliance,1.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2019-12-01,9 Nov–1 Dec 2019,National Democratic Alliance,1.1,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
@@ -140,9 +128,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,National Democratic Alliance,1.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2021-06-04,31 May - 4 June 2021,National Democratic Alliance,1.5,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2021-06-10,6-10 June 2021,National Democratic Alliance,0.8,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-16,31 May-16 June,National Democratic Alliance,2.0,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2021-06-18,11-18 June,National Democratic Alliance,0.7,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
-2021-06-20,20 Jun 2021,National Democratic Alliance,1.49,,Big tent [ citation needed ] Armenian nationalism Pro-Europeanism Pro-Western Anti-Russian,https://en.wikipedia.org/wiki/National_Democratic_Pole
 2017-03-02,23 February–2 March 2017,ORO Alliance,1.8,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
 2017-03-19,12–19 March 2017,ORO Alliance,2.5,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
 2017-03-27,18–27 March 2017,ORO Alliance,4.0,Centre,National liberalism,https://en.wikipedia.org/wiki/ORO_Alliance
@@ -154,7 +140,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-08-21,Gallup International/MPG,Prosperous Armenia,6.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2018-08-29,IRI,Prosperous Armenia,9.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2018-11-09,Gallup International/MPG,Prosperous Armenia,3.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2018-12-09,9 Dec 2018,Prosperous Armenia,8.26,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2019-05-09,30 Apr–9 May 2019,Prosperous Armenia,11.9,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2019-05-31,6–31 May 2019,Prosperous Armenia,12.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2019-10-13,20 Sep–13 Oct 2019,Prosperous Armenia,19.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
@@ -168,9 +153,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-05-28,25–28 May 2021,Prosperous Armenia,3.8,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2021-06-04,31 May - 4 June 2021,Prosperous Armenia,4.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2021-06-10,6-10 June 2021,Prosperous Armenia,3.7,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-16,31 May-16 June,Prosperous Armenia,2.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2021-06-18,11-18 June,Prosperous Armenia,5.4,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
-2021-06-20,20 Jun 2021,Prosperous Armenia,3.95,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2025-05-02,MPG,Prosperous Armenia,3.2,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2026-02-13,IRI,Prosperous Armenia,3.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia
 2026-02-22,EVN Report,Prosperous Armenia,6.0,Centre-right,Social conservatism Economic liberalism Russophilia Euroscepticism,https://en.wikipedia.org/wiki/Prosperous_Armenia

@@ -1,5 +1,4 @@
 date,pollster,party,polling_value,political_position,ideology,wikipedia_url
-2011-03-06,6 Mar 2011,Conservative People's Party of Estonia,2.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2011-04-06,Apr 2011,Conservative People's Party of Estonia,1.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2011-05-06,May 2011,Conservative People's Party of Estonia,1.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2011-06-06,Jun 2011,Conservative People's Party of Estonia,2.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -47,7 +46,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Conservative People's Party of Estonia,9.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-02-18,Feb 2015,Conservative People's Party of Estonia,6.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-02-26,23–26 Feb 2015,Conservative People's Party of Estonia,6.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2015-03-01,1 Mar 2015,Conservative People's Party of Estonia,8.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-03-01,Mar 2015,Conservative People's Party of Estonia,9.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-04-01,Apr 2015,Conservative People's Party of Estonia,7.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-05-01,May 2015,Conservative People's Party of Estonia,8.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -62,22 +60,22 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Conservative People's Party of Estonia,9.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-12-01,Dec 2015,Conservative People's Party of Estonia,11.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2015-12-01,Dec 2015,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-01-25,Jan 2016,Conservative People's Party of Estonia,12.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-02-25,Feb 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-02-25,Feb 2016,Conservative People's Party of Estonia,11.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-03-25,Mar 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-03-25,Mar 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-04-25,Apr 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-04-25,Apr 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-05-25,May 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-06-25,Jun 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-06-25,Jun 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-08-25,Aug 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-09-25,Sep 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-09-25,Sep 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-10-25,Oct 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-11-25,Nov 2016,Conservative People's Party of Estonia,12.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2016-11-25,Nov 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-01-26,Jan 2016,Conservative People's Party of Estonia,12.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-02-26,Feb 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-02-26,Feb 2016,Conservative People's Party of Estonia,11.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-03-26,Mar 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-03-26,Mar 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-04-26,Apr 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-04-26,Apr 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-05-26,May 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-06-26,Jun 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-06-26,Jun 2016,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-08-26,Aug 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-09-26,Sep 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-09-26,Sep 2016,Conservative People's Party of Estonia,13.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-10-26,Oct 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-11-26,Nov 2016,Conservative People's Party of Estonia,12.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
+2016-11-26,Nov 2016,Conservative People's Party of Estonia,10.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2016-12-23,Dec 2016,Conservative People's Party of Estonia,8.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2016-12-23,Dec 2016,Conservative People's Party of Estonia,11.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2017-01-31,19–31 Jan 2017,Conservative People's Party of Estonia,9.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -141,7 +139,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Conservative People's Party of Estonia,17.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2019-02-24,28 Jan–24 Feb 2019,Conservative People's Party of Estonia,16.4,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2019-02-28,26–28 Feb 2019,Conservative People's Party of Estonia,17.3,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2019-03-03,3 Mar 2019,Conservative People's Party of Estonia,17.8,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2019-03-11,Norstat,Conservative People's Party of Estonia,18.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2019-03-13,Kantar Emor,Conservative People's Party of Estonia,18.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2019-03-15,Norstat,Conservative People's Party of Estonia,12.6,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -439,8 +436,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Conservative People's Party of Estonia,15.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2023-03-02,Kantar Emor,Conservative People's Party of Estonia,14.3,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2023-03-03,Norstat,Conservative People's Party of Estonia,15.6,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2023-03-05,5 Mar 2023,Conservative People's Party of Estonia,16.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2023-03-05,5 Mar,Conservative People's Party of Estonia,16.1,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2023-03-13,7– 13 Mar,Conservative People's Party of Estonia,13.5,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2023-03-16,37,Conservative People's Party of Estonia,14.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2023-03-17,9– 17 Mar,Conservative People's Party of Estonia,15.7,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -533,7 +528,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Conservative People's Party of Estonia,16.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2024-05-27,20– 27 May,Conservative People's Party of Estonia,17.6,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2024-06-01,27 May – 1 Jun,Conservative People's Party of Estonia,13.6,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
-2024-06-09,9 Jun,Conservative People's Party of Estonia,14.9,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2024-06-10,3– 10 Jun,Conservative People's Party of Estonia,16.3,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2024-06-11,1– 11 Jun,Conservative People's Party of Estonia,15.0,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
 2024-06-17,10– 17 Jun,Conservative People's Party of Estonia,11.8,Far-right,Ultranationalism Estonian nationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Conservative_People%27s_Party_of_Estonia
@@ -731,7 +725,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Estonia 200,4.0,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2019-02-24,28 Jan–24 Feb 2019,Estonia 200,3.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2019-02-28,26–28 Feb 2019,Estonia 200,4.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
-2019-03-03,3 Mar 2019,Estonia 200,4.4,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2019-03-11,Norstat,Estonia 200,4.4,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2019-03-13,Kantar Emor,Estonia 200,8.5,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2019-03-15,Norstat,Estonia 200,6.5,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
@@ -1029,8 +1022,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Estonia 200,14.0,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2023-03-02,Kantar Emor,Estonia 200,15.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2023-03-03,Norstat,Estonia 200,15.4,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
-2023-03-05,5 Mar 2023,Estonia 200,13.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
-2023-03-05,5 Mar,Estonia 200,13.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2023-03-13,7– 13 Mar,Estonia 200,17.5,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2023-03-17,9– 17 Mar,Estonia 200,16.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2023-03-20,14– 20 Mar,Estonia 200,15.5,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
@@ -1122,7 +1113,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Estonia 200,6.0,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2024-05-27,20– 27 May,Estonia 200,5.3,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2024-06-01,27 May – 1 Jun,Estonia 200,5.6,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
-2024-06-09,9 Jun,Estonia 200,2.6,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2024-06-10,3– 10 Jun,Estonia 200,2.9,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2024-06-11,1– 11 Jun,Estonia 200,4.0,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2024-06-17,10– 17 Jun,Estonia 200,2.4,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
@@ -1301,7 +1291,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-11,5– 11 Nov,Estonia 200,1.0,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2026-11-15,9– 15 Nov,Estonia 200,0.9,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
 2026-11-18,9– 18 Nov,Estonia 200,1.5,Centre,Liberalism ( Estonian ) Social liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Estonia_200
-2011-03-06,6 Mar 2011,Estonian Centre Party,23.3,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2011-04-06,Apr 2011,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2011-05-06,May 2011,Estonian Centre Party,20.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2011-06-06,Jun 2011,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -1353,7 +1342,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-02-18,Feb 2015,Estonian Centre Party,27.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-02-26,23–26 Feb 2015,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2015-03-01,1 Mar 2015,Estonian Centre Party,24.8,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-03-01,Mar 2015,Estonian Centre Party,24.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-04-01,Apr 2015,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-05-01,May 2015,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -1367,23 +1355,23 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-11-01,Nov 2015,Estonian Centre Party,33.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2015-12-01,Dec 2015,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-01-25,Jan 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-02-25,Feb 2016,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-02-25,Feb 2016,Estonian Centre Party,29.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-03-25,Mar 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-04-25,Apr 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-04-25,Apr 2016,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-05-25,May 2016,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-06-25,Jun 2016,Estonian Centre Party,28.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-06-25,Jun 2016,Estonian Centre Party,21.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-08-25,Aug 2016,Estonian Centre Party,24.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-08-25,Aug 2016,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-09-25,Sep 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-09-25,Sep 2016,Estonian Centre Party,20.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-10-25,Oct 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-10-25,Oct 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-11-25,Nov 2016,Estonian Centre Party,29.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2016-11-25,Nov 2016,Estonian Centre Party,24.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-01-26,Jan 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-02-26,Feb 2016,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-02-26,Feb 2016,Estonian Centre Party,29.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-03-26,Mar 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-04-26,Apr 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-04-26,Apr 2016,Estonian Centre Party,22.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-05-26,May 2016,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-06-26,Jun 2016,Estonian Centre Party,28.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-06-26,Jun 2016,Estonian Centre Party,21.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-08-26,Aug 2016,Estonian Centre Party,24.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-08-26,Aug 2016,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-09-26,Sep 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-09-26,Sep 2016,Estonian Centre Party,20.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-10-26,Oct 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-10-26,Oct 2016,Estonian Centre Party,25.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-11-26,Nov 2016,Estonian Centre Party,29.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
+2016-11-26,Nov 2016,Estonian Centre Party,24.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2016-12-23,Dec 2016,Estonian Centre Party,32.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2016-12-23,Dec 2016,Estonian Centre Party,26.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2017-01-31,19–31 Jan 2017,Estonian Centre Party,31.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -1447,7 +1435,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Estonian Centre Party,28.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2019-02-24,28 Jan–24 Feb 2019,Estonian Centre Party,25.7,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2019-02-28,26–28 Feb 2019,Estonian Centre Party,24.5,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2019-03-03,3 Mar 2019,Estonian Centre Party,23.1,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2019-03-11,Norstat,Estonian Centre Party,21.2,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2019-03-13,Kantar Emor,Estonian Centre Party,19.4,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2019-03-15,Norstat,Estonian Centre Party,19.4,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -1746,8 +1733,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Estonian Centre Party,17.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2023-03-02,Kantar Emor,Estonian Centre Party,16.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2023-03-03,Norstat,Estonian Centre Party,14.9,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2023-03-05,5 Mar 2023,Estonian Centre Party,15.3,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2023-03-05,5 Mar,Estonian Centre Party,15.3,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2023-03-13,7– 13 Mar,Estonian Centre Party,14.9,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2023-03-16,37,Estonian Centre Party,9.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2023-03-17,9– 17 Mar,Estonian Centre Party,15.4,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -1840,7 +1825,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Estonian Centre Party,8.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2024-05-27,20– 27 May,Estonian Centre Party,13.3,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2024-06-01,27 May – 1 Jun,Estonian Centre Party,10.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2024-06-09,9 Jun,Estonian Centre Party,12.4,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2024-06-10,3– 10 Jun,Estonian Centre Party,10.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2024-06-11,1– 11 Jun,Estonian Centre Party,11.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2024-06-17,10– 17 Jun,Estonian Centre Party,12.5,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
@@ -2019,7 +2003,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-11,5– 11 Nov,Estonian Centre Party,23.0,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2026-11-15,9– 15 Nov,Estonian Centre Party,24.7,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
 2026-11-18,9– 18 Nov,Estonian Centre Party,24.7,Centre,Populism Conservatism,https://en.wikipedia.org/wiki/Estonian_Centre_Party
-2011-03-06,6 Mar 2011,Estonian Free Party,4.6,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2011-04-06,Apr 2011,Estonian Free Party,3.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2011-05-06,May 2011,Estonian Free Party,3.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2011-06-06,Jun 2011,Estonian Free Party,4.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
@@ -2068,7 +2051,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-02-18,Feb 2015,Estonian Free Party,6.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-02-26,23–26 Feb 2015,Estonian Free Party,10.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2015-03-01,1 Mar 2015,Estonian Free Party,8.7,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-03-01,Mar 2015,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-04-01,Apr 2015,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-05-01,May 2015,Estonian Free Party,18.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
@@ -2083,24 +2065,24 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-12-01,Dec 2015,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2015-12-01,Dec 2015,Estonian Free Party,13.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-01-25,Jan 2016,Estonian Free Party,13.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-02-25,Feb 2016,Estonian Free Party,16.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-02-25,Feb 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-03-25,Mar 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-03-25,Mar 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-04-25,Apr 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-04-25,Apr 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-05-25,May 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-06-25,Jun 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-06-25,Jun 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-08-25,Aug 2016,Estonian Free Party,10.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-08-25,Aug 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-09-25,Sep 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-09-25,Sep 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-10-25,Oct 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-10-25,Oct 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-11-25,Nov 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2016-11-25,Nov 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-01-26,Jan 2016,Estonian Free Party,13.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-02-26,Feb 2016,Estonian Free Party,16.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-02-26,Feb 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-03-26,Mar 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-03-26,Mar 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-04-26,Apr 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-04-26,Apr 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-05-26,May 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-06-26,Jun 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-06-26,Jun 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-08-26,Aug 2016,Estonian Free Party,10.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-08-26,Aug 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-09-26,Sep 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-09-26,Sep 2016,Estonian Free Party,12.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-10-26,Oct 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-10-26,Oct 2016,Estonian Free Party,15.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-11-26,Nov 2016,Estonian Free Party,9.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
+2016-11-26,Nov 2016,Estonian Free Party,11.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2016-12-23,Dec 2016,Estonian Free Party,6.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2016-12-23,Dec 2016,Estonian Free Party,8.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2017-01-31,19–31 Jan 2017,Estonian Free Party,7.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
@@ -2162,7 +2144,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Estonian Free Party,2.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2019-02-24,28 Jan–24 Feb 2019,Estonian Free Party,1.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2019-02-28,26–28 Feb 2019,Estonian Free Party,1.3,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2019-03-03,3 Mar 2019,Estonian Free Party,1.2,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2019-03-11,Norstat,Estonian Free Party,1.1,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2019-03-13,Kantar Emor,Estonian Free Party,0.6,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2019-03-15,Norstat,Estonian Free Party,0.6,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
@@ -2255,7 +2236,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-08-17,Norstat,Estonian Free Party,0.6,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2020-08-19,Kantar Emor,Estonian Free Party,1.0,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
 2020-08-25,Norstat,Estonian Free Party,0.7,Centre-right,Conservatism Conservative liberalism Populism,https://en.wikipedia.org/wiki/Estonian_Free_Party
-2011-03-06,6 Mar 2011,Estonian Greens,3.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2011-04-06,Apr 2011,Estonian Greens,5.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2011-05-06,May 2011,Estonian Greens,4.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2011-06-06,Jun 2011,Estonian Greens,5.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -2304,7 +2284,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-12-26,Dec 2014,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-01-26,Jan 2015,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-02-18,11–18 Feb 2015,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2015-03-01,1 Mar 2015,Estonian Greens,0.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-03-01,Mar 2015,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-05-01,May 2015,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-06-01,Jun 2015,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -2312,15 +2291,15 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-09-01,Sep 2015,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-11-01,Nov 2015,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2015-12-01,Dec 2015,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-02-25,Feb 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-03-25,Mar 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-04-25,Apr 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-06-25,Jun 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-06-25,Jun 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-08-25,Aug 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-09-25,Sep 2016,Estonian Greens,4.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-10-25,Oct 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2016-11-25,Nov 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-02-26,Feb 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-03-26,Mar 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-04-26,Apr 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-06-26,Jun 2016,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-06-26,Jun 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-08-26,Aug 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-09-26,Sep 2016,Estonian Greens,4.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-10-26,Oct 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
+2016-11-26,Nov 2016,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2016-12-23,Dec 2016,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2016-12-23,Dec 2016,Estonian Greens,4.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2017-01-31,19–31 Jan 2017,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -2381,7 +2360,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Estonian Greens,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2019-02-24,28 Jan–24 Feb 2019,Estonian Greens,2.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2019-02-28,26–28 Feb 2019,Estonian Greens,2.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2019-03-03,3 Mar 2019,Estonian Greens,1.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2019-03-11,Norstat,Estonian Greens,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2019-03-13,Kantar Emor,Estonian Greens,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2019-03-15,Norstat,Estonian Greens,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -2675,8 +2653,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2023-03-02,Kantar Emor,Estonian Greens,2.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2023-03-03,Norstat,Estonian Greens,1.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2023-03-05,5 Mar 2023,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2023-03-05,5 Mar,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2023-03-13,7– 13 Mar,Estonian Greens,1.3,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2023-03-16,37,Estonian Greens,8.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2023-03-17,9– 17 Mar,Estonian Greens,1.6,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -2769,7 +2745,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Estonian Greens,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2024-05-27,20– 27 May,Estonian Greens,0.6,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2024-06-01,27 May – 1 Jun,Estonian Greens,0.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
-2024-06-09,9 Jun,Estonian Greens,0.6,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2024-06-10,3– 10 Jun,Estonian Greens,0.8,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2024-06-11,1– 11 Jun,Estonian Greens,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
 2024-06-17,10– 17 Jun,Estonian Greens,1.3,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Estonian_Greens
@@ -3032,7 +3007,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-11-30,Norstat,Estonian Party for the Future,1.1,Centre to centre-right,Agrarianism Green politics,https://en.wikipedia.org/wiki/Estonian_Party_of_the_Future
 2020-12-07,Turu-uuringute AS,Estonian Party for the Future,1.0,Centre to centre-right,Agrarianism Green politics,https://en.wikipedia.org/wiki/Estonian_Party_of_the_Future
 2020-12-09,Kantar Emor,Estonian Party for the Future,1.0,Centre to centre-right,Agrarianism Green politics,https://en.wikipedia.org/wiki/Estonian_Party_of_the_Future
-2011-03-06,6 Mar 2011,Estonian Reform Party,28.6,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2011-04-06,Apr 2011,Estonian Reform Party,31.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2011-05-06,May 2011,Estonian Reform Party,33.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2011-06-06,Jun 2011,Estonian Reform Party,33.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3084,7 +3058,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-02-18,Feb 2015,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-02-26,23–26 Feb 2015,Estonian Reform Party,26.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2015-03-01,1 Mar 2015,Estonian Reform Party,27.7,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-03-01,Mar 2015,Estonian Reform Party,28.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-04-01,Apr 2015,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-05-01,May 2015,Estonian Reform Party,19.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3099,23 +3072,23 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Estonian Reform Party,17.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-12-01,Dec 2015,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2015-12-01,Dec 2015,Estonian Reform Party,20.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-01-25,Jan 2016,Estonian Reform Party,17.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-02-25,Feb 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-02-25,Feb 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-03-25,Mar 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-04-25,Apr 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-04-25,Apr 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-05-25,May 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-06-25,Jun 2016,Estonian Reform Party,20.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-06-25,Jun 2016,Estonian Reform Party,27.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-08-25,Aug 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-08-25,Aug 2016,Estonian Reform Party,28.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-09-25,Sep 2016,Estonian Reform Party,25.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-09-25,Sep 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-10-25,Oct 2016,Estonian Reform Party,25.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-10-25,Oct 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-11-25,Nov 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2016-11-25,Nov 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-01-26,Jan 2016,Estonian Reform Party,17.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-02-26,Feb 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-02-26,Feb 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-03-26,Mar 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-04-26,Apr 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-04-26,Apr 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-05-26,May 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-06-26,Jun 2016,Estonian Reform Party,20.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-06-26,Jun 2016,Estonian Reform Party,27.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-08-26,Aug 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-08-26,Aug 2016,Estonian Reform Party,28.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-09-26,Sep 2016,Estonian Reform Party,25.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-09-26,Sep 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-10-26,Oct 2016,Estonian Reform Party,25.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-10-26,Oct 2016,Estonian Reform Party,22.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-11-26,Nov 2016,Estonian Reform Party,21.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
+2016-11-26,Nov 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2016-12-23,Dec 2016,Estonian Reform Party,20.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2016-12-23,Dec 2016,Estonian Reform Party,23.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2017-01-31,19–31 Jan 2017,Estonian Reform Party,25.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3177,7 +3150,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Estonian Reform Party,24.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2019-02-24,28 Jan–24 Feb 2019,Estonian Reform Party,29.5,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2019-02-28,26–28 Feb 2019,Estonian Reform Party,26.6,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2019-03-03,3 Mar 2019,Estonian Reform Party,28.9,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2019-03-11,Norstat,Estonian Reform Party,31.9,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2019-03-13,Kantar Emor,Estonian Reform Party,30.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2019-03-15,Norstat,Estonian Reform Party,36.9,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3476,8 +3448,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Estonian Reform Party,30.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2023-03-02,Kantar Emor,Estonian Reform Party,29.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2023-03-03,Norstat,Estonian Reform Party,33.1,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2023-03-05,5 Mar 2023,Estonian Reform Party,31.2,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2023-03-05,5 Mar,Estonian Reform Party,31.2,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2023-03-13,7– 13 Mar,Estonian Reform Party,30.2,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2023-03-16,37,Estonian Reform Party,8.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2023-03-17,9– 17 Mar,Estonian Reform Party,29.3,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3570,7 +3540,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Estonian Reform Party,17.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2024-05-27,20– 27 May,Estonian Reform Party,19.4,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2024-06-01,27 May – 1 Jun,Estonian Reform Party,19.3,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2024-06-09,9 Jun,Estonian Reform Party,17.9,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2024-06-10,3– 10 Jun,Estonian Reform Party,17.8,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2024-06-11,1– 11 Jun,Estonian Reform Party,20.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2024-06-17,10– 17 Jun,Estonian Reform Party,15.6,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
@@ -3749,7 +3718,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-11,5– 11 Nov,Estonian Reform Party,9.0,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2026-11-15,9– 15 Nov,Estonian Reform Party,14.7,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
 2026-11-18,9– 18 Nov,Estonian Reform Party,10.9,Centre-right,Liberalism ( Estonian ) Conservative liberalism,https://en.wikipedia.org/wiki/Estonian_Reform_Party
-2011-03-06,6 Mar 2011,Isamaa,20.5,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2011-04-06,Apr 2011,Isamaa,19.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2011-05-06,May 2011,Isamaa,17.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2011-06-06,Jun 2011,Isamaa,13.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -3800,7 +3768,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Isamaa,14.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-02-18,Feb 2015,Isamaa,16.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-02-26,23–26 Feb 2015,Isamaa,16.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2015-03-01,1 Mar 2015,Isamaa,13.7,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-03-01,Mar 2015,Isamaa,10.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-04-01,Apr 2015,Isamaa,10.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-05-01,May 2015,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -3815,20 +3782,20 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-12-01,Dec 2015,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2015-12-01,Dec 2015,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-01-25,Jan 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-02-25,Feb 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-03-25,Mar 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-04-25,Apr 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-05-25,May 2016,Isamaa,4.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-06-25,Jun 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-06-25,Jun 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-08-25,Aug 2016,Isamaa,5.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-08-25,Aug 2016,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-09-25,Sep 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-09-25,Sep 2016,Isamaa,9.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-10-25,Oct 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-10-25,Oct 2016,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2016-11-25,Nov 2016,Isamaa,9.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-01-26,Jan 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-02-26,Feb 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-03-26,Mar 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-04-26,Apr 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-05-26,May 2016,Isamaa,4.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-06-26,Jun 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-06-26,Jun 2016,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-08-26,Aug 2016,Isamaa,5.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-08-26,Aug 2016,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-09-26,Sep 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-09-26,Sep 2016,Isamaa,9.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-10-26,Oct 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-10-26,Oct 2016,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
+2016-11-26,Nov 2016,Isamaa,9.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2016-12-23,Dec 2016,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2016-12-23,Dec 2016,Isamaa,7.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2017-01-31,19–31 Jan 2017,Isamaa,6.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -3888,7 +3855,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Isamaa,10.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2019-02-24,28 Jan–24 Feb 2019,Isamaa,9.2,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2019-02-28,26–28 Feb 2019,Isamaa,10.1,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2019-03-03,3 Mar 2019,Isamaa,11.4,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2019-03-11,Norstat,Isamaa,11.4,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2019-03-13,Kantar Emor,Isamaa,7.3,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2019-03-15,Norstat,Isamaa,11.2,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -4186,8 +4152,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Isamaa,8.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2023-03-02,Kantar Emor,Isamaa,7.2,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2023-03-03,Norstat,Isamaa,7.3,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2023-03-05,5 Mar 2023,Isamaa,8.2,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2023-03-05,5 Mar,Isamaa,8.2,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2023-03-13,7– 13 Mar,Isamaa,8.6,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2023-03-17,9– 17 Mar,Isamaa,5.9,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2023-03-20,14– 20 Mar,Isamaa,7.5,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -4279,7 +4243,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Isamaa,22.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2024-05-27,20– 27 May,Isamaa,23.5,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2024-06-01,27 May – 1 Jun,Isamaa,29.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
-2024-06-09,9 Jun,Isamaa,21.5,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2024-06-10,3– 10 Jun,Isamaa,29.6,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2024-06-11,1– 11 Jun,Isamaa,23.0,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
 2024-06-17,10– 17 Jun,Isamaa,30.5,Centre-right to right-wing,Christian democracy Economic liberalism,https://en.wikipedia.org/wiki/Isamaa
@@ -4521,9 +4484,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Jüri Ratas' cabinet,49.0,,,
 2019-02-24,28 Jan–24 Feb 2019,Jüri Ratas' cabinet,45.1,,,
 2019-02-28,26–28 Feb 2019,Jüri Ratas' cabinet,46.5,,,
-2019-03-03,3 Mar 2019,Jüri Ratas' cabinet,44.3,,,
-2023-03-05,5 Mar 2023,Left Alliance of Estonia,2.4,Left-wing,Since 2023: Democratic socialism Progressivism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed),https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)
-2023-03-05,5 Mar,Left Alliance of Estonia,2.4,Left-wing,Since 2023: Democratic socialism Progressivism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed),https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)
 2023-03-17,9– 17 Mar,Left Alliance of Estonia,1.5,Left-wing,Since 2023: Democratic socialism Progressivism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed),https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)
 2023-04-11,3– 11 Apr,Left Alliance of Estonia,1.0,Left-wing,Since 2023: Democratic socialism Progressivism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed),https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)
 2023-04-19,10– 19 Apr,Left Alliance of Estonia,1.0,Left-wing,Since 2023: Democratic socialism Progressivism 2008–2023: Russian minority politics Eurocommunism (self-proclaimed),https://en.wikipedia.org/wiki/Left_Alliance_(Estonia)
@@ -4594,8 +4554,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Parempoolsed,3.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2023-03-02,Kantar Emor,Parempoolsed,2.4,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2023-03-03,Norstat,Parempoolsed,2.9,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
-2023-03-05,5 Mar 2023,Parempoolsed,2.3,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
-2023-03-05,5 Mar,Parempoolsed,2.3,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2023-03-13,7– 13 Mar,Parempoolsed,3.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2023-03-16,37,Parempoolsed,54.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2023-03-17,9– 17 Mar,Parempoolsed,2.9,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
@@ -4688,7 +4646,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Parempoolsed,5.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2024-05-27,20– 27 May,Parempoolsed,2.8,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2024-06-01,27 May – 1 Jun,Parempoolsed,5.9,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
-2024-06-09,9 Jun,Parempoolsed,6.8,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2024-06-10,3– 10 Jun,Parempoolsed,6.9,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2024-06-11,1– 11 Jun,Parempoolsed,5.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2024-06-17,10– 17 Jun,Parempoolsed,6.1,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
@@ -4867,7 +4824,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-11,5– 11 Nov,Parempoolsed,7.0,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2026-11-15,9– 15 Nov,Parempoolsed,5.4,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
 2026-11-18,9– 18 Nov,Parempoolsed,5.5,Centre-right to right-wing,Economic liberalism Right-libertarianism Pro-Europeanism,https://en.wikipedia.org/wiki/Parempoolsed
-2011-03-06,6 Mar 2011,Social Democratic Party,17.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2011-04-06,Apr 2011,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2011-05-06,May 2011,Social Democratic Party,22.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2011-06-06,Jun 2011,Social Democratic Party,21.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -4919,7 +4875,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-18,11–18 Feb 2015,Social Democratic Party,20.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-02-18,Feb 2015,Social Democratic Party,18.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-02-26,23–26 Feb 2015,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2015-03-01,1 Mar 2015,Social Democratic Party,15.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-03-01,Mar 2015,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-04-01,Apr 2015,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-05-01,May 2015,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -4934,23 +4889,23 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-12-01,Dec 2015,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2015-12-01,Dec 2015,Social Democratic Party,14.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-01-25,Jan 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-02-25,Feb 2016,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-02-25,Feb 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-03-25,Mar 2016,Social Democratic Party,14.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-03-25,Mar 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-04-25,Apr 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-04-25,Apr 2016,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-05-25,May 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-06-25,Jun 2016,Social Democratic Party,10.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-06-25,Jun 2016,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-08-25,Aug 2016,Social Democratic Party,15.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-09-25,Sep 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-09-25,Sep 2016,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-10-25,Oct 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-10-25,Oct 2016,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-11-25,Nov 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2016-11-25,Nov 2016,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-01-26,Jan 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-02-26,Feb 2016,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-02-26,Feb 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-03-26,Mar 2016,Social Democratic Party,14.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-03-26,Mar 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-04-26,Apr 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-04-26,Apr 2016,Social Democratic Party,16.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-05-26,May 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-06-26,Jun 2016,Social Democratic Party,10.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-06-26,Jun 2016,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-08-26,Aug 2016,Social Democratic Party,15.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-09-26,Sep 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-09-26,Sep 2016,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-10-26,Oct 2016,Social Democratic Party,12.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-10-26,Oct 2016,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-11-26,Nov 2016,Social Democratic Party,13.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
+2016-11-26,Nov 2016,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2016-12-23,Dec 2016,Social Democratic Party,15.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2016-12-23,Dec 2016,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2017-01-31,19–31 Jan 2017,Social Democratic Party,10.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -5014,7 +4969,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-02-20,7–20 Feb 2019,Social Democratic Party,11.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2019-02-24,28 Jan–24 Feb 2019,Social Democratic Party,10.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2019-02-28,26–28 Feb 2019,Social Democratic Party,11.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2019-03-03,3 Mar 2019,Social Democratic Party,9.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2019-03-11,Norstat,Social Democratic Party,9.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2019-03-13,Kantar Emor,Social Democratic Party,12.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2019-03-15,Norstat,Social Democratic Party,9.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -5312,8 +5266,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-02-28,Turu-uuringute AS,Social Democratic Party,9.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2023-03-02,Kantar Emor,Social Democratic Party,11.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2023-03-03,Norstat,Social Democratic Party,7.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2023-03-05,5 Mar 2023,Social Democratic Party,9.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2023-03-05,5 Mar,Social Democratic Party,9.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2023-03-13,7– 13 Mar,Social Democratic Party,9.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2023-03-17,9– 17 Mar,Social Democratic Party,11.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2023-03-20,14– 20 Mar,Social Democratic Party,11.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -5405,7 +5357,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-05-21,9– 21 May,Social Democratic Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2024-05-27,20– 27 May,Social Democratic Party,16.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2024-06-01,27 May – 1 Jun,Social Democratic Party,14.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2024-06-09,9 Jun,Social Democratic Party,19.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2024-06-10,3– 10 Jun,Social Democratic Party,14.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2024-06-11,1– 11 Jun,Social Democratic Party,17.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2024-06-17,10– 17 Jun,Social Democratic Party,17.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
@@ -5584,7 +5535,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-11,5– 11 Nov,Social Democratic Party,20.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2026-11-15,9– 15 Nov,Social Democratic Party,16.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
 2026-11-18,9– 18 Nov,Social Democratic Party,20.5,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Estonia)
-2015-03-01,1 Mar 2015,Taavi Rõivas' second cabinet,56.6,,,
 2015-03-01,Mar 2015,Taavi Rõivas' second cabinet,54.0,,,
 2015-04-01,Apr 2015,Taavi Rõivas' second cabinet,49.0,,,
 2015-05-01,May 2015,Taavi Rõivas' second cabinet,44.0,,,
@@ -5599,22 +5549,22 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-01,Nov 2015,Taavi Rõivas' second cabinet,38.0,,,
 2015-12-01,Dec 2015,Taavi Rõivas' second cabinet,45.0,,,
 2015-12-01,Dec 2015,Taavi Rõivas' second cabinet,41.0,,,
-2016-01-25,Jan 2016,Taavi Rõivas' second cabinet,37.0,,,
-2016-02-25,Feb 2016,Taavi Rõivas' second cabinet,44.0,,,
-2016-02-25,Feb 2016,Taavi Rõivas' second cabinet,41.0,,,
-2016-03-25,Mar 2016,Taavi Rõivas' second cabinet,43.0,,,
-2016-03-25,Mar 2016,Taavi Rõivas' second cabinet,42.0,,,
-2016-04-25,Apr 2016,Taavi Rõivas' second cabinet,41.0,,,
-2016-04-25,Apr 2016,Taavi Rõivas' second cabinet,46.0,,,
-2016-05-25,May 2016,Taavi Rõivas' second cabinet,37.0,,,
-2016-06-25,Jun 2016,Taavi Rõivas' second cabinet,37.0,,,
-2016-06-25,Jun 2016,Taavi Rõivas' second cabinet,50.0,,,
-2016-08-25,Aug 2016,Taavi Rõivas' second cabinet,43.0,,,
-2016-08-25,Aug 2016,Taavi Rõivas' second cabinet,51.0,,,
-2016-09-25,Sep 2016,Taavi Rõivas' second cabinet,44.0,,,
-2016-09-25,Sep 2016,Taavi Rõivas' second cabinet,50.0,,,
-2016-10-25,Oct 2016,Taavi Rõivas' second cabinet,44.0,,,
-2016-10-25,Oct 2016,Taavi Rõivas' second cabinet,47.0,,,
+2016-01-26,Jan 2016,Taavi Rõivas' second cabinet,37.0,,,
+2016-02-26,Feb 2016,Taavi Rõivas' second cabinet,44.0,,,
+2016-02-26,Feb 2016,Taavi Rõivas' second cabinet,41.0,,,
+2016-03-26,Mar 2016,Taavi Rõivas' second cabinet,43.0,,,
+2016-03-26,Mar 2016,Taavi Rõivas' second cabinet,42.0,,,
+2016-04-26,Apr 2016,Taavi Rõivas' second cabinet,41.0,,,
+2016-04-26,Apr 2016,Taavi Rõivas' second cabinet,46.0,,,
+2016-05-26,May 2016,Taavi Rõivas' second cabinet,37.0,,,
+2016-06-26,Jun 2016,Taavi Rõivas' second cabinet,37.0,,,
+2016-06-26,Jun 2016,Taavi Rõivas' second cabinet,50.0,,,
+2016-08-26,Aug 2016,Taavi Rõivas' second cabinet,43.0,,,
+2016-08-26,Aug 2016,Taavi Rõivas' second cabinet,51.0,,,
+2016-09-26,Sep 2016,Taavi Rõivas' second cabinet,44.0,,,
+2016-09-26,Sep 2016,Taavi Rõivas' second cabinet,50.0,,,
+2016-10-26,Oct 2016,Taavi Rõivas' second cabinet,44.0,,,
+2016-10-26,Oct 2016,Taavi Rõivas' second cabinet,47.0,,,
 2023-10-06,28 Sep – 6 Oct,Together,2.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2023-11-06,26 Oct – 6 Nov,Together,1.9,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2023-12-06,30 Nov – 6 Dec,Together,2.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
@@ -5623,7 +5573,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-03-18,7– 18 Mar,Together,1.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2024-04-11,4– 11 Apr,Together,1.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2024-05-21,9– 21 May,Together,2.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
-2024-06-09,9 Jun,Together,3.1,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2024-06-11,1– 11 Jun,Together,2.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2024-07-17,11– 17 Jul,Together,2.9,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)
 2024-08-09,1– 9 Aug,Together,3.0,,Social conservatism Russian minority politics Russophilia Non-interventionism,https://en.wikipedia.org/wiki/Together_(Estonian_political_party)

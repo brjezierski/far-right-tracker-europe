@@ -1,5 +1,4 @@
 date,pollster,party,polling_value,political_position,ideology,wikipedia_url
-2013-10-26,25-26 Oct 2013,ANO 2011,18.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2013-11-13,5–13 Nov,ANO 2011,20.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2013-11-18,11–18 Nov,ANO 2011,24.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2013-12-09,2–9 Dec,ANO 2011,22.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -27,7 +26,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-05-14,8–14 May,ANO 2011,25.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-05-23,17–23 May,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2014-05-25,24–25 May,ANO 2011,16.13,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-05-26,15–26 May,ANO 2011,22.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-05-27,20–27 May,ANO 2011,27.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-06-02,8 May–2 Jun,ANO 2011,22.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -47,10 +45,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,ANO 2011,28.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-09-28,22-28 Sep,ANO 2011,30.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-10-08,1–8 Oct,ANO 2011,31.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2014-10-11,10–11 Oct,ANO 2011,14.59,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2014-10-11,10–11 Oct,ANO 2011,17.55,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-10-14,3–14 Oct,ANO 2011,21.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2014-10-18,17–18 Oct,ANO 2011,15.14,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-10-20,13–20 Oct,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-10-20,16–20 Oct,ANO 2011,23.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2014-11-01,1 Oct–1 Nov,ANO 2011,24.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -154,9 +149,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2016-09-15,30 Aug - 15 Sep,ANO 2011,24.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2016-09-19,5 - 19 Sep,ANO 2011,28.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2016-10-08,7 – 8 Oct,ANO 2011,21.1,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2016-10-08,7 – 8 Oct,ANO 2011,17.18,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2016-10-15,14 – 15 Oct,ANO 2011,21.71,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2016-10-17,10 - 17 Oct,ANO 2011,34.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2016-10-21,13 - 21 Oct,ANO 2011,29.7,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2016-10-27,8 - 27 Oct,ANO 2011,34.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -219,7 +211,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,ANO 2011,26.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2017-10-10,3 - 10 Oct,ANO 2011,26.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2017-10-14,26 Sep - 14 Oct,ANO 2011,25.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2017-10-21,20 - 21 Oct,ANO 2011,29.6,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2017-11-24,TNS Kantar,ANO 2011,30.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2017-12-11,STEM,ANO 2011,33.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2017-12-17,CVVM,ANO 2011,35.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -370,7 +361,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-04-30,Kantar CZ,ANO 2011,20.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-04,Median Archived 7 May 2021 at the Wayback Machine,ANO 2011,21.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-10,Phoenix Research,ANO 2011,21.2,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
-2021-05-17,22.0,ANO 2011,34.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-19,26.5,ANO 2011,29.5,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-19,Sanep,ANO 2011,22.4,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
 2021-05-21,21.0,ANO 2011,27.0,Right-wing,Right-wing populism National conservatism,https://en.wikipedia.org/wiki/ANO_2011
@@ -629,7 +619,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-09-09,Sanep,Alliance for the Future,3.1,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic)
 2021-09-10,Phoenix Research,Alliance for the Future,3.0,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic)
 2021-09-30,Sanep,Alliance for the Future,3.1,Centre-right,Conservative liberalism Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Alliance_for_the_Future_(Czech_Republic)
-2013-10-26,25-26 Oct 2013,Civic Democratic Party,7.7,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2013-11-13,5–13 Nov,Civic Democratic Party,5.8,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2013-11-18,11–18 Nov,Civic Democratic Party,4.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2013-12-09,2–9 Dec,Civic Democratic Party,6.9,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -657,7 +646,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Civic Democratic Party,5.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-05-14,8–14 May,Civic Democratic Party,5.4,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-05-23,17–23 May,Civic Democratic Party,7.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2014-05-25,24–25 May,Civic Democratic Party,7.67,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-05-26,15–26 May,Civic Democratic Party,7.6,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-05-27,20–27 May,Civic Democratic Party,6.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-06-02,8 May–2 Jun,Civic Democratic Party,7.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -677,10 +665,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,Civic Democratic Party,7.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-09-28,22-28 Sep,Civic Democratic Party,9.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-10-08,1–8 Oct,Civic Democratic Party,5.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2014-10-11,10–11 Oct,Civic Democratic Party,9.01,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2014-10-11,10–11 Oct,Civic Democratic Party,10.76,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-10-14,3–14 Oct,Civic Democratic Party,7.2,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2014-10-18,17–18 Oct,Civic Democratic Party,9.34,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-10-20,13–20 Oct,Civic Democratic Party,5.9,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-10-20,16–20 Oct,Civic Democratic Party,6.7,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2014-10-31,25–31 Oct,Civic Democratic Party,6.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -785,9 +770,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Civic Democratic Party,9.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2016-09-15,30 Aug - 15 Sep,Civic Democratic Party,7.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2016-09-19,5 - 19 Sep,Civic Democratic Party,9.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2016-10-08,7 – 8 Oct,Civic Democratic Party,9.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2016-10-08,7 – 8 Oct,Civic Democratic Party,11.71,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2016-10-15,14 – 15 Oct,Civic Democratic Party,10.3,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2016-10-17,10 - 17 Oct,Civic Democratic Party,8.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2016-10-21,13 - 21 Oct,Civic Democratic Party,9.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2016-10-27,8 - 27 Oct,Civic Democratic Party,8.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -850,7 +832,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Civic Democratic Party,8.9,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2017-10-10,3 - 10 Oct,Civic Democratic Party,9.9,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2017-10-14,26 Sep - 14 Oct,Civic Democratic Party,9.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2017-10-21,20 - 21 Oct,Civic Democratic Party,11.3,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2017-11-24,TNS Kantar,Civic Democratic Party,12.0,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2017-12-11,STEM,Civic Democratic Party,9.6,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2017-12-17,CVVM,Civic Democratic Party,11.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
@@ -1013,7 +994,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-30,Kantar,Civic Democratic Party,12.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2026-10-31,Median,Civic Democratic Party,10.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
 2026-11-03,NMS,Civic Democratic Party,10.5,Centre-right,Conservatism,https://en.wikipedia.org/wiki/Civic_Democratic_Party_(Czech_Republic)
-2013-10-26,25-26 Oct 2013,Communist Party of Bohemia and Moravia,14.9,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2013-11-13,5–13 Nov,Communist Party of Bohemia and Moravia,17.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2013-11-18,11–18 Nov,Communist Party of Bohemia and Moravia,18.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2013-12-09,2–9 Dec,Communist Party of Bohemia and Moravia,17.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1041,7 +1021,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Communist Party of Bohemia and Moravia,12.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-05-14,8–14 May,Communist Party of Bohemia and Moravia,14.9,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-05-23,17–23 May,Communist Party of Bohemia and Moravia,9.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2014-05-25,24–25 May,Communist Party of Bohemia and Moravia,10.98,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-05-26,15–26 May,Communist Party of Bohemia and Moravia,15.7,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-05-27,20–27 May,Communist Party of Bohemia and Moravia,13.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-06-02,8 May–2 Jun,Communist Party of Bohemia and Moravia,15.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1061,8 +1040,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,Communist Party of Bohemia and Moravia,14.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-09-28,22-28 Sep,Communist Party of Bohemia and Moravia,10.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-10-08,1–8 Oct,Communist Party of Bohemia and Moravia,13.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2014-10-11,10–11 Oct,Communist Party of Bohemia and Moravia,7.8,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2014-10-11,10–11 Oct,Communist Party of Bohemia and Moravia,9.74,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-10-14,3–14 Oct,Communist Party of Bohemia and Moravia,14.9,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-10-20,13–20 Oct,Communist Party of Bohemia and Moravia,14.4,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2014-10-20,16–20 Oct,Communist Party of Bohemia and Moravia,13.1,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1168,9 +1145,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Communist Party of Bohemia and Moravia,11.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2016-09-15,30 Aug - 15 Sep,Communist Party of Bohemia and Moravia,14.3,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2016-09-19,5 - 19 Sep,Communist Party of Bohemia and Moravia,15.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2016-10-08,7 – 8 Oct,Communist Party of Bohemia and Moravia,10.6,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2016-10-08,7 – 8 Oct,Communist Party of Bohemia and Moravia,9.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2016-10-15,14 – 15 Oct,Communist Party of Bohemia and Moravia,1.35,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2016-10-17,10 - 17 Oct,Communist Party of Bohemia and Moravia,10.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2016-10-21,13 - 21 Oct,Communist Party of Bohemia and Moravia,14.6,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2016-10-27,8 - 27 Oct,Communist Party of Bohemia and Moravia,7.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1233,7 +1207,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Communist Party of Bohemia and Moravia,14.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2017-10-10,3 - 10 Oct,Communist Party of Bohemia and Moravia,12.4,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2017-10-14,26 Sep - 14 Oct,Communist Party of Bohemia and Moravia,10.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2017-10-21,20 - 21 Oct,Communist Party of Bohemia and Moravia,7.8,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2017-11-24,TNS Kantar,Communist Party of Bohemia and Moravia,7.0,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2017-12-11,STEM,Communist Party of Bohemia and Moravia,8.8,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2017-12-17,CVVM,Communist Party of Bohemia and Moravia,7.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
@@ -1575,7 +1548,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-06,STEM,Communist Party of Bohemia and Moravia,1.8,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2026-10-31,Median,Communist Party of Bohemia and Moravia,2.5,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
 2026-11-03,NMS,Communist Party of Bohemia and Moravia,2.2,Left-wing to far-left,Communism Anti-capitalism Euroscepticism Social conservatism,https://en.wikipedia.org/wiki/Communist_Party_of_Bohemia_and_Moravia
-2013-10-26,25-26 Oct 2013,Czech Pirate Party,2.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2013-11-13,5–13 Nov,Czech Pirate Party,3.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2013-11-18,11–18 Nov,Czech Pirate Party,2.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2013-12-09,2–9 Dec,Czech Pirate Party,2.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1597,7 +1569,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Czech Pirate Party,2.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-05-14,8–14 May,Czech Pirate Party,3.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-05-23,17–23 May,Czech Pirate Party,4.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2014-05-25,24–25 May,Czech Pirate Party,4.78,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-05-26,15–26 May,Czech Pirate Party,3.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-05-27,20–27 May,Czech Pirate Party,3.3,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-06-02,8 May–2 Jun,Czech Pirate Party,3.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1617,8 +1588,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,Czech Pirate Party,1.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-09-28,22-28 Sep,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-10-08,1–8 Oct,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2014-10-11,10–11 Oct,Czech Pirate Party,1.33,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2014-10-11,10–11 Oct,Czech Pirate Party,0.53,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-10-14,3–14 Oct,Czech Pirate Party,3.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-10-20,13–20 Oct,Czech Pirate Party,4.6,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2014-10-20,16–20 Oct,Czech Pirate Party,4.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1722,8 +1691,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Czech Pirate Party,3.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2016-09-15,30 Aug - 15 Sep,Czech Pirate Party,3.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2016-09-19,5 - 19 Sep,Czech Pirate Party,2.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2016-10-08,7 – 8 Oct,Czech Pirate Party,3.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2016-10-08,7 – 8 Oct,Czech Pirate Party,0.83,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2016-10-17,10 - 17 Oct,Czech Pirate Party,3.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2016-10-21,13 - 21 Oct,Czech Pirate Party,4.7,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2016-10-27,8 - 27 Oct,Czech Pirate Party,3.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -1785,7 +1752,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Czech Pirate Party,6.1,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2017-10-10,3 - 10 Oct,Czech Pirate Party,6.6,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2017-10-14,26 Sep - 14 Oct,Czech Pirate Party,8.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
-2017-10-21,20 - 21 Oct,Czech Pirate Party,10.8,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2017-11-24,TNS Kantar,Czech Pirate Party,14.0,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2017-12-11,STEM,Czech Pirate Party,12.2,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
 2017-12-17,CVVM,Czech Pirate Party,11.5,Centre to centre-left,Pirate politics Liberalism Social liberalism Progressivism Pro-Europeanism,https://en.wikipedia.org/wiki/Czech_Pirate_Party
@@ -2240,7 +2206,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-09-29,Median,Czech Sovereignty of Social Democracy,1.6,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy
 2021-09-29,Phoenix Research,Czech Sovereignty of Social Democracy,2.2,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy
 2021-09-30,Sanep,Czech Sovereignty of Social Democracy,2.5,Left-wing,Social democracy (nominal) [ citation needed ] Left-wing nationalism Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Czech_Sovereignty_of_Social_Democracy
-2013-10-26,25-26 Oct 2013,Dawn - National Coalition,6.9,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2013-11-13,5–13 Nov,Dawn - National Coalition,7.1,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2013-11-18,11–18 Nov,Dawn - National Coalition,6.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2013-12-09,2–9 Dec,Dawn - National Coalition,7.6,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
@@ -2268,7 +2233,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Dawn - National Coalition,3.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-05-14,8–14 May,Dawn - National Coalition,5.9,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-05-23,17–23 May,Dawn - National Coalition,5.5,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
-2014-05-25,24–25 May,Dawn - National Coalition,3.19,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-05-26,15–26 May,Dawn - National Coalition,2.9,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-05-27,20–27 May,Dawn - National Coalition,6.1,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-06-02,8 May–2 Jun,Dawn - National Coalition,6.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
@@ -2288,8 +2252,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,Dawn - National Coalition,1.5,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-09-28,22-28 Sep,Dawn - National Coalition,6.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-10-08,1–8 Oct,Dawn - National Coalition,2.5,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
-2014-10-11,10–11 Oct,Dawn - National Coalition,0.65,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
-2014-10-11,10–11 Oct,Dawn - National Coalition,1.3,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-10-14,3–14 Oct,Dawn - National Coalition,5.8,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-10-20,13–20 Oct,Dawn - National Coalition,3.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2014-10-20,16–20 Oct,Dawn - National Coalition,4.6,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
@@ -2391,8 +2353,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Dawn - National Coalition,3.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2016-09-15,30 Aug - 15 Sep,Dawn - National Coalition,3.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2016-09-19,5 - 19 Sep,Dawn - National Coalition,1.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
-2016-10-08,7 – 8 Oct,Dawn - National Coalition,0.9,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
-2016-10-08,7 – 8 Oct,Dawn - National Coalition,1.82,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2016-10-21,13 - 21 Oct,Dawn - National Coalition,1.8,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2016-11-02,27 Oct - 2 Nov,Dawn - National Coalition,1.2,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
 2016-11-10,1 - 10 Nov,Dawn - National Coalition,1.0,Far-right,Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Dawn_-_National_Coalition
@@ -2485,8 +2445,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Freedom and Direct Democracy,3.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2016-09-15,30 Aug - 15 Sep,Freedom and Direct Democracy,2.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2016-09-19,5 - 19 Sep,Freedom and Direct Democracy,2.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2016-10-08,7 – 8 Oct,Freedom and Direct Democracy,5.9,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2016-10-08,7 – 8 Oct,Freedom and Direct Democracy,0.68,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2016-10-17,10 - 17 Oct,Freedom and Direct Democracy,4.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2016-10-21,13 - 21 Oct,Freedom and Direct Democracy,5.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2016-10-27,8 - 27 Oct,Freedom and Direct Democracy,6.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2548,7 +2506,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Freedom and Direct Democracy,8.2,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2017-10-10,3 - 10 Oct,Freedom and Direct Democracy,7.1,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2017-10-14,26 Sep - 14 Oct,Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2017-10-21,20 - 21 Oct,Freedom and Direct Democracy,10.6,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2017-11-24,TNS Kantar,Freedom and Direct Democracy,9.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2017-12-11,STEM,Freedom and Direct Democracy,8.7,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2017-12-17,CVVM,Freedom and Direct Democracy,6.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2753,7 +2710,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-06-02,Median,Freedom and Direct Democracy,11.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-06-02,Median,Freedom and Direct Democracy,2.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-06-02,Kantar CZ,Freedom and Direct Democracy,11.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2022-06-27,Sanep,Freedom and Direct Democracy,13.7,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-06-27,Sanep,Freedom and Direct Democracy,3.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-07-04,Median,Freedom and Direct Democracy,12.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-08-02,Median,Freedom and Direct Democracy,12.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -2761,6 +2717,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-08-11,STEM,Freedom and Direct Democracy,11.9,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-08-30,Sanep,Freedom and Direct Democracy,13.1,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-08-30,Sanep,Freedom and Direct Democracy,3.9,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
+2022-08-31,Median,Freedom and Direct Democracy,14.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-08-31,Median,Freedom and Direct Democracy,2.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-09-02,Kantar CZ,Freedom and Direct Democracy,11.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2022-09-02,Kantar CZ,Freedom and Direct Democracy,2.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
@@ -3071,7 +3028,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-30,Kantar,Freedom and Direct Democracy,5.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2026-10-31,Median,Freedom and Direct Democracy,8.5,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
 2026-11-03,NMS,Freedom and Direct Democracy,7.0,Far-right,Right-wing populism Nationalism Anti-immigration Hard Euroscepticism Neo-fascism,https://en.wikipedia.org/wiki/Freedom_and_Direct_Democracy
-2013-10-26,25-26 Oct 2013,Green Party,3.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2013-11-13,5–13 Nov,Green Party,2.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2013-11-18,11–18 Nov,Green Party,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2013-12-09,2–9 Dec,Green Party,3.1,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3094,7 +3050,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Green Party,1.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-05-14,8–14 May,Green Party,3.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-05-23,17–23 May,Green Party,3.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2014-05-25,24–25 May,Green Party,3.77,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-05-26,15–26 May,Green Party,5.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-05-27,20–27 May,Green Party,3.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-06-02,8 May–2 Jun,Green Party,3.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3113,8 +3068,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-10,4–10 Sep,Green Party,3.6,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-09-15,8–15 Sep,Green Party,1.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-09-28,22-28 Sep,Green Party,3.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2014-10-11,10–11 Oct,Green Party,1.16,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2014-10-11,10–11 Oct,Green Party,0.65,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-10-14,3–14 Oct,Green Party,3.2,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-10-20,13–20 Oct,Green Party,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2014-10-20,16–20 Oct,Green Party,3.4,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3205,9 +3158,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Green Party,3.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2016-09-15,30 Aug - 15 Sep,Green Party,2.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2016-09-19,5 - 19 Sep,Green Party,2.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2016-10-08,7 – 8 Oct,Green Party,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2016-10-08,7 – 8 Oct,Green Party,2.13,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2016-10-15,14 – 15 Oct,Green Party,2.96,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2016-10-17,10 - 17 Oct,Green Party,1.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2016-10-21,13 - 21 Oct,Green Party,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2016-10-27,8 - 27 Oct,Green Party,2.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3265,7 +3215,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Green Party,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2017-10-10,3 - 10 Oct,Green Party,2.6,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2017-10-14,26 Sep - 14 Oct,Green Party,3.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2017-10-21,20 - 21 Oct,Green Party,1.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2017-11-24,TNS Kantar,Green Party,3.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2017-12-11,STEM,Green Party,0.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2018-01-24,CVVM,Green Party,1.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
@@ -3408,7 +3357,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,NMS,Green Party,0.9,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2026-10-06,STEM,Green Party,2.1,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
 2026-11-03,NMS,Green Party,1.7,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Green_Party_(Czech_Republic)
-2013-10-26,25-26 Oct 2013,KDU-ČSL,6.8,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2013-11-13,5–13 Nov,KDU-ČSL,6.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2013-11-18,11–18 Nov,KDU-ČSL,7.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2013-12-09,2–9 Dec,KDU-ČSL,6.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3436,7 +3384,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,KDU-ČSL,8.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-05-14,8–14 May,KDU-ČSL,6.3,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-05-23,17–23 May,KDU-ČSL,6.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2014-05-25,24–25 May,KDU-ČSL,9.95,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-05-26,15–26 May,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-05-27,20–27 May,KDU-ČSL,6.9,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-06-02,8 May–2 Jun,KDU-ČSL,6.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3456,10 +3403,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-09-28,22-28 Sep,KDU-ČSL,5.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-10-08,1–8 Oct,KDU-ČSL,7.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2014-10-11,10–11 Oct,KDU-ČSL,4.91,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2014-10-11,10–11 Oct,KDU-ČSL,8.21,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-10-14,3–14 Oct,KDU-ČSL,7.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2014-10-18,17–18 Oct,KDU-ČSL,16.27,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-10-20,13–20 Oct,KDU-ČSL,6.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-10-20,16–20 Oct,KDU-ČSL,7.1,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2014-10-31,25–31 Oct,KDU-ČSL,7.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3564,9 +3508,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,KDU-ČSL,5.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2016-09-15,30 Aug - 15 Sep,KDU-ČSL,6.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2016-09-19,5 - 19 Sep,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2016-10-08,7 – 8 Oct,KDU-ČSL,8.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2016-10-08,7 – 8 Oct,KDU-ČSL,8.48,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2016-10-15,14 – 15 Oct,KDU-ČSL,18.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2016-10-17,10 - 17 Oct,KDU-ČSL,9.0,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2016-10-21,13 - 21 Oct,KDU-ČSL,6.7,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2016-10-27,8 - 27 Oct,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3629,7 +3570,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,KDU-ČSL,5.8,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2017-10-10,3 - 10 Oct,KDU-ČSL,6.2,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2017-10-14,26 Sep - 14 Oct,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
-2017-10-21,20 - 21 Oct,KDU-ČSL,5.8,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2017-11-24,TNS Kantar,KDU-ČSL,4.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2017-12-11,STEM,KDU-ČSL,5.4,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
 2017-12-17,CVVM,KDU-ČSL,6.5,Centre to centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/KDU-%C4%8CSL
@@ -3814,9 +3754,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-31,Median,"Law, Respect, Expertise",2.0,,,
 2026-11-03,NMS,"Law, Respect, Expertise",1.3,,,
 2014-04-09,3–9 Apr,Mayors and Independents,1.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2014-10-11,10–11 Oct,Mayors and Independents,3.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2014-10-11,10–11 Oct,Mayors and Independents,1.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2014-10-18,17–18 Oct,Mayors and Independents,2.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2014-10-20,16–20 Oct,Mayors and Independents,3.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2014-11-12,6–12 Nov,Mayors and Independents,3.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2014-12-08,4–8 Dec,Mayors and Independents,2.1,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -3850,9 +3787,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-07-29,23-29 Jul,Mayors and Independents,2.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2016-08-04,4 Jul - 4 Aug,Mayors and Independents,1.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2016-08-17,11 - 17 Aug,Mayors and Independents,0.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2016-10-08,7 – 8 Oct,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2016-10-08,7 – 8 Oct,Mayors and Independents,4.9,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2016-10-15,14 – 15 Oct,Mayors and Independents,6.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2016-10-21,13 - 21 Oct,Mayors and Independents,7.1,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2016-10-27,8 - 27 Oct,Mayors and Independents,4.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2016-10-29,29 Sep - 29 Oct,Mayors and Independents,2.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -3898,7 +3832,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Mayors and Independents,3.1,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2017-10-10,3 - 10 Oct,Mayors and Independents,2.9,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2017-10-14,26 Sep - 14 Oct,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2017-10-21,20 - 21 Oct,Mayors and Independents,5.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2017-11-24,TNS Kantar,Mayors and Independents,5.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2017-12-11,STEM,Mayors and Independents,5.2,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2017-12-17,CVVM,Mayors and Independents,4.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4026,7 +3959,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2021-02-05,Kantar CZ,Mayors and Independents,9.5,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-03-05,Kantar CZ Archived 14 March 2021 at the Wayback Machine,Mayors and Independents,13.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-04-01,Kantar CZ,Mayors and Independents,12.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
-2021-04-01,919,Mayors and Independents,2.8,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-04-01,Data Collect,Mayors and Independents,14.3,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-04-13,STEM,Mayors and Independents,11.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
 2021-04-30,Kantar CZ,Mayors and Independents,11.0,Centre to centre-right,Localism Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Mayors_and_Independents
@@ -4651,8 +4583,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-09-25,28 Aug - 25 Sep,Realists,1.25,Right-wing,National conservatism Liberal conservatism Economic liberalism Euroscepticism,https://en.wikipedia.org/wiki/Realists_(political_party)
 2017-10-10,3 - 10 Oct,Realists,0.9,Right-wing,National conservatism Liberal conservatism Economic liberalism Euroscepticism,https://en.wikipedia.org/wiki/Realists_(political_party)
 2017-10-14,26 Sep - 14 Oct,Realists,1.25,Right-wing,National conservatism Liberal conservatism Economic liberalism Euroscepticism,https://en.wikipedia.org/wiki/Realists_(political_party)
-2017-10-21,20 - 21 Oct,Realists,0.7,Right-wing,National conservatism Liberal conservatism Economic liberalism Euroscepticism,https://en.wikipedia.org/wiki/Realists_(political_party)
-2013-10-26,25-26 Oct 2013,Social Democracy,20.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2013-11-13,5–13 Nov,Social Democracy,19.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2013-11-18,11–18 Nov,Social Democracy,24.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2013-12-09,2–9 Dec,Social Democracy,19.9,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -4680,7 +4610,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,Social Democracy,23.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-05-14,8–14 May,Social Democracy,20.2,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-05-23,17–23 May,Social Democracy,18.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2014-05-25,24–25 May,Social Democracy,14.17,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-05-26,15–26 May,Social Democracy,19.4,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-05-27,20–27 May,Social Democracy,18.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-06-02,8 May–2 Jun,Social Democracy,18.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -4700,8 +4629,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,Social Democracy,27.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-09-28,22-28 Sep,Social Democracy,19.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-10-08,1–8 Oct,Social Democracy,24.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2014-10-11,10–11 Oct,Social Democracy,12.65,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2014-10-11,10–11 Oct,Social Democracy,22.04,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-10-14,3–14 Oct,Social Democracy,18.9,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-10-20,13–20 Oct,Social Democracy,21.7,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2014-10-20,16–20 Oct,Social Democracy,21.2,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -4807,9 +4734,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,Social Democracy,18.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2016-09-15,30 Aug - 15 Sep,Social Democracy,20.7,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2016-09-19,5 - 19 Sep,Social Democracy,23.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2016-10-08,7 – 8 Oct,Social Democracy,15.3,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2016-10-08,7 – 8 Oct,Social Democracy,14.62,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2016-10-15,14 – 15 Oct,Social Democracy,13.12,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2016-10-17,10 - 17 Oct,Social Democracy,19.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2016-10-21,13 - 21 Oct,Social Democracy,14.4,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2016-10-27,8 - 27 Oct,Social Democracy,15.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -4872,7 +4796,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,Social Democracy,12.2,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2017-10-10,3 - 10 Oct,Social Democracy,15.7,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2017-10-14,26 Sep - 14 Oct,Social Democracy,12.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
-2017-10-21,20 - 21 Oct,Social Democracy,7.3,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2017-11-24,TNS Kantar,Social Democracy,5.5,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2017-12-11,STEM,Social Democracy,8.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
 2017-12-17,CVVM,Social Democracy,10.0,Centre-left,Social democracy Left-wing populism,https://en.wikipedia.org/wiki/Czech_Social_Democratic_Party
@@ -5283,7 +5206,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-07,STEM,Stačilo!,1.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2026-09-12,Ipsos,Stačilo!,1.8,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
 2026-10-06,STEM,Stačilo!,1.5,Left-wing to far-left,Left-wing nationalism Left-wing populism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Sta%C4%8Dilo!
-2013-10-26,25-26 Oct 2013,Svobodní,2.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2013-11-13,5–13 Nov,Svobodní,2.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2013-11-18,11–18 Nov,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2013-12-09,2–9 Dec,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5298,7 +5220,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-08,8 Apr–8 May,Svobodní,3.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-05-12,5–12 May,Svobodní,2.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-05-23,17–23 May,Svobodní,2.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2014-05-25,24–25 May,Svobodní,5.24,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-05-26,15–26 May,Svobodní,1.9,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-05-27,20–27 May,Svobodní,2.4,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-06-02,8 May–2 Jun,Svobodní,3.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5314,8 +5235,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-10,4–10 Sep,Svobodní,3.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-09-28,22-28 Sep,Svobodní,2.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-10-08,1–8 Oct,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2014-10-11,10–11 Oct,Svobodní,1.84,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2014-10-11,10–11 Oct,Svobodní,1.41,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-10-14,3–14 Oct,Svobodní,2.8,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-10-20,13–20 Oct,Svobodní,1.2,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2014-11-01,1 Oct–1 Nov,Svobodní,2.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5390,7 +5309,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-04,4 Jul - 4 Aug,Svobodní,2.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2016-08-17,11 - 17 Aug,Svobodní,4.7,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2016-09-15,30 Aug - 15 Sep,Svobodní,3.3,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2016-10-08,7 – 8 Oct,Svobodní,2.6,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2016-10-21,13 - 21 Oct,Svobodní,2.7,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2016-10-29,29 Sep - 29 Oct,Svobodní,2.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2016-11-10,1 - 10 Nov,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5431,7 +5349,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-07,3 Oct - 7 Oct,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2017-10-10,3 - 10 Oct,Svobodní,1.6,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2017-10-14,26 Sep - 14 Oct,Svobodní,1.25,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2017-10-21,20 - 21 Oct,Svobodní,1.6,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2018-01-24,CVVM,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2018-02-08,STEM,Svobodní,1.5,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2018-02-15,CVVM,Svobodní,1.0,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
@@ -5489,7 +5406,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-05,NMS,Svobodní,1.3,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2026-10-06,STEM,Svobodní,1.3,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
 2026-11-03,NMS,Svobodní,1.3,Right-wing,Classical liberalism Right-libertarianism Libertarian conservatism Liberal conservatism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Svobodn%C3%AD
-2013-10-26,25-26 Oct 2013,TOP 09,12.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2013-11-13,5–13 Nov,TOP 09,11.8,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2013-11-18,11–18 Nov,TOP 09,9.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2013-12-09,2–9 Dec,TOP 09,10.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5517,7 +5433,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-05-12,5–12 May,TOP 09,9.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-05-14,8–14 May,TOP 09,10.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-05-23,17–23 May,TOP 09,9.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2014-05-25,24–25 May,TOP 09,15.95,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-05-26,15–26 May,TOP 09,9.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-05-27,20–27 May,TOP 09,9.8,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-06-02,8 May–2 Jun,TOP 09,12.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5537,10 +5452,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-09-15,8–15 Sep,TOP 09,9.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-09-28,22-28 Sep,TOP 09,9.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-10-08,1–8 Oct,TOP 09,10.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2014-10-11,10–11 Oct,TOP 09,8.4,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2014-10-11,10–11 Oct,TOP 09,8.49,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-10-14,3–14 Oct,TOP 09,10.7,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2014-10-18,17–18 Oct,TOP 09,6.43,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-10-20,13–20 Oct,TOP 09,7.1,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-10-20,16–20 Oct,TOP 09,12.4,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2014-10-31,25–31 Oct,TOP 09,9.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5645,9 +5557,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-08-26,6 - 26 Aug,TOP 09,6.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2016-09-15,30 Aug - 15 Sep,TOP 09,8.4,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2016-09-19,5 - 19 Sep,TOP 09,6.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2016-10-08,7 – 8 Oct,TOP 09,5.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2016-10-08,7 – 8 Oct,TOP 09,8.02,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2016-10-15,14 – 15 Oct,TOP 09,7.27,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2016-10-17,10 - 17 Oct,TOP 09,6.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2016-10-21,13 - 21 Oct,TOP 09,7.1,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2016-10-27,8 - 27 Oct,TOP 09,7.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
@@ -5710,7 +5619,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-08,8 Oct,TOP 09,4.9,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2017-10-10,3 - 10 Oct,TOP 09,7.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2017-10-14,26 Sep - 14 Oct,TOP 09,6.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
-2017-10-21,20 - 21 Oct,TOP 09,5.3,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2017-11-24,TNS Kantar,TOP 09,5.0,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2017-12-11,STEM,TOP 09,4.4,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09
 2017-12-17,CVVM,TOP 09,4.5,Centre-right,Liberal conservatism Liberalism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/TOP_09

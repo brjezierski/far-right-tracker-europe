@@ -20,8 +20,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Alliance of Greeks?action=edit&redlink=1,4.0,,,
 2026-11-22,Interview/ Politic,Alliance of Greeks?action=edit&redlink=1,3.7,,,
 2026-11-24,PolitPro,Alliance of Greeks?action=edit&redlink=1,3.9,,,
-2026-11-24,KalpiCast,Alliance of Greeks?action=edit&redlink=1,3.8,,,
 2026-11-24,Dimoskopiseis,Alliance of Greeks?action=edit&redlink=1,3.9,,,
+2026-11-25,KalpiCast,Alliance of Greeks?action=edit&redlink=1,3.8,,,
 2016-01-19,Pulse RC/Action24,Antarsya,1.0,Left-wing to far-left,Anti-capitalism Anti-fascism Socialism Euroscepticism,https://en.wikipedia.org/wiki/Antarsya
 2016-02-11,MRB/Real.gr,Antarsya,2.2,Left-wing to far-left,Anti-capitalism Anti-fascism Socialism Euroscepticism,https://en.wikipedia.org/wiki/Antarsya
 2016-02-26,Metron Analysis/Parapolitika,Antarsya,2.0,Left-wing to far-left,Anti-capitalism Anti-fascism Socialism Euroscepticism,https://en.wikipedia.org/wiki/Antarsya
@@ -1024,8 +1024,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Communist Party of Greece,7.0,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-11-22,Interview/ Politic,Communist Party of Greece,6.3,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-11-24,PolitPro,Communist Party of Greece,6.7,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
-2026-11-24,KalpiCast,Communist Party of Greece,6.8,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2026-11-24,Dimoskopiseis,Communist Party of Greece,6.9,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
+2026-11-25,KalpiCast,Communist Party of Greece,6.8,Far-left,Communism Marxism-Leninism Social conservatism Hard Euroscepticism,https://en.wikipedia.org/wiki/Communist_Party_of_Greece
 2016-05-16,AUEB–STAT,Course of Freedom,4.4,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2016-05-26,PAMAK/Skai,Course of Freedom,3.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2016-06-02,Alco/Proto Thema,Course of Freedom,3.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
@@ -1523,8 +1523,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Course of Freedom,5.0,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-11-22,Interview/ Politic,Course of Freedom,3.4,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-11-24,PolitPro,Course of Freedom,4.9,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
-2026-11-24,KalpiCast,Course of Freedom,5.5,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2026-11-24,Dimoskopiseis,Course of Freedom,5.1,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
+2026-11-25,KalpiCast,Course of Freedom,5.3,Left-wing to far-left,Left-wing nationalism Sovereigntism Anti-austerity Left-wing populism Progressivism Hard Euroscepticism,https://en.wikipedia.org/wiki/Course_of_Freedom
 2015-11-26,Kapa Research/To Vima,Democratic Alignment,7.5,Centre-left,Majority: Social democracy Pro-Europeanism Factions: Democratic socialism Social liberalism,"https://en.wikipedia.org/wiki/Democratic_Coalition_(Greece,_2015)"
 2015-12-16,ProRata/iefimerida,Democratic Alignment,6.0,Centre-left,Majority: Social democracy Pro-Europeanism Factions: Democratic socialism Social liberalism,"https://en.wikipedia.org/wiki/Democratic_Coalition_(Greece,_2015)"
 2015-12-22,MRB/Real News,Democratic Alignment,7.1,Centre-left,Majority: Social democracy Pro-Europeanism Factions: Democratic socialism Social liberalism,"https://en.wikipedia.org/wiki/Democratic_Coalition_(Greece,_2015)"
@@ -2744,13 +2744,13 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Greek Solution,7.0,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-11-22,Interview/ Politic,Greek Solution,6.6,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-11-24,PolitPro,Greek Solution,6.7,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
-2026-11-24,KalpiCast,Greek Solution,7.2,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-11-24,Dimoskopiseis,Greek Solution,6.8,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
+2026-11-25,KalpiCast,Greek Solution,7.2,Far-right,Ultranationalism Euroscepticism Right-wing populism,https://en.wikipedia.org/wiki/Greek_Solution
 2026-11-17,Europe Elects,Hellenic Left Alignment,15.3,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
 2026-11-19,Politico,Hellenic Left Alignment,16.0,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
 2026-11-24,PolitPro,Hellenic Left Alignment,15.8,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
-2026-11-24,KalpiCast,Hellenic Left Alignment,15.2,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
 2026-11-24,Dimoskopiseis,Hellenic Left Alignment,15.9,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
+2026-11-25,KalpiCast,Hellenic Left Alignment,15.1,Centre-left to left-wing,Social democracy Progressivism Green politics Pro-Europeanism Patriotism,https://en.wikipedia.org/wiki/Hellenic_Left_Alignment
 2026-04-20,Interview/ Politic,Hope for Democracy,9.3,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2026-04-29,N. Kardoulas/Aftodioikisi,Hope for Democracy,14.5,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2026-05-11,Interview/ Political,Hope for Democracy,8.7,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
@@ -2815,8 +2815,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Hope for Democracy,4.0,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2026-11-22,Interview/ Politic,Hope for Democracy,4.5,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2026-11-24,PolitPro,Hope for Democracy,4.2,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
-2026-11-24,KalpiCast,Hope for Democracy,4.4,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2026-11-24,Dimoskopiseis,Hope for Democracy,4.1,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
+2026-11-25,KalpiCast,Hope for Democracy,4.5,Big tent,Justice reform Anti-corruption Social justice,https://en.wikipedia.org/wiki/Hope_for_Democracy
 2015-02-13,Marc/Alpha TV,Independent Greeks,5.1,Right-wing,National conservatism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Independent_Greeks
 2015-02-25,Metron Analysis/Parapolitika,Independent Greeks,4.3,Right-wing,National conservatism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Independent_Greeks
 2015-03-02,MRB/Star,Independent Greeks,6.0,Right-wing,National conservatism Social conservatism Euroscepticism,https://en.wikipedia.org/wiki/Independent_Greeks
@@ -3749,8 +3749,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,MeRA25,3.0,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-11-22,Interview/ Politic,MeRA25,3.3,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-11-24,PolitPro,MeRA25,2.9,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
-2026-11-24,KalpiCast,MeRA25,2.8,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2026-11-24,Dimoskopiseis,MeRA25,2.9,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
+2026-11-25,KalpiCast,MeRA25,2.7,Left-wing,Anti-austerity Syndicalism Market socialism Democratic socialism Pro-Europeanism,https://en.wikipedia.org/wiki/MeRA25
 2024-11-13,Real Polls/ Alpha,Movement for Democracy,6.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2024-11-22,GPO/ Parapolitika,Movement for Democracy,1.8,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
 2024-11-25,Interview/Politic,Movement for Democracy,6.5,Centre,Pro-Europeanism,https://en.wikipedia.org/wiki/Movement_for_Democracy_(Greece)
@@ -5165,8 +5165,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,New Democracy,30.0,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-11-22,Interview/ Politic,New Democracy,29.3,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-11-24,PolitPro,New Democracy,29.6,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
-2026-11-24,KalpiCast,New Democracy,28.8,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2026-11-24,Dimoskopiseis,New Democracy,29.9,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
+2026-11-25,KalpiCast,New Democracy,28.9,Centre-right to right-wing,Liberal conservatism Pro-Europeanism,https://en.wikipedia.org/wiki/New_Democracy_(Greece)
 2023-11-29,Real Polls/ Documento,New Left,3.2,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2023-12-06,MRB/Open,New Left,2.5,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
 2023-12-07,GPO/ Parapolitika,New Left,2.9,Centre-left to left-wing,Democratic socialism,https://en.wikipedia.org/wiki/New_Left_(Greece)
@@ -5812,8 +5812,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Niki,2.0,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-11-22,Interview/ Politic,Niki,1.1,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-11-24,PolitPro,Niki,1.4,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
-2026-11-24,KalpiCast,Niki,1.5,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2026-11-24,Dimoskopiseis,Niki,1.4,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
+2026-11-25,KalpiCast,Niki,1.4,Far-right,Ultraconservatism National conservatism,https://en.wikipedia.org/wiki/Victory_(Greek_political_party)
 2015-02-13,Marc/Alpha TV,PASOK,3.0,Centre-left 1970s-early 1980s: Left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK
 2015-02-25,Metron Analysis/Parapolitika,PASOK,3.4,Centre-left 1970s-early 1980s: Left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK
 2015-03-02,MRB/Star,PASOK,3.2,Centre-left 1970s-early 1980s: Left-wing,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK
@@ -6675,8 +6675,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,PASOK - Movement for Change,13.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-11-22,Interview/ Politic,PASOK - Movement for Change,14.3,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-11-24,PolitPro,PASOK - Movement for Change,13.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
-2026-11-24,KalpiCast,PASOK - Movement for Change,12.7,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2026-11-24,Dimoskopiseis,PASOK - Movement for Change,13.0,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
+2026-11-25,KalpiCast,PASOK - Movement for Change,12.9,Centre to centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/PASOK_%E2%80%93_Movement_for_Change
 2015-08-25,Interview/Vergina TV,Popular Unity,5.5,Left-wing to far-left,Socialism Euroscepticism,https://en.wikipedia.org/wiki/Popular_Unity_(Greece)
 2015-08-26,Bridging Europe,Popular Unity,7.6,Left-wing to far-left,Socialism Euroscepticism,https://en.wikipedia.org/wiki/Popular_Unity_(Greece)
 2015-08-26,Rass/To Paron,Popular Unity,6.4,Left-wing to far-left,Socialism Euroscepticism,https://en.wikipedia.org/wiki/Popular_Unity_(Greece)
@@ -7975,8 +7975,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Syriza,2.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-11-22,Interview/ Politic,Syriza,2.0,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-11-24,PolitPro,Syriza,1.9,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
-2026-11-24,KalpiCast,Syriza,2.3,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2026-11-24,Dimoskopiseis,Syriza,1.9,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
+2026-11-25,KalpiCast,Syriza,2.4,Centre-left Until 2015: Left-wing to far-left,Social democracy Progressivism,https://en.wikipedia.org/wiki/SYRIZA
 2015-02-13,Marc/Alpha TV,The River,5.0,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/The_River_(Greece)
 2015-02-25,Metron Analysis/Parapolitika,The River,6.4,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/The_River_(Greece)
 2015-03-02,MRB/Star,The River,6.0,Centre to centre-left,Social liberalism Social democracy,https://en.wikipedia.org/wiki/The_River_(Greece)
@@ -8767,5 +8767,5 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Politico,Voice of Reason,4.0,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-11-22,Interview/ Politic,Voice of Reason,3.9,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-11-24,PolitPro,Voice of Reason,4.0,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
-2026-11-24,KalpiCast,Voice of Reason,3.9,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
 2026-11-24,Dimoskopiseis,Voice of Reason,4.1,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)
+2026-11-25,KalpiCast,Voice of Reason,3.9,Far-right,Ultranationalism Euroscepticism,https://en.wikipedia.org/wiki/Voice_of_Reason_(political_party)

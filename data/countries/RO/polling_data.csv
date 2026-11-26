@@ -2,8 +2,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,AUR Alliance,13.0,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-02-20,19–20 Feb 2024,AUR Alliance,18.0,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-03-04,14 Feb–4 Mar 2024,AUR Alliance,16.5,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
-2024-06-09,9 June 2024,AUR Alliance,9.61,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
-2024-06-09,9 June 2024,AUR Alliance,14.93,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-06-27,19–27 June 2024,AUR Alliance,14.7,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-08-27,Aug 2024,AUR Alliance,16.6,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-08-30,24–30 Aug 2024,AUR Alliance,14.0,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
@@ -16,7 +14,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,AUR Alliance,20.7,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-11-13,9–13 Nov 2024,AUR Alliance,16.0,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2024-11-28,26–28 Nov 2024,AUR Alliance,22.4,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
-2024-12-01,1 December 2024,AUR Alliance,18.01,Right-wing to far-right,National conservatism Christian nationalism Right-wing populism,https://en.wikipedia.org/wiki/AUR_Alliance
 2021-09-28,28 Sep 2021,Alliance for the Homeland,1.2,Right-wing to Far-right,Economic nationalism Protectionism National conservatism Social conservatism Euroscepticism Sovereigntism Right-wing populism,https://en.wikipedia.org/wiki/Alliance_for_the_Homeland
 2021-09-29,26–29 Sep 2021,Alliance for the Homeland,3.0,Right-wing to Far-right,Economic nationalism Protectionism National conservatism Social conservatism Euroscepticism Sovereigntism Right-wing populism,https://en.wikipedia.org/wiki/Alliance_for_the_Homeland
 2021-10-17,12–17 Oct 2021,Alliance for the Homeland,3.5,Right-wing to Far-right,Economic nationalism Protectionism National conservatism Social conservatism Euroscepticism Sovereigntism Right-wing populism,https://en.wikipedia.org/wiki/Alliance_for_the_Homeland
@@ -38,8 +35,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,2–3 Dec 2020,Alliance for the Union of Romanians,3.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2020-12-06,6 Dec 2020,Alliance for the Union of Romanians,6.5,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2020-12-06,6 December 2020,Alliance for the Union of Romanians,3.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
-2020-12-06,6 December 2020,Alliance for the Union of Romanians,9.1,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
-2020-12-06,6 December 2020,Alliance for the Union of Romanians,9.08,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2020-12-20,10–20 Dec 2020,Alliance for the Union of Romanians,14.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2020-12-21,17–21 Dec 2020,Alliance for the Union of Romanians,15.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2021-01-15,11–15 Jan 2021,Alliance for the Union of Romanians,12.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
@@ -124,7 +119,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-11-27,20–27 Nov 2023,Alliance for the Union of Romanians,19.5,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2023-11-30,25–30 Nov 2023,Alliance for the Union of Romanians,16.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2023-12-28,16–28 Dec 2023,Alliance for the Union of Romanians,9.6,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
-2024-12-01,1 Dec 2024,Alliance for the Union of Romanians,18.01,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2025-01-16,10–16 Jan 2025,Alliance for the Union of Romanians,29.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2025-01-25,21–25 Jan 2025,Alliance for the Union of Romanians,22.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2025-02-16,14–16 Feb 2025,Alliance for the Union of Romanians,27.9,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
@@ -170,7 +164,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-27,22–27 Oct 2026,Alliance for the Union of Romanians,34.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2026-11-02,26 Oct–2 Nov 2026,Alliance for the Union of Romanians,34.6,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
 2026-11-02,26 Oct–2 Nov 2026,Alliance for the Union of Romanians,35.0,Right-wing to far-right,Revolutionary nationalism Ultranationalism Christian right Conservatism Right-wing populism Factions: Neo-Legionarism,https://en.wikipedia.org/wiki/Alliance_for_the_Union_of_Romanians
-2016-12-11,11 December 2016,Alliance of Liberals and Democrats,5.6,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2017-01-04,Jan 2017,Alliance of Liberals and Democrats,6.8,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2017-03-14,6–14 Mar 2017,Alliance of Liberals and Democrats,6.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2017-04-14,Apr 2017,Alliance of Liberals and Democrats,8.5,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
@@ -209,7 +202,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,Alliance of Liberals and Democrats,10.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2019-04-28,5–28 Apr 2019,Alliance of Liberals and Democrats,10.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2019-05-20,2–20 May 2019,Alliance of Liberals and Democrats,10.2,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
-2019-05-26,26 May 2019,Alliance of Liberals and Democrats,4.1,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2019-06-26,7–26 Jun 2019,Alliance of Liberals and Democrats,8.5,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2019-07-08,28 Jun–8 Jul 2019,Alliance of Liberals and Democrats,5.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2019-07-23,17–23 Jul 2019,Alliance of Liberals and Democrats,5.7,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
@@ -266,7 +258,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-01-29,22–29 Jan 2022,Alliance of Liberals and Democrats,4.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2022-02-19,9–19 Feb 2022,Alliance of Liberals and Democrats,2.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
 2022-10-22,Oct 2022,Alliance of Liberals and Democrats,1.0,Centre to centre-right,Liberalism ( Romanian ) Conservative liberalism,https://en.wikipedia.org/wiki/Alliance_of_Liberals_and_Democrats_(Romania)
-2016-12-11,11 December 2016,Democratic Union of Hungarians in Romania,6.2,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2017-03-14,6–14 Mar 2017,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2017-06-22,15–22 Jun 2017,Democratic Union of Hungarians in Romania,3.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2017-08-23,11–23 Aug 2017,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
@@ -302,7 +293,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2019-04-28,5–28 Apr 2019,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2019-05-20,2–20 May 2019,Democratic Union of Hungarians in Romania,3.3,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2019-05-26,26 May 2019,Democratic Union of Hungarians in Romania,5.3,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2019-06-26,7–26 Jun 2019,Democratic Union of Hungarians in Romania,2.5,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2019-07-08,28 Jun–8 Jul 2019,Democratic Union of Hungarians in Romania,4.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2019-07-23,17–23 Jul 2019,Democratic Union of Hungarians in Romania,4.6,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
@@ -357,8 +347,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,Democratic Union of Hungarians in Romania,4.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2020-12-06,6 Dec 2020,Democratic Union of Hungarians in Romania,5.5,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2020-12-06,6 December 2020,Democratic Union of Hungarians in Romania,5.8,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2020-12-06,6 December 2020,Democratic Union of Hungarians in Romania,5.7,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2020-12-06,6 December 2020,Democratic Union of Hungarians in Romania,5.74,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2020-12-20,10–20 Dec 2020,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2020-12-21,17–21 Dec 2020,Democratic Union of Hungarians in Romania,4.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2021-01-15,11–15 Jan 2021,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
@@ -438,8 +426,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,Democratic Union of Hungarians in Romania,6.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-02-20,19–20 Feb 2024,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-03-04,14 Feb–4 Mar 2024,Democratic Union of Hungarians in Romania,3.9,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2024-06-09,9 June 2024,Democratic Union of Hungarians in Romania,5.42,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2024-06-09,9 June 2024,Democratic Union of Hungarians in Romania,6.48,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-06-27,19–27 June 2024,Democratic Union of Hungarians in Romania,4.6,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-08-27,Aug 2024,Democratic Union of Hungarians in Romania,2.9,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-08-30,24–30 Aug 2024,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
@@ -452,8 +438,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,Democratic Union of Hungarians in Romania,4.5,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-11-13,9–13 Nov 2024,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2024-11-28,26–28 Nov 2024,Democratic Union of Hungarians in Romania,5.5,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2024-12-01,1 December 2024,Democratic Union of Hungarians in Romania,6.33,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
-2024-12-01,1 Dec 2024,Democratic Union of Hungarians in Romania,6.33,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2025-01-16,10–16 Jan 2025,Democratic Union of Hungarians in Romania,4.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2025-01-25,21–25 Jan 2025,Democratic Union of Hungarians in Romania,5.0,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
 2025-02-16,14–16 Feb 2025,Democratic Union of Hungarians in Romania,3.4,Centre-right,Hungarian minority interests Transylvanianism Social conservatism Christian democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Alliance_of_Hungarians_in_Romania
@@ -577,7 +561,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-06-27,19–27 June 2024,Green Party,1.9,Centre-left to left-wing Faction : Centre-right,Green politics Progressivism Pro-Europeanism Big tent Faction : Green conservatism,https://en.wikipedia.org/wiki/Green_Party_(Romania)
 2024-09-16,11–16 Sep 2024,Green Party,0.7,Centre-left to left-wing Faction : Centre-right,Green politics Progressivism Pro-Europeanism Big tent Faction : Green conservatism,https://en.wikipedia.org/wiki/Green_Party_(Romania)
 2024-11-12,7–12 Nov 2024,Green Party,1.2,Centre-left to left-wing Faction : Centre-right,Green politics Progressivism Pro-Europeanism Big tent Faction : Green conservatism,https://en.wikipedia.org/wiki/Green_Party_(Romania)
-2024-12-01,1 Dec 2024,Health Education Nature Sustainability Party,2.99,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
 2025-03-28,24–28 Mar 2025,Health Education Nature Sustainability Party,0.8,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
 2025-05-28,26–28 May 2025,Health Education Nature Sustainability Party,3.0,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
 2025-05-30,26–30 May 2025,Health Education Nature Sustainability Party,3.3,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
@@ -603,13 +586,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-27,22–27 Oct 2026,Health Education Nature Sustainability Party,3.0,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
 2026-11-02,26 Oct–2 Nov 2026,Health Education Nature Sustainability Party,3.0,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
 2026-11-02,26 Oct–2 Nov 2026,Health Education Nature Sustainability Party,3.2,Centre-left,Progressivism Green politics,https://en.wikipedia.org/wiki/Health_Education_Nature_Sustainability_Party
-2024-12-01,1 Dec 2024,Justice and Respect in Europe for All Party,1.16,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
 2025-03-28,24–28 Mar 2025,Justice and Respect in Europe for All Party,0.6,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
 2025-05-28,23–28 May 2025,Justice and Respect in Europe for All Party,1.0,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
 2025-07-23,15–23 Jul 2025,Justice and Respect in Europe for All Party,0.7,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
 2025-09-18,9–18 Sep 2025,Justice and Respect in Europe for All Party,1.0,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
 2026-03-17,10–17 Mar 2026,Justice and Respect in Europe for All Party,1.0,Centre to centre-right,Centrism Anti-corruption Big tent Factions: Romanian nationalism,https://en.wikipedia.org/wiki/Justice_and_Respect_in_Europe_for_All_Party
-2020-12-06,6 December 2020,List of political parties in Romania,6.82,,,
 2020-12-20,10–20 Dec 2020,List of political parties in Romania,2.0,,,
 2020-12-21,17–21 Dec 2020,List of political parties in Romania,2.0,,,
 2021-01-15,11–15 Jan 2021,List of political parties in Romania,2.0,,,
@@ -694,8 +675,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,List of political parties in Romania,16.0,,,
 2024-02-20,19–20 Feb 2024,List of political parties in Romania,1.0,,,
 2024-03-04,14 Feb–4 Mar 2024,List of political parties in Romania,4.4,,,
-2024-06-09,9 June 2024,List of political parties in Romania,10.1,,,
-2024-06-09,9 June 2024,List of political parties in Romania,11.08,,,
 2024-06-27,19–27 June 2024,List of political parties in Romania,3.8,,,
 2024-08-27,Aug 2024,List of political parties in Romania,1.7,,,
 2024-08-30,24–30 Aug 2024,List of political parties in Romania,2.0,,,
@@ -708,8 +687,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,List of political parties in Romania,4.0,,,
 2024-11-13,9–13 Nov 2024,List of political parties in Romania,2.0,,,
 2024-11-28,26–28 Nov 2024,List of political parties in Romania,6.6,,,
-2024-12-01,1 December 2024,List of political parties in Romania,10.62,,,
-2024-12-01,1 Dec 2024,List of political parties in Romania,6.84,,,
 2025-01-16,10–16 Jan 2025,List of political parties in Romania,1.0,,,
 2025-01-25,21–25 Jan 2025,List of political parties in Romania,6.0,,,
 2025-02-16,14–16 Feb 2025,List of political parties in Romania,1.1,,,
@@ -754,7 +731,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-27,22–27 Oct 2026,List of political parties in Romania,6.0,,,
 2026-11-02,26 Oct–2 Nov 2026,List of political parties in Romania,2.9,,,
 2026-11-02,26 Oct–2 Nov 2026,List of political parties in Romania,1.3,,,
-2016-12-11,11 December 2016,National Liberal Party,20.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2017-01-04,Jan 2017,National Liberal Party,20.7,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2017-03-14,6–14 Mar 2017,National Liberal Party,21.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2017-04-14,Apr 2017,National Liberal Party,25.4,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
@@ -793,7 +769,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,National Liberal Party,23.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2019-04-28,5–28 Apr 2019,National Liberal Party,25.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2019-05-20,2–20 May 2019,National Liberal Party,29.3,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2019-05-26,26 May 2019,National Liberal Party,27.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2019-06-26,7–26 Jun 2019,National Liberal Party,27.5,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2019-07-08,28 Jun–8 Jul 2019,National Liberal Party,29.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2019-07-23,17–23 Jul 2019,National Liberal Party,34.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
@@ -849,8 +824,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,National Liberal Party,31.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2020-12-06,6 Dec 2020,National Liberal Party,30.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2020-12-06,6 December 2020,National Liberal Party,32.8,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2020-12-06,6 December 2020,National Liberal Party,25.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2020-12-06,6 December 2020,National Liberal Party,25.18,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2020-12-20,10–20 Dec 2020,National Liberal Party,26.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2020-12-21,17–21 Dec 2020,National Liberal Party,26.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2021-01-15,11–15 Jan 2021,National Liberal Party,26.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
@@ -938,7 +911,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,National Liberal Party,12.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-02-20,19–20 Feb 2024,National Liberal Party,20.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-03-04,14 Feb–4 Mar 2024,National Liberal Party,19.7,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2024-06-09,9 June 2024,National Liberal Party,26.13,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-06-27,19–27 June 2024,National Liberal Party,18.9,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-08-27,Aug 2024,National Liberal Party,17.8,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-08-30,24–30 Aug 2024,National Liberal Party,22.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
@@ -951,8 +923,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,National Liberal Party,16.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-11-13,9–13 Nov 2024,National Liberal Party,20.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2024-11-28,26–28 Nov 2024,National Liberal Party,13.4,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2024-12-01,1 December 2024,National Liberal Party,13.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
-2024-12-01,1 Dec 2024,National Liberal Party,13.2,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2025-01-16,10–16 Jan 2025,National Liberal Party,13.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2025-01-25,21–25 Jan 2025,National Liberal Party,15.0,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
 2025-02-16,14–16 Feb 2025,National Liberal Party,12.3,Centre-right,Christian democracy Social conservatism,https://en.wikipedia.org/wiki/National_Liberal_Party_(Romania)
@@ -1018,7 +988,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,PRO Romania,8.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2019-04-28,5–28 Apr 2019,PRO Romania,9.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2019-05-20,2–20 May 2019,PRO Romania,8.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
-2019-05-26,26 May 2019,PRO Romania,6.4,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2019-06-26,7–26 Jun 2019,PRO Romania,9.8,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2019-07-08,28 Jun–8 Jul 2019,PRO Romania,8.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2019-07-23,17–23 Jul 2019,PRO Romania,4.8,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
@@ -1074,8 +1043,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,PRO Romania,7.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2020-12-06,6 Dec 2020,PRO Romania,4.2,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2020-12-06,6 December 2020,PRO Romania,4.5,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
-2020-12-06,6 December 2020,PRO Romania,4.1,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
-2020-12-06,6 December 2020,PRO Romania,4.09,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2020-12-20,10–20 Dec 2020,PRO Romania,1.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2020-12-21,17–21 Dec 2020,PRO Romania,2.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2021-01-15,11–15 Jan 2021,PRO Romania,2.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
@@ -1140,14 +1107,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-12-28,16–28 Dec 2023,PRO Romania,1.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-01-08,3–8 Jan 2024,PRO Romania,1.0,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-03-04,14 Feb–4 Mar 2024,PRO Romania,2.5,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
-2024-06-09,9 June 2024,PRO Romania,0.34,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-06-27,19–27 June 2024,PRO Romania,1.1,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-08-27,Aug 2024,PRO Romania,2.5,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-09-16,11–16 Sep 2024,PRO Romania,1.4,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-10-09,7–9 Oct 2024,PRO Romania,0.7,Centre to centre-left,Social liberalism Social democracy Nationalism Progressivism [ non-primary source needed ] Pro-Europeanism,https://en.wikipedia.org/wiki/PRO_Romania
 2024-11-28,26–28 Nov 2024,Party of Young People,4.6,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
-2024-12-01,1 December 2024,Party of Young People,6.46,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
-2024-12-01,1 Dec 2024,Party of Young People,6.46,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
 2025-01-16,10–16 Jan 2025,Party of Young People,5.0,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
 2025-01-25,21–25 Jan 2025,Party of Young People,10.0,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
 2025-02-16,14–16 Feb 2025,Party of Young People,6.7,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
@@ -1187,7 +1151,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-22,12–22 Sep 2026,Party of Young People,2.0,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
 2026-11-02,26 Oct–2 Nov 2026,Party of Young People,1.8,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
 2026-11-02,26 Oct–2 Nov 2026,Party of Young People,1.6,Right-wing to far-right,Romanian nationalism Right-wing populism,https://en.wikipedia.org/wiki/Party_of_Young_People
-2016-12-11,11 December 2016,People's Movement Party,5.4,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2017-03-14,6–14 Mar 2017,People's Movement Party,3.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2017-06-22,15–22 Jun 2017,People's Movement Party,5.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2017-08-23,11–23 Aug 2017,People's Movement Party,4.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
@@ -1224,7 +1187,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,People's Movement Party,6.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2019-04-28,5–28 Apr 2019,People's Movement Party,5.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2019-05-20,2–20 May 2019,People's Movement Party,5.5,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
-2019-05-26,26 May 2019,People's Movement Party,5.8,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2019-06-26,7–26 Jun 2019,People's Movement Party,3.7,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2019-07-08,28 Jun–8 Jul 2019,People's Movement Party,4.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2019-07-23,17–23 Jul 2019,People's Movement Party,5.5,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
@@ -1280,8 +1242,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,People's Movement Party,3.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2020-12-06,6 Dec 2020,People's Movement Party,3.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2020-12-06,6 December 2020,People's Movement Party,6.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
-2020-12-06,6 December 2020,People's Movement Party,4.8,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
-2020-12-06,6 December 2020,People's Movement Party,4.82,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2020-12-20,10–20 Dec 2020,People's Movement Party,2.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2020-12-21,17–21 Dec 2020,People's Movement Party,2.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2021-01-15,11–15 Jan 2021,People's Movement Party,3.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
@@ -1356,7 +1316,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-09-16,11–16 Sep 2024,People's Movement Party,0.8,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2024-10-09,7–9 Oct 2024,People's Movement Party,1.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2024-10-16,11–16 Oct 2024,People's Movement Party,1.4,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
-2024-12-01,1 Dec 2024,People's Movement Party,2.05,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2025-01-16,10–16 Jan 2025,People's Movement Party,3.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2025-02-16,14–16 Feb 2025,People's Movement Party,1.1,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
 2025-05-28,23–28 May 2025,People's Movement Party,1.0,Centre-right to right-wing,Liberal Conservatism Social conservatism Monarchism Pro-Europeanism,https://en.wikipedia.org/wiki/People%27s_Movement_Party
@@ -1380,8 +1339,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,Renewing Romania's European Project,1.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-02-20,19–20 Feb 2024,Renewing Romania's European Project,2.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-03-04,14 Feb–4 Mar 2024,Renewing Romania's European Project,1.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-2024-06-09,9 June 2024,Renewing Romania's European Project,0.8,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-2024-06-09,9 June 2024,Renewing Romania's European Project,3.74,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-06-27,19–27 June 2024,Renewing Romania's European Project,3.6,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-08-27,Aug 2024,Renewing Romania's European Project,2.5,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-08-30,24–30 Aug 2024,Renewing Romania's European Project,1.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
@@ -1392,8 +1349,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,Renewing Romania's European Project,2.6,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-11-13,9–13 Nov 2024,Renewing Romania's European Project,1.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2024-11-28,26–28 Nov 2024,Renewing Romania's European Project,1.5,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-2024-12-01,1 December 2024,Renewing Romania's European Project,1.24,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-2024-12-01,1 Dec 2024,Renewing Romania's European Project,1.24,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2025-02-16,14–16 Feb 2025,Renewing Romania's European Project,1.1,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2025-03-28,24–28 Mar 2025,Renewing Romania's European Project,1.2,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2025-05-28,26–28 May 2025,Renewing Romania's European Project,2.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
@@ -1404,7 +1359,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-10,1–10 Apr 2026,Renewing Romania's European Project,1.8,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2026-07-03,30 Jun–3 Jul 2026,Renewing Romania's European Project,0.6,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
 2026-09-22,12–22 Sep 2026,Renewing Romania's European Project,1.0,Centre,Liberalism Pro-Europeanism,https://en.wikipedia.org/wiki/Renewing_Romania%27s_European_Project
-2020-12-06,6 December 2020,Romanian Ecologist Party,1.12,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2021-02-14,10–14 Feb 2021,Romanian Ecologist Party,3.0,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2021-05-08,1–8 May 2021,Romanian Ecologist Party,1.0,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2021-05-18,18 May 2021,Romanian Ecologist Party,1.0,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
@@ -1422,7 +1376,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-08-27,Aug 2024,Romanian Ecologist Party,1.4,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2024-10-09,7–9 Oct 2024,Romanian Ecologist Party,0.5,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2024-10-16,11–16 Oct 2024,Romanian Ecologist Party,2.1,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
-2024-12-01,1 December 2024,Romanian Ecologist Party,0.37,Fiscal: Centre Cultural: Right-wing,Green conservatism Right-wing populism Romanian nationalism Christian democracy Protectionism Soft euroscepticism Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Ecologist_Party_of_Romania
 2023-07-20,8–20 July 2023,S.O.S. Romania,4.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2023-08-31,24–31 Aug 2023,S.O.S. Romania,4.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2023-09-10,4–10 Sep 2023,S.O.S. Romania,3.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
@@ -1439,8 +1392,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,S.O.S. Romania,8.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-02-20,19–20 Feb 2024,S.O.S. Romania,8.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-03-04,14 Feb–4 Mar 2024,S.O.S. Romania,6.2,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-2024-06-09,9 June 2024,S.O.S. Romania,1.39,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-2024-06-09,9 June 2024,S.O.S. Romania,5.03,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-06-27,19–27 June 2024,S.O.S. Romania,6.1,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-08-27,Aug 2024,S.O.S. Romania,8.7,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-08-30,24–30 Aug 2024,S.O.S. Romania,10.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
@@ -1453,8 +1404,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,S.O.S. Romania,5.9,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-11-13,9–13 Nov 2024,S.O.S. Romania,5.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2024-11-28,26–28 Nov 2024,S.O.S. Romania,4.6,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-2024-12-01,1 December 2024,S.O.S. Romania,7.36,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-2024-12-01,1 Dec 2024,S.O.S. Romania,7.36,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2025-01-16,10–16 Jan 2025,S.O.S. Romania,8.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2025-01-25,21–25 Jan 2025,S.O.S. Romania,5.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2025-02-16,14–16 Feb 2025,S.O.S. Romania,5.6,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
@@ -1499,7 +1448,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-27,22–27 Oct 2026,S.O.S. Romania,2.0,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2026-11-02,26 Oct–2 Nov 2026,S.O.S. Romania,2.1,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
 2026-11-02,26 Oct–2 Nov 2026,S.O.S. Romania,1.8,Far-right,Romanian ultranationalism Romanian irredentism Social conservatism Right-wing populism Neo-Legionarism,https://en.wikipedia.org/wiki/S.O.S._Romania
-2016-12-11,11 December 2016,Save Romania Union,8.9,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2017-01-04,Jan 2017,Save Romania Union,8.3,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2017-03-14,6–14 Mar 2017,Save Romania Union,12.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2017-04-14,Apr 2017,Save Romania Union,8.2,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
@@ -1538,7 +1486,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,Save Romania Union,13.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2019-04-28,5–28 Apr 2019,Save Romania Union,12.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2019-05-20,2–20 May 2019,Save Romania Union,14.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2019-05-26,26 May 2019,Save Romania Union,22.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2019-06-26,7–26 Jun 2019,Save Romania Union,17.6,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2019-07-08,28 Jun–8 Jul 2019,Save Romania Union,22.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2019-07-23,17–23 Jul 2019,Save Romania Union,18.6,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
@@ -1594,8 +1541,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,Save Romania Union,16.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2020-12-06,6 Dec 2020,Save Romania Union,23.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2020-12-06,6 December 2020,Save Romania Union,15.6,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2020-12-06,6 December 2020,Save Romania Union,15.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2020-12-06,6 December 2020,Save Romania Union,15.37,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2023-01-20,10–20 Jan 2023,Save Romania Union,8.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2023-01-30,27–30 Jan 2023,Save Romania Union,12.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2023-02-13,1–13 Feb 2023,Save Romania Union,10.9,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
@@ -1631,8 +1576,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,Save Romania Union,12.7,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2024-11-13,9–13 Nov 2024,Save Romania Union,12.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2024-11-28,26–28 Nov 2024,Save Romania Union,17.5,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2024-12-01,1 December 2024,Save Romania Union,12.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2024-12-01,1 Dec 2024,Save Romania Union,12.4,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2025-01-16,10–16 Jan 2025,Save Romania Union,13.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2025-01-25,21–25 Jan 2025,Save Romania Union,13.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2025-02-16,14–16 Feb 2025,Save Romania Union,19.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
@@ -1677,7 +1620,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-26,21–26 Oct 2026,Save Romania Union,10.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2026-10-27,22–27 Oct 2026,Save Romania Union,8.0,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
 2026-11-02,26 Oct–2 Nov 2026,Save Romania Union,11.9,Centre to centre-right,Liberalism ( Romanian ) Pro-Europeanism,https://en.wikipedia.org/wiki/Save_Romania_Union
-2016-12-11,11 December 2016,Social Democratic Party,45.5,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2017-01-04,Jan 2017,Social Democratic Party,49.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2017-03-14,6–14 Mar 2017,Social Democratic Party,47.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2017-04-14,Apr 2017,Social Democratic Party,40.6,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
@@ -1716,7 +1658,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-03-25,12–25 Mar 2019,Social Democratic Party,31.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2019-04-28,5–28 Apr 2019,Social Democratic Party,32.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2019-05-20,2–20 May 2019,Social Democratic Party,21.4,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2019-05-26,26 May 2019,Social Democratic Party,22.5,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2019-06-26,7–26 Jun 2019,Social Democratic Party,18.9,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2019-07-08,28 Jun–8 Jul 2019,Social Democratic Party,26.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2019-07-23,17–23 Jul 2019,Social Democratic Party,25.4,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
@@ -1772,7 +1713,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-12-03,3 Dec 2020,Social Democratic Party,28.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2020-12-06,6 Dec 2020,Social Democratic Party,27.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2020-12-06,6 December 2020,Social Democratic Party,28.2,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2020-12-06,6 December 2020,Social Democratic Party,28.9,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2020-12-20,10–20 Dec 2020,Social Democratic Party,35.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2020-12-21,17–21 Dec 2020,Social Democratic Party,35.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2021-01-15,11–15 Jan 2021,Social Democratic Party,34.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
@@ -1859,7 +1799,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,Social Democratic Party,32.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-02-20,19–20 Feb 2024,Social Democratic Party,31.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-03-04,14 Feb–4 Mar 2024,Social Democratic Party,32.8,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2024-06-09,9 June 2024,Social Democratic Party,32.52,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-06-27,19–27 June 2024,Social Democratic Party,29.4,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-08-27,Aug 2024,Social Democratic Party,29.3,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-08-30,24–30 Aug 2024,Social Democratic Party,31.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
@@ -1872,8 +1811,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-12,7–12 Nov 2024,Social Democratic Party,31.1,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-11-13,9–13 Nov 2024,Social Democratic Party,31.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2024-11-28,26–28 Nov 2024,Social Democratic Party,21.4,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2024-12-01,1 December 2024,Social Democratic Party,21.96,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2024-12-01,1 Dec 2024,Social Democratic Party,21.96,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2025-01-16,10–16 Jan 2025,Social Democratic Party,22.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2025-01-25,21–25 Jan 2025,Social Democratic Party,24.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2025-02-16,14–16 Feb 2025,Social Democratic Party,21.2,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
@@ -1919,7 +1856,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-27,22–27 Oct 2026,Social Democratic Party,26.0,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2026-11-02,26 Oct–2 Nov 2026,Social Democratic Party,24.6,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
 2026-11-02,26 Oct–2 Nov 2026,Social Democratic Party,20.9,Centre-left,Social democracy Social conservatism Economic nationalism,https://en.wikipedia.org/wiki/Social_Democratic_Party_(Romania)
-2020-12-06,6 December 2020,Social Liberal Humanist Party,1.19,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2021-02-26,22–26 Feb 2021,Social Liberal Humanist Party,3.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2021-04-17,14–17 Apr 2021,Social Liberal Humanist Party,4.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2021-05-08,1–8 May 2021,Social Liberal Humanist Party,1.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
@@ -1962,13 +1898,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-12-28,16–28 Dec 2023,Social Liberal Humanist Party,4.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-01-08,3–8 Jan 2024,Social Liberal Humanist Party,1.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-03-04,14 Feb–4 Mar 2024,Social Liberal Humanist Party,1.0,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
-2024-06-09,9 June 2024,Social Liberal Humanist Party,1.47,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
-2024-06-09,9 June 2024,Social Liberal Humanist Party,1.48,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-06-27,19–27 June 2024,Social Liberal Humanist Party,1.5,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-08-27,Aug 2024,Social Liberal Humanist Party,0.4,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-09-16,11–16 Sep 2024,Social Liberal Humanist Party,0.3,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
 2024-10-09,7–9 Oct 2024,Social Liberal Humanist Party,0.2,Centre,Humanism Conservatism Populism,https://en.wikipedia.org/wiki/Social_Liberal_Humanist_Party
-2020-12-06,6 December 2020,USR PLUS,15.37,Centre,Anti-corruption Progressivism Liberalism Economic liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/USR_PLUS
 2020-12-20,10–20 Dec 2020,USR PLUS,15.0,Centre,Anti-corruption Progressivism Liberalism Economic liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/USR_PLUS
 2020-12-21,17–21 Dec 2020,USR PLUS,14.0,Centre,Anti-corruption Progressivism Liberalism Economic liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/USR_PLUS
 2021-01-15,11–15 Jan 2021,USR PLUS,16.0,Centre,Anti-corruption Progressivism Liberalism Economic liberalism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/USR_PLUS
@@ -2033,12 +1966,9 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-01-08,3–8 Jan 2024,United Right Alliance,10.0,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-02-20,19–20 Feb 2024,United Right Alliance,15.0,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-03-04,14 Feb–4 Mar 2024,United Right Alliance,10.6,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
-2024-06-09,9 June 2024,United Right Alliance,11.54,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
-2024-06-09,9 June 2024,United Right Alliance,8.71,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-10-18,11–18 Oct 2024,United Right Alliance,3.1,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-10-28,24–28 Oct 2024,United Right Alliance,3.1,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-11-05,30 Oct–5 Nov 2024,United Right Alliance,3.0,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-11-12,7–12 Nov 2024,United Right Alliance,1.1,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-11-13,9–13 Nov 2024,United Right Alliance,2.0,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
 2024-11-28,26–28 Nov 2024,United Right Alliance,2.5,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance
-2024-12-01,1 December 2024,United Right Alliance,2.05,Majority: Centre-right Minority: Right-wing,,https://en.wikipedia.org/wiki/United_Right_Alliance

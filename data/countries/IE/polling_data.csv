@@ -1,5 +1,4 @@
 date,pollster,party,polling_value,political_position,ideology,wikipedia_url
-2016-02-26,26 February 2016,#cite note-i4cpoll01-1,13.7,,,
 2016-03-10,10 March 2016,#cite note-i4cpoll01-1,9.0,,,
 2016-04-13,13 April 2016,#cite note-i4cpoll01-1,12.0,,,
 2016-05-11,11 May 2016,#cite note-i4cpoll01-1,10.0,,,
@@ -110,8 +109,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,#cite note-i4cpoll01-1,16.0,,,
 2020-02-02,2 February 2020,#cite note-i4cpoll01-1,12.0,,,
 2020-02-08,8 February 2020,#cite note-i4cpoll01-1,14.5,,,
-2020-02-08,8 February 2020,#cite note-i4cpoll01-1,12.2,,,
-2024-11-29,29 November 2024,#cite note-remainder-10,15.5,,,
 2025-01-11,11 Jan 2025,#cite note-remainder-10,8.8,,,
 2025-01-22,22 Jan 2025,#cite note-remainder-10,13.0,,,
 2025-02-01,1 Feb 2025,#cite note-remainder-10,9.0,,,
@@ -157,7 +154,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,#cite note-remainder-10,12.0,,,
 2026-10-21,21 Oct 2026,#cite note-remainder-10,12.0,,,
 2026-10-30,30 Oct 2026,#cite note-remainder-10,10.0,,,
-2020-02-08,8 February 2020,#cite note-remainder-3,13.5,,,
 2020-02-16,16 February 2020,#cite note-remainder-3,10.0,,,
 2020-02-25,25 February 2020,#cite note-remainder-3,12.0,,,
 2020-03-10,10 March 2020,#cite note-remainder-3,11.0,,,
@@ -305,8 +301,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,#cite note-remainder-3,17.0,,,
 2024-11-26,26 November 2024,#cite note-remainder-3,15.0,,,
 2024-11-29,29 November 2024,#cite note-remainder-3,14.6,,,
-2024-11-29,29 November 2024,#cite note-remainder-3,15.6,,,
-2020-02-08,8 February 2020,Aontú,1.9,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2020-02-25,25 February 2020,Aontú,1.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2020-03-25,25 March 2020,Aontú,2.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2020-04-29,29 April 2020,Aontú,1.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
@@ -435,7 +429,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Aontú,3.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2024-11-26,26 November 2024,Aontú,4.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2024-11-29,29 November 2024,Aontú,3.6,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
-2024-11-29,29 November 2024,Aontú,3.9,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2025-01-11,11 Jan 2025,Aontú,5.3,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2025-01-22,22 Jan 2025,Aontú,4.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2025-02-01,1 Feb 2025,Aontú,4.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
@@ -481,7 +474,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,Aontú,8.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2026-10-21,21 Oct 2026,Aontú,8.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
 2026-10-30,30 Oct 2026,Aontú,9.0,Fiscal: Left-wing Social: Right-wing,Irish republicanism Social conservatism Populism Euroscepticism,https://en.wikipedia.org/wiki/Aont%C3%BA
-2011-02-25,25 February 2011,Fianna Fáil,17.4,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2011-04-10,10 April 2011,Fianna Fáil,16.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2011-05-29,29 May 2011,Fianna Fáil,16.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2011-06-22,22 June 2011,Fianna Fáil,16.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
@@ -562,8 +554,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-04-19,19 April 2014,Fianna Fáil,22.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2014-05-01,1 May 2014,Fianna Fáil,21.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2014-05-19,19 May 2014,Fianna Fáil,21.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-2014-05-23,23 May 2014,Fianna Fáil,25.3,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-2014-05-23,23 May 2014,Fianna Fáil,22.3,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2014-06-07,7 June 2014,Fianna Fáil,20.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2014-06-12,12 June 2014,Fianna Fáil,18.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2014-06-29,29 June 2014,Fianna Fáil,18.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
@@ -625,7 +615,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Fianna Fáil,20.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2016-02-26,26 February 2016,Fianna Fáil,22.9,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2016-02-26,26 February 2016,Fianna Fáil,21.1,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-2016-02-26,26 February 2016,Fianna Fáil,24.3,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2016-03-10,10 March 2016,Fianna Fáil,25.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2016-04-13,13 April 2016,Fianna Fáil,26.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2016-05-11,11 May 2016,Fianna Fáil,25.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
@@ -885,7 +874,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Fianna Fáil,21.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2024-11-26,26 November 2024,Fianna Fáil,21.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2024-11-29,29 November 2024,Fianna Fáil,19.5,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-2024-11-29,29 November 2024,Fianna Fáil,21.9,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2025-01-11,11 Jan 2025,Fianna Fáil,23.8,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2025-01-22,22 Jan 2025,Fianna Fáil,22.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2025-02-01,1 Feb 2025,Fianna Fáil,24.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
@@ -931,7 +919,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,Fianna Fáil,18.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2026-10-21,21 Oct 2026,Fianna Fáil,15.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
 2026-10-30,30 Oct 2026,Fianna Fáil,16.0,Centre to centre-right,Conservatism Christian democracy Irish republicanism,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
-2011-02-25,25 February 2011,Fine Gael,36.1,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2011-04-10,10 April 2011,Fine Gael,39.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2011-05-29,29 May 2011,Fine Gael,41.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2011-06-22,22 June 2011,Fine Gael,42.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
@@ -1012,8 +999,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-04-19,19 April 2014,Fine Gael,29.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2014-05-01,1 May 2014,Fine Gael,25.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2014-05-19,19 May 2014,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2014-05-23,23 May 2014,Fine Gael,24.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2014-05-23,23 May 2014,Fine Gael,22.3,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2014-06-07,7 June 2014,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2014-06-12,12 June 2014,Fine Gael,22.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2014-06-29,29 June 2014,Fine Gael,25.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
@@ -1075,7 +1060,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Fine Gael,30.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2016-02-26,26 February 2016,Fine Gael,26.1,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2016-02-26,26 February 2016,Fine Gael,24.8,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2016-02-26,26 February 2016,Fine Gael,25.5,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2016-03-10,10 March 2016,Fine Gael,27.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2016-04-13,13 April 2016,Fine Gael,23.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2016-05-11,11 May 2016,Fine Gael,27.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
@@ -1186,7 +1170,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2020-02-02,2 February 2020,Fine Gael,17.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2020-02-08,8 February 2020,Fine Gael,22.4,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2020-02-08,8 February 2020,Fine Gael,20.9,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2020-02-16,16 February 2020,Fine Gael,18.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2020-02-25,25 February 2020,Fine Gael,18.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2020-03-10,10 March 2020,Fine Gael,21.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
@@ -1335,7 +1318,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Fine Gael,19.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2024-11-26,26 November 2024,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2024-11-29,29 November 2024,Fine Gael,21.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2024-11-29,29 November 2024,Fine Gael,20.8,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2025-01-11,11 Jan 2025,Fine Gael,22.3,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2025-01-22,22 Jan 2025,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2025-02-01,1 Feb 2025,Fine Gael,20.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
@@ -1381,7 +1363,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,Fine Gael,18.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2026-10-21,21 Oct 2026,Fine Gael,15.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
 2026-10-30,30 Oct 2026,Fine Gael,18.0,Centre-right,Liberal conservatism Christian democracy,https://en.wikipedia.org/wiki/Fine_Gael
-2011-02-25,25 February 2011,Green Party,1.8,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2011-04-10,10 April 2011,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2011-05-29,29 May 2011,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2011-06-22,22 June 2011,Green Party,1.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
@@ -1448,8 +1429,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-04-19,19 April 2014,Green Party,4.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2014-04-19,19 April 2014,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2014-05-19,19 May 2014,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2014-05-23,23 May 2014,Green Party,1.6,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2014-05-23,23 May 2014,Green Party,4.9,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2014-06-07,7 June 2014,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2014-06-12,12 June 2014,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2014-06-29,29 June 2014,Green Party,2.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
@@ -1508,7 +1487,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2016-02-26,26 February 2016,Green Party,3.5,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2016-02-26,26 February 2016,Green Party,3.6,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2016-02-26,26 February 2016,Green Party,2.7,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2016-03-10,10 March 2016,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2016-04-13,13 April 2016,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2016-05-11,11 May 2016,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
@@ -1619,7 +1597,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,Green Party,8.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2020-02-02,2 February 2020,Green Party,9.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2020-02-08,8 February 2020,Green Party,7.9,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2020-02-08,8 February 2020,Green Party,7.1,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2020-02-16,16 February 2020,Green Party,9.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2020-02-25,25 February 2020,Green Party,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2020-03-10,10 March 2020,Green Party,6.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
@@ -1767,7 +1744,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Green Party,4.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2024-11-26,26 November 2024,Green Party,4.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2024-11-29,29 November 2024,Green Party,4.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2024-11-29,29 November 2024,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2025-01-11,11 Jan 2025,Green Party,2.3,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2025-01-22,22 Jan 2025,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2025-02-01,1 Feb 2025,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
@@ -1813,7 +1789,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2026-10-21,21 Oct 2026,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
 2026-10-30,30 Oct 2026,Green Party,3.0,Centre-left,Green politics Pro-Europeanism,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
-2016-02-26,26 February 2016,Independent Alliance,4.2,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland)
 2016-03-10,10 March 2016,Independent Alliance,5.0,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland)
 2016-04-13,13 April 2016,Independent Alliance,8.0,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland)
 2016-05-11,11 May 2016,Independent Alliance,3.0,Big tent,Nonpartisan politics,https://en.wikipedia.org/wiki/Independent_Alliance_(Ireland)
@@ -1914,7 +1889,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-09,9 November 2024,Independent Ireland,3.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2024-11-26,26 November 2024,Independent Ireland,4.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2024-11-29,29 November 2024,Independent Ireland,2.2,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
-2024-11-29,29 November 2024,Independent Ireland,3.6,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2025-01-11,11 Jan 2025,Independent Ireland,4.9,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2025-01-22,22 Jan 2025,Independent Ireland,3.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2025-02-01,1 Feb 2025,Independent Ireland,4.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
@@ -1958,7 +1932,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,2 Oct 2026,Independent Ireland,5.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2026-10-21,21 Oct 2026,Independent Ireland,8.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
 2026-10-30,30 Oct 2026,Independent Ireland,7.0,Right-wing,Right-wing populism,https://en.wikipedia.org/wiki/Independent_Ireland
-2011-02-25,25 February 2011,Labour Party,19.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2011-04-10,10 April 2011,Labour Party,18.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2011-05-29,29 May 2011,Labour Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2011-06-22,22 June 2011,Labour Party,19.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
@@ -2039,8 +2012,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-04-19,19 April 2014,Labour Party,6.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2014-05-01,1 May 2014,Labour Party,11.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2014-05-19,19 May 2014,Labour Party,6.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-2014-05-23,23 May 2014,Labour Party,7.2,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-2014-05-23,23 May 2014,Labour Party,5.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2014-06-07,7 June 2014,Labour Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2014-06-12,12 June 2014,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2014-06-29,29 June 2014,Labour Party,7.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
@@ -2103,7 +2074,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Labour Party,7.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2016-02-26,26 February 2016,Labour Party,7.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2016-02-26,26 February 2016,Labour Party,7.1,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-2016-02-26,26 February 2016,Labour Party,6.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2016-03-10,10 March 2016,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2016-04-13,13 April 2016,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2016-05-11,11 May 2016,Labour Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
@@ -2211,7 +2181,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2020-02-02,2 February 2020,Labour Party,6.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2020-02-08,8 February 2020,Labour Party,4.6,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-2020-02-08,8 February 2020,Labour Party,4.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2020-02-16,16 February 2020,Labour Party,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2020-02-25,25 February 2020,Labour Party,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2020-03-10,10 March 2020,Labour Party,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
@@ -2358,7 +2327,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2024-11-26,26 November 2024,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2024-11-29,29 November 2024,Labour Party,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
-2024-11-29,29 November 2024,Labour Party,4.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2025-01-11,11 Jan 2025,Labour Party,3.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2025-01-22,22 Jan 2025,Labour Party,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
 2025-02-01,1 Feb 2025,Labour Party,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
@@ -2410,9 +2378,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-01-17,17 January 2020,Micheál Martin,55.0,,,
 2020-01-24,24 January 2020,Micheál Martin,57.0,,,
 2020-01-31,31 January 2020,Micheál Martin,53.0,,,
-2014-05-23,23 May 2014,People Before Profit-Solidarity,2.9,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-2014-05-23,23 May 2014,People Before Profit-Solidarity,3.3,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-2014-06-07,7 June 2014,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2015-04-05,5 April 2015,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2015-06-27,27 June 2015,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2015-07-26,26 July 2015,People Before Profit-Solidarity,1.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
@@ -2440,7 +2405,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2016-02-26,26 February 2016,People Before Profit-Solidarity,3.6,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2016-02-26,26 February 2016,People Before Profit-Solidarity,4.7,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-2016-02-26,26 February 2016,People Before Profit-Solidarity,3.9,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2016-03-10,10 March 2016,People Before Profit-Solidarity,4.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2016-04-13,13 April 2016,People Before Profit-Solidarity,4.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2016-05-11,11 May 2016,People Before Profit-Solidarity,6.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
@@ -2547,7 +2511,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2020-02-02,2 February 2020,People Before Profit-Solidarity,5.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2020-02-08,8 February 2020,People Before Profit-Solidarity,2.8,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-2020-02-08,8 February 2020,People Before Profit-Solidarity,2.6,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2020-02-16,16 February 2020,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2020-02-25,25 February 2020,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2020-03-10,10 March 2020,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
@@ -2695,7 +2658,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,People Before Profit-Solidarity,3.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2024-11-26,26 November 2024,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2024-11-29,29 November 2024,People Before Profit-Solidarity,3.1,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
-2024-11-29,29 November 2024,People Before Profit-Solidarity,2.8,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2025-01-11,11 Jan 2025,People Before Profit-Solidarity,2.2,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2025-01-22,22 Jan 2025,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 2025-02-01,1 Feb 2025,People Before Profit-Solidarity,2.0,Left-wing to far-left,Socialism Trotskyism Left-wing populism,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
@@ -2755,7 +2717,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Renua,2.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2016-02-26,26 February 2016,Renua,2.3,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2016-02-26,26 February 2016,Renua,2.4,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
-2016-02-26,26 February 2016,Renua,2.2,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2016-03-10,10 March 2016,Renua,2.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2016-04-13,13 April 2016,Renua,1.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2016-05-11,11 May 2016,Renua,1.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
@@ -2785,8 +2746,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-07-16,16 July 2019,Renua,1.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2019-09-17,17 September 2019,Renua,1.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
 2020-01-14,14 January 2020,Renua,1.0,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
-2020-02-08,8 February 2020,Renua,0.3,Right-wing to far-right,Anti-abortion Social conservatism Economic liberalism Soft Euroscepticism Anti-immigration,https://en.wikipedia.org/wiki/Renua
-2011-02-25,25 February 2011,Sinn Féin,9.9,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2011-04-10,10 April 2011,Sinn Féin,11.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2011-05-29,29 May 2011,Sinn Féin,11.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2011-06-22,22 June 2011,Sinn Féin,11.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -2866,8 +2825,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-04-19,19 April 2014,Sinn Féin,20.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2014-05-01,1 May 2014,Sinn Féin,18.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2014-05-19,19 May 2014,Sinn Féin,23.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-2014-05-23,23 May 2014,Sinn Féin,15.2,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-2014-05-23,23 May 2014,Sinn Féin,19.5,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2014-06-07,7 June 2014,Sinn Féin,26.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2014-06-12,12 June 2014,Sinn Féin,22.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2014-06-29,29 June 2014,Sinn Féin,22.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -2929,7 +2886,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Sinn Féin,15.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2016-02-26,26 February 2016,Sinn Féin,14.9,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2016-02-26,26 February 2016,Sinn Féin,16.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-2016-02-26,26 February 2016,Sinn Féin,13.8,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2016-03-10,10 March 2016,Sinn Féin,15.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2016-04-13,13 April 2016,Sinn Féin,17.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2016-05-11,11 May 2016,Sinn Féin,16.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -3039,7 +2995,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,Sinn Féin,25.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2020-02-02,2 February 2020,Sinn Féin,25.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2020-02-08,8 February 2020,Sinn Féin,22.3,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-2020-02-08,8 February 2020,Sinn Féin,24.5,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2020-02-16,16 February 2020,Sinn Féin,35.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2020-02-25,25 February 2020,Sinn Féin,35.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2020-03-10,10 March 2020,Sinn Féin,35.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -3187,7 +3142,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Sinn Féin,20.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2024-11-26,26 November 2024,Sinn Féin,20.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2024-11-29,29 November 2024,Sinn Féin,21.1,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
-2024-11-29,29 November 2024,Sinn Féin,19.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2025-01-11,11 Jan 2025,Sinn Féin,19.3,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2025-01-22,22 Jan 2025,Sinn Féin,22.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
 2025-02-01,1 Feb 2025,Sinn Féin,22.0,Centre-left to left-wing,Irish republicanism Democratic socialism Left-wing nationalism,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
@@ -3248,7 +3202,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-02-23,23 February 2016,Social Democrats,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2016-02-26,26 February 2016,Social Democrats,2.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2016-02-26,26 February 2016,Social Democrats,3.7,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
-2016-02-26,26 February 2016,Social Democrats,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2016-03-10,10 March 2016,Social Democrats,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2016-04-13,13 April 2016,Social Democrats,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2016-05-11,11 May 2016,Social Democrats,4.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
@@ -3351,7 +3304,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2020-02-01,1 February 2020,Social Democrats,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2020-02-02,2 February 2020,Social Democrats,3.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2020-02-08,8 February 2020,Social Democrats,3.4,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
-2020-02-08,8 February 2020,Social Democrats,2.9,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2020-02-16,16 February 2020,Social Democrats,5.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2020-02-25,25 February 2020,Social Democrats,2.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2020-03-10,10 March 2020,Social Democrats,1.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
@@ -3498,7 +3450,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2024-11-23,23 November 2024,Social Democrats,6.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2024-11-26,26 November 2024,Social Democrats,6.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2024-11-29,29 November 2024,Social Democrats,5.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
-2024-11-29,29 November 2024,Social Democrats,4.8,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2025-01-11,11 Jan 2025,Social Democrats,7.3,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2025-01-22,22 Jan 2025,Social Democrats,7.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 2025-02-01,1 Feb 2025,Social Democrats,8.0,Centre-left,Social democracy Pro-Europeanism,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
