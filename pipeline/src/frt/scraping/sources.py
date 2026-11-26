@@ -10,6 +10,7 @@ WIKI_POLLING_PAGES: dict[str, dict] = json.loads(SOURCES_PATH.read_text(encoding
 
 COUNTRY_EXCLUDED_HEADERS = {
     "Denmark": ["Constituency polling"],
+    "Ireland": ["Preferred Taoiseach"],
     "Poland": ["Alternative scenarios", "Parties"],
 }
 HISTORICAL_SEPARATORS = ["Formerly:", "Historical"]
