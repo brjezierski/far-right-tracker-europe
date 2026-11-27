@@ -380,6 +380,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-08-04,Gallup,Bulgarian Socialist Party,3.7,Centre-left,Social democracy Democratic socialism Social market economy Social conservatism Left-wing populism,https://en.wikipedia.org/wiki/Bulgarian_Socialist_Party
 2026-10-02,Trend,Bulgarian Socialist Party,3.6,Centre-left,Social democracy Democratic socialism Social market economy Social conservatism Left-wing populism,https://en.wikipedia.org/wiki/Bulgarian_Socialist_Party
 2026-10-22,Gallup International,Bulgarian Socialist Party,3.1,Centre-left,Social democracy Democratic socialism Social market economy Social conservatism Left-wing populism,https://en.wikipedia.org/wiki/Bulgarian_Socialist_Party
+2026-11-21,Trend,Bulgarian Socialist Party,3.8,Centre-left,Social democracy Democratic socialism Social market economy Social conservatism Left-wing populism,https://en.wikipedia.org/wiki/Bulgarian_Socialist_Party
 2021-05-14,Gallup,Bulgarian Summer,2.8,Centre,Direct democracy Populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Bulgarian_Summer
 2021-06-07,Alpha Research,Bulgarian Summer,1.1,Centre,Direct democracy Populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Bulgarian_Summer
 2021-06-10,Specter,Bulgarian Summer,0.9,Centre,Direct democracy Populism Soft Euroscepticism,https://en.wikipedia.org/wiki/Bulgarian_Summer
@@ -544,6 +545,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,Democratic Bulgaria,6.5,Centre-right,Liberal conservatism Conservative liberalism Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Bulgaria
 2026-10-19,Market Links,Democratic Bulgaria,8.8,Centre-right,Liberal conservatism Conservative liberalism Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Bulgaria
 2026-10-22,Gallup International,Democratic Bulgaria,6.7,Centre-right,Liberal conservatism Conservative liberalism Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Bulgaria
+2026-11-21,Trend,Democratic Bulgaria,6.9,Centre-right,Liberal conservatism Conservative liberalism Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Bulgaria
+2026-11-22,Market Links,Democratic Bulgaria,10.7,Centre-right,Liberal conservatism Conservative liberalism Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/Democratic_Bulgaria
 2017-01-17,Trend,GERB,32.2,Centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB
 2017-01-22,Estat,GERB,36.1,Centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB
 2017-01-22,Alpha Research,GERB,32.6,Centre-right,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB
@@ -782,6 +785,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,GERB-SDS,14.2,Centre-right to right-wing,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB%E2%80%93SDS
 2026-10-19,Market Links,GERB-SDS,11.2,Centre-right to right-wing,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB%E2%80%93SDS
 2026-10-22,Gallup International,GERB-SDS,14.7,Centre-right to right-wing,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB%E2%80%93SDS
+2026-11-21,Trend,GERB-SDS,14.2,Centre-right to right-wing,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB%E2%80%93SDS
+2026-11-22,Market Links,GERB-SDS,13.7,Centre-right to right-wing,Conservatism Populism Pro-Europeanism,https://en.wikipedia.org/wiki/GERB%E2%80%93SDS
 2021-06-06,Barometer,Left Union for a Clean and Holy Republic,1.1,Left-wing to Far-left,Left-wing nationalism Socialism Factions: Communism Marxism–Leninism National conservatism,https://en.wikipedia.org/wiki/Left_Union_for_a_Clean_and_Holy_Republic
 2021-06-07,Alpha Research,Left Union for a Clean and Holy Republic,1.8,Left-wing to Far-left,Left-wing nationalism Socialism Factions: Communism Marxism–Leninism National conservatism,https://en.wikipedia.org/wiki/Left_Union_for_a_Clean_and_Holy_Republic
 2021-06-10,Specter,Left Union for a Clean and Holy Republic,1.5,Left-wing to Far-left,Left-wing nationalism Socialism Factions: Communism Marxism–Leninism National conservatism,https://en.wikipedia.org/wiki/Left_Union_for_a_Clean_and_Holy_Republic
@@ -823,6 +828,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-08-04,Gallup,"Morality, Unity, Honour",2.2,Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
 2026-10-02,Trend,"Morality, Unity, Honour",3.8,Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
 2026-10-22,Gallup International,"Morality, Unity, Honour",3.2,Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
+2026-11-21,Trend,"Morality, Unity, Honour",3.6,Far-right,Bulgarian nationalism Populism Social conservatism Euroscepticism,"https://en.wikipedia.org/wiki/Morality,_Unity,_Honour"
 2017-01-17,Trend,Movement for Rights and Freedoms,7.8,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2017-01-22,Estat,Movement for Rights and Freedoms,6.0,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2017-01-22,Alpha Research,Movement for Rights and Freedoms,7.8,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
@@ -1050,6 +1056,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,Movement for Rights and Freedoms,6.2,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2026-10-19,Market Links,Movement for Rights and Freedoms,6.5,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2026-10-22,Gallup International,Movement for Rights and Freedoms,7.0,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
+2026-11-21,Trend,Movement for Rights and Freedoms,6.2,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
+2026-11-22,Market Links,Movement for Rights and Freedoms,5.5,,Liberalism,https://en.wikipedia.org/wiki/Movement_for_Rights_and_Freedoms
 2023-02-04,Exacta,National Movement for Stability and Progress,1.1,Centre to centre-right,Populism Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/National_Movement_for_Stability_and_Progress
 2023-02-27,Sova Harris,National Movement for Stability and Progress,0.9,Centre to centre-right,Populism Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/National_Movement_for_Stability_and_Progress
 2023-02-27,Alpha Research,National Movement for Stability and Progress,1.4,Centre to centre-right,Populism Liberalism Conservative liberalism,https://en.wikipedia.org/wiki/National_Movement_for_Stability_and_Progress
@@ -1063,6 +1071,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,Progressive Bulgaria,40.8,Centre-left,,https://en.wikipedia.org/wiki/Progressive_Bulgaria
 2026-10-19,Market Links,Progressive Bulgaria,37.3,Centre-left,,https://en.wikipedia.org/wiki/Progressive_Bulgaria
 2026-10-22,Gallup International,Progressive Bulgaria,35.6,Centre-left,,https://en.wikipedia.org/wiki/Progressive_Bulgaria
+2026-11-21,Trend,Progressive Bulgaria,38.3,Centre-left,,https://en.wikipedia.org/wiki/Progressive_Bulgaria
+2026-11-22,Market Links,Progressive Bulgaria,37.9,Centre-left,,https://en.wikipedia.org/wiki/Progressive_Bulgaria
 2017-01-17,Trend,Reformist Bloc,3.7,Centre-right,Christian democracy Liberal conservatism Conservative liberalism Conservatism,https://en.wikipedia.org/wiki/Reformist_Bloc
 2017-01-22,Estat,Reformist Bloc,2.4,Centre-right,Christian democracy Liberal conservatism Conservative liberalism Conservatism,https://en.wikipedia.org/wiki/Reformist_Bloc
 2017-01-22,Alpha Research,Reformist Bloc,3.8,Centre-right,Christian democracy Liberal conservatism Conservative liberalism Conservatism,https://en.wikipedia.org/wiki/Reformist_Bloc
@@ -1251,6 +1261,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,Revival,5.7,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
 2026-10-19,Market Links,Revival,5.1,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
 2026-10-22,Gallup International,Revival,6.3,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
+2026-11-21,Trend,Revival,8.6,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
+2026-11-22,Market Links,Revival,5.7,Far-right,Ultranationalism National conservatism Right-wing populism,https://en.wikipedia.org/wiki/Revival_(Bulgarian_political_party)
 2024-05-02,Gallup,Solidary Bulgaria,2.5,Centre-left to left-wing,,https://en.wikipedia.org/wiki/Solidary_Bulgaria
 2024-05-02,Alpha Research,Solidary Bulgaria,2.6,Centre-left to left-wing,,https://en.wikipedia.org/wiki/Solidary_Bulgaria
 2024-05-09,Market Links,Solidary Bulgaria,2.0,Centre-left to left-wing,,https://en.wikipedia.org/wiki/Solidary_Bulgaria
@@ -1752,6 +1764,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-08-04,Gallup,Velichie,2.3,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie
 2026-10-02,Trend,Velichie,2.7,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie
 2026-10-22,Gallup International,Velichie,2.7,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie
+2026-11-21,Trend,Velichie,2.9,Far-right,Bulgarian nationalism Populism,https://en.wikipedia.org/wiki/Velichie
 2017-01-17,Trend,Volya Movement,5.9,Right-wing,Bulgarian nationalism Right-wing populism Anti-corruption Anti-establishment Euroscepticism,https://en.wikipedia.org/wiki/Volya_Movement
 2017-01-22,Estat,Volya Movement,8.4,Right-wing,Bulgarian nationalism Right-wing populism Anti-corruption Anti-establishment Euroscepticism,https://en.wikipedia.org/wiki/Volya_Movement
 2017-01-22,Alpha Research,Volya Movement,4.4,Right-wing,Bulgarian nationalism Right-wing populism Anti-corruption Anti-establishment Euroscepticism,https://en.wikipedia.org/wiki/Volya_Movement
@@ -1881,6 +1894,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Trend,We Continue the Change,7.6,Centre,Liberalism,https://en.wikipedia.org/wiki/We_Continue_the_Change
 2026-10-19,Market Links,We Continue the Change,11.9,Centre,Liberalism,https://en.wikipedia.org/wiki/We_Continue_the_Change
 2026-10-22,Gallup International,We Continue the Change,12.3,Centre,Liberalism,https://en.wikipedia.org/wiki/We_Continue_the_Change
+2026-11-21,Trend,We Continue the Change,9.7,Centre,Liberalism,https://en.wikipedia.org/wiki/We_Continue_the_Change
+2026-11-22,Market Links,We Continue the Change,12.1,Centre,Liberalism,https://en.wikipedia.org/wiki/We_Continue_the_Change
 2023-02-11,Trend,We Continue the Change - Democratic Bulgaria,24.8,Centre to centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/PP%E2%80%93DB
 2023-02-12,Gallup,We Continue the Change - Democratic Bulgaria,27.1,Centre to centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/PP%E2%80%93DB
 2023-02-24,Mediana,We Continue the Change - Democratic Bulgaria,22.7,Centre to centre-right,Liberalism Anti-corruption Pro-Europeanism,https://en.wikipedia.org/wiki/PP%E2%80%93DB

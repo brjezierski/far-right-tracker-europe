@@ -13,6 +13,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,David Lisnard,8.0,,,,
 2026-11-17,YouGov,David Lisnard,9.0,,,,
 2026-11-19,Harris Interactive,David Lisnard,11.0,,,,
+2026-11-26,OpinionWay,David Lisnard,12.0,,,,
 2012-10-12,Ifop,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2013-04-15,Ifop-Fiducial,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2013-04-17,OpinionWay,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
@@ -659,6 +660,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Debout la France,1.5,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-11-17,YouGov,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2026-11-19,Harris Interactive,Debout la France,1.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
+2026-11-26,OpinionWay,Debout la France,2.0,,Gaullism; National conservatism; Sovereigntism,,Nicolas Dupont-Aignan
 2025-09-25,Ifop,Dominique de Villepin,5.0,,,,
 2025-10-31,Elabe,Dominique de Villepin,5.0,,,,
 2026-02-27,Ifop,Dominique de Villepin,4.5,,,,
@@ -675,6 +677,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-13,Elabe,Dominique de Villepin,2.5,,,,
 2026-11-16,Ifop,Dominique de Villepin,1.5,,,,
 2026-11-19,Harris Interactive,Dominique de Villepin,1.0,,,,
+2026-11-26,OpinionWay,Dominique de Villepin,2.0,,,,
 2012-10-12,Ifop,Europe Écologie Les Verts,2.0,,Green politics; Environmentalism,,Eva Joly
 2013-04-15,Ifop-Fiducial,Europe Écologie Les Verts,1.5,,Green politics; Environmentalism,,Eva Joly
 2013-04-17,OpinionWay,Europe Écologie Les Verts,3.0,,Green politics; Environmentalism,,Eva Joly
@@ -1181,6 +1184,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Europe Écologie Les Verts,2.0,,Green politics; Environmentalism,,Marine Tondelier
 2026-11-17,YouGov,Europe Écologie Les Verts,4.0,,Green politics; Environmentalism,,Marine Tondelier
 2026-11-19,Harris Interactive,Europe Écologie Les Verts,1.0,,Green politics; Environmentalism,,Marine Tondelier
+2026-11-26,OpinionWay,Europe Écologie Les Verts,1.0,,Green politics; Environmentalism,,Marine Tondelier
 2023-10-25,Ifop,Gabriel Attal,19.0,,,,
 2024-01-10,Ifop,Gabriel Attal,24.0,,,,
 2024-02-01,Ifop,Gabriel Attal,22.0,,,,
@@ -1226,6 +1230,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Gabriel Attal,4.5,,,,
 2026-11-17,YouGov,Gabriel Attal,5.0,,,,
 2026-11-19,Harris Interactive,Gabriel Attal,4.0,,,,
+2026-11-26,OpinionWay,Gabriel Attal,4.0,,,,
 2023-03-31,Ifop,Horizons,26.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2023-04-07,Harris Interactive,Horizons,24.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2023-04-13,OpinionWay,Horizons,32.0,,Liberal conservatism; Centrism,,Édouard Philippe
@@ -1280,6 +1285,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Horizons,10.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2026-11-17,YouGov,Horizons,8.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2026-11-19,Harris Interactive,Horizons,9.0,,Liberal conservatism; Centrism,,Édouard Philippe
+2026-11-26,OpinionWay,Horizons,8.0,,Liberal conservatism; Centrism,,Édouard Philippe
 2012-10-12,Ifop,La France Insoumise,10.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2013-04-15,Ifop-Fiducial,La France Insoumise,11.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2013-04-17,OpinionWay,La France Insoumise,11.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
@@ -1937,6 +1943,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,La France Insoumise,2.0,,Democratic socialism; Left-wing populism,,François Ruffin
 2026-11-17,YouGov,La France Insoumise,19.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2026-11-19,Harris Interactive,La France Insoumise,18.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
+2026-11-26,OpinionWay,La France Insoumise,16.0,,Democratic socialism; Left-wing populism,,Jean-Luc Mélenchon
 2016-03-14,Ifop-Fiducial,La République En Marche,14.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-04-28,Ifop-Fiducial,La République En Marche,20.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
 2016-09-28,Ifop for DLF,La République En Marche,12.0,,Liberalism; Centrism; Pro-Europeanism,,Emmanuel Macron
@@ -3166,6 +3173,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Les Républicains,4.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-11-17,YouGov,Les Républicains,6.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2026-11-19,Harris Interactive,Les Républicains,4.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
+2026-11-26,OpinionWay,Les Républicains,4.0,,Conservatism; Liberal conservatism,,Bruno Retailleau
 2012-10-12,Ifop,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-15,Ifop-Fiducial,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2013-04-17,OpinionWay,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
@@ -3676,6 +3684,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-13,Elabe,Lutte Ouvrière,0.5,,Trotskyism,,Nathalie Arthaud
 2026-11-17,YouGov,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2026-11-19,Harris Interactive,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
+2026-11-26,OpinionWay,Lutte Ouvrière,1.0,,Trotskyism,,Nathalie Arthaud
 2012-10-12,Ifop,Mouvement Démocrate,7.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-15,Ifop-Fiducial,Mouvement Démocrate,10.0,,Centrism; Christian democracy,,François Bayrou
 2013-04-17,OpinionWay,Mouvement Démocrate,11.0,,Centrism; Christian democracy,,François Bayrou
@@ -4674,6 +4683,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Parti Communiste Français,1.5,,Communism,,Fabien Roussel
 2026-11-17,YouGov,Parti Communiste Français,2.0,,Communism,,Fabien Roussel
 2026-11-19,Harris Interactive,Parti Communiste Français,1.0,,Communism,,Fabien Roussel
+2026-11-26,OpinionWay,Parti Communiste Français,2.0,,Communism,,Fabien Roussel
 2016-11-28,Kantar Sofres Archived 1 December 2017 at the Wayback Machine,Parti Radical de Gauche,1.0,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-11-30,Ifop-Fiducial,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
 2016-12-04,BVA Archived 20 December 2016 at the Wayback Machine,Parti Radical de Gauche,0.5,,Social liberalism; Radicalism,,Sylvia Pinel
@@ -5515,6 +5525,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Parti Socialiste,8.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-11-17,YouGov,Parti Socialiste,9.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2026-11-19,Harris Interactive,Parti Socialiste,11.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
+2026-11-26,OpinionWay,Parti Socialiste,10.0,,Social democracy; Eco-socialism,,Raphaël Glucksmann
 2012-10-12,Ifop,Rassemblement National,19.5,,Far-right; Nationalism,,Marine Le Pen
 2013-04-15,Ifop-Fiducial,Rassemblement National,22.0,,Far-right; Nationalism,,Marine Le Pen
 2013-04-17,OpinionWay,Rassemblement National,21.0,,Far-right; Nationalism,,Marine Le Pen
@@ -6166,6 +6177,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Rassemblement National,32.0,,Far-right; Nationalism,,Marine Le Pen
 2026-11-17,YouGov,Rassemblement National,32.0,,Far-right; Nationalism,,Marine Le Pen
 2026-11-19,Harris Interactive,Rassemblement National,31.0,,Far-right; Nationalism,,Marine Le Pen
+2026-11-26,OpinionWay,Rassemblement National,33.0,,Far-right; Nationalism,,Marine Le Pen
 2021-02-24,Ifop,Reconquête,17.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-06-09,Ifop,Reconquête,5.5,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2021-07-05,Harris Interactive,Reconquête,5.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
@@ -6526,6 +6538,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-16,Ifop,Reconquête,3.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-11-17,YouGov,Reconquête,3.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2026-11-19,Harris Interactive,Reconquête,4.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
+2026-11-26,OpinionWay,Reconquête,3.0,,Far-right nationalism; Identitarianism,,Éric Zemmour
 2016-06-17,Ifop-Fiducial,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-04,Ifop-Fiducial,Résistons!,1.0,,Agrarianism; Regionalism; Populism,,Jean Lassalle
 2017-03-17,Kantar Sofres Archived 1 December 2017 at the Wayback Machine,Résistons!,0.5,,Agrarianism; Regionalism; Populism,,Jean Lassalle
@@ -6943,6 +6956,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url,cand
 2026-11-12,OpinionWay,Teddy Riner,4.0,,,,
 2026-11-16,Ifop,Teddy Riner,4.0,,,,
 2026-11-19,Harris Interactive,Teddy Riner,4.0,,,,
+2026-11-26,OpinionWay,Teddy Riner,2.0,,,,
 2016-06-17,Ifop-Fiducial,Union Populaire Républicaine,0.5,,Euroscepticism; Sovereigntism; Gaullism,,François Asselineau
 2017-03-15,Ipsos,Union Populaire Républicaine,0.5,,Euroscepticism; Sovereigntism; Gaullism,,François Asselineau
 2017-03-16,Ifop-Fiducial Archived 16 May 2017 at the Wayback Machine,Union Populaire Républicaine,0.5,,Euroscepticism; Sovereigntism; Gaullism,,François Asselineau

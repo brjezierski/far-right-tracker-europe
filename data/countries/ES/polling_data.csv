@@ -3003,6 +3003,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Broad Front,7.6,Left-wing,Progressivism Green politics,https://en.wikipedia.org/wiki/Broad_Front_(Spain)
 2026-11-23,Data10/Okdiario,Broad Front,6.3,Left-wing,Progressivism Green politics,https://en.wikipedia.org/wiki/Broad_Front_(Spain)
 2026-11-24,GESOP/The Adelaide Review,Broad Front,7.2,Left-wing,Progressivism Green politics,https://en.wikipedia.org/wiki/Broad_Front_(Spain)
+2026-11-25,GESOP/The Adelaide Review,Broad Front,8.2,Left-wing,Progressivism Green politics,https://en.wikipedia.org/wiki/Broad_Front_(Spain)
 2012-01-06,Celeste-Tel,Canarian Coalition,0.6,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2012-01-15,CIS,Canarian Coalition,0.4,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
 2012-01-15,CIS,Canarian Coalition,0.2,Centre to centre-right,Canarian nationalism Regionalism Centrism,https://en.wikipedia.org/wiki/Canarian_Coalition
@@ -13190,8 +13191,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-03-10,InvyMark/laSexta,People's Party,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-10,EM-Analytics/Electomanía,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-11,CIS,People's Party,17.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-03-11,CIS (SocioMétrica),People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-03-11,CIS,People's Party,20.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-13,EM-Analytics/Electomanía,People's Party,23.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-13,CIS,People's Party,19.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-13,ElectoPanel/Electomanía,People's Party,21.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13216,7 +13215,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-03-27,40dB/Prisa,People's Party,18.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-30,ElectoPanel/Electomanía,People's Party,23.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-30,KeyData/Público,People's Party,20.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-03-30,EM-Analytics/Electomanía,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-31,NC Report/La Razón,People's Party,24.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-03-31,SW Demoscopia,People's Party,21.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-04-01,Sigma Dos/Antena 3,People's Party,24.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13305,7 +13303,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-06-05,GAD3/ABC,People's Party,25.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-05,Celeste-Tel/eldiario.es,People's Party,23.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-05,Simple Lógica,People's Party,21.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-06-07,CIS,People's Party,21.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-08,Simple Lógica/elDiario.es,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-08,Sigma Dos/El Mundo,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-08,GAD3/ABC,People's Party,36.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13368,8 +13365,10 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-06-27,CIS (SocioMétrica),People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-27,CIS,People's Party,25.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-27,CIS,People's Party,28.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-06-27,CIS,People's Party,65.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-28,EM-Analytics/Electomanía,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-28,GAD3/NIUS,People's Party,36.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-06-28,GAD3/NIUS,People's Party,64.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-29,IMOP/El Confidencial,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-29,Data10/Okdiario,People's Party,34.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-06-30,Sigma Dos/El Mundo,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13391,23 +13390,20 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-03,DYM/Henneo,People's Party,55.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-04,Sigma Dos/El Mundo,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-04,Opinòmetre/Ara,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-04,GAD3/ABC,People's Party,36.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-04,GAD3/ABC,People's Party,65.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,GAD3/ABC,People's Party,36.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,CIS,People's Party,29.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,40dB/Prisa,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,CIS,People's Party,22.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-05,40dB/Prisa,People's Party,20.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-05,GAD3/ABC,People's Party,65.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,Top Position,People's Party,34.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,GAD3/ABC,People's Party,36.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-06,YouGov,People's Party,31.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,Sigma Dos/El Mundo,People's Party,34.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,Ipsos/La Vanguardia,People's Party,35.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,IMOP/El Confidencial,People's Party,32.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-06,KeyData/Público,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-06,Ipsos/La Vanguardia,People's Party,31.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-06,GAD3/ABC,People's Party,66.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-06,Ipsos/La Vanguardia,People's Party,64.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-07,GAD3/ABC,People's Party,36.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-07,Sigma Dos/El Mundo,People's Party,35.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-07,InvyMark/laSexta,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13416,11 +13412,13 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-07,40dB/Prisa,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-07,Target Point/El Debate,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-07,Data10/Okdiario,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-07,40dB/Prisa,People's Party,21.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-08,GAD3/ABC,People's Party,36.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-08,Sigma Dos/El Mundo,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-08,40dB/Prisa,People's Party,31.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-08,Sondaxe/La Voz de Galicia,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-08,EM-Analytics/Electomanía,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2023-07-08,40dB/Prisa,People's Party,22.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-09,IMOP/CIS,People's Party,21.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-09,SocioMétrica/El Español,People's Party,33.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-09,40dB/Prisa,People's Party,31.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13436,7 +13434,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-10,40dB/Prisa,People's Party,30.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-10,Sondaxe/La Voz de Galicia,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-10,DYM/Henneo,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-07-10,EM-Analytics/Electomanía,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-10,Simple Lógica/elDiario.es,People's Party,19.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-10,40dB/Prisa,People's Party,22.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-07-10,DYM/Henneo,People's Party,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13644,7 +13641,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-10-11,Sigma Dos/Antena 3,People's Party,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-13,CIS,People's Party,22.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-14,GAD3/ABC,People's Party,29.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2023-10-14,GIPEyOP,People's Party,17.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-15,Simple Lógica,People's Party,25.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-15,EM-Analytics/Electomanía,People's Party,28.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2023-10-15,InvyMark/laSexta,People's Party,28.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13838,7 +13834,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-01-03,CIS,People's Party,12.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-03,CIS (SocioMétrica),People's Party,14.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-03,CIS (Logoslab),People's Party,13.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-01-09,CIS (Opina 360),People's Party,32.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-10,EM-Analytics/Electomanía,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-11,Celeste-Tel/Onda Cero,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-17,EM-Analytics/Electomanía,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13846,6 +13841,9 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-01-23,GAD3/ABC,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-24,EM-Analytics/Electomanía,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-24,Target Point/El Debate,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-01-27,40dB/Prisa,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-01-27,40dB/Prisa,People's Party,20.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-01-30,CIS,People's Party,15.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-31,Sigma Dos/El Mundo,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-31,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-01-31,Hamalgama Métrica/Vozpópuli,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13865,9 +13863,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-02-24,40dB/Prisa,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-02-28,EM-Analytics/Electomanía,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-02-28,Hamalgama Métrica/Vozpópuli,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-03-06,GESOP/Prensa Ibérica,People's Party,19.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-03-07,Sigma Dos/El Mundo,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-07,CIS (Opina 360),People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-07,EM-Analytics/Electomanía,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-07,NC Report/La Razón,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-03-07,CIS,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-14,EM-Analytics/Electomanía,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-16,DYM/Henneo,People's Party,35.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-16,DYM/Henneo,People's Party,23.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13881,11 +13882,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-03-31,40dB/Prisa,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-31,CIS,People's Party,22.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-03-31,40dB/Prisa,People's Party,20.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-04-04,EM-Analytics/Electomanía,People's Party,34.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-04,CIS,People's Party,15.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-04,CIS (Logoslab),People's Party,15.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-04-08,CIS (Opina 360),People's Party,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-04-10,EM-Analytics/Electomanía,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-15,Sigma Dos/El Mundo,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-15,Hamalgama Métrica/Vozpópuli,People's Party,34.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-17,NC Report/La Razón,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13893,18 +13891,14 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-25,EM-Analytics/Electomanía,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-25,SocioMétrica/El Español,People's Party,34.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-25,Target Point/El Debate,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-04-27,40dB/Prisa,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-27,40dB/Prisa,People's Party,21.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-04-30,CIS,People's Party,15.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-05-02,EM-Analytics/Electomanía,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-05-06,Celeste-Tel/Onda Cero,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-05-06,CIS,People's Party,13.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-05-06,CIS (Logoslab),People's Party,14.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-09,EM-Analytics/Electomanía,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-16,EM-Analytics/Electomanía,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-19,DYM/Henneo,People's Party,35.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-19,DYM/Henneo,People's Party,27.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-21,Ipsos/La Vanguardia,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-05-21,Ipsos/La Vanguardia,People's Party,20.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-22,SocioMétrica/El Español,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-22,KeyData/Público,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-05-22,SocioMétrica/El Español,People's Party,23.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13918,10 +13912,14 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-06-06,EM-Analytics/Electomanía,People's Party,34.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-06,CIS,People's Party,13.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-06,CIS (Logoslab),People's Party,14.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-06-07,CIS (Opina 360),People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-12,CIS,People's Party,18.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-12,GESOP/Prensa Ibérica,People's Party,18.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-13,InvyMark/laSexta,People's Party,35.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-13,EM-Analytics/Electomanía,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-06-17,DYM/Henneo,People's Party,36.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-06-17,DYM/Henneo,People's Party,24.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-06-19,CIS,People's Party,15.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-20,EM-Analytics/Electomanía,People's Party,35.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-20,InvyMark/laSexta,People's Party,36.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-06-20,Target Point/El Debate,People's Party,34.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13938,6 +13936,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-04,InvyMark/laSexta,People's Party,36.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-04,CIS,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-04,CIS (Logoslab),People's Party,18.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-07-07,CIS (Opina 360),People's Party,30.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-10,Target Point/El Debate,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-11,EM-Analytics/Electomanía,People's Party,34.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-14,Celeste-Tel/Onda Cero,People's Party,35.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13945,9 +13944,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-17,KeyData/Público,People's Party,35.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-18,EM-Analytics/Electomanía,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-18,Hamalgama Métrica/Vozpópuli,People's Party,35.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-07-24,SocioMétrica/El Español,People's Party,35.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-24,SocioMétrica/El Español,People's Party,22.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-07-24,CIS,People's Party,13.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-25,EM-Analytics/Electomanía,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-07-30,Sigma Dos/El Mundo,People's Party,34.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-08-01,EM-Analytics/Electomanía,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13961,7 +13958,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-01,40dB/Prisa,People's Party,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-05,EM-Analytics/Electomanía,People's Party,31.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-05,Demoscopia y Servicios/esRadio,People's Party,35.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-09-06,NC Report/La Razón,People's Party,35.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-09-06,CIS (Opina 360),People's Party,27.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-06,CIS,People's Party,16.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-09,Hamalgama Métrica/Vozpópuli,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-11,GAD3/ABC,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -13974,23 +13971,23 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-19,InvyMark/laSexta,People's Party,36.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-26,EM-Analytics/Electomanía,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-28,40dB/Prisa,People's Party,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-09-28,40dB/Prisa,People's Party,17.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-30,Opina 360/Antena 3,People's Party,27.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-09-30,Opina 360/Antena 3,People's Party,18.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-01,Sigma Dos/El Mundo,People's Party,33.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-03,EM-Analytics/Electomanía,People's Party,32.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-04,NC Report/La Razón,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-04,CIS,People's Party,17.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-10-07,CIS (Opina 360),People's Party,25.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-07,CIS,People's Party,13.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-09,GESOP/Prensa Ibérica,People's Party,29.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-10-09,GESOP/Prensa Ibérica,People's Party,15.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-10,EM-Analytics/Electomanía,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-10,SocioMétrica/El Español,People's Party,34.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-10-10,SocioMétrica/El Español,People's Party,19.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-16,KeyData/Público,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-17,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-24,EM-Analytics/Electomanía,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-26,40dB/Prisa,People's Party,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-10-26,40dB/Prisa,People's Party,17.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-10-31,EM-Analytics/Electomanía,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-10-31,CIS,People's Party,13.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-04,Hamalgama Métrica/Vozpópuli,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-04,Opina 360/Telecinco,People's Party,28.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14010,12 +14007,13 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-11-21,EM-Analytics/Electomanía,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-21,InvyMark/laSexta,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-11-28,EM-Analytics/Electomanía,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2025-12-01,40dB/Prisa,People's Party,18.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,Sigma Dos/El Mundo,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,EM-Analytics/Electomanía,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,InvyMark/laSexta,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-05,CIS,People's Party,15.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-07,SocioMétrica/El Español,People's Party,33.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-12-07,SocioMétrica/El Español,People's Party,20.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2025-12-12,EM-Analytics/Electomanía,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-15,CIS,People's Party,13.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-18,CIS,People's Party,15.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2025-12-19,EM-Analytics/Electomanía,People's Party,31.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14032,18 +14030,17 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-01-10,SocioMétrica/El Español,People's Party,19.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-15,GESOP/Prensa Ibérica,People's Party,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-15,Target Point/El Debate,People's Party,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-01-15,GESOP/Prensa Ibérica,People's Party,17.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-16,EM-Analytics/Electomanía,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-18,DYM/Henneo,People's Party,33.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-22,KeyData/Público,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-01-23,EM-Analytics/Electomanía,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-25,DYM/Henneo,People's Party,34.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-30,EM-Analytics/Electomanía,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-01-30,Sigma Dos/El Mundo,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-01-30,CIS,People's Party,14.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-02-02,40dB/Prisa,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-02,40dB/Prisa,People's Party,18.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-06,EM-Analytics/Electomanía,People's Party,31.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-06,CIS (Logoslab),People's Party,27.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-02-06,CIS,People's Party,16.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-10,Data10/Okdiario,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-12,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-02-13,NC Report/La Razón,People's Party,33.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14059,6 +14056,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-06,CIS (Target Point),People's Party,30.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-06,CIS,People's Party,15.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-12,CIS,People's Party,12.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-03-13,EM-Analytics/Electomanía,People's Party,30.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-20,EM-Analytics/Electomanía,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-21,SocioMétrica/El Español,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-03-23,DYM/Henneo,People's Party,34.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14070,7 +14068,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-03-31,Sigma Dos/El Mundo,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-03,EM-Analytics/Electomanía,People's Party,30.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-08,Ipsos/La Vanguardia,People's Party,30.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-04-09,NC Report/La Razón,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-10,EM-Analytics/Electomanía,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-10,CIS (Ateneo del Dato),People's Party,30.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-17,EM-Analytics/Electomanía,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14081,7 +14078,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-04-25,More in Common,People's Party,21.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-26,Ateneo del Dato,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-04-27,40dB/Prisa,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-04-29,Sigma Dos/El Mundo,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-01,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-08,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-05-15,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14101,15 +14097,19 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-06-05,EM-Analytics/Electomanía,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-11,Sigma Dos/El Mundo,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-12,EM-Analytics/Electomanía,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-12,CIS,People's Party,18.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-18,Target Point/El Debate,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-18,CIS,People's Party,15.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-19,EM-Analytics/Electomanía,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-26,EM-Analytics/Electomanía,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-26,InvyMark/laSexta,People's Party,33.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-28,More in Common,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-06-28,More in Common,People's Party,21.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-29,Ipsos/La Vanguardia,People's Party,31.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-29,40dB/Prisa,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-29,Ipsos/La Vanguardia,People's Party,21.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-29,40dB/Prisa,People's Party,20.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-06-30,CIS (Demócrata),People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-06-30,CIS,People's Party,14.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-01,NC Report/La Razón,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-03,EM-Analytics/Electomanía,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-04,SocioMétrica/El Español,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14117,7 +14117,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-07-06,CIS (Sondaxe),People's Party,28.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-09,GESOP/Prensa Ibérica,People's Party,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-09,ODEC/Mediaflows–UV,People's Party,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-07-10,EM-Analytics/Electomanía,People's Party,32.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-17,EM-Analytics/Electomanía,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-17,Target Point/El Debate,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-07-17,KeyData/Público,People's Party,32.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14137,7 +14136,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-08-28,EM-Analytics/Electomanía,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-08-28,More in Common,People's Party,28.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-08-28,More in Common,People's Party,19.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-02,40dB/Prisa,People's Party,32.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,EM-Analytics/Electomanía,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,GAD3/ABC,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-03,NC Report/La Razón,People's Party,34.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14145,18 +14143,16 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-09-08,Hamalgama Métrica/Vozpópuli,People's Party,33.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-10,EM-Analytics/Electomanía,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-10,Target Point/El Debate,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-18,EM-Analytics/Electomanía,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-21,DYM/Henneo,People's Party,34.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-21,Celeste-Tel/Onda Cero,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-09-25,EM-Analytics/Electomanía,People's Party,32.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-26,SocioMétrica/El Español,People's Party,33.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-26,SocioMétrica/El Español,People's Party,24.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-09-28,40dB/Prisa,People's Party,31.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-09-28,40dB/Prisa,People's Party,19.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-01,Sigma Dos/El Mundo,People's Party,32.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-01,Ateneo del Dato/elDiario.es,People's Party,33.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-01,Winston/Artículo14,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-02,Data10/Okdiario,People's Party,34.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-10-03,SocioMétrica/El Español,People's Party,33.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-03,EM-Analytics/Electomanía,People's Party,31.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-06,NC Report/La Razón,People's Party,34.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-06,CIS (Target Point),People's Party,30.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14168,7 +14164,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-08,GAD3/Vocento,People's Party,31.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-08,GESOP/Prensa Ibérica,People's Party,28.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-08,40dB/Prisa,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-10-08,GESOP/Prensa Ibérica,People's Party,17.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-08,40dB/Prisa,People's Party,19.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-09,EM-Analytics/Electomanía,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-09,Target Point/El Debate,People's Party,32.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14196,6 +14191,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-30,Sigma Dos/El Mundo,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-30,CIS,People's Party,17.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-10-30,CIS,People's Party,23.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-10-30,CIS,People's Party,54.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-10-30,GESOP,People's Party,44.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-01,SocioMétrica/El Español,People's Party,32.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-02,YouGov/Ara,People's Party,29.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-03,Celeste-Tel/Onda Cero,People's Party,31.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14207,13 +14204,11 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-04,SW Demoscopia/La Séptima,People's Party,24.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-04,40dB/Prisa,People's Party,20.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-04,40dB/Prisa,People's Party,24.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-04,40dB/Prisa,People's Party,48.6,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-05,SW Demoscopia/La Séptima,People's Party,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-05,NC Report/La Razón,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-05,Ateneo del Dato/elDiario.es,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-05,GAD3/Vocento,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-05,SW Demoscopia/La Séptima,People's Party,24.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-05,GESOP,People's Party,51.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-06,SW Demoscopia/La Séptima,People's Party,28.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-06,Sigma Dos/El Mundo,People's Party,31.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-06,EM-Analytics/Electomanía,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14253,7 +14248,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-14,40dB/Prisa,People's Party,31.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-14,Sondaxe/La Voz de Galicia,People's Party,30.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-14,Sigma Dos/El Mundo,People's Party,30.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-14,40dB/Prisa,People's Party,20.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-15,SocioMétrica/El Español,People's Party,32.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-15,SW Demoscopia/La Séptima,People's Party,28.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-15,EM-Analytics/Electomanía,People's Party,30.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14274,7 +14268,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-17,40dB/Prisa,People's Party,32.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-17,Sondaxe/La Voz de Galicia,People's Party,28.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-17,Public First/Politico,People's Party,29.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-17,CIS,People's Party,18.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-17,40dB/Prisa,People's Party,22.2,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-17,CIS,People's Party,22.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-18,SW Demoscopia/La Séptima,People's Party,29.4,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14292,7 +14285,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-19,Data10/Okdiario,People's Party,31.5,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-19,More in Common,People's Party,28.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-19,GAD3/Vocento,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-19,DYM/Henneo,People's Party,33.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-19,Winston/Artículo14,People's Party,31.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-19,IMOP/El Confidencial,People's Party,31.7,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-19,Metroscopia,People's Party,30.0,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
@@ -14340,7 +14332,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,AtlasIntel/PollsterGraph,People's Party,29.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-23,GESOP/The Adelaide Review,People's Party,31.9,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2026-11-23,Data10/Okdiario,People's Party,31.8,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
-2026-11-24,GESOP/The Adelaide Review,People's Party,62.3,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
+2026-11-25,GESOP/The Adelaide Review,People's Party,61.1,Centre-right to right-wing,Conservatism Christian democracy,https://en.wikipedia.org/wiki/People%27s_Party_(Spain)
 2011-12-15,Metroscopia/El País,Plural Left,7.0,Left-wing,Democratic socialism Eco-socialism Anti-capitalism Ecologism Federalism,"https://en.wikipedia.org/wiki/Plural_Left_(Spain,_2011)"
 2012-01-05,Metroscopia/El País,Plural Left,7.7,Left-wing,Democratic socialism Eco-socialism Anti-capitalism Ecologism Federalism,"https://en.wikipedia.org/wiki/Plural_Left_(Spain,_2011)"
 2012-01-06,Celeste-Tel,Plural Left,7.6,Left-wing,Democratic socialism Eco-socialism Anti-capitalism Ecologism Federalism,"https://en.wikipedia.org/wiki/Plural_Left_(Spain,_2011)"
@@ -15570,6 +15562,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Podemos,0.5,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-11-23,Data10/Okdiario,Podemos,1.2,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2026-11-24,GESOP/The Adelaide Review,Podemos,0.7,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
+2026-11-25,GESOP/The Adelaide Review,Podemos,0.7,Left-wing to far-left,Left-wing populism Democratic socialism Republicanism Federalism Non-interventionism,https://en.wikipedia.org/wiki/Podemos_(Spanish_political_party)
 2012-01-15,CIS,Popular Unity,5.9,Left-wing,Socialism Republicanism Feminism Anti-capitalism,https://en.wikipedia.org/wiki/Popular_Unity_(Spain)
 2012-02-09,Metroscopia/El País,Popular Unity,7.4,Left-wing,Socialism Republicanism Feminism Anti-capitalism,https://en.wikipedia.org/wiki/Popular_Unity_(Spain)
 2012-02-28,GESOP/El Periódico,Popular Unity,7.1,Left-wing,Socialism Republicanism Feminism Anti-capitalism,https://en.wikipedia.org/wiki/Popular_Unity_(Spain)
@@ -17665,6 +17658,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Republican Left of Catalonia,2.6,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-11-23,Data10/Okdiario,Republican Left of Catalonia,2.5,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2026-11-24,GESOP/The Adelaide Review,Republican Left of Catalonia,2.6,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
+2026-11-25,GESOP/The Adelaide Review,Republican Left of Catalonia,2.5,Centre-left to left-wing,Catalan independence Eco-nationalism Left-wing nationalism Republicanism Democratic socialism Social democracy Regionalism Faction: Federalism,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia
 2012-01-06,Celeste-Tel,Republican Left of Catalonia-Catalonia Yes,1.1,Centre-left to left-wing,Catalan independence,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Catalonia_Yes
 2012-01-15,CIS,Republican Left of Catalonia-Catalonia Yes,1.4,Centre-left to left-wing,Catalan independence,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Catalonia_Yes
 2012-01-15,CIS,Republican Left of Catalonia-Catalonia Yes,0.7,Centre-left to left-wing,Catalan independence,https://en.wikipedia.org/wiki/Republican_Left_of_Catalonia%E2%80%93Catalonia_Yes
@@ -19526,6 +19520,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Se Acabó La Fiesta,1.4,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-11-23,Data10/Okdiario,Se Acabó La Fiesta,1.8,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-11-24,GESOP/The Adelaide Review,Se Acabó La Fiesta,1.8,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
+2026-11-25,GESOP/The Adelaide Review,Se Acabó La Fiesta,1.5,Right-wing to far-right,Spanish nationalism Economic liberalism Right-wing populism Euroscepticism,https://en.wikipedia.org/wiki/Se_Acab%C3%B3_La_Fiesta
 2026-10-28,Hamalgama Métrica/Vozpópuli,Senate of Progress,75.0,Centre left to left-wing,Progressivism,https://en.wikipedia.org/wiki/Senate_of_Progress
 2026-11-01,SocioMétrica/El Español,Senate of Progress,61.0,Centre left to left-wing,Progressivism,https://en.wikipedia.org/wiki/Senate_of_Progress
 2026-11-05,GAD3/Vocento,Senate of Progress,70.0,Centre left to left-wing,Progressivism,https://en.wikipedia.org/wiki/Senate_of_Progress
@@ -19552,7 +19547,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2012-05-08,Celeste-Tel,Spanish Socialist Workers' Party,28.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2012-05-10,Metroscopia/El País,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2012-05-11,Simple Lógica,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2012-05-11,Simple Lógica,Spanish Socialist Workers' Party,15.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2012-05-30,NC Report,Spanish Socialist Workers' Party,27.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2012-06-07,Celeste-Tel,Spanish Socialist Workers' Party,29.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2012-06-07,Metroscopia/El País,Spanish Socialist Workers' Party,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19648,7 +19642,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2013-07-05,Celeste-Tel,Spanish Socialist Workers' Party,27.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-07-09,Simple Lógica,Spanish Socialist Workers' Party,24.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-07-10,CIS,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-07-18,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,27.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-07-25,Metroscopia/El País,Spanish Socialist Workers' Party,27.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-07-31,Celeste-Tel,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-07-31,TNS Demoscopia,Spanish Socialist Workers' Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19666,8 +19659,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2013-10-03,Metroscopia/El País,Spanish Socialist Workers' Party,29.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-05,Celeste-Tel,Spanish Socialist Workers' Party,28.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-07,Simple Lógica,Spanish Socialist Workers' Party,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-10-07,Simple Lógica,Spanish Socialist Workers' Party,9.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-10-09,CIS,Spanish Socialist Workers' Party,26.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-09,CIS,Spanish Socialist Workers' Party,13.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-10,GAD3/Antena 3,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-10,GAD3/Antena 3,Spanish Socialist Workers' Party,17.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19678,9 +19669,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2013-10-14,Intercampo/GETS,Spanish Socialist Workers' Party,23.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-18,InvyMark/laSexta,Spanish Socialist Workers' Party,23.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-10-31,DYM/El Confidencial,Spanish Socialist Workers' Party,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-10-31,DYM/El Confidencial,Spanish Socialist Workers' Party,8.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-11-04,MyWord/Cadena SER,Spanish Socialist Workers' Party,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2013-11-04,MyWord/Cadena SER,Spanish Socialist Workers' Party,9.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-11-07,Celeste-Tel,Spanish Socialist Workers' Party,28.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-11-08,InvyMark/laSexta,Spanish Socialist Workers' Party,23.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2013-11-13,Simple Lógica,Spanish Socialist Workers' Party,21.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19707,7 +19695,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-01-24,InvyMark/laSexta,Spanish Socialist Workers' Party,23.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-02-06,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,28.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-02-06,Metroscopia/El País,Spanish Socialist Workers' Party,31.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2014-02-06,Metroscopia/El País,Spanish Socialist Workers' Party,12.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-02-10,Simple Lógica,Spanish Socialist Workers' Party,20.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-02-13,GAD3/ABC,Spanish Socialist Workers' Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-02-14,InvyMark/laSexta,Spanish Socialist Workers' Party,23.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19715,7 +19702,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-02-28,InvyMark/laSexta,Spanish Socialist Workers' Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-03-01,NC Report/La Razón,Spanish Socialist Workers' Party,26.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-03-04,Metroscopia/El País,Spanish Socialist Workers' Party,32.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2014-03-06,Celeste-Tel,Spanish Socialist Workers' Party,28.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-03-07,Simple Lógica,Spanish Socialist Workers' Party,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-03-14,NC Report,Spanish Socialist Workers' Party,27.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-04-01,Metroscopia/El País,Spanish Socialist Workers' Party,32.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19735,7 +19721,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-07-05,Demoscopia Servicios/esRadio,Spanish Socialist Workers' Party,26.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-07-08,Simple Lógica,Spanish Socialist Workers' Party,15.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-07-09,CIS,Spanish Socialist Workers' Party,21.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2014-07-09,CIS,Spanish Socialist Workers' Party,10.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-07-11,InvyMark/laSexta,Spanish Socialist Workers' Party,22.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-07-18,InvyMark/laSexta,Spanish Socialist Workers' Party,22.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2014-07-24,Metroscopia/El País,Spanish Socialist Workers' Party,31.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19789,12 +19774,12 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2014-12-30,NC Report/La Razón,Spanish Socialist Workers' Party,23.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-06,MyWord/Cadena SER,Spanish Socialist Workers' Party,19.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-06,MyWord/Cadena SER,Spanish Socialist Workers' Party,10.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2015-01-09,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,23.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-12,CIS,Spanish Socialist Workers' Party,22.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-12,CIS,Spanish Socialist Workers' Party,12.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-14,Simple Lógica,Spanish Socialist Workers' Party,18.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-14,Sigma Dos/Mediaset,Spanish Socialist Workers' Party,19.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-14,Simple Lógica,Spanish Socialist Workers' Party,9.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2015-01-15,NC Report,Spanish Socialist Workers' Party,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-16,GAD3/ABC,Spanish Socialist Workers' Party,19.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-16,GAD3/ABC,Spanish Socialist Workers' Party,12.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-01-16,GAD3/ABC,Spanish Socialist Workers' Party,10.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19808,6 +19793,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-02-09,Simple Lógica,Spanish Socialist Workers' Party,17.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-02-09,Simple Lógica,Spanish Socialist Workers' Party,10.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-02-11,MyWord/Cadena SER,Spanish Socialist Workers' Party,19.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2015-02-11,MyWord/Cadena SER,Spanish Socialist Workers' Party,9.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-02-12,Sigma Dos/Mediaset,Spanish Socialist Workers' Party,20.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-02-14,JM&A/El Español,Spanish Socialist Workers' Party,19.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-02-15,NC Report/La Razón,Spanish Socialist Workers' Party,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19817,7 +19803,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-03-01,JM&A/El Español,Spanish Socialist Workers' Party,18.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-03-04,Metroscopia/El País,Spanish Socialist Workers' Party,20.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-03-04,Metroscopia/El País,Spanish Socialist Workers' Party,11.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2015-03-06,Celeste-Tel,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-03-09,MyWord/Cadena SER,Spanish Socialist Workers' Party,19.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-03-13,Simple Lógica,Spanish Socialist Workers' Party,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-03-13,Simple Lógica,Spanish Socialist Workers' Party,10.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -19985,6 +19970,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2015-11-27,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,23.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-11-28,GESOP/El Periódico,Spanish Socialist Workers' Party,21.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-11-28,GESOP/El Periódico,Spanish Socialist Workers' Party,17.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2015-11-28,GESOP/El Periódico,Spanish Socialist Workers' Party,11.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-11-29,TNS Demoscopia/Antena 3,Spanish Socialist Workers' Party,20.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-12-01,Redondo & Asociados,Spanish Socialist Workers' Party,21.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2015-12-01,Encuestamos,Spanish Socialist Workers' Party,25.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20184,7 +20170,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-06-10,NC Report/La Razón,Spanish Socialist Workers' Party,21.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-06-10,SYM Consulting/Valencia Plaza,Spanish Socialist Workers' Party,22.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-06-12,TNS Demoscopia,Spanish Socialist Workers' Party,21.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2016-06-12,TNS Demoscopia,Spanish Socialist Workers' Party,4.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-06-13,GESOP/El Periódico,Spanish Socialist Workers' Party,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-06-13,JM&A/Público,Spanish Socialist Workers' Party,21.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-06-13,GESOP/El Periódico,Spanish Socialist Workers' Party,13.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20262,7 +20247,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2016-09-14,MyWord/Cadena SER,Spanish Socialist Workers' Party,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-09-14,JM&A/Público,Spanish Socialist Workers' Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-09-14,Simple Lógica,Spanish Socialist Workers' Party,15.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2016-09-14,MyWord/Cadena SER,Spanish Socialist Workers' Party,10.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-09-28,GAD3/ABC,Spanish Socialist Workers' Party,19.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-09-30,GAD3/ABC,Spanish Socialist Workers' Party,18.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2016-09-30,SocioMétrica/El Español,Spanish Socialist Workers' Party,19.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20383,7 +20367,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-07-10,CIS,Spanish Socialist Workers' Party,19.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-07-10,Simple Lógica,Spanish Socialist Workers' Party,14.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-07-12,MyWord/Cadena SER,Spanish Socialist Workers' Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2017-07-12,MyWord/Cadena SER,Spanish Socialist Workers' Party,10.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-07-14,InvyMark/laSexta,Spanish Socialist Workers' Party,23.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-07-18,Metroscopia/El País,Spanish Socialist Workers' Party,22.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-07-18,Metroscopia/El País,Spanish Socialist Workers' Party,16.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20393,7 +20376,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-09-01,JM&A/Público,Spanish Socialist Workers' Party,23.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-09-07,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-09-07,MyWord/Cadena SER,Spanish Socialist Workers' Party,26.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2017-09-07,MyWord/Cadena SER,Spanish Socialist Workers' Party,15.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-09-08,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-09-08,GAD3/ABC,Spanish Socialist Workers' Party,23.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-09-08,GAD3/ABC,Spanish Socialist Workers' Party,15.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20403,7 +20385,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-10-06,GAD3/ABC,Spanish Socialist Workers' Party,21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-10-10,Simple Lógica,Spanish Socialist Workers' Party,24.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-10-10,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,23.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2017-10-10,Simple Lógica,Spanish Socialist Workers' Party,12.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-10-11,DYM/El Confidencial,Spanish Socialist Workers' Party,24.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-10-11,CIS,Spanish Socialist Workers' Party,17.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2017-10-11,CIS (SocioMétrica),Spanish Socialist Workers' Party,24.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20431,7 +20412,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2017-12-30,NC Report/La Razón,Spanish Socialist Workers' Party,23.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-01-05,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,25.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-01-08,Simple Lógica,Spanish Socialist Workers' Party,23.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2018-01-08,Simple Lógica,Spanish Socialist Workers' Party,12.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-01-11,GAD3/ABC,Spanish Socialist Workers' Party,24.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-01-11,Metroscopia/El País,Spanish Socialist Workers' Party,21.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-01-11,CIS,Spanish Socialist Workers' Party,20.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20513,7 +20493,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-06-30,NC Report/La Razón,Spanish Socialist Workers' Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-07-06,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-07-06,Simple Lógica,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2018-07-06,Simple Lógica,Spanish Socialist Workers' Party,17.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-07-10,CIS,Spanish Socialist Workers' Party,29.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-07-10,JM&A/Público,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-07-10,CIS,Spanish Socialist Workers' Party,23.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20531,11 +20510,13 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2018-07-27,NC Report/La Razón,Spanish Socialist Workers' Party,27.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-03,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,24.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-03,Simple Lógica,Spanish Socialist Workers' Party,25.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2018-08-03,Simple Lógica,Spanish Socialist Workers' Party,14.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-07,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-10,JM&A/Público,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-20,JM&A/Público,Spanish Socialist Workers' Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-30,SocioMétrica/El Español,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-08-30,SocioMétrica/El Español,Spanish Socialist Workers' Party,16.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2018-08-31,NC Report/La Razón,Spanish Socialist Workers' Party,27.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-09-07,GAD3/ABC,Spanish Socialist Workers' Party,27.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-09-07,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,28.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2018-09-07,Simple Lógica,Spanish Socialist Workers' Party,24.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20645,6 +20626,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-04-05,GESOP/El Periódico,Spanish Socialist Workers' Party,20.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-04-05,Simple Lógica,Spanish Socialist Workers' Party,21.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-04-11,GAD3/La Vanguardia,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2019-04-16,Metroscopia/Henneo,Spanish Socialist Workers' Party,27.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-04-17,DYM/El Independiente,Spanish Socialist Workers' Party,17.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-04-18,40dB/El País,Spanish Socialist Workers' Party,18.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-04-23,CIS,Spanish Socialist Workers' Party,17.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20710,6 +20692,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-09-20,Ipsos/Henneo,Spanish Socialist Workers' Party,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-09-20,GAD3/La Vanguardia,Spanish Socialist Workers' Party,28.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-09-20,40dB/El País,Spanish Socialist Workers' Party,22.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2019-09-20,SocioMétrica/El Español,Spanish Socialist Workers' Party,18.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2019-09-21,NC Report/La Razón,Spanish Socialist Workers' Party,28.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-09-23,Celeste-Tel/eldiario.es,Spanish Socialist Workers' Party,29.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-09-25,GAD3/ABC,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-09-26,Sondaxe/La Voz de Galicia,Spanish Socialist Workers' Party,26.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20740,6 +20724,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-10-12,SocioMétrica/El Español,Spanish Socialist Workers' Party,27.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-12,Llorente & Cuenca,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-12,SocioMétrica/El Español,Spanish Socialist Workers' Party,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2019-10-13,CIS,Spanish Socialist Workers' Party,32.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-13,CIS,Spanish Socialist Workers' Party,19.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-13,CIS,Spanish Socialist Workers' Party,28.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-15,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20775,7 +20760,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-10-26,SocioMétrica/El Español,Spanish Socialist Workers' Party,25.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-26,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-26,KeyData/Público,Spanish Socialist Workers' Party,27.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2019-10-26,SocioMétrica/El Español,Spanish Socialist Workers' Party,17.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-27,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,26.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-27,SyM Consulting/EPDA,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-10-27,Sigma Dos/Antena 3,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20804,6 +20788,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2019-11-02,IMOP/El Confidencial,Spanish Socialist Workers' Party,28.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-11-02,Demoscopia Servicios/ESdiario,Spanish Socialist Workers' Party,27.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-11-02,SocioMétrica/El Español,Spanish Socialist Workers' Party,25.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2019-11-02,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,27.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-11-02,SW Demoscopia/infoLibre,Spanish Socialist Workers' Party,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-11-02,SocioMétrica/El Español,Spanish Socialist Workers' Party,16.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2019-11-03,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,27.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20916,7 +20901,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-01-06,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,24.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-01-13,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,24.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-01-13,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,24.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2022-01-13,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,14.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-01-14,IMOP/El Confidencial,Spanish Socialist Workers' Party,26.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-01-14,CIS (SocioMétrica),Spanish Socialist Workers' Party,26.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-01-14,InvyMark/laSexta,Spanish Socialist Workers' Party,27.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20936,10 +20920,9 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-02-10,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,26.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-12,CIS,Spanish Socialist Workers' Party,28.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-12,CIS,Spanish Socialist Workers' Party,21.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2022-02-14,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,24.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-16,GESOP/Prensa Ibérica,Spanish Socialist Workers' Party,26.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-16,Metroscopia,Spanish Socialist Workers' Party,29.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2022-02-16,GESOP/Prensa Ibérica,Spanish Socialist Workers' Party,39.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2022-02-16,GESOP/Prensa Ibérica,Spanish Socialist Workers' Party,17.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-17,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,25.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-17,GAD3/NIUS,Spanish Socialist Workers' Party,31.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-02-17,GAD3/NIUS,Spanish Socialist Workers' Party,33.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -20971,6 +20954,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-03-09,Hamalgama Métrica/Vozpópuli,Spanish Socialist Workers' Party,26.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-03-09,Metroscopia,Spanish Socialist Workers' Party,30.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-03-10,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,30.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2022-03-10,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,19.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-03-11,CIS,Spanish Socialist Workers' Party,31.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-03-11,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,27.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-03-11,InvyMark/laSexta,Spanish Socialist Workers' Party,28.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -21201,8 +21185,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2022-12-02,InvyMark/laSexta,Spanish Socialist Workers' Party,26.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-12-07,Hamalgama Métrica/Vozpópuli,Spanish Socialist Workers' Party,24.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-12-09,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2022-12-13,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,27.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2022-12-13,CIS,Spanish Socialist Workers' Party,10.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-12-13,Simple Lógica/elDiario.es,Spanish Socialist Workers' Party,16.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-12-14,CIS (SocioMétrica),Spanish Socialist Workers' Party,27.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-12-14,CIS,Spanish Socialist Workers' Party,22.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -21338,6 +21320,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-03-03,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-03-03,SocioMétrica/El Español,Spanish Socialist Workers' Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-03-03,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,25.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2023-03-03,SocioMétrica/El Español,Spanish Socialist Workers' Party,16.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-03-05,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,28.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-03-05,InvyMark/laSexta,Spanish Socialist Workers' Party,26.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-03-05,ElectoPanel/Electomanía,Spanish Socialist Workers' Party,27.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -21690,7 +21673,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2023-07-15,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,28.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-07-15,40dB/Prisa,Spanish Socialist Workers' Party,24.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-07-15,GESOP/Prensa Ibérica,Spanish Socialist Workers' Party,22.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2023-07-15,GAD3/ABC,Spanish Socialist Workers' Party,17.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-07-15,GESOP/Prensa Ibérica,Spanish Socialist Workers' Party,18.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-07-16,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2023-07-16,InvyMark/laSexta,Spanish Socialist Workers' Party,26.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -22099,10 +22081,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-04-27,40dB/Prisa,Spanish Socialist Workers' Party,29.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-04-27,40dB/Prisa,Spanish Socialist Workers' Party,23.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-04-30,CIS,Spanish Socialist Workers' Party,19.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2025-05-02,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,29.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2025-05-06,Celeste-Tel/Onda Cero,Spanish Socialist Workers' Party,28.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2025-05-06,CIS,Spanish Socialist Workers' Party,6.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2025-05-06,CIS (Logoslab),Spanish Socialist Workers' Party,6.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-05-08,CIS (Opina 360),Spanish Socialist Workers' Party,29.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-05-08,CIS,Spanish Socialist Workers' Party,22.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-05-09,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,29.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -22162,7 +22140,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-07-18,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,25.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-07-18,Hamalgama Métrica/Vozpópuli,Spanish Socialist Workers' Party,25.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-07-24,SocioMétrica/El Español,Spanish Socialist Workers' Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2025-07-24,SocioMétrica/El Español,Spanish Socialist Workers' Party,13.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-07-24,CIS,Spanish Socialist Workers' Party,20.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-07-25,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,25.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-07-30,Sigma Dos/El Mundo,Spanish Socialist Workers' Party,26.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -22179,6 +22156,9 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2025-09-05,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,26.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-09-05,Demoscopia y Servicios/esRadio,Spanish Socialist Workers' Party,26.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-09-06,NC Report/La Razón,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2025-09-06,CIS,Spanish Socialist Workers' Party,7.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2025-09-06,CIS (Logoslab),Spanish Socialist Workers' Party,7.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2025-09-06,CIS (Opina 360),Spanish Socialist Workers' Party,29.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-09-06,CIS,Spanish Socialist Workers' Party,23.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-09-09,Hamalgama Métrica/Vozpópuli,Spanish Socialist Workers' Party,25.8,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2025-09-11,GAD3/ABC,Spanish Socialist Workers' Party,26.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -22427,7 +22407,6 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-10-02,Data10/Okdiario,Spanish Socialist Workers' Party,26.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-10-03,SocioMétrica/El Español,Spanish Socialist Workers' Party,26.5,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-10-03,EM-Analytics/Electomanía,Spanish Socialist Workers' Party,26.9,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
-2026-10-03,SocioMétrica/El Español,Spanish Socialist Workers' Party,16.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-10-06,NC Report/La Razón,Spanish Socialist Workers' Party,25.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-10-06,CIS (Target Point),Spanish Socialist Workers' Party,27.6,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-10-06,CIS,Spanish Socialist Workers' Party,25.3,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
@@ -22625,6 +22604,8 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Spanish Socialist Workers' Party,25.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-11-24,GESOP/The Adelaide Review,Spanish Socialist Workers' Party,28.4,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2026-11-24,GESOP/The Adelaide Review,Spanish Socialist Workers' Party,25.7,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2026-11-25,GESOP/The Adelaide Review,Spanish Socialist Workers' Party,28.1,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
+2026-11-25,GESOP/The Adelaide Review,Spanish Socialist Workers' Party,27.2,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party
 2022-09-18,19.5,Sumar,0.6,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2022-11-26,40dB/Prisa,Sumar,8.0,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
 2023-03-11,CIS,Sumar,2.4,Left-wing,Progressivism Green politics Social democracy Democratic socialism,https://en.wikipedia.org/wiki/Sumar_(electoral_platform)
@@ -24872,6 +24853,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Together for Catalonia,1.4,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-11-23,Data10/Okdiario,Together for Catalonia,1.4,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2026-11-24,GESOP/The Adelaide Review,Together for Catalonia,1.4,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
+2026-11-25,GESOP/The Adelaide Review,Together for Catalonia,1.0,Big tent,Catalan independence Liberalism,https://en.wikipedia.org/wiki/Together_for_Catalonia_(2017)
 2016-05-06,Celeste-Tel/eldiario.es,Unidas Podemos,24.2,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidas_Podemos
 2016-05-07,NC Report/La Razón,Unidas Podemos,24.7,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidas_Podemos
 2016-05-12,NC Report/La Razón,Unidas Podemos,24.9,Left-wing to far-left,Democratic socialism Left-wing populism Republicanism Federalism,https://en.wikipedia.org/wiki/Unidas_Podemos
@@ -28921,10 +28903,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-04,40dB/Prisa,Vox,8.4,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-05,SW Demoscopia/La Séptima,Vox,17.2,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-05,NC Report/La Razón,Vox,19.3,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-2026-11-05,Ateneo del Dato/elDiario.es,Vox,18.6,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-2026-11-05,GAD3/Vocento,Vox,18.6,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-05,SW Demoscopia/La Séptima,Vox,15.6,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
-2026-11-05,GESOP,Vox,6.9,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-05,GAD3/Vocento,Vox,7.0,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-06,SW Demoscopia/La Séptima,Vox,17.2,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-06,Sigma Dos/El Mundo,Vox,19.4,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
@@ -29054,3 +29033,4 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-23,GESOP/The Adelaide Review,Vox,18.3,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-23,Data10/Okdiario,Vox,18.4,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
 2026-11-24,GESOP/The Adelaide Review,Vox,17.2,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
+2026-11-25,GESOP/The Adelaide Review,Vox,16.5,Far-right,Ultranationalism National conservatism Right-wing populism Political unitarism Euroscepticism,https://en.wikipedia.org/wiki/Vox_(political_party)
