@@ -58,6 +58,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-12,Forschungsgruppe Wahlen,#cite note-2,18.0,,,
 2026-11-16,Forsa,#cite note-2,25.0,,,
 2026-11-23,Forsa,#cite note-2,25.0,,,
+2026-11-26,Forschungsgruppe Wahlen,#cite note-2,16.0,,,
 2013-09-26,Forschungsgruppe Wahlen,Alliance 90/The Greens,7.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2013-09-26,Emnid,Alliance 90/The Greens,7.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2013-09-27,Forsa,Alliance 90/The Greens,8.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
@@ -3535,6 +3536,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,Alliance 90/The Greens,14.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-11-23,Forsa,Alliance 90/The Greens,16.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2026-11-23,INSA,Alliance 90/The Greens,14.5,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
+2026-11-26,Forschungsgruppe Wahlen,Alliance 90/The Greens,15.0,Centre-left,Green politics Social liberalism,https://en.wikipedia.org/wiki/Alliance_90/The_Greens
 2013-09-26,Forschungsgruppe Wahlen,Alternative for Germany,5.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2013-09-26,Emnid,Alternative for Germany,6.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2013-09-27,Forsa,Alternative for Germany,5.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
@@ -7017,6 +7019,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,Alternative for Germany,28.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-11-23,Forsa,Alternative for Germany,26.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2026-11-23,INSA,Alternative for Germany,28.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
+2026-11-26,Forschungsgruppe Wahlen,Alternative for Germany,28.0,Far-right,Völkisch nationalism Right-wing populism National conservatism Euroscepticism,https://en.wikipedia.org/wiki/Alternative_for_Germany
 2013-09-26,Forschungsgruppe Wahlen,CDU/CSU,43.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2013-09-26,Emnid,CDU/CSU,43.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2013-09-27,Forsa,CDU/CSU,42.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
@@ -10459,6 +10462,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,CDU/CSU,19.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-11-23,Forsa,CDU/CSU,21.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2026-11-23,INSA,CDU/CSU,19.5,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
+2026-11-26,Forschungsgruppe Wahlen,CDU/CSU,21.0,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/CDU/CSU
 2017-10-09,INSA,Christian Democratic Union of Germany,25.7,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany
 2017-10-16,INSA Archived 2017-11-18 at the Wayback Machine,Christian Democratic Union of Germany,26.7,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany
 2017-10-23,INSA Archived 2017-11-18 at the Wayback Machine,Christian Democratic Union of Germany,28.1,Centre-right,Christian democracy Conservatism ( German ),https://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany
@@ -14858,6 +14862,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,Die Linke,10.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-11-23,Forsa,Die Linke,11.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2026-11-23,INSA,Die Linke,9.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
+2026-11-26,Forschungsgruppe Wahlen,Die Linke,10.0,Left-wing,Democratic socialism Left-wing populism,https://en.wikipedia.org/wiki/The_Left_(Germany)
 2013-09-26,Forschungsgruppe Wahlen,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2013-09-26,Emnid,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2013-09-27,Forsa,Free Democratic Party,4.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
@@ -18320,6 +18325,7 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,Free Democratic Party,5.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-11-23,Forsa,Free Democratic Party,4.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2026-11-23,INSA,Free Democratic Party,5.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
+2026-11-26,Forschungsgruppe Wahlen,Free Democratic Party,3.0,Centre-right,Liberalism ( German ),https://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)
 2021-05-05,Infratest dimap,Free Voters,3.0,Centre-right,Regionalism Liberal conservatism,https://en.wikipedia.org/wiki/Free_Voters
 2021-05-20,Forschungsgruppe Wahlen,Free Voters,3.0,Centre-right,Regionalism Liberal conservatism,https://en.wikipedia.org/wiki/Free_Voters
 2021-06-09,Forschungsgruppe Wahlen,Free Voters,3.0,Centre-right,Regionalism Liberal conservatism,https://en.wikipedia.org/wiki/Free_Voters
@@ -22740,3 +22746,4 @@ date,pollster,party,polling_value,political_position,ideology,wikipedia_url
 2026-11-20,INSA,Social Democratic Party of Germany,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-11-23,Forsa,Social Democratic Party of Germany,13.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
 2026-11-23,INSA,Social Democratic Party of Germany,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
+2026-11-26,Forschungsgruppe Wahlen,Social Democratic Party of Germany,14.0,Centre-left,Social democracy,https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany
